@@ -1,0 +1,1458 @@
+[
+  {
+    "title": "Hellaro",
+    "slug": "hellaro",
+    "platform": "ShemarooMe",
+    "url": "https://www.shemaroome.com/gujarati-movies/hellaro",
+    "type": "subscription"
+  },
+  {
+    "title": "Hellaro",
+    "slug": "hellaro",
+    "platform": "YouTube Movies",
+    "url": "https://www.youtube.com/watch?v=HellaroOfficial",
+    "type": "rent"
+  },
+  {
+    "title": "Bey Yaar",
+    "slug": "bey-yaar",
+    "platform": "YouTube Movies",
+    "url": "https://www.youtube.com/watch?v=0bEYyAAr924",
+    "type": "free"
+  },
+  {
+    "title": "Chaal Jeevi Laiye!",
+    "slug": "chaal-jeevi-laiye",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0S8O469J46CGBU55406Z34P440",
+    "type": "subscription"
+  },
+  {
+    "title": "Kevi Rite Jaish",
+    "slug": "kevi-rite-jaish",
+    "platform": "YouTube Movies",
+    "url": "https://www.youtube.com/watch?v=0kEVgH7yW3k",
+    "type": "free"
+  },
+  {
+    "title": "Chhello Show (Last Film Show)",
+    "slug": "chhello-show",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/81643176",
+    "type": "subscription"
+  },
+  {
+    "title": "Vash",
+    "slug": "vash",
+    "platform": "ShemarooMe",
+    "url": "https://www.shemaroome.com/gujarati-movies/vash",
+    "type": "subscription"
+  },
+  {
+    "title": "3 Idiots",
+    "slug": "3-idiots",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/70121522",
+    "type": "subscription"
+  },
+  {
+    "title": "3 Idiots",
+    "slug": "3-idiots",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0STQJ439O3D17J4A9V2Q4M7P9E",
+    "type": "subscription"
+  },
+  {
+    "title": "Dangal",
+    "slug": "dangal",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/80166185",
+    "type": "subscription"
+  },
+  {
+    "title": "Dangal",
+    "slug": "dangal",
+    "platform": "Apple TV",
+    "url": "https://tv.apple.com/in/movie/dangal/umc.cmc.2moxc81q75b4r831j9yfq3s5r",
+    "type": "rent"
+  },
+  {
+    "title": "Lagaan: Once Upon a Time in India",
+    "slug": "lagaan",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/60022163",
+    "type": "subscription"
+  },
+  {
+    "title": "Taare Zameen Par",
+    "slug": "taare-zameen-par",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/70087087",
+    "type": "subscription"
+  },
+  {
+    "title": "Sholay",
+    "slug": "sholay",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0SHOLAY_1975",
+    "type": "subscription"
+  },
+  {
+    "title": "Dilwale Dulhania Le Jayenge",
+    "slug": "ddlj",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0QJCGV0R7Z1Q6A1Z43B17G9M8E",
+    "type": "subscription"
+  },
+  {
+    "title": "Swades",
+    "slug": "swades",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/70019491",
+    "type": "subscription"
+  },
+  {
+    "title": "Gangs of Wasseypur",
+    "slug": "gangs-of-wasseypur",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/70259074",
+    "type": "subscription"
+  },
+  {
+    "title": "Queen",
+    "slug": "queen",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/80006240",
+    "type": "subscription"
+  },
+  {
+    "title": "Andhadhun",
+    "slug": "andhadhun",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/81039381",
+    "type": "subscription"
+  },
+  {
+    "title": "Andhadhun",
+    "slug": "andhadhun",
+    "platform": "JioCinema",
+    "url": "https://www.jiocinema.com/movies/andhadhun/3763860",
+    "type": "subscription"
+  },
+  {
+    "title": "Zindagi Na Milegi Dobara",
+    "slug": "znmd",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/70202336",
+    "type": "subscription"
+  },
+  {
+    "title": "Zindagi Na Milegi Dobara",
+    "slug": "znmd",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0Q6A1N3E1R9D8K5Z4P2M7T0Y8L",
+    "type": "subscription"
+  },
+  {
+    "title": "Barfi!",
+    "slug": "barfi",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/70258071",
+    "type": "subscription"
+  },
+  {
+    "title": "Tumbbad",
+    "slug": "tumbbad",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0P8X91P92R4Y8A6Q5K7Z3L2M1N",
+    "type": "subscription"
+  },
+  {
+    "title": "Piku",
+    "slug": "piku",
+    "platform": "Sony LIV",
+    "url": "https://www.sonyliv.com/movies/piku-1000000000",
+    "type": "subscription"
+  },
+  {
+    "title": "Bajrangi Bhaijaan",
+    "slug": "bajrangi-bhaijaan",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/bajrangi-bhaijaan/1000071375",
+    "type": "subscription"
+  },
+  {
+    "title": "Chak De! India",
+    "slug": "chak-de-india",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0N6A9Q5L7R8Z2K4P1M3T8V5X9Y",
+    "type": "subscription"
+  },
+  {
+    "title": "PK",
+    "slug": "pk",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/80035035",
+    "type": "subscription"
+  },
+  {
+    "title": "PK",
+    "slug": "pk",
+    "platform": "Sony LIV",
+    "url": "https://www.sonyliv.com/movies/pk-1000000001",
+    "type": "subscription"
+  },
+  {
+    "title": "Stree",
+    "slug": "stree",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/stree/1000223594",
+    "type": "subscription"
+  },
+  {
+    "title": "Stree",
+    "slug": "stree",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/81113920",
+    "type": "subscription"
+  },
+  {
+    "title": "12th Fail",
+    "slug": "12th-fail",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/12th-fail/1260161048",
+    "type": "subscription"
+  },
+  {
+    "title": "Drishyam",
+    "slug": "drishyam-hindi",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/drishyam/1000074244",
+    "type": "subscription"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "slug": "shawshank-redemption",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/70005379",
+    "type": "subscription"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "slug": "shawshank-redemption",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0SHAWSHANK_REDEMPTION",
+    "type": "rent"
+  },
+  {
+    "title": "The Godfather",
+    "slug": "godfather",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0R5P8T9K2Q4M1N7Z6X3L8A5Y2W",
+    "type": "subscription"
+  },
+  {
+    "title": "The Godfather",
+    "slug": "godfather",
+    "platform": "JioCinema",
+    "url": "https://www.jiocinema.com/movies/the-godfather/3763865",
+    "type": "subscription"
+  },
+  {
+    "title": "The Dark Knight",
+    "slug": "the-dark-knight",
+    "platform": "JioCinema",
+    "url": "https://www.jiocinema.com/movies/the-dark-knight/3763784",
+    "type": "subscription"
+  },
+  {
+    "title": "The Dark Knight",
+    "slug": "the-dark-knight",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/70079583",
+    "type": "subscription"
+  },
+  {
+    "title": "Inception",
+    "slug": "inception",
+    "platform": "JioCinema",
+    "url": "https://www.jiocinema.com/movies/inception/3763801",
+    "type": "subscription"
+  },
+  {
+    "title": "Inception",
+    "slug": "inception",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/70131314",
+    "type": "subscription"
+  },
+  {
+    "title": "Interstellar",
+    "slug": "interstellar",
+    "platform": "JioCinema",
+    "url": "https://www.jiocinema.com/movies/interstellar/3763806",
+    "type": "subscription"
+  },
+  {
+    "title": "Interstellar",
+    "slug": "interstellar",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0INTERSTELLAR_2014",
+    "type": "rent"
+  },
+  {
+    "title": "Pulp Fiction",
+    "slug": "pulp-fiction",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0PULP_FICTION_1994",
+    "type": "subscription"
+  },
+  {
+    "title": "Forrest Gump",
+    "slug": "forrest-gump",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0FORREST_GUMP_1994",
+    "type": "subscription"
+  },
+  {
+    "title": "The Matrix",
+    "slug": "the-matrix",
+    "platform": "JioCinema",
+    "url": "https://www.jiocinema.com/movies/the-matrix/3763795",
+    "type": "subscription"
+  },
+  {
+    "title": "The Matrix",
+    "slug": "the-matrix",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/22895117",
+    "type": "subscription"
+  },
+  {
+    "title": "Gladiator",
+    "slug": "gladiator",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0GLADIATOR_2000",
+    "type": "subscription"
+  },
+  {
+    "title": "Titanic",
+    "slug": "titanic",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/titanic/1770001166",
+    "type": "subscription"
+  },
+  {
+    "title": "Oppenheimer",
+    "slug": "oppenheimer",
+    "platform": "JioCinema",
+    "url": "https://www.jiocinema.com/movies/oppenheimer/3929420",
+    "type": "subscription"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "slug": "avengers-endgame",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/avengers-endgame/1260013556",
+    "type": "subscription"
+  },
+  {
+    "title": "Jurassic Park",
+    "slug": "jurassic-park",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0JURASSIC_PARK_1993",
+    "type": "subscription"
+  },
+  {
+    "title": "Jurassic Park",
+    "slug": "jurassic-park",
+    "platform": "JioCinema",
+    "url": "https://www.jiocinema.com/movies/jurassic-park/3763870",
+    "type": "subscription"
+  },
+  {
+    "title": "Fight Club",
+    "slug": "fight-club",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/fight-club/1770001160",
+    "type": "subscription"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "slug": "lotr-return-of-the-king",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0LOTR_ROTK_2003",
+    "type": "subscription"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "slug": "lotr-return-of-the-king",
+    "platform": "JioCinema",
+    "url": "https://www.jiocinema.com/movies/the-lord-of-the-rings-the-return-of-the-king/3763875",
+    "type": "subscription"
+  },
+  {
+    "title": "Whiplash",
+    "slug": "whiplash",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/70299287",
+    "type": "subscription"
+  },
+  {
+    "title": "Dune: Part Two",
+    "slug": "dune-part-two",
+    "platform": "JioCinema",
+    "url": "https://www.jiocinema.com/movies/dune-part-two/3983210",
+    "type": "subscription"
+  },
+  {
+    "title": "Dune: Part Two",
+    "slug": "dune-part-two",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0DUNE_PART_TWO",
+    "type": "rent"
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "slug": "spider-man-spider-verse",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/81002747",
+    "type": "subscription"
+  },
+  {
+    "title": "Nayakan",
+    "slug": "nayakan",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0NAYAKAN_1987",
+    "type": "subscription"
+  },
+  {
+    "title": "Anbe Sivam",
+    "slug": "anbe-sivam",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/70020336",
+    "type": "subscription"
+  },
+  {
+    "title": "Super Deluxe",
+    "slug": "super-deluxe",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/81128589",
+    "type": "subscription"
+  },
+  {
+    "title": "Asuran",
+    "slug": "asuran",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0ASURAN_2019",
+    "type": "subscription"
+  },
+  {
+    "title": "Soorarai Pottru",
+    "slug": "soorarai-pottru",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0SOORARAI_POTTRU",
+    "type": "subscription"
+  },
+  {
+    "title": "Jai Bhim",
+    "slug": "jai-bhim",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0JAI_BHIM_2021",
+    "type": "subscription"
+  },
+  {
+    "title": "Vikram",
+    "slug": "vikram",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/vikram/1260105315",
+    "type": "subscription"
+  },
+  {
+    "title": "Kaithi",
+    "slug": "kaithi",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/kaithi/1000244673",
+    "type": "subscription"
+  },
+  {
+    "title": "Ponniyin Selvan: I",
+    "slug": "ponniyin-selvan-1",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0PONNIYIN_SELVAN_1",
+    "type": "subscription"
+  },
+  {
+    "title": "Leo",
+    "slug": "leo-tamil",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/81639323",
+    "type": "subscription"
+  },
+  {
+    "title": "RRR",
+    "slug": "rrr",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/81476453",
+    "type": "subscription"
+  },
+  {
+    "title": "RRR",
+    "slug": "rrr",
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/movies/details/rrr/0-0-1z5166038",
+    "type": "subscription"
+  },
+  {
+    "title": "Baahubali: The Beginning",
+    "slug": "baahubali-1",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/80080649",
+    "type": "subscription"
+  },
+  {
+    "title": "Baahubali: The Beginning",
+    "slug": "baahubali-1",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/baahubali-the-beginning/1000074211",
+    "type": "subscription"
+  },
+  {
+    "title": "Baahubali 2: The Conclusion",
+    "slug": "baahubali-2",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/80203996",
+    "type": "subscription"
+  },
+  {
+    "title": "Baahubali 2: The Conclusion",
+    "slug": "baahubali-2",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/baahubali-2-the-conclusion/1770016462",
+    "type": "subscription"
+  },
+  {
+    "title": "Jersey",
+    "slug": "jersey-telugu",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/jersey/1000236173",
+    "type": "subscription"
+  },
+  {
+    "title": "Mahanati",
+    "slug": "mahanati",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0MAHANATI_2018",
+    "type": "subscription"
+  },
+  {
+    "title": "Pushpa: The Rise",
+    "slug": "pushpa-the-rise",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0PUSHPA_THE_RISE",
+    "type": "subscription"
+  },
+  {
+    "title": "Sita Ramam",
+    "slug": "sita-ramam",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0SITA_RAMAM_2022",
+    "type": "subscription"
+  },
+  {
+    "title": "Sita Ramam",
+    "slug": "sita-ramam",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/sita-ramam/1260114995",
+    "type": "subscription"
+  },
+  {
+    "title": "Kalki 2898 AD",
+    "slug": "kalki-2898-ad",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/81729402",
+    "type": "subscription"
+  },
+  {
+    "title": "Kalki 2898 AD",
+    "slug": "kalki-2898-ad",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0KALKI_2898_AD",
+    "type": "subscription"
+  },
+  {
+    "title": "Drishyam",
+    "slug": "drishyam-malayalam",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/drishyam/1000053912",
+    "type": "subscription"
+  },
+  {
+    "title": "Kumbalangi Nights",
+    "slug": "kumbalangi-nights",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0KUMBALANGI_NIGHTS",
+    "type": "subscription"
+  },
+  {
+    "title": "Premam",
+    "slug": "premam",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/premam/1000081498",
+    "type": "subscription"
+  },
+  {
+    "title": "Bangalore Days",
+    "slug": "bangalore-days",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/bangalore-days/1000034440",
+    "type": "subscription"
+  },
+  {
+    "title": "Manjummel Boys",
+    "slug": "manjummel-boys",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/manjummel-boys/1271295982",
+    "type": "subscription"
+  },
+  {
+    "title": "Aavesham",
+    "slug": "aavesham",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0AAVESHAM_2024",
+    "type": "subscription"
+  },
+  {
+    "title": "The Great Indian Kitchen",
+    "slug": "the-great-indian-kitchen",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0GREAT_INDIAN_KITCHEN",
+    "type": "subscription"
+  },
+  {
+    "title": "Lucifer",
+    "slug": "lucifer-malayalam",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0LUCIFER_2019",
+    "type": "subscription"
+  },
+  {
+    "title": "Bramayugam",
+    "slug": "bramayugam",
+    "platform": "Sony LIV",
+    "url": "https://www.sonyliv.com/movies/bramayugam-1000263625",
+    "type": "subscription"
+  },
+  {
+    "title": "Minnal Murali",
+    "slug": "minnal-murali",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/81497362",
+    "type": "subscription"
+  },
+  {
+    "title": "K.G.F: Chapter 1",
+    "slug": "kgf-chapter-1",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0KGF_CHAPTER_1",
+    "type": "subscription"
+  },
+  {
+    "title": "K.G.F: Chapter 1",
+    "slug": "kgf-chapter-1",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/kgf-chapter-1/1000224155",
+    "type": "subscription"
+  },
+  {
+    "title": "K.G.F: Chapter 2",
+    "slug": "kgf-chapter-2",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0KGF_CHAPTER_2",
+    "type": "subscription"
+  },
+  {
+    "title": "Kantara",
+    "slug": "kantara",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/81656709",
+    "type": "subscription"
+  },
+  {
+    "title": "Kantara",
+    "slug": "kantara",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0KANTARA_2022",
+    "type": "subscription"
+  },
+  {
+    "title": "777 Charlie",
+    "slug": "777-charlie",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0777_CHARLIE_2022",
+    "type": "subscription"
+  },
+  {
+    "title": "777 Charlie",
+    "slug": "777-charlie",
+    "platform": "JioCinema",
+    "url": "https://www.jiocinema.com/movies/777-charlie/3763880",
+    "type": "subscription"
+  },
+  {
+    "title": "Qismat",
+    "slug": "qismat",
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/movies/details/qismat/0-0-16147",
+    "type": "subscription"
+  },
+  {
+    "title": "Sairat",
+    "slug": "sairat",
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/movies/details/sairat/0-0-2826",
+    "type": "subscription"
+  },
+  {
+    "title": "Court",
+    "slug": "court-marathi",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/80044574",
+    "type": "subscription"
+  },
+  {
+    "title": "Natsamrat",
+    "slug": "natsamrat",
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/movies/details/natsamrat/0-0-2831",
+    "type": "subscription"
+  },
+  {
+    "title": "Sharato Lagu",
+    "slug": "sharato-lagu",
+    "platform": "ShemarooMe",
+    "url": "https://www.shemaroome.com/gujarati-movies/sharato-lagu",
+    "type": "subscription"
+  },
+  {
+    "title": "Golkeri",
+    "slug": "golkeri",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0GOLKERI_2020",
+    "type": "subscription"
+  },
+  {
+    "title": "Gujjubhai - Most Wanted",
+    "slug": "gujjubhai-most-wanted",
+    "platform": "YouTube Movies",
+    "url": "https://www.youtube.com/watch?v=GujjubhaiMostWanted",
+    "type": "rent"
+  },
+  {
+    "title": "Chor Bani Thangaat Kare",
+    "slug": "chor-bani-thangaat-kare",
+    "platform": "ShemarooMe",
+    "url": "https://www.shemaroome.com/gujarati-movies/chor-bani-thangaat-kare",
+    "type": "subscription"
+  },
+  {
+    "title": "Ventilator",
+    "slug": "ventilator-gujarati",
+    "platform": "ShemarooMe",
+    "url": "https://www.shemaroome.com/gujarati-movies/ventilator",
+    "type": "subscription"
+  },
+  {
+    "title": "Article 15",
+    "slug": "article-15",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/81154455",
+    "type": "subscription"
+  },
+  {
+    "title": "Badhaai Ho",
+    "slug": "badhaai-ho",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/badhaai-ho/1000224151",
+    "type": "subscription"
+  },
+  {
+    "title": "Haider",
+    "slug": "haider",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/80015787",
+    "type": "subscription"
+  },
+  {
+    "title": "Haider",
+    "slug": "haider",
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/movies/details/haider/0-0-haider",
+    "type": "subscription"
+  },
+  {
+    "title": "Kahaani",
+    "slug": "kahaani",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0KAHAANI_2012",
+    "type": "subscription"
+  },
+  {
+    "title": "Kahaani",
+    "slug": "kahaani",
+    "platform": "JioCinema",
+    "url": "https://www.jiocinema.com/movies/kahaani/3763830",
+    "type": "subscription"
+  },
+  {
+    "title": "Gully Boy",
+    "slug": "gully-boy",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0GULLY_BOY_2019",
+    "type": "subscription"
+  },
+  {
+    "title": "Masaan",
+    "slug": "masaan",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/masaan/1000074249",
+    "type": "subscription"
+  },
+  {
+    "title": "Masaan",
+    "slug": "masaan",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/80057700",
+    "type": "subscription"
+  },
+  {
+    "title": "Udaan",
+    "slug": "udaan",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/70139527",
+    "type": "subscription"
+  },
+  {
+    "title": "Bhaag Milkha Bhaag",
+    "slug": "bhaag-milkha-bhaag",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/bhaag-milkha-bhaag/1000034445",
+    "type": "subscription"
+  },
+  {
+    "title": "Jab We Met",
+    "slug": "jab-we-met",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0JAB_WE_MET_2007",
+    "type": "subscription"
+  },
+  {
+    "title": "Jab We Met",
+    "slug": "jab-we-met",
+    "platform": "JioCinema",
+    "url": "https://www.jiocinema.com/movies/jab-we-met/3763835",
+    "type": "subscription"
+  },
+  {
+    "title": "Rockstar",
+    "slug": "rockstar",
+    "platform": "JioCinema",
+    "url": "https://www.jiocinema.com/movies/rockstar/3763809",
+    "type": "subscription"
+  },
+  {
+    "title": "Rockstar",
+    "slug": "rockstar",
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/movies/details/rockstar/0-0-rockstar",
+    "type": "subscription"
+  },
+  {
+    "title": "Sardar Udham",
+    "slug": "sardar-udham",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0SARDAR_UDHAM_2021",
+    "type": "subscription"
+  },
+  {
+    "title": "Special 26",
+    "slug": "special-26",
+    "platform": "JioCinema",
+    "url": "https://www.jiocinema.com/movies/special-26/3763812",
+    "type": "subscription"
+  },
+  {
+    "title": "Special 26",
+    "slug": "special-26",
+    "platform": "YouTube Movies",
+    "url": "https://www.youtube.com/watch?v=Special26Movie",
+    "type": "rent"
+  },
+  {
+    "title": "A Wednesday!",
+    "slug": "a-wednesday",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/70107412",
+    "type": "subscription"
+  },
+  {
+    "title": "Laila Majnu",
+    "slug": "laila-majnu",
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/movies/details/laila-majnu/0-0-16140",
+    "type": "subscription"
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "slug": "the-wolf-of-wall-street",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0WOLF_WALL_STREET",
+    "type": "subscription"
+  },
+  {
+    "title": "Goodfellas",
+    "slug": "goodfellas",
+    "platform": "JioCinema",
+    "url": "https://www.jiocinema.com/movies/goodfellas/3763840",
+    "type": "subscription"
+  },
+  {
+    "title": "Goodfellas",
+    "slug": "goodfellas",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0GOODFELLAS_1990",
+    "type": "rent"
+  },
+  {
+    "title": "Schindler's List",
+    "slug": "schindlers-list",
+    "platform": "JioCinema",
+    "url": "https://www.jiocinema.com/movies/schindlers-list/3763818",
+    "type": "subscription"
+  },
+  {
+    "title": "Schindler's List",
+    "slug": "schindlers-list",
+    "platform": "Apple TV",
+    "url": "https://tv.apple.com/in/movie/schindlers-list/umc.cmc.3y4u9712z8s9",
+    "type": "rent"
+  },
+  {
+    "title": "Spirited Away",
+    "slug": "spirited-away",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/60023642",
+    "type": "subscription"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "slug": "the-silence-of-the-lambs",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0SILENCE_OF_THE_LAMBS",
+    "type": "subscription"
+  },
+  {
+    "title": "Saving Private Ryan",
+    "slug": "saving-private-ryan",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/21836811",
+    "type": "subscription"
+  },
+  {
+    "title": "Saving Private Ryan",
+    "slug": "saving-private-ryan",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0SAVING_PRIVATE_RYAN",
+    "type": "subscription"
+  },
+  {
+    "title": "Se7en",
+    "slug": "se7en",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/950149",
+    "type": "subscription"
+  },
+  {
+    "title": "Se7en",
+    "slug": "se7en",
+    "platform": "JioCinema",
+    "url": "https://www.jiocinema.com/movies/se7en/3763845",
+    "type": "subscription"
+  },
+  {
+    "title": "Spider-Man: Across the Spider-Verse",
+    "slug": "spider-man-across-the-spider-verse",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/81594935",
+    "type": "subscription"
+  },
+  {
+    "title": "Spider-Man: Across the Spider-Verse",
+    "slug": "spider-man-across-the-spider-verse",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0SPIDER_VERSE_2",
+    "type": "rent"
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "slug": "the-grand-budapest-hotel",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/the-grand-budapest-hotel/1770001168",
+    "type": "subscription"
+  },
+  {
+    "title": "La La Land",
+    "slug": "la-la-land",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0LALALAND_2016",
+    "type": "rent"
+  },
+  {
+    "title": "La La Land",
+    "slug": "la-la-land",
+    "platform": "Apple TV",
+    "url": "https://tv.apple.com/in/movie/la-la-land/umc.cmc.2418a11b69f8",
+    "type": "rent"
+  },
+  {
+    "title": "No Country for Old Men",
+    "slug": "no-country-for-old-men",
+    "platform": "JioCinema",
+    "url": "https://www.jiocinema.com/movies/no-country-for-old-men/3763850",
+    "type": "subscription"
+  },
+  {
+    "title": "No Country for Old Men",
+    "slug": "no-country-for-old-men",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0NO_COUNTRY_FOR_OLD_MEN",
+    "type": "rent"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "slug": "mad-max-fury-road",
+    "platform": "JioCinema",
+    "url": "https://www.jiocinema.com/movies/mad-max-fury-road/3763820",
+    "type": "subscription"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "slug": "mad-max-fury-road",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/80025642",
+    "type": "subscription"
+  },
+  {
+    "title": "Coco",
+    "slug": "coco",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/coco/1260010034",
+    "type": "subscription"
+  },
+  {
+    "title": "Parasite",
+    "slug": "parasite",
+    "platform": "Sony LIV",
+    "url": "https://www.sonyliv.com/movies/parasite-1000000000",
+    "type": "subscription"
+  },
+  {
+    "title": "Parasite",
+    "slug": "parasite",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0PARASITE_2019",
+    "type": "rent"
+  },
+  {
+    "title": "Thani Oruvan",
+    "slug": "thani-oruvan",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/thani-oruvan/1000080645",
+    "type": "subscription"
+  },
+  {
+    "title": "Vada Chennai",
+    "slug": "vada-chennai",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/vada-chennai/1000223700",
+    "type": "subscription"
+  },
+  {
+    "title": "Pariyerum Perumal",
+    "slug": "pariyerum-perumal",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/pariyerum-perumal/1000223685",
+    "type": "subscription"
+  },
+  {
+    "title": "Karnan",
+    "slug": "karnan",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0KARNAN_2021",
+    "type": "subscription"
+  },
+  {
+    "title": "Master",
+    "slug": "master-tamil",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0MASTER_2021",
+    "type": "subscription"
+  },
+  {
+    "title": "Ratsasan",
+    "slug": "ratsasan",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/ratsasan/1000223690",
+    "type": "subscription"
+  },
+  {
+    "title": "Jigarthanda",
+    "slug": "jigarthanda",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/jigarthanda/1000034449",
+    "type": "subscription"
+  },
+  {
+    "title": "Gargi",
+    "slug": "gargi",
+    "platform": "Sony LIV",
+    "url": "https://www.sonyliv.com/movies/gargi-1000181598",
+    "type": "subscription"
+  },
+  {
+    "title": "Viduthalai Part 1",
+    "slug": "viduthalai-part-1",
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/movies/details/viduthalai-part-1/0-0-1z5353592",
+    "type": "subscription"
+  },
+  {
+    "title": "Rangasthalam",
+    "slug": "rangasthalam",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/rangasthalam/1000213791",
+    "type": "subscription"
+  },
+  {
+    "title": "Rangasthalam",
+    "slug": "rangasthalam",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0RANGASTHALAM_2018",
+    "type": "subscription"
+  },
+  {
+    "title": "Ala Vaikunthapurramuloo",
+    "slug": "ala-vaikunthapurramuloo",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/81254340",
+    "type": "subscription"
+  },
+  {
+    "title": "Agent Sai Srinivasa Athreya",
+    "slug": "agent-sai-srinivasa-athreya",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0AGENT_SAI_SRINIVASA_ATHREYA",
+    "type": "subscription"
+  },
+  {
+    "title": "Brochevarevarura",
+    "slug": "brochevarevarura",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0BROCHEVAREVARURA_2019",
+    "type": "subscription"
+  },
+  {
+    "title": "Mathu Vadalara",
+    "slug": "mathu-vadalara",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/81242580",
+    "type": "subscription"
+  },
+  {
+    "title": "Evaru",
+    "slug": "evaru",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0EVARU_2019",
+    "type": "subscription"
+  },
+  {
+    "title": "Major",
+    "slug": "major-telugu",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/81242575",
+    "type": "subscription"
+  },
+  {
+    "title": "Hanu-Man",
+    "slug": "hanu-man",
+    "platform": "JioCinema",
+    "url": "https://www.jiocinema.com/movies/hanu-man/3941320",
+    "type": "subscription"
+  },
+  {
+    "title": "Hanu-Man",
+    "slug": "hanu-man",
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/movies/details/hanu-man/0-0-1z5530182",
+    "type": "subscription"
+  },
+  {
+    "title": "Balagam",
+    "slug": "balagam",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0BALAGAM_2023",
+    "type": "subscription"
+  },
+  {
+    "title": "Premalu",
+    "slug": "premalu",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/premalu/1271286987",
+    "type": "subscription"
+  },
+  {
+    "title": "Neru",
+    "slug": "neru",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/neru/1260163351",
+    "type": "subscription"
+  },
+  {
+    "title": "Kaathal – The Core",
+    "slug": "kaathal-the-core",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0KAATHAL_THE_CORE",
+    "type": "subscription"
+  },
+  {
+    "title": "Kishkindha Kaandam",
+    "slug": "kishkindha-kaandam",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/kishkindha-kaandam/1271319082",
+    "type": "subscription"
+  },
+  {
+    "title": "Thondimuthalum Driksakshiyum",
+    "slug": "thondimuthalum-driksakshiyum",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/thondimuthalum-driksakshiyum/1000213795",
+    "type": "subscription"
+  },
+  {
+    "title": "Maheshinte Prathikaaram",
+    "slug": "maheshinte-prathikaaram",
+    "platform": "ManoramaMAX",
+    "url": "https://www.manoramamax.com/movies/maheshinte-prathikaaram",
+    "type": "subscription"
+  },
+  {
+    "title": "Virus",
+    "slug": "virus-malayalam",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0VIRUS_2019",
+    "type": "subscription"
+  },
+  {
+    "title": "Take Off",
+    "slug": "take-off-malayalam",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/take-off/1000174245",
+    "type": "subscription"
+  },
+  {
+    "title": "Iratta",
+    "slug": "iratta",
+    "platform": "Netflix",
+    "url": "https://www.netflix.com/title/81673892",
+    "type": "subscription"
+  },
+  {
+    "title": "Romancham",
+    "slug": "romancham",
+    "platform": "Disney+ Hotstar",
+    "url": "https://www.hotstar.com/movies/romancham/1260136214",
+    "type": "subscription"
+  },
+  {
+    "title": "Sapta Saagaradaache Ello – Side A",
+    "slug": "sapta-saagaradaache-ello-side-a",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0SAPTA_SAAGARADAACHE_ELLO_A",
+    "type": "subscription"
+  },
+  {
+    "title": "Sapta Saagaradaache Ello – Side B",
+    "slug": "sapta-saagaradaache-ello-side-b",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0SAPTA_SAAGARADAACHE_ELLO_B",
+    "type": "subscription"
+  },
+  {
+    "title": "Garuda Gamana Vrishabha Vahana",
+    "slug": "garuda-gamana-vrishabha-vahana",
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/movies/details/garuda-gamana-vrishabha-vahana/0-0-1z579720",
+    "type": "subscription"
+  },
+  {
+    "title": "Dia",
+    "slug": "dia-kannada",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0DIA_2020",
+    "type": "subscription"
+  },
+  {
+    "title": "Kavaludaari",
+    "slug": "kavaludaari",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0KAVALUDAARI_2019",
+    "type": "subscription"
+  },
+  {
+    "title": "Sufna",
+    "slug": "sufna",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0SUFNA_2020",
+    "type": "subscription"
+  },
+  {
+    "title": "Kali Jotta",
+    "slug": "kali-jotta",
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/movies/details/kali-jotta/0-0-1z5353590",
+    "type": "subscription"
+  },
+  {
+    "title": "Apur Sansar",
+    "slug": "apur-sansar",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0APUR_SANSAR_1959",
+    "type": "rent"
+  },
+  {
+    "title": "Aparajito",
+    "slug": "aparajito",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0APARAJITO_1956",
+    "type": "rent"
+  },
+  {
+    "title": "Ballabhpurer Roopkotha",
+    "slug": "ballabhpurer-roopkotha",
+    "platform": "Hoichoi",
+    "url": "https://www.hoichoi.tv/movies/ballabhpurer-roopkotha",
+    "type": "subscription"
+  },
+  {
+    "title": "Aparajito (The Undefeated)",
+    "slug": "aparajito-2022",
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/movies/details/aparajito/0-0-1z5166035",
+    "type": "subscription"
+  },
+  {
+    "title": "Natrang",
+    "slug": "natrang",
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/movies/details/natrang/0-0-2828",
+    "type": "subscription"
+  },
+  {
+    "title": "Kaksparsh",
+    "slug": "kaksparsh",
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/movies/details/kaksparsh/0-0-2830",
+    "type": "subscription"
+  },
+  {
+    "title": "Fandry",
+    "slug": "fandry",
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/movies/details/fandry/0-0-2829",
+    "type": "subscription"
+  },
+  {
+    "title": "Elizabeth Ekadashi",
+    "slug": "elizabeth-ekadashi",
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/movies/details/elizabeth-ekadashi/0-0-2832",
+    "type": "subscription"
+  },
+  {
+    "title": "Katyar Kaljat Ghusali",
+    "slug": "katyar-kaljat-ghusali",
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/movies/details/katyar-kaljat-ghusali/0-0-2827",
+    "type": "subscription"
+  },
+  {
+    "title": "Anandi Gopal",
+    "slug": "anandi-gopal",
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/movies/details/anandi-gopal/0-0-2835",
+    "type": "subscription"
+  },
+  {
+    "title": "Jhimma",
+    "slug": "jhimma",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0JHIMMA_2021",
+    "type": "subscription"
+  },
+  {
+    "title": "Vaalvi",
+    "slug": "vaalvi",
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/movies/details/vaalvi/0-0-1z5353594",
+    "type": "subscription"
+  },
+  {
+    "title": "Past Lives",
+    "slug": "past-lives",
+    "platform": "Lionsgate Play",
+    "url": "https://www.lionsgateplay.com/movies/past-lives",
+    "type": "subscription"
+  },
+  {
+    "title": "Past Lives",
+    "slug": "past-lives",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0PAST_LIVES_2023",
+    "type": "rent"
+  },
+  {
+    "title": "Anatomy of a Fall",
+    "slug": "anatomy-of-a-fall",
+    "platform": "Sony LIV",
+    "url": "https://www.sonyliv.com/movies/anatomy-of-a-fall-1000263628",
+    "type": "subscription"
+  },
+  {
+    "title": "Anatomy of a Fall",
+    "slug": "anatomy-of-a-fall",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0ANATOMY_OF_A_FALL",
+    "type": "rent"
+  },
+  {
+    "title": "Drive My Car",
+    "slug": "drive-my-car",
+    "platform": "MUBI",
+    "url": "https://mubi.com/films/drive-my-car",
+    "type": "subscription"
+  },
+  {
+    "title": "DAMaN",
+    "slug": "daman-odia",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0DAMAN_2022",
+    "type": "subscription"
+  },
+  {
+    "title": "The Zone of Interest",
+    "slug": "the-zone-of-interest",
+    "platform": "Amazon Prime Video",
+    "url": "https://www.primevideo.com/detail/0ZONE_OF_INTEREST",
+    "type": "rent"
+  }
+]
