@@ -91,6 +91,18 @@ export function createMovieSchema(movie: Movie) {
     schema.duration = `PT${movie.runtime}M`;
   }
 
+  // Include trailer if available
+  if (movie.trailerYoutubeId) {
+    schema.trailer = {
+      "@type": "VideoObject",
+      name: `${movie.title} (${movie.releaseYear}) Official Trailer`,
+      embedUrl: `https://www.youtube.com/embed/${movie.trailerYoutubeId}`,
+      thumbnailUrl: `https://img.youtube.com/vi/${movie.trailerYoutubeId}/hqdefault.jpg`,
+      description: `Watch the official trailer for ${movie.title} (${movie.releaseYear})`,
+      uploadDate: `${movie.releaseYear}-01-01`,
+    };
+  }
+
   // Include aggregateRating ONLY when a genuine, verified IMDb rating is available
   if (typeof movie.imdbRating === "number" && movie.imdbRating > 0) {
     schema.aggregateRating = {

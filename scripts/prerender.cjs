@@ -15,67 +15,8 @@ const template = fs.readFileSync(TEMPLATE_PATH, "utf-8");
 
 // Load movies data
 const moviesFilePath = path.join(__dirname, "../src/data/movies.ts");
-const moviesContent = fs.readFileSync(moviesFilePath, "utf-8");
-
-// Safe extraction of movies
-const movieBlocks = moviesContent.split(/\{\s*"id":/g).slice(1);
-const movies = [];
-
-for (const block of movieBlocks) {
-  const getField = (key) => {
-    const match = new RegExp(`"${key}":\\s*("(?:\\\\.|[^"\\\\])*"|\\d+|true|false|\\[[\\s\\S]*?\\])`).exec(block);
-    if (!match) return null;
-    try {
-      return JSON.parse(match[1]);
-    } catch {
-      return match[1].replace(/^"|"$/g, "");
-    }
-  };
-
-  const id = getField("id");
-  const slug = getField("slug");
-  const title = getField("title");
-  const releaseYear = getField("releaseYear");
-  const language = getField("language");
-  const industry = getField("industry");
-  const director = getField("director");
-  const description = getField("description");
-  const poster = getField("poster");
-  const runtime = getField("runtime");
-  const imdbRating = getField("imdbRating");
-  const genres = getField("genres") || [];
-  const cast = getField("cast") || [];
-
-  // Extract watchOptions
-  const watchOptionsMatch = /"watchOptions":\s*(\[[^\]]*?\])/s.exec(block);
-  let watchOptions = [];
-  if (watchOptionsMatch) {
-    try {
-      watchOptions = JSON.parse(watchOptionsMatch[1]);
-    } catch {
-      watchOptions = [];
-    }
-  }
-
-  if (slug && title) {
-    movies.push({
-      id,
-      slug,
-      title,
-      releaseYear,
-      language,
-      industry,
-      director,
-      description,
-      poster,
-      runtime,
-      imdbRating,
-      genres,
-      cast,
-      watchOptions,
-    });
-  }
-}
+const rawContent = fs.readFileSync(moviesFilePath, "utf-8");
+const movies = eval(rawContent.replace(/import type[\s\S]*?export const movies: Movie\[\] =/, ''));
 
 console.log(`Prerenderer loaded ${movies.length} movies for static HTML generation.`);
 
@@ -231,7 +172,9 @@ for (const movie of movies) {
   if (!fs.existsSync(movieDir)) fs.mkdirSync(movieDir, { recursive: true });
 
   const title = `${movie.title} (${movie.releaseYear}) – Cast, Story, Details & Where to Watch | Moviezui`;
-  const description = `Explore ${movie.title} (${movie.releaseYear}), directed by ${movie.director}, starring ${movie.cast.slice(0, 3).join(", ")}. Discover story summary, genre, and verified streaming platforms on Moviezui.`;
+  const description = movie.description.length > 160
+    ? `${movie.description.slice(0, 155)}...`
+    : movie.description;
   const canonicalUrl = `${SITE_URL}/movie/${movie.slug}`;
   const posterUrl = movie.poster.startsWith("http") ? movie.poster : `${SITE_URL}${movie.poster.startsWith("/") ? movie.poster : `/${movie.poster}`}`;
 
@@ -260,6 +203,18 @@ for (const movie of movies) {
     movieSchema.duration = `PT${movie.runtime}M`;
   }
 
+  // Include verified trailer in Schema.org
+  if (movie.trailerYoutubeId) {
+    movieSchema.trailer = {
+      "@type": "VideoObject",
+      name: `${movie.title} (${movie.releaseYear}) Official Trailer`,
+      embedUrl: `https://www.youtube.com/embed/${movie.trailerYoutubeId}`,
+      thumbnailUrl: `https://img.youtube.com/vi/${movie.trailerYoutubeId}/hqdefault.jpg`,
+      description: `Watch the official trailer for ${movie.title} (${movie.releaseYear})`,
+      uploadDate: `${movie.releaseYear}-01-01`,
+    };
+  }
+
   if (typeof movie.imdbRating === "number" && movie.imdbRating > 0) {
     movieSchema.aggregateRating = {
       "@type": "AggregateRating",
@@ -275,6 +230,16 @@ for (const movie of movies) {
     ? movie.watchOptions.map(opt => `<li style="margin-bottom: 6px;"><a href="${opt.url}" rel="noopener noreferrer" target="_blank" style="color: #FFD21F; font-weight: 600;">${opt.platform}</a> - <span style="color: #4ade80; text-transform: uppercase; font-size: 11px;">${opt.type}</span></li>`).join("")
     : `<li>No verified streaming options available right now.</li>`;
 
+  const trailerCrawlable = movie.trailerYoutubeId
+    ? `<div style="margin: 20px 0; padding: 16px; background: #1a0808; border: 1px solid #dc2626; border-radius: 12px; display: flex; align-items: center; justify-content: space-between;">
+         <div>
+           <strong style="color: #ef4444; font-size: 16px; display: block;">Official Movie Trailer</strong>
+           <span style="color: #A5A7B0; font-size: 13px;">Watch the official trailer for ${movie.title} (${movie.releaseYear}) on YouTube</span>
+         </div>
+         <a href="https://www.youtube.com/watch?v=${movie.trailerYoutubeId}" target="_blank" rel="noopener noreferrer" style="background: #dc2626; color: #fff; font-weight: bold; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Play Trailer</a>
+       </div>`
+    : "";
+
   const crawlableContent = `
     <header style="padding: 20px; border-bottom: 1px solid #222; text-align: center;">
       <a href="${SITE_URL}" style="color: #FFD21F; font-size: 24px; font-weight: bold; text-decoration: none;">MOVIEZUI</a>
@@ -287,12 +252,14 @@ for (const movie of movies) {
     </header>
     <main style="max-width: 1000px; margin: 40px auto; padding: 0 20px; color: #fff; font-family: sans-serif;">
       <article>
-        <h1 style="font-size: 36px; font-weight: 800; margin-bottom: 12px; color: #fff;">${movie.title} (${movie.releaseYear})</h1>
+        <h1 style="font-size: 36px; font-weight: 800; margin-bottom: 8px; color: #fff;">${movie.title} (${movie.releaseYear})</h1>
+        ${movie.tagline ? `<p style="color: #FFD21F; font-style: italic; font-size: 16px; margin-bottom: 16px;">&ldquo;${movie.tagline}&rdquo;</p>` : ""}
         <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 24px; color: #A5A7B0; font-size: 14px;">
           <span><strong>Year:</strong> ${movie.releaseYear}</span>
           ${movie.runtime ? `<span>• <strong>Runtime:</strong> ${movie.runtime} min</span>` : ""}
           <span>• <strong>Language:</strong> ${movie.language}</span>
           <span>• <strong>Industry:</strong> ${movie.industry}</span>
+          ${movie.ageRating ? `<span>• <strong>Certificate:</strong> ${movie.ageRating}</span>` : ""}
           ${movie.imdbRating ? `<span>• <strong style="color: #FFD21F;">IMDb Rating:</strong> ${movie.imdbRating.toFixed(1)}/10</span>` : ""}
         </div>
         <div style="display: flex; gap: 30px; flex-wrap: wrap; margin-bottom: 30px;">
@@ -301,19 +268,26 @@ for (const movie of movies) {
           </div>
           <div style="flex: 1; min-width: 280px;">
             <section style="margin-bottom: 24px;">
-              <h2 style="font-size: 20px; font-weight: 700; color: #FFD21F; margin-bottom: 8px;">Synopsis & Overview</h2>
+              <h2 style="font-size: 20px; font-weight: 700; color: #FFD21F; margin-bottom: 8px;">About This Movie</h2>
               <p style="color: #A5A7B0; font-size: 16px; line-height: 1.6;">${movie.description}</p>
             </section>
+            ${movie.worthWatching ? `
+            <section style="margin-bottom: 24px; padding: 16px; background: rgba(255, 210, 31, 0.08); border-left: 3px solid #FFD21F; border-radius: 8px;">
+              <h2 style="font-size: 16px; font-weight: 700; color: #FFD21F; margin-bottom: 6px;">What Makes It Worth Watching</h2>
+              <p style="color: #E2E8F0; font-size: 14px; line-height: 1.5; margin: 0;">${movie.worthWatching}</p>
+            </section>` : ""}
             <section style="margin-bottom: 20px;">
               <h2 style="font-size: 18px; font-weight: 700; color: #FFD21F; margin-bottom: 6px;">Director & Cast</h2>
               <p style="margin-bottom: 6px;"><strong>Director:</strong> ${movie.director}</p>
+              ${movie.writers && movie.writers.length ? `<p style="margin-bottom: 6px;"><strong>Writers:</strong> ${movie.writers.join(", ")}</p>` : ""}
               <p><strong>Main Cast:</strong> ${movie.cast.join(", ")}</p>
             </section>
             <section style="margin-bottom: 20px;">
               <h2 style="font-size: 18px; font-weight: 700; color: #FFD21F; margin-bottom: 6px;">Genres</h2>
               <p>${movie.genres.map(g => `<a href="${SITE_URL}/movies?genre=${encodeURIComponent(g)}" style="color: #FFD21F; text-decoration: underline; margin-right: 8px;">${g}</a>`).join("")}</p>
             </section>
-            <section style="margin-top: 30px; padding: 20px; background: #11131A; border-radius: 12px; border: 1px solid #222;">
+            ${trailerCrawlable}
+            <section style="margin-top: 24px; padding: 20px; background: #11131A; border-radius: 12px; border: 1px solid #222;">
               <h2 style="font-size: 20px; font-weight: 700; color: #fff; margin-bottom: 12px;">Where to Watch ${movie.title}</h2>
               <ul style="list-style: none; padding: 0; margin: 0;">
                 ${watchOptionsList}

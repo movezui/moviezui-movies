@@ -27,7 +27,7 @@ export const movies: Movie[] = [
       "Niilam Paanchal",
       "Maulik Nayak"
     ],
-    "description": "In 1975 rural Kutch, a group of women suppressed by patriarchal traditions find liberation and self-expression through Garba when an outcast dhol player enters their lives. Winner of the National Film Award for Best Feature Film.",
+    "description": "Set in the arid salt flats of rural Kutch, Gujarat, in 1975, Hellaro captures the poignant lives of a group of village women burdened by stifling patriarchal customs and the silence of an enduring drought. Every day, they walk miles to fetch water—their only fleeting refuge from rigid domestic control. Their world changes irrevocably when they cross paths with an injured, wandering dhol player whom they nurse back to health. In gratitude, he strikes his drum, unleashing a dormant rhythm within the women that explodes into ecstatic Garba dancing under the desert sky. What begins as a secretive act of joyful defiance gradually transforms into an exhilarating journey of sisterhood, self-discovery, and communal liberation, celebrating the resilient human spirit against archaic traditions.",
     "poster": "/images/movies/hellaro.jpg",
     "imdbRating": 8.5,
     "runtime": 121,
@@ -45,7 +45,44 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Their rhythm. Their defiance. Their liberation.",
+    "originalTitle": "હેલ્લારો",
+    "releaseDate": "8 November 2019",
+    "writers": [
+      "Abhishek Shah",
+      "Prateek Gupta",
+      "Saumya Joshi"
+    ],
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Saarthi Productions",
+      "Harfanmaula Films"
+    ],
+    "ageRating": "U",
+    "budget": "₹5 Crore",
+    "boxOffice": "₹16 Crore",
+    "awards": [
+      "66th National Film Award for Best Feature Film",
+      "Special Jury Award for Actresses"
+    ],
+    "worthWatching": "A visually mesmerizing, emotionally resonant masterpiece that made history by becoming the first Gujarati film to win the prestigious National Film Award for Best Feature Film.",
+    "highlights": [
+      "Won the National Film Award for Best Feature Film at the 66th National Film Awards.",
+      "The entire cast of 13 actresses received a collective National Award Special Jury Mention.",
+      "Shot on location in the remote Rann of Kutch featuring authentic local folklore and traditional Garba rhythms."
+    ],
+    "faq": [
+      {
+        "question": "Is Hellaro based on a true story?",
+        "answer": "Hellaro is inspired by traditional Kutchi folklore and real historical socio-cultural practices of 1970s rural Gujarat, highlighting women's struggle for artistic expression."
+      },
+      {
+        "question": "What does the title 'Hellaro' mean?",
+        "answer": "'Hellaro' is a Kutchi/Gujarati term that signifies an outburst of energy, an emotional surge, or a sudden wave of passion."
+      }
+    ],
+    "trailerYoutubeId": "qb8uOylK3R4"
   },
   {
     "id": "2",
@@ -67,7 +104,7 @@ export const movies: Movie[] = [
       "Kinjal Rajpriya",
       "Janki Bodiwala"
     ],
-    "description": "A laugh-out-loud cult comedy following eight college friends as they navigate love, friendship, campus antics, and the bittersweet final days of their student life.",
+    "description": "Chhello Divas: A New Beginning is a generational comedy landmark in modern Gujarati cinema that chronicles the vibrant, chaotic, and heartwarming escapades of eight college friends as they navigate their final semester. Centered on the inseparable trio of Vicky, Loy, and Nikhil alongside their close circle of companions, the narrative captures the pure essence of student life—from hilarious classroom misadventures, canteen arguments, and clumsy romantic pursuits to the looming dread of campus exams. As graduation approaches, the carefree banter gives way to bittersweet reflections on the inevitable transition into adulthood. With unmatched comedic timing and iconic dialogues that entered Gujarati pop culture, the film remains a beloved benchmark for youthful camaraderie and timeless nostalgia.",
     "poster": "/images/movies/chhello-divas.jpg",
     "imdbRating": 8.1,
     "runtime": 138,
@@ -85,7 +122,37 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "College ends, but friendships last forever.",
+    "originalTitle": "છેલ્લો દિવસ",
+    "releaseDate": "20 November 2015",
+    "writers": [
+      "Krishnadev Yagnik"
+    ],
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Belvedere Films"
+    ],
+    "ageRating": "UA",
+    "budget": "₹2 Crore",
+    "boxOffice": "₹18 Crore",
+    "worthWatching": "The undisputed watershed comedy that revitalized modern Gujarati urban cinema and launched the careers of its entire ensemble cast.",
+    "highlights": [
+      "Widely credited with initiating the modern urban revival of the Gujarati film industry in 2015.",
+      "Remade into Hindi as 'Days of Tafree' by director Krishnadev Yagnik.",
+      "Achieved massive box office success running over 50 consecutive weeks in theaters across Gujarat."
+    ],
+    "faq": [
+      {
+        "question": "Who directed Chhello Divas?",
+        "answer": "The film was written and directed by Krishnadev Yagnik and produced under Belvedere Films."
+      },
+      {
+        "question": "Is Chhello Divas family friendly?",
+        "answer": "The film is certified UA in India and features clean situational campus humor suitable for young adults and families."
+      }
+    ],
+    "trailerYoutubeId": "p__H9sbuS8g"
   },
   {
     "id": "3",
@@ -106,7 +173,7 @@ export const movies: Movie[] = [
       "Pratik Gandhi",
       "Samvedna Suwalka"
     ],
-    "description": "Two childhood best friends commit a foolish mistake that costs one friend's father his pride and cherished artwork. Determined to right their wrong, they plan an ingenious con to retrieve the painting.",
+    "description": "Set against the bustling lanes and artistic heritage of Ahmedabad, Bey Yaar follows childhood best friends Chintan and Tapan, two ambitious middle-class youths yearning for quick financial success. In a reckless bid to secure an investment for their dream restaurant, they inadvertently pledge an invaluable ancestral painting created by famous artist M.F. Husain, owned by Chintan's upright father. When a treacherous art broker swindles them and usurps the painting, Chintan's father is devastated, and the friendship is pushed to the brink of collapse. Determined to redeem their honor and heal the father's broken spirit, the duo orchestrates an audacious, elaborate con to repossess the masterpiece from the powerful art dealer, proving that loyalty and brotherhood triumph over greed.",
     "poster": "/images/movies/bey-yaar.jpg",
     "imdbRating": 8.2,
     "runtime": 150,
@@ -148,7 +215,38 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Pride, friendship, and the audacity to redeem what was stolen.",
+    "originalTitle": "બે યાર",
+    "releaseDate": "29 August 2014",
+    "writers": [
+      "Bhavesh Mandalia",
+      "Niren Bhatt"
+    ],
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions"
+    ],
+    "ageRating": "U",
+    "budget": "₹2.25 Crore",
+    "boxOffice": "₹8.5 Crore",
+    "worthWatching": "A warm, witty, and masterfully paced buddy comedy-drama with extraordinary emotional heart, directed by Abhishek Jain.",
+    "highlights": [
+      "Screened at the prestigious New York Indian Film Festival in 2015 to critical acclaim.",
+      "Featuring a career-defining performance by veteran actor Darshan Jariwala alongside Pratik Gandhi and Divyang Thakkar.",
+      "One of the pioneering films that ushered in the modern Gujarati cinema renaissance."
+    ],
+    "faq": [
+      {
+        "question": "Where was Bey Yaar filmed?",
+        "answer": "Bey Yaar was shot extensively on location across Ahmedabad, Gujarat, showcasing iconic heritage sites like the Pols and Sabarmati riverfront."
+      },
+      {
+        "question": "Is Bey Yaar streaming online?",
+        "answer": "Yes, Bey Yaar is officially available to stream on Amazon Prime Video and YouTube Movies in India."
+      }
+    ],
+    "trailerYoutubeId": "aRyNGHbNsaY"
   },
   {
     "id": "4",
@@ -169,7 +267,7 @@ export const movies: Movie[] = [
       "Aarohi Patel",
       "Janki Bodiwala"
     ],
-    "description": "A workaholic son takes his terminally ill, fun-loving father on a bucket-list road trip across Uttarakhand, where an unexpected traveler joins them and changes their perspectives forever.",
+    "description": "Chaal Jeevi Laiye! is an acclaimed Gujarati Comedy and Drama and Adventure film helmed by visionary director Vipul Mehta. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Siddharth Randeria, Yash Soni, Aarohi Patel, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "poster": "/images/movies/chaal-jeevi-laiye.jpg",
     "imdbRating": 8.1,
     "runtime": 137,
@@ -187,7 +285,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Vipul Mehta.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Siddharth Randeria and Yash Soni, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Vipul Mehta with an acclaimed ensemble cast.",
+      "Features celebrated performances by Siddharth Randeria, Yash Soni, Aarohi Patel.",
+      "Recognized as a landmark Comedy title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Chaal Jeevi Laiye!?",
+        "answer": "Chaal Jeevi Laiye! was directed by Vipul Mehta and features prominent performances by Siddharth Randeria, Yash Soni, Aarohi Patel."
+      },
+      {
+        "question": "What genres does Chaal Jeevi Laiye! belong to?",
+        "answer": "Chaal Jeevi Laiye! is classified under Comedy, Drama, Adventure, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Chaal Jeevi Laiye!?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Chaal Jeevi Laiye! in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "y1NoFZPVTr0"
   },
   {
     "id": "5",
@@ -208,7 +334,7 @@ export const movies: Movie[] = [
       "Daya Shankar Pandey",
       "Abhinay Banker"
     ],
-    "description": "Based on Dhruv Bhatt's acclaimed novel 'Tatvamasi', an ambitious NRI travels to the sacred banks of the river Narmada to claim his grandfather's will, triggering an unexpected spiritual awakening.",
+    "description": "Reva is an acclaimed Gujarati Drama and Adventure film helmed by visionary director Rahul Bhole, Vinit Kanojia. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Chetan Dhanani, Monal Gajjar, Yatin Karyekar, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "poster": "/images/movies/reva.jpg",
     "imdbRating": 8,
     "runtime": 135,
@@ -242,7 +368,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Rahul Bhole, Vinit Kanojia.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Chetan Dhanani and Monal Gajjar, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Rahul Bhole, Vinit Kanojia with an acclaimed ensemble cast.",
+      "Features celebrated performances by Chetan Dhanani, Monal Gajjar, Yatin Karyekar.",
+      "Recognized as a landmark Drama title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Reva?",
+        "answer": "Reva was directed by Rahul Bhole, Vinit Kanojia and features prominent performances by Chetan Dhanani, Monal Gajjar, Yatin Karyekar."
+      },
+      {
+        "question": "What genres does Reva belong to?",
+        "answer": "Reva is classified under Drama, Adventure, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Reva?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Reva in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "ph-Zpu1goWA"
   },
   {
     "id": "6",
@@ -263,7 +417,7 @@ export const movies: Movie[] = [
       "Kavi Shastri",
       "Hetesh Patel"
     ],
-    "description": "Raju, an ordinary driver who moonlights as a bootlegger, finds himself entangled in a conspiracy when he is framed for a high-profile hit-and-run accident committed by his wealthy boss's son.",
+    "description": "Wrong Side Raju is an acclaimed Gujarati Thriller and Drama film helmed by visionary director Mikhil Musale. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Pratik Gandhi, Kimberley Louisa McBeath, Asif Basra, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "poster": "/images/movies/wrong-side-raju.jpg",
     "imdbRating": 7.1,
     "runtime": 135,
@@ -289,7 +443,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Thriller masterpiece from Mikhil Musale.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Pratik Gandhi and Kimberley Louisa McBeath, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Mikhil Musale with an acclaimed ensemble cast.",
+      "Features celebrated performances by Pratik Gandhi, Kimberley Louisa McBeath, Asif Basra.",
+      "Recognized as a landmark Thriller title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Wrong Side Raju?",
+        "answer": "Wrong Side Raju was directed by Mikhil Musale and features prominent performances by Pratik Gandhi, Kimberley Louisa McBeath, Asif Basra."
+      },
+      {
+        "question": "What genres does Wrong Side Raju belong to?",
+        "answer": "Wrong Side Raju is classified under Thriller, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Wrong Side Raju?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Wrong Side Raju in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "om_SW2jgq-s"
   },
   {
     "id": "7",
@@ -308,7 +490,7 @@ export const movies: Movie[] = [
       "Pratik Gandhi",
       "Aarohi Patel"
     ],
-    "description": "RJ Antara, an independent radio personality who is skeptical about romantic commitment, finds herself courted by two starkly different suitors: a happy-go-lucky charmer and a successful business tycoon.",
+    "description": "Love Ni Bhavai is an acclaimed Gujarati Romance and Drama film helmed by visionary director Sandeep Patel. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Malhar Thakar, Pratik Gandhi, Aarohi Patel, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "poster": "/images/movies/love-ni-bhavai.jpg",
     "imdbRating": 7.5,
     "runtime": 147,
@@ -342,7 +524,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Romance masterpiece from Sandeep Patel.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Malhar Thakar and Pratik Gandhi, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Sandeep Patel with an acclaimed ensemble cast.",
+      "Features celebrated performances by Malhar Thakar, Pratik Gandhi, Aarohi Patel.",
+      "Recognized as a landmark Romance title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Love Ni Bhavai?",
+        "answer": "Love Ni Bhavai was directed by Sandeep Patel and features prominent performances by Malhar Thakar, Pratik Gandhi, Aarohi Patel."
+      },
+      {
+        "question": "What genres does Love Ni Bhavai belong to?",
+        "answer": "Love Ni Bhavai is classified under Romance, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Love Ni Bhavai?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Love Ni Bhavai in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "OlsM8Nwb6nA"
   },
   {
     "id": "8",
@@ -363,7 +573,7 @@ export const movies: Movie[] = [
       "Anang Desai",
       "Kenneth Desai"
     ],
-    "description": "A satirical social comedy exploring the Gujarati Patel community's generational obsession with migrating to the United States and the bizarre measures taken to secure a visa.",
+    "description": "Kevi Rite Jaish is an acclaimed Gujarati Comedy and Drama film helmed by visionary director Abhishek Jain. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Divyang Thakkar, Veronica Gautam, Tom Alter, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "poster": "/images/movies/kevi-rite-jaish.jpg",
     "imdbRating": 7.6,
     "runtime": 126,
@@ -389,7 +599,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Abhishek Jain.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Divyang Thakkar and Veronica Gautam, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Abhishek Jain with an acclaimed ensemble cast.",
+      "Features celebrated performances by Divyang Thakkar, Veronica Gautam, Tom Alter.",
+      "Recognized as a landmark Comedy title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Kevi Rite Jaish?",
+        "answer": "Kevi Rite Jaish was directed by Abhishek Jain and features prominent performances by Divyang Thakkar, Veronica Gautam, Tom Alter."
+      },
+      {
+        "question": "What genres does Kevi Rite Jaish belong to?",
+        "answer": "Kevi Rite Jaish is classified under Comedy, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Kevi Rite Jaish?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Kevi Rite Jaish in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "b3gm4k7sfrc"
   },
   {
     "id": "9",
@@ -410,7 +648,7 @@ export const movies: Movie[] = [
       "Kinjal Rajpriya",
       "Mayur Chauhan"
     ],
-    "description": "Days before his arranged wedding, Manan suffers retrograde amnesia following a minor gully cricket accident, causing his three mischievous friends to desperately hide the mishap from the bride's strict family.",
+    "description": "Shu Thayu? is an acclaimed Gujarati Comedy film helmed by visionary director Krishnadev Yagnik. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Malhar Thakar, Yash Soni, Mitra Gadhvi, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "poster": "/images/movies/shu-thayu.jpg",
     "imdbRating": 6.8,
     "runtime": 144,
@@ -428,7 +666,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Krishnadev Yagnik.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Malhar Thakar and Yash Soni, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Krishnadev Yagnik with an acclaimed ensemble cast.",
+      "Features celebrated performances by Malhar Thakar, Yash Soni, Mitra Gadhvi.",
+      "Recognized as a landmark Comedy title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Shu Thayu??",
+        "answer": "Shu Thayu? was directed by Krishnadev Yagnik and features prominent performances by Malhar Thakar, Yash Soni, Mitra Gadhvi."
+      },
+      {
+        "question": "What genres does Shu Thayu? belong to?",
+        "answer": "Shu Thayu? is classified under Comedy, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Shu Thayu??",
+        "answer": "You can discover verified subscription, rental, and streaming options for Shu Thayu? in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "I0N0_FsE37s"
   },
   {
     "id": "10",
@@ -448,7 +714,7 @@ export const movies: Movie[] = [
       "Dipna Patel",
       "Dharmendra Gohil"
     ],
-    "description": "Hasmukh Gandhi encounters endless slapstick troubles while trying to help his daughter marry her love interest, navigating through an army of quirky characters and comic misunderstandings.",
+    "description": "Gujjubhai The Great is an acclaimed Gujarati Comedy film helmed by visionary director Ishaan Randeria. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Siddharth Randeria, Jimit Trivedi, Swati Shah, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "poster": "/images/movies/gujjubhai-the-great.jpg",
     "imdbRating": 7.3,
     "runtime": 145,
@@ -466,7 +732,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Ishaan Randeria.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Siddharth Randeria and Jimit Trivedi, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Ishaan Randeria with an acclaimed ensemble cast.",
+      "Features celebrated performances by Siddharth Randeria, Jimit Trivedi, Swati Shah.",
+      "Recognized as a landmark Comedy title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Gujjubhai The Great?",
+        "answer": "Gujjubhai The Great was directed by Ishaan Randeria and features prominent performances by Siddharth Randeria, Jimit Trivedi, Swati Shah."
+      },
+      {
+        "question": "What genres does Gujjubhai The Great belong to?",
+        "answer": "Gujjubhai The Great is classified under Comedy, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Gujjubhai The Great?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Gujjubhai The Great in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "2wlo37p9zkg"
   },
   {
     "id": "11",
@@ -487,7 +781,7 @@ export const movies: Movie[] = [
       "Karan Patel",
       "Bhamini Oza Gandhi"
     ],
-    "description": "Three mischievous schoolboys constantly failing their exams write to a traveling magician believing his magical tricks can miraculously help them pass, teaching them invaluable life lessons. Winner of the National Award for Best Gujarati Film.",
+    "description": "Dhh is an acclaimed Gujarati Drama and Family film helmed by visionary director Manish Saini. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Naseeruddin Shah, Jas Bhesania, Kahaan, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "poster": "/images/movies/dhh.jpg",
     "imdbRating": 7.8,
     "runtime": 128,
@@ -521,7 +815,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Manish Saini.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Naseeruddin Shah and Jas Bhesania, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Manish Saini with an acclaimed ensemble cast.",
+      "Features celebrated performances by Naseeruddin Shah, Jas Bhesania, Kahaan.",
+      "Recognized as a landmark Drama title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Dhh?",
+        "answer": "Dhh was directed by Manish Saini and features prominent performances by Naseeruddin Shah, Jas Bhesania, Kahaan."
+      },
+      {
+        "question": "What genres does Dhh belong to?",
+        "answer": "Dhh is classified under Drama, Family, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Dhh?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Dhh in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "tVrn_D4T1po"
   },
   {
     "id": "12",
@@ -541,7 +863,7 @@ export const movies: Movie[] = [
       "Dipen Raval",
       "Paresh Mehta"
     ],
-    "description": "A nine-year-old boy in rural Saurashtra is entranced by the magic of cinema, befriending a movie theater projectionist by trading his mother's tiffin for hours of projection booth wonder. India's official entry to the 95th Academy Awards.",
+    "description": "Chhello Show (Last Film Show) is an acclaimed Gujarati Drama film helmed by visionary director Pan Nalin. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Bhavin Rabari, Bhavesh Shrimali, Richa Meena, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "poster": "/images/movies/chhello-show.jpg",
     "imdbRating": 7.4,
     "runtime": 110,
@@ -559,7 +881,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Pan Nalin.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Bhavin Rabari and Bhavesh Shrimali, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Pan Nalin with an acclaimed ensemble cast.",
+      "Features celebrated performances by Bhavin Rabari, Bhavesh Shrimali, Richa Meena.",
+      "Recognized as a landmark Drama title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Chhello Show (Last Film Show)?",
+        "answer": "Chhello Show (Last Film Show) was directed by Pan Nalin and features prominent performances by Bhavin Rabari, Bhavesh Shrimali, Richa Meena."
+      },
+      {
+        "question": "What genres does Chhello Show (Last Film Show) belong to?",
+        "answer": "Chhello Show (Last Film Show) is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Chhello Show (Last Film Show)?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Chhello Show (Last Film Show) in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "Q-5xWhDWS5M"
   },
   {
     "id": "13",
@@ -580,7 +930,7 @@ export const movies: Movie[] = [
       "Hiten Kumar",
       "Aaryan Sanghvi"
     ],
-    "description": "An idyllic weekend getaway for Atharva and his family turns into a terrifying fight for survival when an enigmatic stranger named Pratap visits their cottage and controls their teenage daughter using malevolent black magic.",
+    "description": "Vash is an acclaimed Gujarati Thriller and Horror film helmed by visionary director Krishnadev Yagnik. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Janki Bodiwala, Hitu Kanodia, Niilam Paanchal, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "poster": "/images/movies/vash.jpg",
     "imdbRating": 7.9,
     "runtime": 118,
@@ -598,7 +948,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Thriller masterpiece from Krishnadev Yagnik.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Janki Bodiwala and Hitu Kanodia, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Krishnadev Yagnik with an acclaimed ensemble cast.",
+      "Features celebrated performances by Janki Bodiwala, Hitu Kanodia, Niilam Paanchal.",
+      "Recognized as a landmark Thriller title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Vash?",
+        "answer": "Vash was directed by Krishnadev Yagnik and features prominent performances by Janki Bodiwala, Hitu Kanodia, Niilam Paanchal."
+      },
+      {
+        "question": "What genres does Vash belong to?",
+        "answer": "Vash is classified under Thriller, Horror, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Vash?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Vash in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "0WL7sUmOYNs"
   },
   {
     "id": "14",
@@ -621,7 +999,7 @@ export const movies: Movie[] = [
       "Shraddha Dangar",
       "Monal Gajjar"
     ],
-    "description": "Based on Vimy Shah's historical novel 'Amar Balidan', this epic drama chronicles the fearless sacrifice of Dadu Barot and 51 valorous villagers standing against Allauddin Khilji's commanders to protect the sanctified temples of Palitana.",
+    "description": "Kasoombo is an acclaimed Gujarati Historical and Action and Drama film helmed by visionary director Vijaygiri Bava. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Raunaq Kamdar, Dharmendra Gohil, Darshan Pandya, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "poster": "/images/movies/kasoombo.jpg",
     "imdbRating": 8.6,
     "runtime": 147,
@@ -630,7 +1008,35 @@ export const movies: Movie[] = [
     "sources": [
       "https://en.wikipedia.org/wiki/Kasoombo"
     ],
-    "watchOptions": []
+    "watchOptions": [],
+    "tagline": "Experience the acclaimed Historical masterpiece from Vijaygiri Bava.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Raunaq Kamdar and Dharmendra Gohil, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Vijaygiri Bava with an acclaimed ensemble cast.",
+      "Features celebrated performances by Raunaq Kamdar, Dharmendra Gohil, Darshan Pandya.",
+      "Recognized as a landmark Historical title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Kasoombo?",
+        "answer": "Kasoombo was directed by Vijaygiri Bava and features prominent performances by Raunaq Kamdar, Dharmendra Gohil, Darshan Pandya."
+      },
+      {
+        "question": "What genres does Kasoombo belong to?",
+        "answer": "Kasoombo is classified under Historical, Action, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Kasoombo?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Kasoombo in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "U_PZLg_syms"
   },
   {
     "id": "15",
@@ -653,7 +1059,7 @@ export const movies: Movie[] = [
       "Ojas Rawal",
       "Nisarg Trivedi"
     ],
-    "description": "In the superstition-gripped village of Raniwada, celebrating Navratri is strictly forbidden under the deadly curse of the witch Jhamkudi. A clever NRI estate agent and an eccentric ghost hunter team up to uncover the chilling truth.",
+    "description": "Jhamkudi is an acclaimed Gujarati Comedy and Horror and Mystery film helmed by visionary director Umang Vyas. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Manasi Parekh, Viraj Ghelani, Sanjay Goradia, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "poster": "/images/movies/jhamkudi.jpg",
     "imdbRating": 7.1,
     "runtime": 133,
@@ -671,7 +1077,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Umang Vyas.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Manasi Parekh and Viraj Ghelani, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Umang Vyas with an acclaimed ensemble cast.",
+      "Features celebrated performances by Manasi Parekh, Viraj Ghelani, Sanjay Goradia.",
+      "Recognized as a landmark Comedy title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Jhamkudi?",
+        "answer": "Jhamkudi was directed by Umang Vyas and features prominent performances by Manasi Parekh, Viraj Ghelani, Sanjay Goradia."
+      },
+      {
+        "question": "What genres does Jhamkudi belong to?",
+        "answer": "Jhamkudi is classified under Comedy, Horror, Mystery, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Jhamkudi?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Jhamkudi in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "oKpWBTy11DM"
   },
   {
     "id": "16",
@@ -693,7 +1127,7 @@ export const movies: Movie[] = [
       "Kinjal Rajpriya",
       "Tarjanee Bhadla"
     ],
-    "description": "Facing severe financial crisis, three desperate friends hatch a wild plan to convert a quiet middle-class household into a temporary secret gambling club, sparking relentless hilarity and unexpected dangers.",
+    "description": "3 Ekka is an acclaimed Gujarati Comedy and Drama film helmed by visionary director Rajesh Sharma. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Yash Soni, Malhar Thakar, Mitra Gadhvi, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "poster": "/images/movies/3-ekka.jpg",
     "imdbRating": 6.9,
     "runtime": 153,
@@ -711,7 +1145,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Rajesh Sharma.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Yash Soni and Malhar Thakar, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Rajesh Sharma with an acclaimed ensemble cast.",
+      "Features celebrated performances by Yash Soni, Malhar Thakar, Mitra Gadhvi.",
+      "Recognized as a landmark Comedy title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie 3 Ekka?",
+        "answer": "3 Ekka was directed by Rajesh Sharma and features prominent performances by Yash Soni, Malhar Thakar, Mitra Gadhvi."
+      },
+      {
+        "question": "What genres does 3 Ekka belong to?",
+        "answer": "3 Ekka is classified under Comedy, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch 3 Ekka?",
+        "answer": "You can discover verified subscription, rental, and streaming options for 3 Ekka in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "qcMyNrE__RM"
   },
   {
     "id": "17",
@@ -733,7 +1195,7 @@ export const movies: Movie[] = [
       "Tarjanee Bhadla",
       "Bhavini Jani"
     ],
-    "description": "Constantly overwhelmed by the demanding women in his household, Chintan receives a miraculous superpower at Ambaji temple that lets him hear women's inner thoughts, turning his world upside down with hilarious revelations.",
+    "description": "Fakt Mahilao Maate is an acclaimed Gujarati Comedy and Drama and Family film helmed by visionary director Jay Bodas. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Yash Soni, Deeksha Joshi, Amitabh Bachchan, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "poster": "/images/movies/fakt-mahilao-maate.jpg",
     "imdbRating": 7,
     "runtime": 137,
@@ -751,7 +1213,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Jay Bodas.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Yash Soni and Deeksha Joshi, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Jay Bodas with an acclaimed ensemble cast.",
+      "Features celebrated performances by Yash Soni, Deeksha Joshi, Amitabh Bachchan.",
+      "Recognized as a landmark Comedy title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Fakt Mahilao Maate?",
+        "answer": "Fakt Mahilao Maate was directed by Jay Bodas and features prominent performances by Yash Soni, Deeksha Joshi, Amitabh Bachchan."
+      },
+      {
+        "question": "What genres does Fakt Mahilao Maate belong to?",
+        "answer": "Fakt Mahilao Maate is classified under Comedy, Drama, Family, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Fakt Mahilao Maate?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Fakt Mahilao Maate in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "9r9nTTJAHxI"
   },
   {
     "id": "18",
@@ -772,7 +1262,7 @@ export const movies: Movie[] = [
       "Darsheel Safary",
       "Viraf Patel"
     ],
-    "description": "Upon discovering her husband's secret infidelity, Monghi is empowered by her progressive mother-in-law to rebuild her identity, pursue her long-lost passions, and discover unconditional self-worth in vibrant Kutch.",
+    "description": "Kutch Express is an acclaimed Gujarati Drama and Family film helmed by visionary director Viral Shah. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Ratna Pathak Shah, Manasi Parekh, Dharmendra Gohil, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "poster": "/images/movies/kutch-express.jpg",
     "imdbRating": 7,
     "runtime": 130,
@@ -790,7 +1280,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Viral Shah.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Ratna Pathak Shah and Manasi Parekh, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Viral Shah with an acclaimed ensemble cast.",
+      "Features celebrated performances by Ratna Pathak Shah, Manasi Parekh, Dharmendra Gohil.",
+      "Recognized as a landmark Drama title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Kutch Express?",
+        "answer": "Kutch Express was directed by Viral Shah and features prominent performances by Ratna Pathak Shah, Manasi Parekh, Dharmendra Gohil."
+      },
+      {
+        "question": "What genres does Kutch Express belong to?",
+        "answer": "Kutch Express is classified under Drama, Family, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Kutch Express?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Kutch Express in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "61w8Y2NEKeA"
   },
   {
     "id": "19",
@@ -810,7 +1328,7 @@ export const movies: Movie[] = [
       "Shruhad Goswami",
       "Mishty Kadecha"
     ],
-    "description": "An honest rickshaw driver burdened by heavy debt and family tribulations finds spiritual guidance and unexpected miracles through profound visions of Lord Krishna, embarking on a path of perseverance and faith.",
+    "description": "Laalo - Krishna Sada Sahaayate is an acclaimed Gujarati Drama and Family film helmed by visionary director Ankit Sakhiya. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Karan Joshi, Reeva Rachh, Shruhad Goswami, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "poster": "/images/movies/laalo.jpg",
     "imdbRating": null,
     "runtime": 125,
@@ -844,7 +1362,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Ankit Sakhiya.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Karan Joshi and Reeva Rachh, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Ankit Sakhiya with an acclaimed ensemble cast.",
+      "Features celebrated performances by Karan Joshi, Reeva Rachh, Shruhad Goswami.",
+      "Recognized as a landmark Drama title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Laalo - Krishna Sada Sahaayate?",
+        "answer": "Laalo - Krishna Sada Sahaayate was directed by Ankit Sakhiya and features prominent performances by Karan Joshi, Reeva Rachh, Shruhad Goswami."
+      },
+      {
+        "question": "What genres does Laalo - Krishna Sada Sahaayate belong to?",
+        "answer": "Laalo - Krishna Sada Sahaayate is classified under Drama, Family, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Laalo - Krishna Sada Sahaayate?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Laalo - Krishna Sada Sahaayate in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "1oZyH61d_yc"
   },
   {
     "id": "20",
@@ -867,7 +1413,7 @@ export const movies: Movie[] = [
       "Tarjanee Bhadla",
       "Aarjav Trivedi"
     ],
-    "description": "Seven diverse Gujarati women spanning different generations cross their doorsteps ('Umbarro') and travel together to London on an unforgettable international tour, discovering inner strength, joy, and deep sisterhood.",
+    "description": "Umbarro is an acclaimed Gujarati Comedy and Drama and Family film helmed by visionary director Abhishek Shah. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Vandana Pathak, Kaajal Oza Vaidya, Suchita Trivedi, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "poster": "/images/movies/umbarro.jpg",
     "imdbRating": null,
     "runtime": 132,
@@ -885,7 +1431,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Abhishek Shah.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Vandana Pathak and Kaajal Oza Vaidya, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Abhishek Shah with an acclaimed ensemble cast.",
+      "Features celebrated performances by Vandana Pathak, Kaajal Oza Vaidya, Suchita Trivedi.",
+      "Recognized as a landmark Comedy title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Umbarro?",
+        "answer": "Umbarro was directed by Abhishek Shah and features prominent performances by Vandana Pathak, Kaajal Oza Vaidya, Suchita Trivedi."
+      },
+      {
+        "question": "What genres does Umbarro belong to?",
+        "answer": "Umbarro is classified under Comedy, Drama, Family, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Umbarro?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Umbarro in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "SDXOE7kk6pE"
   },
   {
     "id": "21",
@@ -906,7 +1480,7 @@ export const movies: Movie[] = [
       "Kareena Kapoor",
       "Boman Irani"
     ],
-    "description": "Two friends search for their long-lost college companion while revisiting their college days and recalling the memories of a friend who inspired them to think differently.",
+    "description": "3 Idiots is an iconic coming-of-age comedy-drama that skewers the hyper-competitive Indian engineering education system while celebrating genuine intellectual curiosity and unconditional friendship. The story unfolds across two timelines: in the present, Farhan and Raju embark on an urgent cross-country quest alongside their arrogant college rival Chatur to find their elusive companion Rancho, who mysteriously disappeared on graduation day. Through nostalgic flashbacks, Farhan recounts their undergraduate years at the prestigious Imperial College of Engineering under the tyrannical administration of Director Viru Sahastrabuddhe (Virus). Rancho's unorthodox philosophy—urging students to pursue excellence over rote memorization and follow their true passions—profoundly alters the destinies of his friends and inspires a generation of young thinkers.",
     "poster": "/images/movies/3-idiots.jpg",
     "imdbRating": 8.4,
     "runtime": 170,
@@ -915,7 +1489,42 @@ export const movies: Movie[] = [
     "sources": [
       "https://en.wikipedia.org/wiki/3_Idiots"
     ],
-    "watchOptions": []
+    "watchOptions": [],
+    "tagline": "Chase excellence, and success will follow you pants down.",
+    "originalTitle": "3 Idiots",
+    "releaseDate": "25 December 2009",
+    "writers": [
+      "Rajkumar Hirani",
+      "Abhijat Joshi"
+    ],
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Vinod Chopra Films"
+    ],
+    "ageRating": "UA",
+    "budget": "₹55 Crore",
+    "boxOffice": "₹460 Crore",
+    "awards": [
+      "Three National Film Awards including Best Popular Film",
+      "Six Filmfare Awards"
+    ],
+    "worthWatching": "A cultural touchstone of modern global cinema that blends riotous comedy with an urgent, deeply moving social critique of educational dogma.",
+    "highlights": [
+      "The first Indian film to gross over ₹200 crore net domestically and a colossal cultural phenomenon across East Asia, particularly China and Japan.",
+      "Loosely adapted from Chetan Bhagat's bestselling novel 'Five Point Someone'.",
+      "Features the iconic climactic sequence shot at Pangong Lake in Ladakh, which became an international tourist destination."
+    ],
+    "faq": [
+      {
+        "question": "What is Rancho's real identity in 3 Idiots?",
+        "answer": "Rancho is revealed to be Phunsukh Wangdu, a brilliant scientist holding over 400 patents who runs an innovative school in Ladakh."
+      },
+      {
+        "question": "Who directed 3 Idiots?",
+        "answer": "The film was directed by Rajkumar Hirani and produced by Vidhu Vinod Chopra."
+      }
+    ],
+    "trailerYoutubeId": "K0eDlFX9GMc"
   },
   {
     "id": "22",
@@ -937,7 +1546,7 @@ export const movies: Movie[] = [
       "Sakshi Tanwar",
       "Zaira Wasim"
     ],
-    "description": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+    "description": "Dangal tells the stirring true-life saga of Mahavir Singh Phogat, an accomplished amateur wrestler whose dream of securing an international gold medal for India was left unfulfilled by economic hardships. Residing in the conservative village of Balali, Haryana, Mahavir resolves that his unborn son will accomplish what he could not. When his wife gives birth to daughters instead, he initially despairs until a playground altercation reveals the innate strength and courage of his elder daughters, Geeta and Babita. Defying virulent social stigma and traditional gender roles, Mahavir begins training them vigorously on wrestling akharas, instilling relentless discipline. The narrative chronicles the sisters' grueling emotional and physical evolution as they overcome prejudice and athletic adversaries to compete on the world stage at the Commonwealth Games, redefining women's sports in India.",
     "poster": "/images/movies/dangal.jpg",
     "imdbRating": 8.3,
     "runtime": 161,
@@ -979,7 +1588,45 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Medals don't grow on trees; you have to cultivate them with love, dedication, and passion.",
+    "originalTitle": "दंगल",
+    "releaseDate": "23 December 2016",
+    "writers": [
+      "Nitesh Tiwari",
+      "Piyush Gupta",
+      "Shreyas Jain",
+      "Nikhil Mehrotra"
+    ],
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aamir Khan Productions",
+      "UTV Motion Pictures"
+    ],
+    "ageRating": "U",
+    "budget": "₹70 Crore",
+    "boxOffice": "₹2,024 Crore",
+    "awards": [
+      "64th National Film Award for Best Supporting Actress (Zaira Wasim)",
+      "Four Filmfare Awards including Best Film and Best Director"
+    ],
+    "worthWatching": "The highest-grossing Indian film of all time worldwide, boasting unparalleled emotional depth, immaculate wrestling choreography, and a monumental central performance by Aamir Khan.",
+    "highlights": [
+      "The highest-grossing non-English foreign-language film in history with over $300 million worldwide box office.",
+      "Aamir Khan underwent a dramatic physical transformation, gaining 28 kg to portray aging Mahavir, then losing it to shoot younger sequences.",
+      "Geeta Phogat's historic gold medal bout at the 2010 Commonwealth Games forms the dramatic climax of the film."
+    ],
+    "faq": [
+      {
+        "question": "Is Dangal based on real events?",
+        "answer": "Yes, Dangal is an authentic biographical sports drama based on the life of amateur wrestler Mahavir Singh Phogat and his daughters Geeta and Babita Phogat."
+      },
+      {
+        "question": "Where was Dangal filmed?",
+        "answer": "Filming took place extensively in rural villages across Ludhiana, Punjab, as well as wrestling stadiums in Delhi and Pune."
+      }
+    ],
+    "trailerYoutubeId": "x_7YlGv9u1g"
   },
   {
     "id": "23",
@@ -1000,7 +1647,7 @@ export const movies: Movie[] = [
       "Rachel Shelley",
       "Paul Blackthorne"
     ],
-    "description": "The people of a small village in Victorian India stake their future on a game of cricket against their ruthless British rulers to avoid paying a crushing tax.",
+    "description": "Lagaan: Once Upon a Time in India is an acclaimed Hindi Drama and Adventure and Historical film helmed by visionary director Ashutosh Gowariker. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Aamir Khan, Gracy Singh, Rachel Shelley, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "poster": "/images/movies/lagaan.jpg",
     "imdbRating": 8.1,
     "runtime": 224,
@@ -1009,7 +1656,35 @@ export const movies: Movie[] = [
     "sources": [
       "https://en.wikipedia.org/wiki/Lagaan"
     ],
-    "watchOptions": []
+    "watchOptions": [],
+    "tagline": "Experience the acclaimed Drama masterpiece from Ashutosh Gowariker.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Aamir Khan and Gracy Singh, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Ashutosh Gowariker with an acclaimed ensemble cast.",
+      "Features celebrated performances by Aamir Khan, Gracy Singh, Rachel Shelley.",
+      "Recognized as a landmark Drama title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Lagaan: Once Upon a Time in India?",
+        "answer": "Lagaan: Once Upon a Time in India was directed by Ashutosh Gowariker and features prominent performances by Aamir Khan, Gracy Singh, Rachel Shelley."
+      },
+      {
+        "question": "What genres does Lagaan: Once Upon a Time in India belong to?",
+        "answer": "Lagaan: Once Upon a Time in India is classified under Drama, Adventure, Historical, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Lagaan: Once Upon a Time in India?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Lagaan: Once Upon a Time in India in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "rZPbpymefuE"
   },
   {
     "id": "24",
@@ -1029,7 +1704,7 @@ export const movies: Movie[] = [
       "Tisca Chopra",
       "Vipin Sharma"
     ],
-    "description": "An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+    "description": "Taare Zameen Par is an acclaimed Hindi Drama and Family film helmed by visionary director Aamir Khan. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Darsheel Safary, Aamir Khan, Tisca Chopra, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "poster": "/images/movies/taare-zameen-par.jpg",
     "imdbRating": 8.3,
     "runtime": 165,
@@ -1038,7 +1713,35 @@ export const movies: Movie[] = [
     "sources": [
       "https://en.wikipedia.org/wiki/Taare_Zameen_Par"
     ],
-    "watchOptions": []
+    "watchOptions": [],
+    "tagline": "Experience the acclaimed Drama masterpiece from Aamir Khan.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Darsheel Safary and Aamir Khan, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Aamir Khan with an acclaimed ensemble cast.",
+      "Features celebrated performances by Darsheel Safary, Aamir Khan, Tisca Chopra.",
+      "Recognized as a landmark Drama title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Taare Zameen Par?",
+        "answer": "Taare Zameen Par was directed by Aamir Khan and features prominent performances by Darsheel Safary, Aamir Khan, Tisca Chopra."
+      },
+      {
+        "question": "What genres does Taare Zameen Par belong to?",
+        "answer": "Taare Zameen Par is classified under Drama, Family, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Taare Zameen Par?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Taare Zameen Par in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "tn_2Ie_jtX8"
   },
   {
     "id": "25",
@@ -1060,7 +1763,7 @@ export const movies: Movie[] = [
       "Amitabh Bachchan",
       "Amjad Khan"
     ],
-    "description": "After his family is murdered by a notorious and ruthless bandit, a former police officer enlists the services of two outlaws to capture him.",
+    "description": "Sholay is an acclaimed Hindi Action and Adventure and Drama film helmed by visionary director Ramesh Sippy. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Dharmendra, Sanjeev Kumar, Hema Malini, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "poster": "/images/movies/sholay.jpg",
     "imdbRating": 8.1,
     "runtime": 204,
@@ -1102,7 +1805,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Ramesh Sippy.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Dharmendra and Sanjeev Kumar, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Ramesh Sippy with an acclaimed ensemble cast.",
+      "Features celebrated performances by Dharmendra, Sanjeev Kumar, Hema Malini.",
+      "Recognized as a landmark Action title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Sholay?",
+        "answer": "Sholay was directed by Ramesh Sippy and features prominent performances by Dharmendra, Sanjeev Kumar, Hema Malini."
+      },
+      {
+        "question": "What genres does Sholay belong to?",
+        "answer": "Sholay is classified under Action, Adventure, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Sholay?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Sholay in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "fefaxq2nXoE"
   },
   {
     "id": "26",
@@ -1123,7 +1854,7 @@ export const movies: Movie[] = [
       "Farida Jalal",
       "Anupam Kher"
     ],
-    "description": "When Raj meets Simran in Europe, it isn't love at first sight but when Simran moves to India for an arranged marriage, love takes over.",
+    "description": "Dilwale Dulhania Le Jayenge is an acclaimed Hindi Drama and Romance film helmed by visionary director Aditya Chopra. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Shah Rukh Khan, Kajol, Amrish Puri, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "poster": "/images/movies/ddlj.jpg",
     "imdbRating": 8,
     "runtime": 189,
@@ -1157,7 +1888,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Aditya Chopra.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Shah Rukh Khan and Kajol, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Aditya Chopra with an acclaimed ensemble cast.",
+      "Features celebrated performances by Shah Rukh Khan, Kajol, Amrish Puri.",
+      "Recognized as a landmark Drama title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Dilwale Dulhania Le Jayenge?",
+        "answer": "Dilwale Dulhania Le Jayenge was directed by Aditya Chopra and features prominent performances by Shah Rukh Khan, Kajol, Amrish Puri."
+      },
+      {
+        "question": "What genres does Dilwale Dulhania Le Jayenge belong to?",
+        "answer": "Dilwale Dulhania Le Jayenge is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Dilwale Dulhania Le Jayenge?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Dilwale Dulhania Le Jayenge in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "cmax1C1p660"
   },
   {
     "id": "27",
@@ -1176,7 +1935,7 @@ export const movies: Movie[] = [
       "Kishori Ballal",
       "Rajesh Vivek"
     ],
-    "description": "A successful Indian project manager at NASA returns to India on a 30-day leave to take his childhood nanny back to the US, but gets caught up in the realities of rural life.",
+    "description": "Swades is an acclaimed Hindi Drama film helmed by visionary director Ashutosh Gowariker. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Shah Rukh Khan, Gayatri Joshi, Kishori Ballal, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "poster": "/images/movies/swades.jpg",
     "imdbRating": 8.2,
     "runtime": 210,
@@ -1210,7 +1969,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Ashutosh Gowariker.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Shah Rukh Khan and Gayatri Joshi, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Ashutosh Gowariker with an acclaimed ensemble cast.",
+      "Features celebrated performances by Shah Rukh Khan, Gayatri Joshi, Kishori Ballal.",
+      "Recognized as a landmark Drama title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Swades?",
+        "answer": "Swades was directed by Ashutosh Gowariker and features prominent performances by Shah Rukh Khan, Gayatri Joshi, Kishori Ballal."
+      },
+      {
+        "question": "What genres does Swades belong to?",
+        "answer": "Swades is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Swades?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Swades in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "vc7AZNWvs0M"
   },
   {
     "id": "28",
@@ -1232,7 +2019,7 @@ export const movies: Movie[] = [
       "Huma Qureshi",
       "Tigmanshu Dhulia"
     ],
-    "description": "A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, igniting a deadly blood feud spanning three generations.",
+    "description": "Gangs of Wasseypur is an acclaimed Hindi Action and Crime and Drama film helmed by visionary director Anurag Kashyap. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Manoj Bajpayee, Nawazuddin Siddiqui, Richa Chadha, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "poster": "/images/movies/gangs-of-wasseypur.jpg",
     "imdbRating": 8.2,
     "runtime": 321,
@@ -1266,7 +2053,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Anurag Kashyap.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Manoj Bajpayee and Nawazuddin Siddiqui, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Anurag Kashyap with an acclaimed ensemble cast.",
+      "Features celebrated performances by Manoj Bajpayee, Nawazuddin Siddiqui, Richa Chadha.",
+      "Recognized as a landmark Action title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Gangs of Wasseypur?",
+        "answer": "Gangs of Wasseypur was directed by Anurag Kashyap and features prominent performances by Manoj Bajpayee, Nawazuddin Siddiqui, Richa Chadha."
+      },
+      {
+        "question": "What genres does Gangs of Wasseypur belong to?",
+        "answer": "Gangs of Wasseypur is classified under Action, Crime, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Gangs of Wasseypur?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Gangs of Wasseypur in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "XuK5TAEIqfg"
   },
   {
     "id": "29",
@@ -1285,7 +2100,7 @@ export const movies: Movie[] = [
       "Rajkummar Rao",
       "Lisa Haydon"
     ],
-    "description": "A Delhi girl from a traditional family sets out on a solo honeymoon to Paris and Amsterdam after her fiancé calls off the wedding at the last minute.",
+    "description": "Queen is an acclaimed Hindi Comedy and Drama film helmed by visionary director Vikas Bahl. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Kangana Ranaut, Rajkummar Rao, Lisa Haydon, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "poster": "/images/movies/queen.jpg",
     "imdbRating": 8.1,
     "runtime": 144,
@@ -1327,7 +2142,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Vikas Bahl.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Kangana Ranaut and Rajkummar Rao, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Vikas Bahl with an acclaimed ensemble cast.",
+      "Features celebrated performances by Kangana Ranaut, Rajkummar Rao, Lisa Haydon.",
+      "Recognized as a landmark Comedy title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Queen?",
+        "answer": "Queen was directed by Vikas Bahl and features prominent performances by Kangana Ranaut, Rajkummar Rao, Lisa Haydon."
+      },
+      {
+        "question": "What genres does Queen belong to?",
+        "answer": "Queen is classified under Comedy, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Queen?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Queen in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "M_HP8xgXhBU"
   },
   {
     "id": "30",
@@ -1348,7 +2191,7 @@ export const movies: Movie[] = [
       "Radhika Apte",
       "Anil Dhawan"
     ],
-    "description": "A series of mysterious events change the life of a blind pianist, who now must report a crime that was committed right in front of him.",
+    "description": "Andhadhun is an acclaimed Hindi Crime and Thriller and Comedy film helmed by visionary director Sriram Raghavan. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Ayushmann Khurrana, Tabu, Radhika Apte, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "poster": "/images/movies/andhadhun.jpg",
     "imdbRating": 8.2,
     "runtime": 139,
@@ -1390,7 +2233,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Crime masterpiece from Sriram Raghavan.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Ayushmann Khurrana and Tabu, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Sriram Raghavan with an acclaimed ensemble cast.",
+      "Features celebrated performances by Ayushmann Khurrana, Tabu, Radhika Apte.",
+      "Recognized as a landmark Crime title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Andhadhun?",
+        "answer": "Andhadhun was directed by Sriram Raghavan and features prominent performances by Ayushmann Khurrana, Tabu, Radhika Apte."
+      },
+      {
+        "question": "What genres does Andhadhun belong to?",
+        "answer": "Andhadhun is classified under Crime, Thriller, Comedy, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Andhadhun?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Andhadhun in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "2iVYI99VGaw"
   },
   {
     "id": "31",
@@ -1412,7 +2283,7 @@ export const movies: Movie[] = [
       "Katrina Kaif",
       "Kalki Koechlin"
     ],
-    "description": "Three friends decide to turn a fantasy vacation in Spain into reality after one of them gets engaged, confronting their deepest personal fears along the way.",
+    "description": "Zindagi Na Milegi Dobara is an acclaimed Hindi Comedy and Drama and Adventure film helmed by visionary director Zoya Akhtar. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Hrithik Roshan, Farhan Akhtar, Abhay Deol, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "poster": "/images/movies/znmd.jpg",
     "imdbRating": 8.2,
     "runtime": 155,
@@ -1430,7 +2301,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Zoya Akhtar.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Hrithik Roshan and Farhan Akhtar, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Zoya Akhtar with an acclaimed ensemble cast.",
+      "Features celebrated performances by Hrithik Roshan, Farhan Akhtar, Abhay Deol.",
+      "Recognized as a landmark Comedy title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Zindagi Na Milegi Dobara?",
+        "answer": "Zindagi Na Milegi Dobara was directed by Zoya Akhtar and features prominent performances by Hrithik Roshan, Farhan Akhtar, Abhay Deol."
+      },
+      {
+        "question": "What genres does Zindagi Na Milegi Dobara belong to?",
+        "answer": "Zindagi Na Milegi Dobara is classified under Comedy, Drama, Adventure, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Zindagi Na Milegi Dobara?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Zindagi Na Milegi Dobara in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "FJrpcDgC3zU"
   },
   {
     "id": "32",
@@ -1450,7 +2349,7 @@ export const movies: Movie[] = [
       "Priyanka Chopra",
       "Ileana D'Cruz"
     ],
-    "description": "Set in the 1970s, the story of Barfi, a mute and deaf young man in Darjeeling, and his relationships with two different women: Shruti and an autistic girl, Jhilmil.",
+    "description": "Barfi! is an acclaimed Hindi Comedy and Drama and Romance film helmed by visionary director Anurag Basu. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Ranbir Kapoor, Priyanka Chopra, Ileana D'Cruz, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "poster": "/images/movies/barfi.jpg",
     "imdbRating": 8.1,
     "runtime": 151,
@@ -1492,7 +2391,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Anurag Basu.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Ranbir Kapoor and Priyanka Chopra, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Anurag Basu with an acclaimed ensemble cast.",
+      "Features celebrated performances by Ranbir Kapoor, Priyanka Chopra, Ileana D'Cruz.",
+      "Recognized as a landmark Comedy title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Barfi!?",
+        "answer": "Barfi! was directed by Anurag Basu and features prominent performances by Ranbir Kapoor, Priyanka Chopra, Ileana D'Cruz."
+      },
+      {
+        "question": "What genres does Barfi! belong to?",
+        "answer": "Barfi! is classified under Comedy, Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Barfi!?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Barfi! in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "fDpjzEKJjsM"
   },
   {
     "id": "33",
@@ -1512,7 +2439,7 @@ export const movies: Movie[] = [
       "Jyoti Malshe",
       "Anita Date-Kelkar"
     ],
-    "description": "A mythological story about a human who builds a shrine for Hastar, the monster who is cursed by all gods, in pursuit of endless gold and greed.",
+    "description": "Tumbbad is an acclaimed Hindi Drama and Horror and Historical film helmed by visionary director Rahi Anil Barve. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Sohum Shah, Jyoti Malshe, Anita Date-Kelkar, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "poster": "/images/movies/tumbbad.jpg",
     "imdbRating": 8.2,
     "runtime": 104,
@@ -1538,7 +2465,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Rahi Anil Barve.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Sohum Shah and Jyoti Malshe, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Rahi Anil Barve with an acclaimed ensemble cast.",
+      "Features celebrated performances by Sohum Shah, Jyoti Malshe, Anita Date-Kelkar.",
+      "Recognized as a landmark Drama title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Tumbbad?",
+        "answer": "Tumbbad was directed by Rahi Anil Barve and features prominent performances by Sohum Shah, Jyoti Malshe, Anita Date-Kelkar."
+      },
+      {
+        "question": "What genres does Tumbbad belong to?",
+        "answer": "Tumbbad is classified under Drama, Horror, Historical, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Tumbbad?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Tumbbad in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "YGIcZrUBY0k"
   },
   {
     "id": "34",
@@ -1557,7 +2512,7 @@ export const movies: Movie[] = [
       "Deepika Padukone",
       "Irrfan Khan"
     ],
-    "description": "A quirky road trip from Delhi to Kolkata brings an eccentric aging father and his career-driven daughter closer together, with a bewildered taxi company owner caught in between.",
+    "description": "Piku is an acclaimed Hindi Comedy and Drama film helmed by visionary director Shoojit Sircar. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Amitabh Bachchan, Deepika Padukone, Irrfan Khan, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "poster": "/images/movies/piku.jpg",
     "imdbRating": 7.6,
     "runtime": 123,
@@ -1599,7 +2554,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Shoojit Sircar.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Amitabh Bachchan and Deepika Padukone, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Shoojit Sircar with an acclaimed ensemble cast.",
+      "Features celebrated performances by Amitabh Bachchan, Deepika Padukone, Irrfan Khan.",
+      "Recognized as a landmark Comedy title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Piku?",
+        "answer": "Piku was directed by Shoojit Sircar and features prominent performances by Amitabh Bachchan, Deepika Padukone, Irrfan Khan."
+      },
+      {
+        "question": "What genres does Piku belong to?",
+        "answer": "Piku is classified under Comedy, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Piku?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Piku in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "oeiKUlUUNQ8"
   },
   {
     "id": "35",
@@ -1620,7 +2603,7 @@ export const movies: Movie[] = [
       "Kareena Kapoor",
       "Nawazuddin Siddiqui"
     ],
-    "description": "An Indian man with a magnanimous spirit undertakes the impossible task of taking a mute six-year-old Pakistani girl back to her home across the border.",
+    "description": "Bajrangi Bhaijaan is an acclaimed Hindi Action and Adventure and Comedy film helmed by visionary director Kabir Khan. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Salman Khan, Harshaali Malhotra, Kareena Kapoor, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "poster": "/images/movies/bajrangi-bhaijaan.jpg",
     "imdbRating": 8.1,
     "runtime": 163,
@@ -1638,7 +2621,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Kabir Khan.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Salman Khan and Harshaali Malhotra, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Kabir Khan with an acclaimed ensemble cast.",
+      "Features celebrated performances by Salman Khan, Harshaali Malhotra, Kareena Kapoor.",
+      "Recognized as a landmark Action title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Bajrangi Bhaijaan?",
+        "answer": "Bajrangi Bhaijaan was directed by Kabir Khan and features prominent performances by Salman Khan, Harshaali Malhotra, Kareena Kapoor."
+      },
+      {
+        "question": "What genres does Bajrangi Bhaijaan belong to?",
+        "answer": "Bajrangi Bhaijaan is classified under Action, Adventure, Comedy, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Bajrangi Bhaijaan?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Bajrangi Bhaijaan in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "4nwAra0mz_Q"
   },
   {
     "id": "36",
@@ -1658,7 +2669,7 @@ export const movies: Movie[] = [
       "Sagarika Ghatge",
       "Shilpa Shukla"
     ],
-    "description": "Kabir Khan, a former hockey star tainted by false allegations of betrayal, seeks redemption by becoming the coach for the underdog Indian Women's National Hockey Team.",
+    "description": "Chak De! India is an acclaimed Hindi Drama and Family film helmed by visionary director Shimit Amin. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Shah Rukh Khan, Vidya Malvade, Sagarika Ghatge, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "poster": "/images/movies/chak-de-india.jpg",
     "imdbRating": 8.1,
     "runtime": 153,
@@ -1692,7 +2703,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Shimit Amin.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Shah Rukh Khan and Vidya Malvade, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Shimit Amin with an acclaimed ensemble cast.",
+      "Features celebrated performances by Shah Rukh Khan, Vidya Malvade, Sagarika Ghatge.",
+      "Recognized as a landmark Drama title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Chak De! India?",
+        "answer": "Chak De! India was directed by Shimit Amin and features prominent performances by Shah Rukh Khan, Vidya Malvade, Sagarika Ghatge."
+      },
+      {
+        "question": "What genres does Chak De! India belong to?",
+        "answer": "Chak De! India is classified under Drama, Family, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Chak De! India?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Chak De! India in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "6a0-dSMWm5g"
   },
   {
     "id": "37",
@@ -1714,7 +2753,7 @@ export const movies: Movie[] = [
       "Sanjay Dutt",
       "Boman Irani"
     ],
-    "description": "An innocent alien stranded on Earth loses the remote to his spaceship and embarks on a quest to find it, questioning religious dogmas and blind faith.",
+    "description": "PK is an acclaimed Hindi Comedy and Drama and Sci-Fi film helmed by visionary director Rajkumar Hirani. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Aamir Khan, Anushka Sharma, Sushant Singh Rajput, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "poster": "/images/movies/pk.jpg",
     "imdbRating": 8.1,
     "runtime": 153,
@@ -1748,7 +2787,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Rajkumar Hirani.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Aamir Khan and Anushka Sharma, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Rajkumar Hirani with an acclaimed ensemble cast.",
+      "Features celebrated performances by Aamir Khan, Anushka Sharma, Sushant Singh Rajput.",
+      "Recognized as a landmark Comedy title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie PK?",
+        "answer": "PK was directed by Rajkumar Hirani and features prominent performances by Aamir Khan, Anushka Sharma, Sushant Singh Rajput."
+      },
+      {
+        "question": "What genres does PK belong to?",
+        "answer": "PK is classified under Comedy, Drama, Sci-Fi, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch PK?",
+        "answer": "You can discover verified subscription, rental, and streaming options for PK in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "SOXWc32k4zA"
   },
   {
     "id": "38",
@@ -1768,7 +2835,7 @@ export const movies: Movie[] = [
       "Pankaj Tripathi",
       "Aparshakti Khurana"
     ],
-    "description": "In the small town of Chanderi, men live in fear of an evil spirit named Stree who abducts men during festival nights, until a tailor and his quirky friends decide to investigate.",
+    "description": "Stree is an acclaimed Hindi Comedy and Horror film helmed by visionary director Amar Kaushik. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Rajkummar Rao, Shraddha Kapoor, Pankaj Tripathi, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "poster": "/images/movies/stree.jpg",
     "imdbRating": 7.5,
     "runtime": 128,
@@ -1802,7 +2869,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Amar Kaushik.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Rajkummar Rao and Shraddha Kapoor, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Amar Kaushik with an acclaimed ensemble cast.",
+      "Features celebrated performances by Rajkummar Rao, Shraddha Kapoor, Pankaj Tripathi.",
+      "Recognized as a landmark Comedy title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Stree?",
+        "answer": "Stree was directed by Amar Kaushik and features prominent performances by Rajkummar Rao, Shraddha Kapoor, Pankaj Tripathi."
+      },
+      {
+        "question": "What genres does Stree belong to?",
+        "answer": "Stree is classified under Comedy, Horror, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Stree?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Stree in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "gzeaGcLLl_A"
   },
   {
     "id": "39",
@@ -1822,7 +2917,7 @@ export const movies: Movie[] = [
       "Anant V Joshi",
       "Anshumaan Pushkar"
     ],
-    "description": "Based on the inspiring real-life journey of Manoj Kumar Sharma, who rose from extreme poverty in Chambal to clear the rigorous UPSC exams to become an IPS officer.",
+    "description": "12th Fail is an inspiring biographical drama chronicling the unbelievable journey of Manoj Kumar Sharma, a humble youth from the Chambal badlands of Madhya Pradesh who overcomes extreme poverty, academic setbacks, and bureaucratic obstacles to become an IPS officer. Growing up in a village where cheating in school was an institutionalized norm, Manoj fails his 12th board exams when an upright police officer, DSP Dushyant Singh, halts mass cheating. Inspired by the officer's unshakeable integrity, Manoj resolves to restart his life and pursue the civil services. Moving to Delhi's Mukherjee Nagar coaching hub with no money, he works night shifts at a flour mill, cleans toilets, and studies under streetlamps while navigating self-doubt. Anchored by his profound love for fellow aspirant Shraddha Joshi and the mentorship of loyal friends, the film is an uplifting celebration of honesty, resilience, and the relentless courage to start again.",
     "poster": "/images/movies/12th-fail.jpg",
     "imdbRating": 8.9,
     "runtime": 147,
@@ -1848,7 +2943,43 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Restart.",
+    "originalTitle": "12th Fail",
+    "releaseDate": "27 October 2023",
+    "writers": [
+      "Vidhu Vinod Chopra",
+      "Jaskunwar Kohli",
+      "Anurag Pathak"
+    ],
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Vinod Chopra Films",
+      "Zee Studios"
+    ],
+    "ageRating": "U",
+    "budget": "₹20 Crore",
+    "boxOffice": "₹69 Crore",
+    "awards": [
+      "Five Filmfare Awards including Best Film, Best Director, and Best Actor (Critics)"
+    ],
+    "worthWatching": "A profoundly moving, universally inspiring triumph of storytelling featuring a powerhouse lead performance by Vikrant Massey that moved audiences across the world.",
+    "highlights": [
+      "Based on Anurag Pathak's bestselling non-fiction biography of real-life IPS officer Manoj Kumar Sharma and IRS officer Shraddha Joshi.",
+      "Vikrant Massey won unanimous acclaim and the Filmfare Critics Award for Best Actor for his authentic, deeply vulnerable performance.",
+      "Directed by veteran filmmaker Vidhu Vinod Chopra, returning to independent, emotionally raw filmmaking."
+    ],
+    "faq": [
+      {
+        "question": "Is 12th Fail a true story?",
+        "answer": "Yes, 12th Fail is based on the real-life struggles and ultimate triumph of IPS officer Manoj Kumar Sharma."
+      },
+      {
+        "question": "What is the meaning of 'Restart' in the movie?",
+        "answer": "'Restart' is Manoj's rallying cry, symbolizing that failure in any exam or life hurdle is never the end, and one can always begin anew with honesty and dedication."
+      }
+    ],
+    "trailerYoutubeId": "KjbtuqENvVE"
   },
   {
     "id": "40",
@@ -1869,7 +3000,7 @@ export const movies: Movie[] = [
       "Shriya Saran",
       "Kamlesh Sawant"
     ],
-    "description": "Desperate measures are taken by a movie-loving cable operator who tries to save his family from the dark side of the law after they commit an accidental crime.",
+    "description": "Drishyam is an acclaimed Hindi Crime and Drama and Thriller film helmed by visionary director Nishikant Kamat. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Ajay Devgn, Tabu, Shriya Saran, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "poster": "/images/movies/drishyam-hindi.jpg",
     "imdbRating": 8.2,
     "runtime": 163,
@@ -1911,7 +3042,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Crime masterpiece from Nishikant Kamat.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Ajay Devgn and Tabu, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Nishikant Kamat with an acclaimed ensemble cast.",
+      "Features celebrated performances by Ajay Devgn, Tabu, Shriya Saran.",
+      "Recognized as a landmark Crime title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Drishyam?",
+        "answer": "Drishyam was directed by Nishikant Kamat and features prominent performances by Ajay Devgn, Tabu, Shriya Saran."
+      },
+      {
+        "question": "What genres does Drishyam belong to?",
+        "answer": "Drishyam is classified under Crime, Drama, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Drishyam?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Drishyam in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "64xJLmcA2K8"
   },
   {
     "id": "41",
@@ -1930,7 +3089,7 @@ export const movies: Movie[] = [
       "Bob Gunton",
       "William Sadler"
     ],
-    "description": "Over the course of several years, two convicts form a friendship, seeking solace and, eventually, redemption through basic compassion.",
+    "description": "The Shawshank Redemption is an acclaimed English Drama film helmed by visionary director Frank Darabont. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Tim Robbins, Morgan Freeman, Bob Gunton, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "poster": "/images/movies/shawshank-redemption.jpg",
     "imdbRating": 9.3,
     "runtime": 142,
@@ -1964,7 +3123,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Frank Darabont.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Tim Robbins and Morgan Freeman, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Frank Darabont with an acclaimed ensemble cast.",
+      "Features celebrated performances by Tim Robbins, Morgan Freeman, Bob Gunton.",
+      "Recognized as a landmark Drama title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie The Shawshank Redemption?",
+        "answer": "The Shawshank Redemption was directed by Frank Darabont and features prominent performances by Tim Robbins, Morgan Freeman, Bob Gunton."
+      },
+      {
+        "question": "What genres does The Shawshank Redemption belong to?",
+        "answer": "The Shawshank Redemption is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch The Shawshank Redemption?",
+        "answer": "You can discover verified subscription, rental, and streaming options for The Shawshank Redemption in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "NmzuHjWmXOc"
   },
   {
     "id": "42",
@@ -1985,7 +3172,7 @@ export const movies: Movie[] = [
       "Robert Duvall",
       "Diane Keaton"
     ],
-    "description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+    "description": "The Godfather is an acclaimed English Crime and Drama film helmed by visionary director Francis Ford Coppola. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Marlon Brando, Al Pacino, James Caan, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "poster": "/images/movies/godfather.jpg",
     "imdbRating": 9.2,
     "runtime": 175,
@@ -2035,7 +3222,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Crime masterpiece from Francis Ford Coppola.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Marlon Brando and Al Pacino, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Francis Ford Coppola with an acclaimed ensemble cast.",
+      "Features celebrated performances by Marlon Brando, Al Pacino, James Caan.",
+      "Recognized as a landmark Crime title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie The Godfather?",
+        "answer": "The Godfather was directed by Francis Ford Coppola and features prominent performances by Marlon Brando, Al Pacino, James Caan."
+      },
+      {
+        "question": "What genres does The Godfather belong to?",
+        "answer": "The Godfather is classified under Crime, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch The Godfather?",
+        "answer": "You can discover verified subscription, rental, and streaming options for The Godfather in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "UaVTIH8mujA"
   },
   {
     "id": "43",
@@ -2057,7 +3272,7 @@ export const movies: Movie[] = [
       "Michael Caine",
       "Gary Oldman"
     ],
-    "description": "When the menace known as the Joker wreaks havoc and chaos on Gotham City, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "description": "The Dark Knight elevates the superhero genre into a towering philosophical crime epic examining justice, morality, and civil order. One year after dismantling Gotham's organized mob networks, Bruce Wayne continues his crusade as Batman alongside newly appointed District Attorney Harvey Dent and Lieutenant Jim Gordon. Together, they form an unshakeable triumvirate aiming to purge Gotham of corruption once and for all. However, their orderly progress is violently shattered by the emergence of the Joker—a sadistic, nihilistic criminal mastermind who seeks not wealth or power, but absolute ideological anarchy. As the Joker forces Gotham's citizens and leaders into harrowing ethical traps, Batman is pushed to his absolute physical and psychological limits, forcing him to choose between saving the city's soul and preserving his own heroic code.",
     "poster": "/images/movies/the-dark-knight.jpg",
     "imdbRating": 9,
     "runtime": 152,
@@ -2107,7 +3322,45 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Why so serious?",
+    "originalTitle": "The Dark Knight",
+    "releaseDate": "18 July 2008",
+    "writers": [
+      "Jonathan Nolan",
+      "Christopher Nolan",
+      "David S. Goyer"
+    ],
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros.",
+      "Legendary Entertainment",
+      "Syncopy"
+    ],
+    "ageRating": "PG-13",
+    "budget": "$185 Million",
+    "boxOffice": "$1.006 Billion",
+    "awards": [
+      "Two Academy Awards including Best Supporting Actor for Heath Ledger",
+      "Eight Oscar Nominations"
+    ],
+    "worthWatching": "Widely heralded as the greatest comic-book film in cinema history, propelled by Christopher Nolan's taut neo-noir direction and Heath Ledger's immortal, Oscar-winning portrayal of the Joker.",
+    "highlights": [
+      "Heath Ledger posthumously won the Academy Award for Best Supporting Actor for his transformative, genre-defining turn as the Joker.",
+      "The first major Hollywood feature to film sequence shots using high-resolution 70mm IMAX cameras.",
+      "Inducted into the United States National Film Registry by the Library of Congress in 2020."
+    ],
+    "faq": [
+      {
+        "question": "Why did Heath Ledger win an Oscar for The Dark Knight?",
+        "answer": "Ledger's chilling, deeply immersed method portrayal of the Joker was universally praised by critics and earned him a historic posthumous Academy Award."
+      },
+      {
+        "question": "Do you need to watch Batman Begins before The Dark Knight?",
+        "answer": "While The Dark Knight works effectively as a standalone psychological crime thriller, watching Batman Begins provides helpful context for Bruce Wayne's origins."
+      }
+    ],
+    "trailerYoutubeId": "RbMnzkcknQ8"
   },
   {
     "id": "44",
@@ -2129,7 +3382,7 @@ export const movies: Movie[] = [
       "Tom Hardy",
       "Ken Watanabe"
     ],
-    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "description": "Inception is a mind-bending sci-fi heist thriller that explores the architecture of the subconscious mind. Dom Cobb is an elite 'extractor'—a master corporate thief who infiltrates the target's dream state to steal valuable secrets from their deepest subconscious during Vulnerable REM sleep. However, Cobb's rare talent has made him an international fugitive, permanently severed from his young children. A lucrative opportunity for redemption arrives when powerful industrialist Saito offers to wipe Cobb's criminal record clean in exchange for performing 'inception'—the nearly impossible feat of planting an idea inside a rival heir's mind rather than stealing one. Cobb assembles a crack team of specialists: an architect, a point man, an identity forger, and a chemist. But as they descend through multiple nested dream levels, Cobb's unresolved guilt and the vengeful projection of his deceased wife Mal threaten to trap them all in endless limbo.",
     "poster": "/images/movies/inception.jpg",
     "imdbRating": 8.8,
     "runtime": 148,
@@ -2187,7 +3440,42 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Your mind is the scene of the crime.",
+    "originalTitle": "Inception",
+    "releaseDate": "16 July 2010",
+    "writers": [
+      "Christopher Nolan"
+    ],
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros.",
+      "Legendary Entertainment",
+      "Syncopy"
+    ],
+    "ageRating": "PG-13",
+    "budget": "$160 Million",
+    "boxOffice": "$837 Million",
+    "awards": [
+      "Four Academy Awards including Best Cinematography and Best Visual Effects"
+    ],
+    "worthWatching": "A breathtaking showcase of visionary world-building and practical effects that set a new benchmark for cerebral Hollywood blockbusters.",
+    "highlights": [
+      "The famous hotel hallway fight sequence was filmed using a massive, custom-built 100-foot rotating centrifuge set.",
+      "Won four Academy Awards including Best Cinematography, Best Sound Editing, Best Sound Mixing, and Best Visual Effects.",
+      "Hans Zimmer's score famously manipulated and slowed down Édith Piaf's 'Non, je ne regrette rien' as the thematic brass motif."
+    ],
+    "faq": [
+      {
+        "question": "Does the spinning top fall at the end of Inception?",
+        "answer": "Christopher Nolan intentionally cuts to black as the top wobbles, emphasizing that Cobb has finally let go of his obsession and accepted his reality with his children."
+      },
+      {
+        "question": "What is a 'totem' in Inception?",
+        "answer": "A totem is a small, uniquely weighted personal object that dream extractors use to verify whether they are in reality or someone else's dream."
+      }
+    ],
+    "trailerYoutubeId": "YoHD9XEInc0"
   },
   {
     "id": "45",
@@ -2208,7 +3496,7 @@ export const movies: Movie[] = [
       "Jessica Chastain",
       "Michael Caine"
     ],
-    "description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft along with a team of researchers to find a new planet for humans.",
+    "description": "In a dystopian mid-21st century where catastrophic crop blight and relentless dust storms slowly suffocate Earth's agricultural ecosystems, humanity stands on the brink of extinction. Cooper, a widowed former NASA test pilot turned reluctant farmer, uncovers mysterious gravitational anomalies that lead him to a subterranean secret installation helmed by Professor John Brand. There, Cooper is recruited for the Endurance mission—a perilous voyage through a newly manifested wormhole near Saturn to explore distant star systems and evaluate three prospective habitable planets. Forced to leave behind his beloved daughter Murphy and son Tom with no guarantee of return, Cooper and his scientific crew voyage across the cosmic abyss. Balancing relativistic time dilation against dwindling planetary timelines, the journey tests the limits of scientific ingenuity, fatherly devotion, and the unyielding will to survive.",
     "poster": "/images/movies/interstellar.jpg",
     "imdbRating": 8.7,
     "runtime": 169,
@@ -2266,7 +3554,45 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Mankind was born on Earth. It was never meant to die here.",
+    "originalTitle": "Interstellar",
+    "releaseDate": "7 November 2014",
+    "writers": [
+      "Jonathan Nolan",
+      "Christopher Nolan"
+    ],
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Syncopy",
+      "Lynda Obst Productions",
+      "Paramount Pictures",
+      "Warner Bros."
+    ],
+    "ageRating": "PG-13",
+    "budget": "$165 Million",
+    "boxOffice": "$731 Million",
+    "awards": [
+      "Academy Award for Best Visual Effects",
+      "Nominated for 5 Academy Awards"
+    ],
+    "worthWatching": "A staggering feat of modern sci-fi cinema pairing rigorous astrophysical science from Nobel laureate Kip Thorne with a heart-wrenching emotional core and Hans Zimmer's monumental score.",
+    "highlights": [
+      "Nobel Prize-winning theoretical physicist Kip Thorne served as scientific consultant and executive producer to ensure accurate depictions of gravitational lensing and black holes.",
+      "The visual effects team pioneered mathematical models of black hole Gargantua that led to real published astrophysics research papers.",
+      "Features Hans Zimmer's thunderous 1926 four-manual Harrison & Harrison organ score recorded at London's Temple Church."
+    ],
+    "faq": [
+      {
+        "question": "What does the ending of Interstellar mean?",
+        "answer": "Cooper enters the black hole Gargantua and discovers a five-dimensional tesseract constructed by future humans, allowing him to communicate gravitationally across time to his daughter Murphy."
+      },
+      {
+        "question": "Is the science in Interstellar realistic?",
+        "answer": "Yes, the film adheres closely to Einstein's general theory of relativity, accurately depicting gravitational time dilation and wormhole physics."
+      }
+    ],
+    "trailerYoutubeId": "zSWdZVtXT7E"
   },
   {
     "id": "46",
@@ -2287,7 +3613,7 @@ export const movies: Movie[] = [
       "Bruce Willis",
       "Ving Rhames"
     ],
-    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "description": "Pulp Fiction is an acclaimed English Crime and Drama film helmed by visionary director Quentin Tarantino. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by John Travolta, Samuel L. Jackson, Uma Thurman, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "poster": "/images/movies/pulp-fiction.jpg",
     "imdbRating": 8.9,
     "runtime": 154,
@@ -2329,7 +3655,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Crime masterpiece from Quentin Tarantino.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by John Travolta and Samuel L. Jackson, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Quentin Tarantino with an acclaimed ensemble cast.",
+      "Features celebrated performances by John Travolta, Samuel L. Jackson, Uma Thurman.",
+      "Recognized as a landmark Crime title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Pulp Fiction?",
+        "answer": "Pulp Fiction was directed by Quentin Tarantino and features prominent performances by John Travolta, Samuel L. Jackson, Uma Thurman."
+      },
+      {
+        "question": "What genres does Pulp Fiction belong to?",
+        "answer": "Pulp Fiction is classified under Crime, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Pulp Fiction?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Pulp Fiction in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "5ZAhzsi1ybM"
   },
   {
     "id": "47",
@@ -2349,7 +3703,7 @@ export const movies: Movie[] = [
       "Gary Sinise",
       "Sally Field"
     ],
-    "description": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+    "description": "Forrest Gump is an acclaimed English Drama and Romance film helmed by visionary director Robert Zemeckis. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Tom Hanks, Robin Wright, Gary Sinise, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "poster": "/images/movies/forrest-gump.jpg",
     "imdbRating": 8.8,
     "runtime": 142,
@@ -2391,7 +3745,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Robert Zemeckis.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Tom Hanks and Robin Wright, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Robert Zemeckis with an acclaimed ensemble cast.",
+      "Features celebrated performances by Tom Hanks, Robin Wright, Gary Sinise.",
+      "Recognized as a landmark Drama title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Forrest Gump?",
+        "answer": "Forrest Gump was directed by Robert Zemeckis and features prominent performances by Tom Hanks, Robin Wright, Gary Sinise."
+      },
+      {
+        "question": "What genres does Forrest Gump belong to?",
+        "answer": "Forrest Gump is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Forrest Gump?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Forrest Gump in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "bLvqoHBptjg"
   },
   {
     "id": "48",
@@ -2411,7 +3793,7 @@ export const movies: Movie[] = [
       "Carrie-Anne Moss",
       "Hugo Weaving"
     ],
-    "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+    "description": "The Matrix is an acclaimed English Action and Sci-Fi film helmed by visionary director Lana Wachowski, Lilly Wachowski. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "poster": "/images/movies/the-matrix.jpg",
     "imdbRating": 8.7,
     "runtime": 136,
@@ -2461,7 +3843,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Lana Wachowski, Lilly Wachowski.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Keanu Reeves and Laurence Fishburne, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Lana Wachowski, Lilly Wachowski with an acclaimed ensemble cast.",
+      "Features celebrated performances by Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss.",
+      "Recognized as a landmark Action title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie The Matrix?",
+        "answer": "The Matrix was directed by Lana Wachowski, Lilly Wachowski and features prominent performances by Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss."
+      },
+      {
+        "question": "What genres does The Matrix belong to?",
+        "answer": "The Matrix is classified under Action, Sci-Fi, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch The Matrix?",
+        "answer": "You can discover verified subscription, rental, and streaming options for The Matrix in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "AD_8i1xRyTA"
   },
   {
     "id": "49",
@@ -2482,7 +3892,7 @@ export const movies: Movie[] = [
       "Connie Nielsen",
       "Oliver Reed"
     ],
-    "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "description": "Gladiator is an acclaimed English Action and Adventure and Drama film helmed by visionary director Ridley Scott. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Russell Crowe, Joaquin Phoenix, Connie Nielsen, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "poster": "/images/movies/gladiator.jpg",
     "imdbRating": 8.5,
     "runtime": 155,
@@ -2532,7 +3942,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Ridley Scott.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Russell Crowe and Joaquin Phoenix, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Ridley Scott with an acclaimed ensemble cast.",
+      "Features celebrated performances by Russell Crowe, Joaquin Phoenix, Connie Nielsen.",
+      "Recognized as a landmark Action title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Gladiator?",
+        "answer": "Gladiator was directed by Ridley Scott and features prominent performances by Russell Crowe, Joaquin Phoenix, Connie Nielsen."
+      },
+      {
+        "question": "What genres does Gladiator belong to?",
+        "answer": "Gladiator is classified under Action, Adventure, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Gladiator?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Gladiator in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "KQ8c9eGqsU0"
   },
   {
     "id": "50",
@@ -2552,7 +3990,7 @@ export const movies: Movie[] = [
       "Billy Zane",
       "Kathy Bates"
     ],
-    "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+    "description": "Titanic is an acclaimed English Drama and Romance film helmed by visionary director James Cameron. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Leonardo DiCaprio, Kate Winslet, Billy Zane, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "poster": "/images/movies/titanic.jpg",
     "imdbRating": 7.9,
     "runtime": 194,
@@ -2570,7 +4008,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from James Cameron.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Leonardo DiCaprio and Kate Winslet, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker James Cameron with an acclaimed ensemble cast.",
+      "Features celebrated performances by Leonardo DiCaprio, Kate Winslet, Billy Zane.",
+      "Recognized as a landmark Drama title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Titanic?",
+        "answer": "Titanic was directed by James Cameron and features prominent performances by Leonardo DiCaprio, Kate Winslet, Billy Zane."
+      },
+      {
+        "question": "What genres does Titanic belong to?",
+        "answer": "Titanic is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Titanic?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Titanic in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "CHekzSiZjrY"
   },
   {
     "id": "51",
@@ -2592,7 +4058,7 @@ export const movies: Movie[] = [
       "Robert Downey Jr.",
       "Florence Pugh"
     ],
-    "description": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb during the Manhattan Project.",
+    "description": "Oppenheimer is an acclaimed English Biography and Drama and Historical film helmed by visionary director Christopher Nolan. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Cillian Murphy, Emily Blunt, Matt Damon, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "poster": "/images/movies/oppenheimer.jpg",
     "imdbRating": 8.9,
     "runtime": 180,
@@ -2642,7 +4108,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Biography masterpiece from Christopher Nolan.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Cillian Murphy and Emily Blunt, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Christopher Nolan with an acclaimed ensemble cast.",
+      "Features celebrated performances by Cillian Murphy, Emily Blunt, Matt Damon.",
+      "Recognized as a landmark Biography title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Oppenheimer?",
+        "answer": "Oppenheimer was directed by Christopher Nolan and features prominent performances by Cillian Murphy, Emily Blunt, Matt Damon."
+      },
+      {
+        "question": "What genres does Oppenheimer belong to?",
+        "answer": "Oppenheimer is classified under Biography, Drama, Historical, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Oppenheimer?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Oppenheimer in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "SdHe-JseJfQ"
   },
   {
     "id": "52",
@@ -2664,7 +4158,7 @@ export const movies: Movie[] = [
       "Chris Hemsworth",
       "Scarlett Johansson"
     ],
-    "description": "After the devastating events of Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more to reverse Thanos' actions.",
+    "description": "Avengers: Endgame is an acclaimed English Action and Adventure and Sci-Fi film helmed by visionary director Anthony Russo, Joe Russo. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Robert Downey Jr., Chris Evans, Mark Ruffalo, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "poster": "/images/movies/avengers-endgame.jpg",
     "imdbRating": 8.4,
     "runtime": 181,
@@ -2690,7 +4184,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Anthony Russo, Joe Russo.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Robert Downey Jr. and Chris Evans, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Anthony Russo, Joe Russo with an acclaimed ensemble cast.",
+      "Features celebrated performances by Robert Downey Jr., Chris Evans, Mark Ruffalo.",
+      "Recognized as a landmark Action title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Avengers: Endgame?",
+        "answer": "Avengers: Endgame was directed by Anthony Russo, Joe Russo and features prominent performances by Robert Downey Jr., Chris Evans, Mark Ruffalo."
+      },
+      {
+        "question": "What genres does Avengers: Endgame belong to?",
+        "answer": "Avengers: Endgame is classified under Action, Adventure, Sci-Fi, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Avengers: Endgame?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Avengers: Endgame in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "LPhqL4DqzBg"
   },
   {
     "id": "53",
@@ -2711,7 +4233,7 @@ export const movies: Movie[] = [
       "Jeff Goldblum",
       "Richard Attenborough"
     ],
-    "description": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+    "description": "Jurassic Park is an acclaimed English Action and Adventure and Sci-Fi film helmed by visionary director Steven Spielberg. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Sam Neill, Laura Dern, Jeff Goldblum, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "poster": "/images/movies/jurassic-park.jpg",
     "imdbRating": 8.2,
     "runtime": 127,
@@ -2769,7 +4291,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Steven Spielberg.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Sam Neill and Laura Dern, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Steven Spielberg with an acclaimed ensemble cast.",
+      "Features celebrated performances by Sam Neill, Laura Dern, Jeff Goldblum.",
+      "Recognized as a landmark Action title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Jurassic Park?",
+        "answer": "Jurassic Park was directed by Steven Spielberg and features prominent performances by Sam Neill, Laura Dern, Jeff Goldblum."
+      },
+      {
+        "question": "What genres does Jurassic Park belong to?",
+        "answer": "Jurassic Park is classified under Action, Adventure, Sci-Fi, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Jurassic Park?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Jurassic Park in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "gyGUMpsV3wg"
   },
   {
     "id": "54",
@@ -2788,7 +4338,7 @@ export const movies: Movie[] = [
       "Helena Bonham Carter",
       "Meat Loaf"
     ],
-    "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "description": "Fight Club is an acclaimed English Drama film helmed by visionary director David Fincher. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Brad Pitt, Edward Norton, Helena Bonham Carter, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "poster": "/images/movies/fight-club.jpg",
     "imdbRating": 8.8,
     "runtime": 139,
@@ -2806,7 +4356,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from David Fincher.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Brad Pitt and Edward Norton, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker David Fincher with an acclaimed ensemble cast.",
+      "Features celebrated performances by Brad Pitt, Edward Norton, Helena Bonham Carter.",
+      "Recognized as a landmark Drama title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Fight Club?",
+        "answer": "Fight Club was directed by David Fincher and features prominent performances by Brad Pitt, Edward Norton, Helena Bonham Carter."
+      },
+      {
+        "question": "What genres does Fight Club belong to?",
+        "answer": "Fight Club is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Fight Club?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Fight Club in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "qtRKdVHc-cE"
   },
   {
     "id": "55",
@@ -2827,7 +4405,7 @@ export const movies: Movie[] = [
       "Ian McKellen",
       "Orlando Bloom"
     ],
-    "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "description": "The Lord of the Rings: The Return of the King is an acclaimed English Action and Adventure and Drama film helmed by visionary director Peter Jackson. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Elijah Wood, Viggo Mortensen, Ian McKellen, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "poster": "/images/movies/lotr-return-of-the-king.jpg",
     "imdbRating": 9,
     "runtime": 201,
@@ -2885,7 +4463,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Peter Jackson.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Elijah Wood and Viggo Mortensen, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Peter Jackson with an acclaimed ensemble cast.",
+      "Features celebrated performances by Elijah Wood, Viggo Mortensen, Ian McKellen.",
+      "Recognized as a landmark Action title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie The Lord of the Rings: The Return of the King?",
+        "answer": "The Lord of the Rings: The Return of the King was directed by Peter Jackson and features prominent performances by Elijah Wood, Viggo Mortensen, Ian McKellen."
+      },
+      {
+        "question": "What genres does The Lord of the Rings: The Return of the King belong to?",
+        "answer": "The Lord of the Rings: The Return of the King is classified under Action, Adventure, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch The Lord of the Rings: The Return of the King?",
+        "answer": "You can discover verified subscription, rental, and streaming options for The Lord of the Rings: The Return of the King in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "Uc4dE4LJ3xQ"
   },
   {
     "id": "56",
@@ -2906,7 +4512,7 @@ export const movies: Movie[] = [
       "Scarlett Johansson",
       "Michael Caine"
     ],
-    "description": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+    "description": "The Prestige is an acclaimed English Drama and Mystery and Sci-Fi film helmed by visionary director Christopher Nolan. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Christian Bale, Hugh Jackman, Scarlett Johansson, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "poster": "/images/movies/the-prestige.jpg",
     "imdbRating": 8.5,
     "runtime": 130,
@@ -2948,7 +4554,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Christopher Nolan.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Christian Bale and Hugh Jackman, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Christopher Nolan with an acclaimed ensemble cast.",
+      "Features celebrated performances by Christian Bale, Hugh Jackman, Scarlett Johansson.",
+      "Recognized as a landmark Drama title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie The Prestige?",
+        "answer": "The Prestige was directed by Christopher Nolan and features prominent performances by Christian Bale, Hugh Jackman, Scarlett Johansson."
+      },
+      {
+        "question": "What genres does The Prestige belong to?",
+        "answer": "The Prestige is classified under Drama, Mystery, Sci-Fi, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch The Prestige?",
+        "answer": "You can discover verified subscription, rental, and streaming options for The Prestige in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "l04cuo64YBI"
   },
   {
     "id": "57",
@@ -2967,7 +4601,7 @@ export const movies: Movie[] = [
       "Paul Reiser",
       "Melissa Benoist"
     ],
-    "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+    "description": "Whiplash is an acclaimed English Drama film helmed by visionary director Damien Chazelle. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Miles Teller, J.K. Simmons, Paul Reiser, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "poster": "/images/movies/whiplash.jpg",
     "imdbRating": 8.5,
     "runtime": 106,
@@ -2993,7 +4627,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Damien Chazelle.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Miles Teller and J.K. Simmons, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Damien Chazelle with an acclaimed ensemble cast.",
+      "Features celebrated performances by Miles Teller, J.K. Simmons, Paul Reiser.",
+      "Recognized as a landmark Drama title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Whiplash?",
+        "answer": "Whiplash was directed by Damien Chazelle and features prominent performances by Miles Teller, J.K. Simmons, Paul Reiser."
+      },
+      {
+        "question": "What genres does Whiplash belong to?",
+        "answer": "Whiplash is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Whiplash?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Whiplash in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "7d_jQycdQGo"
   },
   {
     "id": "58",
@@ -3015,7 +4677,7 @@ export const movies: Movie[] = [
       "Javier Bardem",
       "Austin Butler"
     ],
-    "description": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family, facing a choice between love and the fate of the universe.",
+    "description": "Dune: Part Two is an acclaimed English Action and Adventure and Sci-Fi film helmed by visionary director Denis Villeneuve. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Timothée Chalamet, Zendaya, Rebecca Ferguson, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "poster": "/images/movies/dune-part-two.jpg",
     "imdbRating": 8.6,
     "runtime": 166,
@@ -3057,7 +4719,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Denis Villeneuve.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Timothée Chalamet and Zendaya, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Denis Villeneuve with an acclaimed ensemble cast.",
+      "Features celebrated performances by Timothée Chalamet, Zendaya, Rebecca Ferguson.",
+      "Recognized as a landmark Action title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Dune: Part Two?",
+        "answer": "Dune: Part Two was directed by Denis Villeneuve and features prominent performances by Timothée Chalamet, Zendaya, Rebecca Ferguson."
+      },
+      {
+        "question": "What genres does Dune: Part Two belong to?",
+        "answer": "Dune: Part Two is classified under Action, Adventure, Sci-Fi, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Dune: Part Two?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Dune: Part Two in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "NQ7pfqxYPj0"
   },
   {
     "id": "59",
@@ -3078,7 +4768,7 @@ export const movies: Movie[] = [
       "Hailee Steinfeld",
       "Mahershala Ali"
     ],
-    "description": "Teen Miles Morales becomes the new Spider-Man and joins other Spider-Heroes from parallel dimensions to stop a threat to all reality.",
+    "description": "Spider-Man: Into the Spider-Verse is an acclaimed English Action and Adventure and Sci-Fi film helmed by visionary director Bob Persichetti, Peter Ramsey, Rodney Rothman. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Shameik Moore, Jake Johnson, Hailee Steinfeld, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "poster": "/images/movies/spider-man-spider-verse.jpg",
     "imdbRating": 8.4,
     "runtime": 117,
@@ -3152,7 +4842,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Bob Persichetti, Peter Ramsey, Rodney Rothman.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Shameik Moore and Jake Johnson, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Bob Persichetti, Peter Ramsey, Rodney Rothman with an acclaimed ensemble cast.",
+      "Features celebrated performances by Shameik Moore, Jake Johnson, Hailee Steinfeld.",
+      "Recognized as a landmark Action title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Spider-Man: Into the Spider-Verse?",
+        "answer": "Spider-Man: Into the Spider-Verse was directed by Bob Persichetti, Peter Ramsey, Rodney Rothman and features prominent performances by Shameik Moore, Jake Johnson, Hailee Steinfeld."
+      },
+      {
+        "question": "What genres does Spider-Man: Into the Spider-Verse belong to?",
+        "answer": "Spider-Man: Into the Spider-Verse is classified under Action, Adventure, Sci-Fi, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Spider-Man: Into the Spider-Verse?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Spider-Man: Into the Spider-Verse in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "LXCaGFnbHfY"
   },
   {
     "id": "60",
@@ -3172,7 +4890,7 @@ export const movies: Movie[] = [
       "Paul Henreid",
       "Claude Rains"
     ],
-    "description": "A cynical expatriate American cafe owner in WWII Morocco struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis.",
+    "description": "Casablanca is an acclaimed English Drama and Romance film helmed by visionary director Michael Curtiz. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Humphrey Bogart, Ingrid Bergman, Paul Henreid, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "poster": "/images/movies/casablanca.jpg",
     "imdbRating": 8.5,
     "runtime": 102,
@@ -3206,7 +4924,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Michael Curtiz.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Humphrey Bogart and Ingrid Bergman, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Michael Curtiz with an acclaimed ensemble cast.",
+      "Features celebrated performances by Humphrey Bogart, Ingrid Bergman, Paul Henreid.",
+      "Recognized as a landmark Drama title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Casablanca?",
+        "answer": "Casablanca was directed by Michael Curtiz and features prominent performances by Humphrey Bogart, Ingrid Bergman, Paul Henreid."
+      },
+      {
+        "question": "What genres does Casablanca belong to?",
+        "answer": "Casablanca is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Casablanca?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Casablanca in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "BkL9l7qovsE"
   },
   {
     "id": "61",
@@ -3226,7 +4972,7 @@ export const movies: Movie[] = [
       "Delhi Ganesh",
       "Janagaraj"
     ],
-    "description": "A common man's journey to becoming a powerful, revered underworld godfather in Bombay, protecting the downtrodden while wrestling with personal tragedy.",
+    "description": "Nayakan is an acclaimed Tamil Crime and Drama film helmed by visionary director Mani Ratnam. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Kamal Haasan, Saranya Ponvannan, Delhi Ganesh, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "poster": "/images/movies/nayakan.jpg",
     "imdbRating": 8.7,
     "runtime": 173,
@@ -3252,7 +4998,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Crime masterpiece from Mani Ratnam.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Kamal Haasan and Saranya Ponvannan, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Mani Ratnam with an acclaimed ensemble cast.",
+      "Features celebrated performances by Kamal Haasan, Saranya Ponvannan, Delhi Ganesh.",
+      "Recognized as a landmark Crime title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Nayakan?",
+        "answer": "Nayakan was directed by Mani Ratnam and features prominent performances by Kamal Haasan, Saranya Ponvannan, Delhi Ganesh."
+      },
+      {
+        "question": "What genres does Nayakan belong to?",
+        "answer": "Nayakan is classified under Crime, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Nayakan?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Nayakan in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "1S6YkmYvgi8"
   },
   {
     "id": "62",
@@ -3272,7 +5046,7 @@ export const movies: Movie[] = [
       "Kiran Rathod",
       "Nassar"
     ],
-    "description": "Two men of contrasting personalities, an arrogant commercial filmmaker and a scarred communist with a heart of gold, embark on an eventful unexpected journey together.",
+    "description": "Anbe Sivam is an acclaimed Tamil Comedy and Drama film helmed by visionary director Sundar C.. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Kamal Haasan, Madhavan, Kiran Rathod, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "poster": "/images/movies/anbe-sivam.jpg",
     "imdbRating": 8.6,
     "runtime": 160,
@@ -3298,7 +5072,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Sundar C..",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Kamal Haasan and Madhavan, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Sundar C. with an acclaimed ensemble cast.",
+      "Features celebrated performances by Kamal Haasan, Madhavan, Kiran Rathod.",
+      "Recognized as a landmark Comedy title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Anbe Sivam?",
+        "answer": "Anbe Sivam was directed by Sundar C. and features prominent performances by Kamal Haasan, Madhavan, Kiran Rathod."
+      },
+      {
+        "question": "What genres does Anbe Sivam belong to?",
+        "answer": "Anbe Sivam is classified under Comedy, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Anbe Sivam?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Anbe Sivam in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "lPLN69KAukE"
   },
   {
     "id": "63",
@@ -3319,7 +5121,7 @@ export const movies: Movie[] = [
       "Shraddha Srinath",
       "Varalaxmi Sarathkumar"
     ],
-    "description": "A pragmatic police inspector Vikram hunts down a notorious gangster Vedha, who voluntary surrenders and challenges him to riddle-like stories that blur good and evil.",
+    "description": "Vikram Vedha is an acclaimed Tamil Action and Crime and Drama film helmed by visionary director Pushkar–Gayathri. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Madhavan, Vijay Sethupathi, Shraddha Srinath, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "poster": "/images/movies/vikram-vedha.jpg",
     "imdbRating": 8.2,
     "runtime": 147,
@@ -3369,7 +5171,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Pushkar–Gayathri.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Madhavan and Vijay Sethupathi, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Pushkar–Gayathri with an acclaimed ensemble cast.",
+      "Features celebrated performances by Madhavan, Vijay Sethupathi, Shraddha Srinath.",
+      "Recognized as a landmark Action title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Vikram Vedha?",
+        "answer": "Vikram Vedha was directed by Pushkar–Gayathri and features prominent performances by Madhavan, Vijay Sethupathi, Shraddha Srinath."
+      },
+      {
+        "question": "What genres does Vikram Vedha belong to?",
+        "answer": "Vikram Vedha is classified under Action, Crime, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Vikram Vedha?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Vikram Vedha in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "eLucCWmf6V4"
   },
   {
     "id": "64",
@@ -3390,7 +5220,7 @@ export const movies: Movie[] = [
       "Samantha Ruth Prabhu",
       "Ramya Krishnan"
     ],
-    "description": "An unfaithful newly-wed wife, an estranged father, a priest, and an ambitious teenager find themselves in the most unexpected predicaments on one eventful day.",
+    "description": "Super Deluxe is an acclaimed Tamil Crime and Drama and Thriller film helmed by visionary director Thiagarajan Kumararaja. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Vijay Sethupathi, Fahadh Faasil, Samantha Ruth Prabhu, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "poster": "/images/movies/super-deluxe.jpg",
     "imdbRating": 8.3,
     "runtime": 176,
@@ -3416,7 +5246,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Crime masterpiece from Thiagarajan Kumararaja.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Vijay Sethupathi and Fahadh Faasil, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Thiagarajan Kumararaja with an acclaimed ensemble cast.",
+      "Features celebrated performances by Vijay Sethupathi, Fahadh Faasil, Samantha Ruth Prabhu.",
+      "Recognized as a landmark Crime title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Super Deluxe?",
+        "answer": "Super Deluxe was directed by Thiagarajan Kumararaja and features prominent performances by Vijay Sethupathi, Fahadh Faasil, Samantha Ruth Prabhu."
+      },
+      {
+        "question": "What genres does Super Deluxe belong to?",
+        "answer": "Super Deluxe is classified under Crime, Drama, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Super Deluxe?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Super Deluxe in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "3-Xq_Zz3nPA"
   },
   {
     "id": "65",
@@ -3436,7 +5294,7 @@ export const movies: Movie[] = [
       "Ken Karunas",
       "Prakash Raj"
     ],
-    "description": "A farmer from an underprivileged caste fights against the brutality of an oppressive upper-caste landlord family to protect his son from violent retribution.",
+    "description": "Asuran is an acclaimed Tamil Action and Drama film helmed by visionary director Vetrimaaran. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Dhanush, Manju Warrier, Ken Karunas, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "poster": "/images/movies/asuran.jpg",
     "imdbRating": 8.4,
     "runtime": 141,
@@ -3462,7 +5320,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Vetrimaaran.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Dhanush and Manju Warrier, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Vetrimaaran with an acclaimed ensemble cast.",
+      "Features celebrated performances by Dhanush, Manju Warrier, Ken Karunas.",
+      "Recognized as a landmark Action title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Asuran?",
+        "answer": "Asuran was directed by Vetrimaaran and features prominent performances by Dhanush, Manju Warrier, Ken Karunas."
+      },
+      {
+        "question": "What genres does Asuran belong to?",
+        "answer": "Asuran is classified under Action, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Asuran?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Asuran in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "vOCM9wztBYQ"
   },
   {
     "id": "66",
@@ -3482,7 +5368,7 @@ export const movies: Movie[] = [
       "Paresh Rawal",
       "Urvashi"
     ],
-    "description": "Nedumaaran Rajangam, a former Indian Air Force captain, dreams of launching a low-cost airline that allows common people to fly, overcoming bureaucratic mafia resistance.",
+    "description": "Soorarai Pottru is an acclaimed Tamil Action and Drama film helmed by visionary director Sudha Kongara. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Suriya, Aparna Balamurali, Paresh Rawal, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "poster": "/images/movies/soorarai-pottru.jpg",
     "imdbRating": 8.7,
     "runtime": 153,
@@ -3524,7 +5410,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Sudha Kongara.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Suriya and Aparna Balamurali, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Sudha Kongara with an acclaimed ensemble cast.",
+      "Features celebrated performances by Suriya, Aparna Balamurali, Paresh Rawal.",
+      "Recognized as a landmark Action title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Soorarai Pottru?",
+        "answer": "Soorarai Pottru was directed by Sudha Kongara and features prominent performances by Suriya, Aparna Balamurali, Paresh Rawal."
+      },
+      {
+        "question": "What genres does Soorarai Pottru belong to?",
+        "answer": "Soorarai Pottru is classified under Action, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Soorarai Pottru?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Soorarai Pottru in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "fa_DIwRsa9o"
   },
   {
     "id": "67",
@@ -3545,7 +5459,7 @@ export const movies: Movie[] = [
       "Manikandan",
       "Rajisha Vijayan"
     ],
-    "description": "When a tribal man is falsely arrested and goes missing from police custody, a courageous human rights lawyer takes up the habeas corpus battle to secure justice.",
+    "description": "Jai Bhim is an acclaimed Tamil Crime and Drama and Mystery film helmed by visionary director T. J. Gnanavel. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Suriya, Lijomol Jose, Manikandan, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "poster": "/images/movies/jai-bhim.jpg",
     "imdbRating": 8.8,
     "runtime": 164,
@@ -3595,7 +5509,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Crime masterpiece from T. J. Gnanavel.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Suriya and Lijomol Jose, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker T. J. Gnanavel with an acclaimed ensemble cast.",
+      "Features celebrated performances by Suriya, Lijomol Jose, Manikandan.",
+      "Recognized as a landmark Crime title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Jai Bhim?",
+        "answer": "Jai Bhim was directed by T. J. Gnanavel and features prominent performances by Suriya, Lijomol Jose, Manikandan."
+      },
+      {
+        "question": "What genres does Jai Bhim belong to?",
+        "answer": "Jai Bhim is classified under Crime, Drama, Mystery, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Jai Bhim?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Jai Bhim in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "nnXpbTFrqXA"
   },
   {
     "id": "68",
@@ -3616,7 +5558,7 @@ export const movies: Movie[] = [
       "Fahadh Faasil",
       "Suriya"
     ],
-    "description": "A special investigator assigned to a case of serial killings uncovers a war waged by masked vigilantes against an illicit drug syndicate.",
+    "description": "Vikram is an acclaimed Tamil Action and Crime and Thriller film helmed by visionary director Lokesh Kanagaraj. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Kamal Haasan, Vijay Sethupathi, Fahadh Faasil, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "poster": "/images/movies/vikram.jpg",
     "imdbRating": 8.3,
     "runtime": 175,
@@ -3642,7 +5584,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Lokesh Kanagaraj.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Kamal Haasan and Vijay Sethupathi, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Lokesh Kanagaraj with an acclaimed ensemble cast.",
+      "Features celebrated performances by Kamal Haasan, Vijay Sethupathi, Fahadh Faasil.",
+      "Recognized as a landmark Action title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Vikram?",
+        "answer": "Vikram was directed by Lokesh Kanagaraj and features prominent performances by Kamal Haasan, Vijay Sethupathi, Fahadh Faasil."
+      },
+      {
+        "question": "What genres does Vikram belong to?",
+        "answer": "Vikram is classified under Action, Crime, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Vikram?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Vikram in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "L4LWIXngIG0"
   },
   {
     "id": "69",
@@ -3663,7 +5633,7 @@ export const movies: Movie[] = [
       "Arjun Das",
       "George Maryan"
     ],
-    "description": "A newly released prisoner on his way to see his daughter for the first time is compelled to drive a truck full of poisoned cops to safety through a siege of armed cartel thugs.",
+    "description": "Kaithi is an acclaimed Tamil Action and Crime and Thriller film helmed by visionary director Lokesh Kanagaraj. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Karthi, Narain, Arjun Das, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "poster": "/images/movies/kaithi.jpg",
     "imdbRating": 8.4,
     "runtime": 145,
@@ -3705,7 +5675,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Lokesh Kanagaraj.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Karthi and Narain, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Lokesh Kanagaraj with an acclaimed ensemble cast.",
+      "Features celebrated performances by Karthi, Narain, Arjun Das.",
+      "Recognized as a landmark Action title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Kaithi?",
+        "answer": "Kaithi was directed by Lokesh Kanagaraj and features prominent performances by Karthi, Narain, Arjun Das."
+      },
+      {
+        "question": "What genres does Kaithi belong to?",
+        "answer": "Kaithi is classified under Action, Crime, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Kaithi?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Kaithi in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "E6yEXkk3MyM"
   },
   {
     "id": "70",
@@ -3725,7 +5723,7 @@ export const movies: Movie[] = [
       "Gouri G. Kishan",
       "Adithya Bhaskar"
     ],
-    "description": "Two high school sweethearts from the class of 1996 meet again at a reunion after 22 years, reigniting nostalgic memories and unfulfilled feelings.",
+    "description": "96 is an acclaimed Tamil Drama and Romance film helmed by visionary director C. Prem Kumar. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Vijay Sethupathi, Trisha Krishnan, Gouri G. Kishan, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "poster": "/images/movies/96-tamil.jpg",
     "imdbRating": 8.5,
     "runtime": 158,
@@ -3767,7 +5765,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from C. Prem Kumar.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Vijay Sethupathi and Trisha Krishnan, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker C. Prem Kumar with an acclaimed ensemble cast.",
+      "Features celebrated performances by Vijay Sethupathi, Trisha Krishnan, Gouri G. Kishan.",
+      "Recognized as a landmark Drama title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie 96?",
+        "answer": "96 was directed by C. Prem Kumar and features prominent performances by Vijay Sethupathi, Trisha Krishnan, Gouri G. Kishan."
+      },
+      {
+        "question": "What genres does 96 belong to?",
+        "answer": "96 is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch 96?",
+        "answer": "You can discover verified subscription, rental, and streaming options for 96 in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "AW6E5vXSfXo"
   },
   {
     "id": "71",
@@ -3790,7 +5816,7 @@ export const movies: Movie[] = [
       "Karthi",
       "Trisha"
     ],
-    "description": "Vandiyathevan sets out to cross the Chola land to deliver a message from the Crown Prince Aditha Karikalan, unraveling a plot against the throne.",
+    "description": "Ponniyin Selvan: I is an acclaimed Tamil Action and Adventure and Drama and Historical film helmed by visionary director Mani Ratnam. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Vikram, Aishwarya Rai Bachchan, Jayam Ravi, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "poster": "/images/movies/ponniyin-selvan-1.jpg",
     "imdbRating": 7.6,
     "runtime": 167,
@@ -3832,7 +5858,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Mani Ratnam.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Vikram and Aishwarya Rai Bachchan, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Mani Ratnam with an acclaimed ensemble cast.",
+      "Features celebrated performances by Vikram, Aishwarya Rai Bachchan, Jayam Ravi.",
+      "Recognized as a landmark Action title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Ponniyin Selvan: I?",
+        "answer": "Ponniyin Selvan: I was directed by Mani Ratnam and features prominent performances by Vikram, Aishwarya Rai Bachchan, Jayam Ravi."
+      },
+      {
+        "question": "What genres does Ponniyin Selvan: I belong to?",
+        "answer": "Ponniyin Selvan: I is classified under Action, Adventure, Drama, Historical, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Ponniyin Selvan: I?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Ponniyin Selvan: I in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "kwy1xpqMHsM"
   },
   {
     "id": "72",
@@ -3854,7 +5908,7 @@ export const movies: Movie[] = [
       "Trisha",
       "Gautham Vasudev Menon"
     ],
-    "description": "A mild-mannered cafe owner in Himachal Pradesh becomes a local hero after thwarting an armed robbery, attracting attention from a cartel that claims he is an estranged hitman.",
+    "description": "Leo is an acclaimed Tamil Action and Crime and Drama film helmed by visionary director Lokesh Kanagaraj. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Vijay, Sanjay Dutt, Arjun Sarja, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "poster": "/images/movies/leo-tamil.jpg",
     "imdbRating": 7.2,
     "runtime": 164,
@@ -3872,7 +5926,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Lokesh Kanagaraj.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Vijay and Sanjay Dutt, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Lokesh Kanagaraj with an acclaimed ensemble cast.",
+      "Features celebrated performances by Vijay, Sanjay Dutt, Arjun Sarja.",
+      "Recognized as a landmark Action title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Leo?",
+        "answer": "Leo was directed by Lokesh Kanagaraj and features prominent performances by Vijay, Sanjay Dutt, Arjun Sarja."
+      },
+      {
+        "question": "What genres does Leo belong to?",
+        "answer": "Leo is classified under Action, Crime, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Leo?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Leo in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "3P-t4WRoW5c"
   },
   {
     "id": "73",
@@ -3893,7 +5975,7 @@ export const movies: Movie[] = [
       "Alia Bhatt",
       "Ajay Devgn"
     ],
-    "description": "A fictitious story about two legendary revolutionaries and their journey away from home before they began fighting for their country in the 1920s.",
+    "description": "RRR is a titanic, mythic historical action epic set in 1920s British-occupied India, imagining a fictionalized brotherhood between two legendary freedom fighters before they led their respective historic uprisings. Komaram Bheem, a fierce Gond tribal warrior disguised as Akhtar, travels to Delhi on a covert mission to rescue Malli, a young girl abducted from his tribe by the tyrannical British Governor Scott Buxton. Meanwhile, Alluri Sitarama Raju is an exceptionally skilled, fiercely ambitious officer in the British Indian police force tasked with capturing the mysterious rebel. Unaware of each other's true identities, the two men form an unbreakable bond of loyalty after a thrilling river rescue. When Raju is forced to confront Bheem's mission, their clash of duties explodes into a colossal battle of fire and water, culminating in a historic rebellion for their people's freedom.",
     "poster": "/images/movies/rrr.jpg",
     "imdbRating": 7.8,
     "runtime": 187,
@@ -3927,7 +6009,43 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Rise, Roar, Revolt.",
+    "originalTitle": "రౌద్రం రణం రుధిరం",
+    "releaseDate": "25 March 2022",
+    "writers": [
+      "V. Vijayendra Prasad",
+      "S. S. Rajamouli"
+    ],
+    "productionCountry": "India",
+    "productionCompanies": [
+      "DVV Entertainment"
+    ],
+    "ageRating": "UA",
+    "budget": "₹550 Crore",
+    "boxOffice": "₹1,387 Crore",
+    "awards": [
+      "Academy Award for Best Original Song ('Naatu Naatu')",
+      "Golden Globe for Best Original Song",
+      "Two National Film Awards"
+    ],
+    "worthWatching": "An electrifying global cinema spectacle overflowing with kinetic visual imagination, unmatched stunt choreography, and the Oscar-winning musical tour-de-force 'Naatu Naatu'.",
+    "highlights": [
+      "Made history as the first Indian feature film production to win an Academy Award for Best Original Song for 'Naatu Naatu'.",
+      "Directed by master filmmaker S. S. Rajamouli with lead stars N. T. Rama Rao Jr. and Ram Charan performing breath-taking physical stunts.",
+      "Became an unprecedented worldwide viral phenomenon, earning accolades from top Hollywood directors and critics."
+    ],
+    "faq": [
+      {
+        "question": "What does the acronym RRR stand for?",
+        "answer": "RRR stands for 'Roudram Ranam Rudhiram' in Telugu (and 'Rise, Roar, Revolt' in English), symbolizing rage, battle, and blood."
+      },
+      {
+        "question": "Are Bheem and Raju based on real people?",
+        "answer": "Yes, Komaram Bheem and Alluri Sitarama Raju were genuine revolutionary freedom fighters from Andhra Pradesh and Telangana, though their friendship in the film is a fictionalized tribute."
+      }
+    ],
+    "trailerYoutubeId": "GY4BgdUSpbE"
   },
   {
     "id": "74",
@@ -3949,7 +6067,7 @@ export const movies: Movie[] = [
       "Tamannaah Bhatia",
       "Ramya Krishnan"
     ],
-    "description": "In the kingdom of Mahishmati, a courageous youth raised by tribesmen learns of his royal heritage and embarks on a quest to free the queen from a tyrant's grasp.",
+    "description": "Baahubali: The Beginning is an acclaimed Telugu Action and Drama and Historical film helmed by visionary director S. S. Rajamouli. Set against the distinctive cultural backdrop of Tollywood, the story centers on compelling characters played with nuance by Prabhas, Rana Daggubati, Anushka Shetty, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Telugu cinema.",
     "poster": "/images/movies/baahubali-1.jpg",
     "imdbRating": 8,
     "runtime": 159,
@@ -4007,7 +6125,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from S. S. Rajamouli.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Geetha Arts",
+      "Mythri Movie Makers"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Prabhas and Rana Daggubati, and evocative direction that captures the genuine spirit of Telugu cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker S. S. Rajamouli with an acclaimed ensemble cast.",
+      "Features celebrated performances by Prabhas, Rana Daggubati, Anushka Shetty.",
+      "Recognized as a landmark Action title within the Tollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Baahubali: The Beginning?",
+        "answer": "Baahubali: The Beginning was directed by S. S. Rajamouli and features prominent performances by Prabhas, Rana Daggubati, Anushka Shetty."
+      },
+      {
+        "question": "What genres does Baahubali: The Beginning belong to?",
+        "answer": "Baahubali: The Beginning is classified under Action, Drama, Historical, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Baahubali: The Beginning?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Baahubali: The Beginning in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "3NQRhE772b0"
   },
   {
     "id": "75",
@@ -4029,7 +6175,7 @@ export const movies: Movie[] = [
       "Sathyaraj",
       "Ramya Krishnan"
     ],
-    "description": "Amarendra Baahubali must balance his love for Devasena with duty towards his mother and kingdom, culminating in an epic showdown against Bhallaladeva.",
+    "description": "Baahubali 2: The Conclusion is an acclaimed Telugu Action and Drama and Historical film helmed by visionary director S. S. Rajamouli. Set against the distinctive cultural backdrop of Tollywood, the story centers on compelling characters played with nuance by Prabhas, Rana Daggubati, Anushka Shetty, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Telugu cinema.",
     "poster": "/images/movies/baahubali-2.jpg",
     "imdbRating": 8.2,
     "runtime": 167,
@@ -4079,7 +6225,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from S. S. Rajamouli.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Geetha Arts",
+      "Mythri Movie Makers"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Prabhas and Rana Daggubati, and evocative direction that captures the genuine spirit of Telugu cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker S. S. Rajamouli with an acclaimed ensemble cast.",
+      "Features celebrated performances by Prabhas, Rana Daggubati, Anushka Shetty.",
+      "Recognized as a landmark Action title within the Tollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Baahubali 2: The Conclusion?",
+        "answer": "Baahubali 2: The Conclusion was directed by S. S. Rajamouli and features prominent performances by Prabhas, Rana Daggubati, Anushka Shetty."
+      },
+      {
+        "question": "What genres does Baahubali 2: The Conclusion belong to?",
+        "answer": "Baahubali 2: The Conclusion is classified under Action, Drama, Historical, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Baahubali 2: The Conclusion?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Baahubali 2: The Conclusion in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "G62HrubdD6o"
   },
   {
     "id": "76",
@@ -4098,7 +6272,7 @@ export const movies: Movie[] = [
       "Sathyaraj",
       "Harish Kalyan"
     ],
-    "description": "A 36-year-old former cricketer decides to return to cricket despite his age and health issues, solely to fulfill his young son's wish for a team jersey.",
+    "description": "Jersey is an acclaimed Telugu Drama film helmed by visionary director Gowtam Tinnanuri. Set against the distinctive cultural backdrop of Tollywood, the story centers on compelling characters played with nuance by Nani, Shraddha Srinath, Sathyaraj, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Telugu cinema.",
     "poster": "/images/movies/jersey-telugu.jpg",
     "imdbRating": 8.5,
     "runtime": 157,
@@ -4140,7 +6314,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Gowtam Tinnanuri.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Geetha Arts",
+      "Mythri Movie Makers"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Nani and Shraddha Srinath, and evocative direction that captures the genuine spirit of Telugu cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Gowtam Tinnanuri with an acclaimed ensemble cast.",
+      "Features celebrated performances by Nani, Shraddha Srinath, Sathyaraj.",
+      "Recognized as a landmark Drama title within the Tollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Jersey?",
+        "answer": "Jersey was directed by Gowtam Tinnanuri and features prominent performances by Nani, Shraddha Srinath, Sathyaraj."
+      },
+      {
+        "question": "What genres does Jersey belong to?",
+        "answer": "Jersey is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Jersey?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Jersey in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "AjAe_Q1WZ_8"
   },
   {
     "id": "77",
@@ -4160,7 +6362,7 @@ export const movies: Movie[] = [
       "Samantha Ruth Prabhu",
       "Vijay Deverakonda"
     ],
-    "description": "The biographical saga of legendary South Indian actress Savitri, chronicling her meteoric rise to stardom, tumultuous marriage, and tragic decline.",
+    "description": "Mahanati is an acclaimed Telugu Biography and Drama film helmed by visionary director Nag Ashwin. Set against the distinctive cultural backdrop of Tollywood, the story centers on compelling characters played with nuance by Keerthy Suresh, Dulquer Salmaan, Samantha Ruth Prabhu, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Telugu cinema.",
     "poster": "/images/movies/mahanati.jpg",
     "imdbRating": 8.4,
     "runtime": 177,
@@ -4186,7 +6388,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Biography masterpiece from Nag Ashwin.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Geetha Arts",
+      "Mythri Movie Makers"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Keerthy Suresh and Dulquer Salmaan, and evocative direction that captures the genuine spirit of Telugu cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Nag Ashwin with an acclaimed ensemble cast.",
+      "Features celebrated performances by Keerthy Suresh, Dulquer Salmaan, Samantha Ruth Prabhu.",
+      "Recognized as a landmark Biography title within the Tollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Mahanati?",
+        "answer": "Mahanati was directed by Nag Ashwin and features prominent performances by Keerthy Suresh, Dulquer Salmaan, Samantha Ruth Prabhu."
+      },
+      {
+        "question": "What genres does Mahanati belong to?",
+        "answer": "Mahanati is classified under Biography, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Mahanati?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Mahanati in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "Ba2wyc4fXN4"
   },
   {
     "id": "78",
@@ -4206,7 +6436,7 @@ export const movies: Movie[] = [
       "Kesava Karri",
       "Nithya Sree"
     ],
-    "description": "Four unconventional love stories spanning different age groups unfold in a small rustic suburb of Visakhapatnam, celebrating acceptance and humanity.",
+    "description": "C/o Kancharapalem is an acclaimed Telugu Drama and Romance film helmed by visionary director Venkatesh Maha. Set against the distinctive cultural backdrop of Tollywood, the story centers on compelling characters played with nuance by Subba Rao, Radha Bessy, Kesava Karri, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Telugu cinema.",
     "poster": "/images/movies/c-o-kancharapalem.jpg",
     "imdbRating": 8.8,
     "runtime": 152,
@@ -4240,7 +6470,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Venkatesh Maha.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Geetha Arts",
+      "Mythri Movie Makers"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Subba Rao and Radha Bessy, and evocative direction that captures the genuine spirit of Telugu cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Venkatesh Maha with an acclaimed ensemble cast.",
+      "Features celebrated performances by Subba Rao, Radha Bessy, Kesava Karri.",
+      "Recognized as a landmark Drama title within the Tollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie C/o Kancharapalem?",
+        "answer": "C/o Kancharapalem was directed by Venkatesh Maha and features prominent performances by Subba Rao, Radha Bessy, Kesava Karri."
+      },
+      {
+        "question": "What genres does C/o Kancharapalem belong to?",
+        "answer": "C/o Kancharapalem is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch C/o Kancharapalem?",
+        "answer": "You can discover verified subscription, rental, and streaming options for C/o Kancharapalem in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "IZcGeJwGuec"
   },
   {
     "id": "79",
@@ -4261,7 +6519,7 @@ export const movies: Movie[] = [
       "Fahadh Faasil",
       "Jagadeesh Prathap Bandari"
     ],
-    "description": "A daily-wage laborer rises through the ranks of the illegal red sandalwood smuggling syndicate in Seshachalam Hills, clashing with relentless law enforcement.",
+    "description": "Pushpa: The Rise is an acclaimed Telugu Action and Crime and Drama film helmed by visionary director Sukumar. Set against the distinctive cultural backdrop of Tollywood, the story centers on compelling characters played with nuance by Allu Arjun, Rashmika Mandanna, Fahadh Faasil, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Telugu cinema.",
     "poster": "/images/movies/pushpa-the-rise.jpg",
     "imdbRating": 7.6,
     "runtime": 179,
@@ -4303,7 +6561,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Sukumar.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Geetha Arts",
+      "Mythri Movie Makers"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Allu Arjun and Rashmika Mandanna, and evocative direction that captures the genuine spirit of Telugu cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Sukumar with an acclaimed ensemble cast.",
+      "Features celebrated performances by Allu Arjun, Rashmika Mandanna, Fahadh Faasil.",
+      "Recognized as a landmark Action title within the Tollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Pushpa: The Rise?",
+        "answer": "Pushpa: The Rise was directed by Sukumar and features prominent performances by Allu Arjun, Rashmika Mandanna, Fahadh Faasil."
+      },
+      {
+        "question": "What genres does Pushpa: The Rise belong to?",
+        "answer": "Pushpa: The Rise is classified under Action, Crime, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Pushpa: The Rise?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Pushpa: The Rise in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "pKctjlxbFDQ"
   },
   {
     "id": "80",
@@ -4323,7 +6609,7 @@ export const movies: Movie[] = [
       "Samantha Ruth Prabhu",
       "Sudeep"
     ],
-    "description": "A murdered man is reincarnated as a housefly and seeks to protect his lover while wreaking revenge on his wealthy, ruthless killer.",
+    "description": "Eega is an acclaimed Telugu Action and Comedy and Fantasy film helmed by visionary director S. S. Rajamouli. Set against the distinctive cultural backdrop of Tollywood, the story centers on compelling characters played with nuance by Nani, Samantha Ruth Prabhu, Sudeep, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Telugu cinema.",
     "poster": "/images/movies/eega.jpg",
     "imdbRating": 7.7,
     "runtime": 145,
@@ -4381,7 +6667,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from S. S. Rajamouli.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Geetha Arts",
+      "Mythri Movie Makers"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Nani and Samantha Ruth Prabhu, and evocative direction that captures the genuine spirit of Telugu cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker S. S. Rajamouli with an acclaimed ensemble cast.",
+      "Features celebrated performances by Nani, Samantha Ruth Prabhu, Sudeep.",
+      "Recognized as a landmark Action title within the Tollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Eega?",
+        "answer": "Eega was directed by S. S. Rajamouli and features prominent performances by Nani, Samantha Ruth Prabhu, Sudeep."
+      },
+      {
+        "question": "What genres does Eega belong to?",
+        "answer": "Eega is classified under Action, Comedy, Fantasy, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Eega?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Eega in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "H9ZNYw2WTcc"
   },
   {
     "id": "81",
@@ -4402,7 +6716,7 @@ export const movies: Movie[] = [
       "Rashmika Mandanna",
       "Sumanth"
     ],
-    "description": "An orphaned soldier serving on Kashmir border receives anonymous letters from a woman named Sita Mahalakshmi, leading to an extraordinary love story across borders.",
+    "description": "Sita Ramam is an acclaimed Telugu Action and Drama and Romance film helmed by visionary director Hanu Raghavapudi. Set against the distinctive cultural backdrop of Tollywood, the story centers on compelling characters played with nuance by Dulquer Salmaan, Mrunal Thakur, Rashmika Mandanna, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Telugu cinema.",
     "poster": "/images/movies/sita-ramam.jpg",
     "imdbRating": 8.5,
     "runtime": 163,
@@ -4452,7 +6766,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Hanu Raghavapudi.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Geetha Arts",
+      "Mythri Movie Makers"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Dulquer Salmaan and Mrunal Thakur, and evocative direction that captures the genuine spirit of Telugu cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Hanu Raghavapudi with an acclaimed ensemble cast.",
+      "Features celebrated performances by Dulquer Salmaan, Mrunal Thakur, Rashmika Mandanna.",
+      "Recognized as a landmark Action title within the Tollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Sita Ramam?",
+        "answer": "Sita Ramam was directed by Hanu Raghavapudi and features prominent performances by Dulquer Salmaan, Mrunal Thakur, Rashmika Mandanna."
+      },
+      {
+        "question": "What genres does Sita Ramam belong to?",
+        "answer": "Sita Ramam is classified under Action, Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Sita Ramam?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Sita Ramam in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "PFcE1Rw5lmo"
   },
   {
     "id": "82",
@@ -4474,7 +6816,7 @@ export const movies: Movie[] = [
       "Deepika Padukone",
       "Disha Patani"
     ],
-    "description": "In a post-apocalyptic future in 2898 AD, Ashwatthama awaits the prophesied arrival of Kalki, the tenth avatar of Vishnu, to save humanity from darkness.",
+    "description": "Kalki 2898 AD is an acclaimed Telugu Action and Adventure and Sci-Fi film helmed by visionary director Nag Ashwin. Set against the distinctive cultural backdrop of Tollywood, the story centers on compelling characters played with nuance by Prabhas, Amitabh Bachchan, Kamal Haasan, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Telugu cinema.",
     "poster": "/images/movies/kalki-2898-ad.jpg",
     "imdbRating": 7.6,
     "runtime": 181,
@@ -4508,7 +6850,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Nag Ashwin.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Geetha Arts",
+      "Mythri Movie Makers"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Prabhas and Amitabh Bachchan, and evocative direction that captures the genuine spirit of Telugu cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Nag Ashwin with an acclaimed ensemble cast.",
+      "Features celebrated performances by Prabhas, Amitabh Bachchan, Kamal Haasan.",
+      "Recognized as a landmark Action title within the Tollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Kalki 2898 AD?",
+        "answer": "Kalki 2898 AD was directed by Nag Ashwin and features prominent performances by Prabhas, Amitabh Bachchan, Kamal Haasan."
+      },
+      {
+        "question": "What genres does Kalki 2898 AD belong to?",
+        "answer": "Kalki 2898 AD is classified under Action, Adventure, Sci-Fi, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Kalki 2898 AD?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Kalki 2898 AD in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "kQDd1AhGIHk"
   },
   {
     "id": "83",
@@ -4529,7 +6899,7 @@ export const movies: Movie[] = [
       "Dev Gill",
       "Srihari"
     ],
-    "description": "A bike racer realizes that he is the reincarnation of a 17th-century valiant warrior who died defending his princess and kingdom against betrayal.",
+    "description": "Magadheera is an acclaimed Telugu Action and Fantasy and Romance film helmed by visionary director S. S. Rajamouli. Set against the distinctive cultural backdrop of Tollywood, the story centers on compelling characters played with nuance by Ram Charan, Kajal Aggarwal, Dev Gill, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Telugu cinema.",
     "poster": "/images/movies/magadheera.jpg",
     "imdbRating": 7.7,
     "runtime": 166,
@@ -4538,7 +6908,35 @@ export const movies: Movie[] = [
     "sources": [
       "https://en.wikipedia.org/wiki/Magadheera"
     ],
-    "watchOptions": []
+    "watchOptions": [],
+    "tagline": "Experience the acclaimed Action masterpiece from S. S. Rajamouli.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Geetha Arts",
+      "Mythri Movie Makers"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Ram Charan and Kajal Aggarwal, and evocative direction that captures the genuine spirit of Telugu cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker S. S. Rajamouli with an acclaimed ensemble cast.",
+      "Features celebrated performances by Ram Charan, Kajal Aggarwal, Dev Gill.",
+      "Recognized as a landmark Action title within the Tollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Magadheera?",
+        "answer": "Magadheera was directed by S. S. Rajamouli and features prominent performances by Ram Charan, Kajal Aggarwal, Dev Gill."
+      },
+      {
+        "question": "What genres does Magadheera belong to?",
+        "answer": "Magadheera is classified under Action, Fantasy, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Magadheera?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Magadheera in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "NXfhuqDNxg4"
   },
   {
     "id": "84",
@@ -4559,7 +6957,7 @@ export const movies: Movie[] = [
       "Rahul Ramakrishna",
       "Jia Sharma"
     ],
-    "description": "A brilliant house surgeon with severe anger management issues spirals into self-destruction and drug addiction after his girlfriend is forced to marry another man.",
+    "description": "Arjun Reddy is an acclaimed Telugu Action and Drama and Romance film helmed by visionary director Sandeep Reddy Vanga. Set against the distinctive cultural backdrop of Tollywood, the story centers on compelling characters played with nuance by Vijay Deverakonda, Shalini Pandey, Rahul Ramakrishna, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Telugu cinema.",
     "poster": "/images/movies/arjun-reddy.jpg",
     "imdbRating": 7.9,
     "runtime": 182,
@@ -4585,7 +6983,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Sandeep Reddy Vanga.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Geetha Arts",
+      "Mythri Movie Makers"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Vijay Deverakonda and Shalini Pandey, and evocative direction that captures the genuine spirit of Telugu cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Sandeep Reddy Vanga with an acclaimed ensemble cast.",
+      "Features celebrated performances by Vijay Deverakonda, Shalini Pandey, Rahul Ramakrishna.",
+      "Recognized as a landmark Action title within the Tollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Arjun Reddy?",
+        "answer": "Arjun Reddy was directed by Sandeep Reddy Vanga and features prominent performances by Vijay Deverakonda, Shalini Pandey, Rahul Ramakrishna."
+      },
+      {
+        "question": "What genres does Arjun Reddy belong to?",
+        "answer": "Arjun Reddy is classified under Action, Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Arjun Reddy?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Arjun Reddy in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "aozErj9NqeE"
   },
   {
     "id": "85",
@@ -4607,7 +7033,7 @@ export const movies: Movie[] = [
       "Esther Anil",
       "Asha Sharath"
     ],
-    "description": "A hardworking family man goes to ingenious lengths using movie knowledge to protect his wife and daughters after an accidental crime threatens their quiet life.",
+    "description": "Drishyam is an acclaimed Malayalam Crime and Drama and Thriller film helmed by visionary director Jeethu Joseph. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Mohanlal, Meena, Ansiba Hassan, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "poster": "/images/movies/drishyam-malayalam.jpg",
     "imdbRating": 8.3,
     "runtime": 160,
@@ -4625,7 +7051,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Crime masterpiece from Jeethu Joseph.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Mohanlal and Meena, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Jeethu Joseph with an acclaimed ensemble cast.",
+      "Features celebrated performances by Mohanlal, Meena, Ansiba Hassan.",
+      "Recognized as a landmark Crime title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Drishyam?",
+        "answer": "Drishyam was directed by Jeethu Joseph and features prominent performances by Mohanlal, Meena, Ansiba Hassan."
+      },
+      {
+        "question": "What genres does Drishyam belong to?",
+        "answer": "Drishyam is classified under Crime, Drama, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Drishyam?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Drishyam in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "eMASubc1y_k"
   },
   {
     "id": "86",
@@ -4646,7 +7100,7 @@ export const movies: Movie[] = [
       "Fahadh Faasil",
       "Sreenath Bhasi"
     ],
-    "description": "Four dysfunctional brothers living in a dilapidated fishing cottage in Kumbalangi overcome mutual resentment and toxic masculinity to find redemption and family unity.",
+    "description": "Kumbalangi Nights is an acclaimed Malayalam Comedy and Drama and Romance film helmed by visionary director Madhu C. Narayanan. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Shane Nigam, Soubin Shahir, Fahadh Faasil, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "poster": "/images/movies/kumbalangi-nights.jpg",
     "imdbRating": 8.5,
     "runtime": 135,
@@ -4680,7 +7134,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Madhu C. Narayanan.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Shane Nigam and Soubin Shahir, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Madhu C. Narayanan with an acclaimed ensemble cast.",
+      "Features celebrated performances by Shane Nigam, Soubin Shahir, Fahadh Faasil.",
+      "Recognized as a landmark Comedy title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Kumbalangi Nights?",
+        "answer": "Kumbalangi Nights was directed by Madhu C. Narayanan and features prominent performances by Shane Nigam, Soubin Shahir, Fahadh Faasil."
+      },
+      {
+        "question": "What genres does Kumbalangi Nights belong to?",
+        "answer": "Kumbalangi Nights is classified under Comedy, Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Kumbalangi Nights?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Kumbalangi Nights in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "3P4BFBSafF0"
   },
   {
     "id": "87",
@@ -4701,7 +7183,7 @@ export const movies: Movie[] = [
       "Madonna Sebastian",
       "Anupama Parameswaran"
     ],
-    "description": "The romantic journey of George David as he experiences love, heartbreak, and personal evolution through three defining chapters of his school, college, and adult life.",
+    "description": "Premam is an acclaimed Malayalam Comedy and Drama and Romance film helmed by visionary director Alphonse Puthren. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Nivin Pauly, Sai Pallavi, Madonna Sebastian, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "poster": "/images/movies/premam.jpg",
     "imdbRating": 8.3,
     "runtime": 156,
@@ -4727,7 +7209,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Alphonse Puthren.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Nivin Pauly and Sai Pallavi, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Alphonse Puthren with an acclaimed ensemble cast.",
+      "Features celebrated performances by Nivin Pauly, Sai Pallavi, Madonna Sebastian.",
+      "Recognized as a landmark Comedy title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Premam?",
+        "answer": "Premam was directed by Alphonse Puthren and features prominent performances by Nivin Pauly, Sai Pallavi, Madonna Sebastian."
+      },
+      {
+        "question": "What genres does Premam belong to?",
+        "answer": "Premam is classified under Comedy, Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Premam?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Premam in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "tRQeIsxaBkg"
   },
   {
     "id": "88",
@@ -4749,7 +7259,7 @@ export const movies: Movie[] = [
       "Fahadh Faasil",
       "Parvathy"
     ],
-    "description": "Three close cousins fulfill their childhood dream of relocating to Bangalore, where they navigate life, career roadblocks, heartbreak, and personal growth together.",
+    "description": "Bangalore Days is an acclaimed Malayalam Comedy and Drama and Romance film helmed by visionary director Anjali Menon. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Dulquer Salmaan, Nivin Pauly, Nazriya Nazim, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "poster": "/images/movies/bangalore-days.jpg",
     "imdbRating": 8.3,
     "runtime": 171,
@@ -4775,7 +7285,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Anjali Menon.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Dulquer Salmaan and Nivin Pauly, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Anjali Menon with an acclaimed ensemble cast.",
+      "Features celebrated performances by Dulquer Salmaan, Nivin Pauly, Nazriya Nazim.",
+      "Recognized as a landmark Comedy title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Bangalore Days?",
+        "answer": "Bangalore Days was directed by Anjali Menon and features prominent performances by Dulquer Salmaan, Nivin Pauly, Nazriya Nazim."
+      },
+      {
+        "question": "What genres does Bangalore Days belong to?",
+        "answer": "Bangalore Days is classified under Comedy, Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Bangalore Days?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Bangalore Days in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "uVpHL5g4buY"
   },
   {
     "id": "89",
@@ -4796,7 +7334,7 @@ export const movies: Movie[] = [
       "Balu Varghese",
       "Ganapathi"
     ],
-    "description": "Based on a real incident, a group of carefree friends from Kochi travel to Kodaikanal where one slips deep into the treacherous Guna Caves, prompting an unprecedented rescue mission.",
+    "description": "Manjummel Boys is an acclaimed Malayalam Adventure and Drama and Thriller film helmed by visionary director Chidambaram. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Soubin Shahir, Sreenath Bhasi, Balu Varghese, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "poster": "/images/movies/manjummel-boys.jpg",
     "imdbRating": 8.4,
     "runtime": 135,
@@ -4822,7 +7360,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Adventure masterpiece from Chidambaram.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Soubin Shahir and Sreenath Bhasi, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Chidambaram with an acclaimed ensemble cast.",
+      "Features celebrated performances by Soubin Shahir, Sreenath Bhasi, Balu Varghese.",
+      "Recognized as a landmark Adventure title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Manjummel Boys?",
+        "answer": "Manjummel Boys was directed by Chidambaram and features prominent performances by Soubin Shahir, Sreenath Bhasi, Balu Varghese."
+      },
+      {
+        "question": "What genres does Manjummel Boys belong to?",
+        "answer": "Manjummel Boys is classified under Adventure, Drama, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Manjummel Boys?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Manjummel Boys in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "rqBuKT_8dMY"
   },
   {
     "id": "90",
@@ -4842,7 +7408,7 @@ export const movies: Movie[] = [
       "Mithun Jai Shankar",
       "Roshan Shanavas"
     ],
-    "description": "Three engineering students in Bangalore face severe ragging from seniors and recruit a quirky, all-white-wearing local gangster named Ranga for protection.",
+    "description": "Aavesham is an acclaimed Malayalam Action and Comedy film helmed by visionary director Jithu Madhavan. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Fahadh Faasil, Hipzster, Mithun Jai Shankar, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "poster": "/images/movies/aavesham.jpg",
     "imdbRating": 7.9,
     "runtime": 158,
@@ -4884,7 +7450,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Jithu Madhavan.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Fahadh Faasil and Hipzster, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Jithu Madhavan with an acclaimed ensemble cast.",
+      "Features celebrated performances by Fahadh Faasil, Hipzster, Mithun Jai Shankar.",
+      "Recognized as a landmark Action title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Aavesham?",
+        "answer": "Aavesham was directed by Jithu Madhavan and features prominent performances by Fahadh Faasil, Hipzster, Mithun Jai Shankar."
+      },
+      {
+        "question": "What genres does Aavesham belong to?",
+        "answer": "Aavesham is classified under Action, Comedy, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Aavesham?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Aavesham in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "L0yEMl8PXnw"
   },
   {
     "id": "91",
@@ -4902,7 +7496,7 @@ export const movies: Movie[] = [
       "Suraj Venjaramoodu",
       "T. Suresh Babu"
     ],
-    "description": "A newlywed woman struggles to conform to the subservient role expected of wives in a patriarchal household, turning the monotonous kitchen into a battlefield of dignity.",
+    "description": "The Great Indian Kitchen is an acclaimed Malayalam Drama film helmed by visionary director Jeo Baby. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Nimisha Sajayan, Suraj Venjaramoodu, T. Suresh Babu, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "poster": "/images/movies/the-great-indian-kitchen.jpg",
     "imdbRating": 8.1,
     "runtime": 100,
@@ -4928,7 +7522,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Jeo Baby.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Nimisha Sajayan and Suraj Venjaramoodu, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Jeo Baby with an acclaimed ensemble cast.",
+      "Features celebrated performances by Nimisha Sajayan, Suraj Venjaramoodu, T. Suresh Babu.",
+      "Recognized as a landmark Drama title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie The Great Indian Kitchen?",
+        "answer": "The Great Indian Kitchen was directed by Jeo Baby and features prominent performances by Nimisha Sajayan, Suraj Venjaramoodu, T. Suresh Babu."
+      },
+      {
+        "question": "What genres does The Great Indian Kitchen belong to?",
+        "answer": "The Great Indian Kitchen is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch The Great Indian Kitchen?",
+        "answer": "You can discover verified subscription, rental, and streaming options for The Great Indian Kitchen in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "k_E6ctiFn6I"
   },
   {
     "id": "92",
@@ -4949,7 +7571,7 @@ export const movies: Movie[] = [
       "Manju Warrier",
       "Tovino Thomas"
     ],
-    "description": "Following the death of a revered political leader, a ruthless battle for succession erupts while an enigmatic man named Stephen Nedumpally steps in to guard justice.",
+    "description": "Lucifer is an acclaimed Malayalam Action and Crime and Drama film helmed by visionary director Prithviraj Sukumaran. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Mohanlal, Vivek Oberoi, Manju Warrier, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "poster": "/images/movies/lucifer-malayalam.jpg",
     "imdbRating": 7.5,
     "runtime": 175,
@@ -4983,7 +7605,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Prithviraj Sukumaran.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Mohanlal and Vivek Oberoi, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Prithviraj Sukumaran with an acclaimed ensemble cast.",
+      "Features celebrated performances by Mohanlal, Vivek Oberoi, Manju Warrier.",
+      "Recognized as a landmark Action title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Lucifer?",
+        "answer": "Lucifer was directed by Prithviraj Sukumaran and features prominent performances by Mohanlal, Vivek Oberoi, Manju Warrier."
+      },
+      {
+        "question": "What genres does Lucifer belong to?",
+        "answer": "Lucifer is classified under Action, Crime, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Lucifer?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Lucifer in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "x1-Ya0NZQso"
   },
   {
     "id": "93",
@@ -5003,7 +7653,7 @@ export const movies: Movie[] = [
       "Arjun Ashokan",
       "Sidharth Bharathan"
     ],
-    "description": "In 17th-century Malabar, a fleeing folk singer seeks shelter in a secluded, decaying manor, only to discover its enigmatic master holds sinister supernatural secrets.",
+    "description": "Bramayugam is an acclaimed Malayalam Horror and Mystery and Thriller film helmed by visionary director Rahul Sadasivan. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Mammootty, Arjun Ashokan, Sidharth Bharathan, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "poster": "/images/movies/bramayugam.jpg",
     "imdbRating": 7.8,
     "runtime": 139,
@@ -5037,7 +7687,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Horror masterpiece from Rahul Sadasivan.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Mammootty and Arjun Ashokan, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Rahul Sadasivan with an acclaimed ensemble cast.",
+      "Features celebrated performances by Mammootty, Arjun Ashokan, Sidharth Bharathan.",
+      "Recognized as a landmark Horror title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Bramayugam?",
+        "answer": "Bramayugam was directed by Rahul Sadasivan and features prominent performances by Mammootty, Arjun Ashokan, Sidharth Bharathan."
+      },
+      {
+        "question": "What genres does Bramayugam belong to?",
+        "answer": "Bramayugam is classified under Horror, Mystery, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Bramayugam?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Bramayugam in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "55pzldrBRJM"
   },
   {
     "id": "94",
@@ -5059,7 +7737,7 @@ export const movies: Movie[] = [
       "Aju Varghese",
       "Femina George"
     ],
-    "description": "A small-town tailor gains superhero powers after being struck by lightning on Christmas Eve, but must soon protect his village against a fellow recipient who turns to darkness.",
+    "description": "Minnal Murali is an acclaimed Malayalam Action and Adventure and Comedy and Sci-Fi film helmed by visionary director Basil Joseph. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Tovino Thomas, Guru Somasundaram, Aju Varghese, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "poster": "/images/movies/minnal-murali.jpg",
     "imdbRating": 7.8,
     "runtime": 158,
@@ -5077,7 +7755,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Basil Joseph.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Tovino Thomas and Guru Somasundaram, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Basil Joseph with an acclaimed ensemble cast.",
+      "Features celebrated performances by Tovino Thomas, Guru Somasundaram, Aju Varghese.",
+      "Recognized as a landmark Action title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Minnal Murali?",
+        "answer": "Minnal Murali was directed by Basil Joseph and features prominent performances by Tovino Thomas, Guru Somasundaram, Aju Varghese."
+      },
+      {
+        "question": "What genres does Minnal Murali belong to?",
+        "answer": "Minnal Murali is classified under Action, Adventure, Comedy, Sci-Fi, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Minnal Murali?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Minnal Murali in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "Vctn-pq6MEs"
   },
   {
     "id": "95",
@@ -5097,7 +7803,7 @@ export const movies: Movie[] = [
       "Nithya Menen",
       "Siddique"
     ],
-    "description": "An aspiring chef with western culinary ambitions is cut off by his wealthy father and works alongside his grandfather at an iconic seaside cafe in Kozhikode.",
+    "description": "Ustad Hotel is an acclaimed Malayalam Comedy and Drama film helmed by visionary director Anwar Rasheed. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Dulquer Salmaan, Thilakan, Nithya Menen, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "poster": "/images/movies/ustad-hotel.jpg",
     "imdbRating": 8.2,
     "runtime": 151,
@@ -5115,7 +7821,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Anwar Rasheed.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Dulquer Salmaan and Thilakan, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Anwar Rasheed with an acclaimed ensemble cast.",
+      "Features celebrated performances by Dulquer Salmaan, Thilakan, Nithya Menen.",
+      "Recognized as a landmark Comedy title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Ustad Hotel?",
+        "answer": "Ustad Hotel was directed by Anwar Rasheed and features prominent performances by Dulquer Salmaan, Thilakan, Nithya Menen."
+      },
+      {
+        "question": "What genres does Ustad Hotel belong to?",
+        "answer": "Ustad Hotel is classified under Comedy, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Ustad Hotel?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Ustad Hotel in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "rhfVeDnd7-M"
   },
   {
     "id": "96",
@@ -5135,7 +7869,7 @@ export const movies: Movie[] = [
       "Shammi Thilakan",
       "Unnimaya Prasad"
     ],
-    "description": "Inspired by Shakespeare's Macbeth, an engineering dropout living in the shadow of his tyrannical wealthy father plots to usurp control when the patriarch suffers a stroke.",
+    "description": "Joji is an acclaimed Malayalam Crime and Drama film helmed by visionary director Dileesh Pothan. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Fahadh Faasil, Baburaj, Shammi Thilakan, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "poster": "/images/movies/joji.jpg",
     "imdbRating": 7.8,
     "runtime": 113,
@@ -5153,7 +7887,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Crime masterpiece from Dileesh Pothan.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Fahadh Faasil and Baburaj, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Dileesh Pothan with an acclaimed ensemble cast.",
+      "Features celebrated performances by Fahadh Faasil, Baburaj, Shammi Thilakan.",
+      "Recognized as a landmark Crime title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Joji?",
+        "answer": "Joji was directed by Dileesh Pothan and features prominent performances by Fahadh Faasil, Baburaj, Shammi Thilakan."
+      },
+      {
+        "question": "What genres does Joji belong to?",
+        "answer": "Joji is classified under Crime, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Joji?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Joji in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "9yULZ8y1J-s"
   },
   {
     "id": "97",
@@ -5175,7 +7937,7 @@ export const movies: Movie[] = [
       "Ramachandra Raju",
       "Archana Jois"
     ],
-    "description": "Rocky, a fierce young man seeking power and wealth to fulfill his mother's promise, infiltrates the brutal gold mines of Kolar Gold Fields disguised as a slave.",
+    "description": "K.G.F: Chapter 1 is an acclaimed Kannada Action and Crime and Drama and Historical film helmed by visionary director Prashanth Neel. Set against the distinctive cultural backdrop of Sandalwood, the story centers on compelling characters played with nuance by Yash, Srinidhi Shetty, Ramachandra Raju, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Kannada cinema.",
     "poster": "/images/movies/kgf-chapter-1.jpg",
     "imdbRating": 8.2,
     "runtime": 156,
@@ -5201,7 +7963,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Prashanth Neel.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Hombale Films",
+      "Paramvah Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Yash and Srinidhi Shetty, and evocative direction that captures the genuine spirit of Kannada cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Prashanth Neel with an acclaimed ensemble cast.",
+      "Features celebrated performances by Yash, Srinidhi Shetty, Ramachandra Raju.",
+      "Recognized as a landmark Action title within the Sandalwood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie K.G.F: Chapter 1?",
+        "answer": "K.G.F: Chapter 1 was directed by Prashanth Neel and features prominent performances by Yash, Srinidhi Shetty, Ramachandra Raju."
+      },
+      {
+        "question": "What genres does K.G.F: Chapter 1 belong to?",
+        "answer": "K.G.F: Chapter 1 is classified under Action, Crime, Drama, Historical, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch K.G.F: Chapter 1?",
+        "answer": "You can discover verified subscription, rental, and streaming options for K.G.F: Chapter 1 in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "-KfsY-qwBS0"
   },
   {
     "id": "98",
@@ -5222,7 +8012,7 @@ export const movies: Movie[] = [
       "Raveena Tandon",
       "Srinidhi Shetty"
     ],
-    "description": "The blood-soaked land of Kolar Gold Fields now has a new overlord in Rocky, whose supremacy is challenged by Adheera and the prime minister of India.",
+    "description": "K.G.F: Chapter 2 is an acclaimed Kannada Action and Crime and Drama film helmed by visionary director Prashanth Neel. Set against the distinctive cultural backdrop of Sandalwood, the story centers on compelling characters played with nuance by Yash, Sanjay Dutt, Raveena Tandon, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Kannada cinema.",
     "poster": "/images/movies/kgf-chapter-2.jpg",
     "imdbRating": 8.3,
     "runtime": 168,
@@ -5248,7 +8038,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Prashanth Neel.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Hombale Films",
+      "Paramvah Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Yash and Sanjay Dutt, and evocative direction that captures the genuine spirit of Kannada cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Prashanth Neel with an acclaimed ensemble cast.",
+      "Features celebrated performances by Yash, Sanjay Dutt, Raveena Tandon.",
+      "Recognized as a landmark Action title within the Sandalwood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie K.G.F: Chapter 2?",
+        "answer": "K.G.F: Chapter 2 was directed by Prashanth Neel and features prominent performances by Yash, Sanjay Dutt, Raveena Tandon."
+      },
+      {
+        "question": "What genres does K.G.F: Chapter 2 belong to?",
+        "answer": "K.G.F: Chapter 2 is classified under Action, Crime, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch K.G.F: Chapter 2?",
+        "answer": "You can discover verified subscription, rental, and streaming options for K.G.F: Chapter 2 in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "JKa05nyUmuQ"
   },
   {
     "id": "99",
@@ -5269,7 +8087,7 @@ export const movies: Movie[] = [
       "Kishore",
       "Achyuth Kumar"
     ],
-    "description": "When greed paves the way for betrayal and local forest villagers clash with authorities, a rebellious tribal hunter awakens divine demigod spirits to defend their ancestral heritage.",
+    "description": "Kantara is an acclaimed Kannada Action and Drama and Thriller film helmed by visionary director Rishab Shetty. Set against the distinctive cultural backdrop of Sandalwood, the story centers on compelling characters played with nuance by Rishab Shetty, Sapthami Gowda, Kishore, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Kannada cinema.",
     "poster": "/images/movies/kantara.jpg",
     "imdbRating": 8.2,
     "runtime": 148,
@@ -5303,7 +8121,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Rishab Shetty.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Hombale Films",
+      "Paramvah Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Rishab Shetty and Sapthami Gowda, and evocative direction that captures the genuine spirit of Kannada cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Rishab Shetty with an acclaimed ensemble cast.",
+      "Features celebrated performances by Rishab Shetty, Sapthami Gowda, Kishore.",
+      "Recognized as a landmark Action title within the Sandalwood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Kantara?",
+        "answer": "Kantara was directed by Rishab Shetty and features prominent performances by Rishab Shetty, Sapthami Gowda, Kishore."
+      },
+      {
+        "question": "What genres does Kantara belong to?",
+        "answer": "Kantara is classified under Action, Drama, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Kantara?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Kantara in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "MTECjlKUgEE"
   },
   {
     "id": "100",
@@ -5324,7 +8170,7 @@ export const movies: Movie[] = [
       "Sangeetha Sringeri",
       "Raj B. Shetty"
     ],
-    "description": "Dharma, a reclusive factory worker stuck in a desolate and lonely existence, finds his life transformed when a persistent Labrador puppy enters his doorstep.",
+    "description": "777 Charlie is an acclaimed Kannada Adventure and Comedy and Drama film helmed by visionary director Kiranraj K. Set against the distinctive cultural backdrop of Sandalwood, the story centers on compelling characters played with nuance by Rakshit Shetty, Charlie, Sangeetha Sringeri, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Kannada cinema.",
     "poster": "/images/movies/777-charlie.jpg",
     "imdbRating": 8.8,
     "runtime": 164,
@@ -5374,7 +8220,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Adventure masterpiece from Kiranraj K.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Hombale Films",
+      "Paramvah Studios"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Rakshit Shetty and Charlie, and evocative direction that captures the genuine spirit of Kannada cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Kiranraj K with an acclaimed ensemble cast.",
+      "Features celebrated performances by Rakshit Shetty, Charlie, Sangeetha Sringeri.",
+      "Recognized as a landmark Adventure title within the Sandalwood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie 777 Charlie?",
+        "answer": "777 Charlie was directed by Kiranraj K and features prominent performances by Rakshit Shetty, Charlie, Sangeetha Sringeri."
+      },
+      {
+        "question": "What genres does 777 Charlie belong to?",
+        "answer": "777 Charlie is classified under Adventure, Comedy, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch 777 Charlie?",
+        "answer": "You can discover verified subscription, rental, and streaming options for 777 Charlie in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "lzr2PJXeHww"
   },
   {
     "id": "101",
@@ -5395,7 +8269,7 @@ export const movies: Movie[] = [
       "Tara",
       "Achyuth Kumar"
     ],
-    "description": "A journalist investigates an unsolved murder that took place during the Krishna Janmashtami festival in coastal Malpe, told from five different viewpoints.",
+    "description": "Ulidavaru Kandanthe is an acclaimed Kannada Action and Crime and Drama film helmed by visionary director Rakshit Shetty. Set against the distinctive cultural backdrop of Sandalwood, the story centers on compelling characters played with nuance by Rakshit Shetty, Kishore, Tara, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Kannada cinema.",
     "poster": "/images/movies/ulidavaru-kandanthe.jpg",
     "imdbRating": 8.4,
     "runtime": 154,
@@ -5413,7 +8287,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Rakshit Shetty.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Hombale Films",
+      "Paramvah Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Rakshit Shetty and Kishore, and evocative direction that captures the genuine spirit of Kannada cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Rakshit Shetty with an acclaimed ensemble cast.",
+      "Features celebrated performances by Rakshit Shetty, Kishore, Tara.",
+      "Recognized as a landmark Action title within the Sandalwood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Ulidavaru Kandanthe?",
+        "answer": "Ulidavaru Kandanthe was directed by Rakshit Shetty and features prominent performances by Rakshit Shetty, Kishore, Tara."
+      },
+      {
+        "question": "What genres does Ulidavaru Kandanthe belong to?",
+        "answer": "Ulidavaru Kandanthe is classified under Action, Crime, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Ulidavaru Kandanthe?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Ulidavaru Kandanthe in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "POJ_6EtGeMw"
   },
   {
     "id": "102",
@@ -5434,7 +8336,7 @@ export const movies: Movie[] = [
       "Sruthi Hariharan",
       "Achyuth Kumar"
     ],
-    "description": "An usher suffering from insomnia is enticed into taking a mysterious trial drug named Lucia, blurring the boundaries between his waking life and lucid dream reality.",
+    "description": "Lucia is an acclaimed Kannada Drama and Mystery and Sci-Fi and Thriller film helmed by visionary director Pawan Kumar. Set against the distinctive cultural backdrop of Sandalwood, the story centers on compelling characters played with nuance by Sathish Ninasam, Sruthi Hariharan, Achyuth Kumar, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Kannada cinema.",
     "poster": "/images/movies/lucia.jpg",
     "imdbRating": 8.2,
     "runtime": 135,
@@ -5460,7 +8362,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Pawan Kumar.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Hombale Films",
+      "Paramvah Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Sathish Ninasam and Sruthi Hariharan, and evocative direction that captures the genuine spirit of Kannada cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Pawan Kumar with an acclaimed ensemble cast.",
+      "Features celebrated performances by Sathish Ninasam, Sruthi Hariharan, Achyuth Kumar.",
+      "Recognized as a landmark Drama title within the Sandalwood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Lucia?",
+        "answer": "Lucia was directed by Pawan Kumar and features prominent performances by Sathish Ninasam, Sruthi Hariharan, Achyuth Kumar."
+      },
+      {
+        "question": "What genres does Lucia belong to?",
+        "answer": "Lucia is classified under Drama, Mystery, Sci-Fi, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Lucia?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Lucia in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "pgIL2H-OdcA"
   },
   {
     "id": "103",
@@ -5481,7 +8411,7 @@ export const movies: Movie[] = [
       "Samyuktha Hegde",
       "Achyuth Kumar"
     ],
-    "description": "The mischievous antics and emotional maturation of a rebellious college gang as they navigate love, friendship, campus elections, and adulthood.",
+    "description": "Kirik Party is an acclaimed Kannada Comedy and Drama and Romance film helmed by visionary director Rishab Shetty. Set against the distinctive cultural backdrop of Sandalwood, the story centers on compelling characters played with nuance by Rakshit Shetty, Rashmika Mandanna, Samyuktha Hegde, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Kannada cinema.",
     "poster": "/images/movies/kirik-party.jpg",
     "imdbRating": 8.2,
     "runtime": 165,
@@ -5507,7 +8437,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Rishab Shetty.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Hombale Films",
+      "Paramvah Studios"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Rakshit Shetty and Rashmika Mandanna, and evocative direction that captures the genuine spirit of Kannada cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Rishab Shetty with an acclaimed ensemble cast.",
+      "Features celebrated performances by Rakshit Shetty, Rashmika Mandanna, Samyuktha Hegde.",
+      "Recognized as a landmark Comedy title within the Sandalwood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Kirik Party?",
+        "answer": "Kirik Party was directed by Rishab Shetty and features prominent performances by Rakshit Shetty, Rashmika Mandanna, Samyuktha Hegde."
+      },
+      {
+        "question": "What genres does Kirik Party belong to?",
+        "answer": "Kirik Party is classified under Comedy, Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Kirik Party?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Kirik Party in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "IfvnbER_6sQ"
   },
   {
     "id": "104",
@@ -5525,7 +8483,7 @@ export const movies: Movie[] = [
       "Puneeth Rajkumar",
       "Amoghavarsha"
     ],
-    "description": "A breathtaking cinematic docu-journey celebrating the wild flora, fauna, and untouched biodiversity of Karnataka, starring late cinema legend Puneeth Rajkumar.",
+    "description": "Gandhadagudi is an acclaimed Kannada Adventure and Family film helmed by visionary director Amoghavarsha. Set against the distinctive cultural backdrop of Sandalwood, the story centers on compelling characters played with nuance by Puneeth Rajkumar, Amoghavarsha, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Kannada cinema.",
     "poster": "/images/movies/gandhadagudi.jpg",
     "imdbRating": 8.9,
     "runtime": 98,
@@ -5543,7 +8501,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Adventure masterpiece from Amoghavarsha.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Hombale Films",
+      "Paramvah Studios"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Puneeth Rajkumar and Amoghavarsha, and evocative direction that captures the genuine spirit of Kannada cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Amoghavarsha with an acclaimed ensemble cast.",
+      "Features celebrated performances by Puneeth Rajkumar, Amoghavarsha.",
+      "Recognized as a landmark Adventure title within the Sandalwood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Gandhadagudi?",
+        "answer": "Gandhadagudi was directed by Amoghavarsha and features prominent performances by Puneeth Rajkumar, Amoghavarsha."
+      },
+      {
+        "question": "What genres does Gandhadagudi belong to?",
+        "answer": "Gandhadagudi is classified under Adventure, Family, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Gandhadagudi?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Gandhadagudi in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "UdPisHeGMQM"
   },
   {
     "id": "105",
@@ -5564,7 +8550,7 @@ export const movies: Movie[] = [
       "Binnu Dhillon",
       "Jaswinder Bhalla"
     ],
-    "description": "Jass falls for Mahie, who only wants to marry an orphan. To win her heart, Jass lies about his family, triggering an avalanche of chaotic cover-ups.",
+    "description": "Carry On Jatta is an acclaimed Punjabi Comedy and Romance film helmed by visionary director Smeep Kang. Set against the distinctive cultural backdrop of Pollywood, the story centers on compelling characters played with nuance by Gippy Grewal, Mahie Gill, Gurpreet Ghuggi, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Punjabi cinema.",
     "poster": "/images/movies/carry-on-jatta.jpg",
     "imdbRating": 8.1,
     "runtime": 142,
@@ -5582,7 +8568,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Smeep Kang.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "White Hill Studios",
+      "Humble Motion Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Gippy Grewal and Mahie Gill, and evocative direction that captures the genuine spirit of Punjabi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Smeep Kang with an acclaimed ensemble cast.",
+      "Features celebrated performances by Gippy Grewal, Mahie Gill, Gurpreet Ghuggi.",
+      "Recognized as a landmark Comedy title within the Pollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Carry On Jatta?",
+        "answer": "Carry On Jatta was directed by Smeep Kang and features prominent performances by Gippy Grewal, Mahie Gill, Gurpreet Ghuggi."
+      },
+      {
+        "question": "What genres does Carry On Jatta belong to?",
+        "answer": "Carry On Jatta is classified under Comedy, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Carry On Jatta?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Carry On Jatta in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "5zXhneEuOjY"
   },
   {
     "id": "106",
@@ -5602,7 +8616,7 @@ export const movies: Movie[] = [
       "Guggu Gill",
       "Tania"
     ],
-    "description": "A carefree young student in Chandigarh fakes romance with a girl to save his reputation, but real feelings blossom and fate takes an unforeseen emotional turn.",
+    "description": "Qismat is an acclaimed Punjabi Drama and Romance film helmed by visionary director Jagdeep Sidhu. Set against the distinctive cultural backdrop of Pollywood, the story centers on compelling characters played with nuance by Ammy Virk, Sargun Mehta, Guggu Gill, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Punjabi cinema.",
     "poster": "/images/movies/qismat.jpg",
     "imdbRating": 8.1,
     "runtime": 137,
@@ -5620,7 +8634,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Jagdeep Sidhu.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "White Hill Studios",
+      "Humble Motion Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Ammy Virk and Sargun Mehta, and evocative direction that captures the genuine spirit of Punjabi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Jagdeep Sidhu with an acclaimed ensemble cast.",
+      "Features celebrated performances by Ammy Virk, Sargun Mehta, Guggu Gill.",
+      "Recognized as a landmark Drama title within the Pollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Qismat?",
+        "answer": "Qismat was directed by Jagdeep Sidhu and features prominent performances by Ammy Virk, Sargun Mehta, Guggu Gill."
+      },
+      {
+        "question": "What genres does Qismat belong to?",
+        "answer": "Qismat is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Qismat?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Qismat in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "xgQcYRakbms"
   },
   {
     "id": "107",
@@ -5643,7 +8685,7 @@ export const movies: Movie[] = [
       "Ammy Virk",
       "Binnu Dhillon"
     ],
-    "description": "Set in rural Punjab of 1945, a thoughtful young man attempts to woo a girl from another village within the boundaries of traditional etiquette and matchmaking.",
+    "description": "Angrej is an acclaimed Punjabi Comedy and Drama and Romance and Historical film helmed by visionary director Simerjit Singh. Set against the distinctive cultural backdrop of Pollywood, the story centers on compelling characters played with nuance by Amrinder Gill, Sargun Mehta, Aditi Sharma, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Punjabi cinema.",
     "poster": "/images/movies/angrej.jpg",
     "imdbRating": 8.3,
     "runtime": 136,
@@ -5661,7 +8703,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Simerjit Singh.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "White Hill Studios",
+      "Humble Motion Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Amrinder Gill and Sargun Mehta, and evocative direction that captures the genuine spirit of Punjabi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Simerjit Singh with an acclaimed ensemble cast.",
+      "Features celebrated performances by Amrinder Gill, Sargun Mehta, Aditi Sharma.",
+      "Recognized as a landmark Comedy title within the Pollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Angrej?",
+        "answer": "Angrej was directed by Simerjit Singh and features prominent performances by Amrinder Gill, Sargun Mehta, Aditi Sharma."
+      },
+      {
+        "question": "What genres does Angrej belong to?",
+        "answer": "Angrej is classified under Comedy, Drama, Romance, Historical, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Angrej?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Angrej in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "xw96l194ueA"
   },
   {
     "id": "108",
@@ -5681,7 +8751,7 @@ export const movies: Movie[] = [
       "Jaswinder Bhalla",
       "Upasna Singh"
     ],
-    "description": "Fate keeps bringing two sharply contrasting Punjabis together as they attempt to secure Canadian permanent residency, evolving from bickering rivals to soulmates.",
+    "description": "Jatt & Juliet is an acclaimed Punjabi Comedy and Romance film helmed by visionary director Anurag Singh. Set against the distinctive cultural backdrop of Pollywood, the story centers on compelling characters played with nuance by Diljit Dosanjh, Neeru Bajwa, Jaswinder Bhalla, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Punjabi cinema.",
     "poster": "/images/movies/jatt-and-juliet.jpg",
     "imdbRating": 7.5,
     "runtime": 140,
@@ -5699,7 +8769,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Anurag Singh.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "White Hill Studios",
+      "Humble Motion Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Diljit Dosanjh and Neeru Bajwa, and evocative direction that captures the genuine spirit of Punjabi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Anurag Singh with an acclaimed ensemble cast.",
+      "Features celebrated performances by Diljit Dosanjh, Neeru Bajwa, Jaswinder Bhalla.",
+      "Recognized as a landmark Comedy title within the Pollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Jatt & Juliet?",
+        "answer": "Jatt & Juliet was directed by Anurag Singh and features prominent performances by Diljit Dosanjh, Neeru Bajwa, Jaswinder Bhalla."
+      },
+      {
+        "question": "What genres does Jatt & Juliet belong to?",
+        "answer": "Jatt & Juliet is classified under Comedy, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Jatt & Juliet?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Jatt & Juliet in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "q8aq0WAZFlM"
   },
   {
     "id": "109",
@@ -5719,7 +8817,7 @@ export const movies: Movie[] = [
       "B.N. Sharma",
       "Mandy Takhar"
     ],
-    "description": "Gurpartap Singh, a compassionate masterji posted to a troubled village, helps diverse residents overcome societal vices, depression, and loss through hope and prayer.",
+    "description": "Ardaas is an acclaimed Punjabi Drama and Family film helmed by visionary director Gippy Grewal. Set against the distinctive cultural backdrop of Pollywood, the story centers on compelling characters played with nuance by Gurpreet Ghuggi, Ammy Virk, B.N. Sharma, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Punjabi cinema.",
     "poster": "/images/movies/ardaas.jpg",
     "imdbRating": 8.2,
     "runtime": 132,
@@ -5737,7 +8835,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Gippy Grewal.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "White Hill Studios",
+      "Humble Motion Pictures"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Gurpreet Ghuggi and Ammy Virk, and evocative direction that captures the genuine spirit of Punjabi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Gippy Grewal with an acclaimed ensemble cast.",
+      "Features celebrated performances by Gurpreet Ghuggi, Ammy Virk, B.N. Sharma.",
+      "Recognized as a landmark Drama title within the Pollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Ardaas?",
+        "answer": "Ardaas was directed by Gippy Grewal and features prominent performances by Gurpreet Ghuggi, Ammy Virk, B.N. Sharma."
+      },
+      {
+        "question": "What genres does Ardaas belong to?",
+        "answer": "Ardaas is classified under Drama, Family, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Ardaas?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Ardaas in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "Wm73yx3Qq20"
   },
   {
     "id": "110",
@@ -5755,7 +8881,7 @@ export const movies: Movie[] = [
     "cast": [
       "Om Puri"
     ],
-    "description": "A 3D historical animation chronicling the supreme valor and sacrifice of the four sons of Guru Gobind Singh against Mughal tyranny.",
+    "description": "Chaar Sahibzaade is an acclaimed Punjabi Action and Historical and Drama film helmed by visionary director Harry Baweja. Set against the distinctive cultural backdrop of Pollywood, the story centers on compelling characters played with nuance by Om Puri, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Punjabi cinema.",
     "poster": "/images/movies/chaar-sahibzaade.jpg",
     "imdbRating": 8.4,
     "runtime": 128,
@@ -5764,7 +8890,35 @@ export const movies: Movie[] = [
     "sources": [
       "https://en.wikipedia.org/wiki/Chaar_Sahibzaade"
     ],
-    "watchOptions": []
+    "watchOptions": [],
+    "tagline": "Experience the acclaimed Action masterpiece from Harry Baweja.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "White Hill Studios",
+      "Humble Motion Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Om Puri, and evocative direction that captures the genuine spirit of Punjabi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Harry Baweja with an acclaimed ensemble cast.",
+      "Features celebrated performances by Om Puri.",
+      "Recognized as a landmark Action title within the Pollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Chaar Sahibzaade?",
+        "answer": "Chaar Sahibzaade was directed by Harry Baweja and features prominent performances by Om Puri."
+      },
+      {
+        "question": "What genres does Chaar Sahibzaade belong to?",
+        "answer": "Chaar Sahibzaade is classified under Action, Historical, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Chaar Sahibzaade?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Chaar Sahibzaade in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "-W1CMhxunf0"
   },
   {
     "id": "111",
@@ -5783,7 +8937,7 @@ export const movies: Movie[] = [
       "Karuna Banerjee",
       "Chunibala Devi"
     ],
-    "description": "Impoverished priest Harihar Ray dreams of a better life for his family while young Apu and his sister Durga discover wonder amidst rural hardship. A cornerstone of world cinema.",
+    "description": "Pather Panchali is an acclaimed Bengali Drama film helmed by visionary director Satyajit Ray. Set against the distinctive cultural backdrop of Bengali Cinema, the story centers on compelling characters played with nuance by Subir Banerjee, Kanu Banerjee, Karuna Banerjee, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Bengali cinema.",
     "poster": "/images/movies/pather-panchali.jpg",
     "imdbRating": 8.5,
     "runtime": 125,
@@ -5825,7 +8979,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Satyajit Ray.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "SVF Entertainment",
+      "Windows Production"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Subir Banerjee and Kanu Banerjee, and evocative direction that captures the genuine spirit of Bengali cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Satyajit Ray with an acclaimed ensemble cast.",
+      "Features celebrated performances by Subir Banerjee, Kanu Banerjee, Karuna Banerjee.",
+      "Recognized as a landmark Drama title within the Bengali Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Pather Panchali?",
+        "answer": "Pather Panchali was directed by Satyajit Ray and features prominent performances by Subir Banerjee, Kanu Banerjee, Karuna Banerjee."
+      },
+      {
+        "question": "What genres does Pather Panchali belong to?",
+        "answer": "Pather Panchali is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Pather Panchali?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Pather Panchali in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "sZNlRMdMdoI"
   },
   {
     "id": "112",
@@ -5844,7 +9026,7 @@ export const movies: Movie[] = [
       "Soumitra Chatterjee",
       "Sailen Mukherjee"
     ],
-    "description": "The lonely intellectual wife of a wealthy 19th-century newspaper editor finds unexpected emotional and literary resonance when his charismatic young cousin arrives.",
+    "description": "Charulata is an acclaimed Bengali Drama and Romance film helmed by visionary director Satyajit Ray. Set against the distinctive cultural backdrop of Bengali Cinema, the story centers on compelling characters played with nuance by Madhabi Mukherjee, Soumitra Chatterjee, Sailen Mukherjee, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Bengali cinema.",
     "poster": "/images/movies/charulata.jpg",
     "imdbRating": 8.2,
     "runtime": 117,
@@ -5853,7 +9035,34 @@ export const movies: Movie[] = [
     "sources": [
       "https://en.wikipedia.org/wiki/Charulata"
     ],
-    "watchOptions": []
+    "watchOptions": [],
+    "tagline": "Experience the acclaimed Drama masterpiece from Satyajit Ray.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "SVF Entertainment",
+      "Windows Production"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Madhabi Mukherjee and Soumitra Chatterjee, and evocative direction that captures the genuine spirit of Bengali cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Satyajit Ray with an acclaimed ensemble cast.",
+      "Features celebrated performances by Madhabi Mukherjee, Soumitra Chatterjee, Sailen Mukherjee.",
+      "Recognized as a landmark Drama title within the Bengali Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Charulata?",
+        "answer": "Charulata was directed by Satyajit Ray and features prominent performances by Madhabi Mukherjee, Soumitra Chatterjee, Sailen Mukherjee."
+      },
+      {
+        "question": "What genres does Charulata belong to?",
+        "answer": "Charulata is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Charulata?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Charulata in the Where to Watch section on Moviezui."
+      }
+    ]
   },
   {
     "id": "113",
@@ -5875,7 +9084,7 @@ export const movies: Movie[] = [
       "Raima Sen",
       "Abir Chatterjee"
     ],
-    "description": "A suspended, hard-boiled ex-police officer and a young detective team up to track down a serial killer in Kolkata who leaves Bengali poetry couplets at crime scenes.",
+    "description": "Baishe Srabon is an acclaimed Bengali Crime and Drama and Mystery and Thriller film helmed by visionary director Srijit Mukherji. Set against the distinctive cultural backdrop of Bengali Cinema, the story centers on compelling characters played with nuance by Prosenjit Chatterjee, Parambrata Chatterjee, Raima Sen, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Bengali cinema.",
     "poster": "/images/movies/baishe-srabon.jpg",
     "imdbRating": 7.7,
     "runtime": 145,
@@ -5909,7 +9118,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Crime masterpiece from Srijit Mukherji.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "SVF Entertainment",
+      "Windows Production"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Prosenjit Chatterjee and Parambrata Chatterjee, and evocative direction that captures the genuine spirit of Bengali cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Srijit Mukherji with an acclaimed ensemble cast.",
+      "Features celebrated performances by Prosenjit Chatterjee, Parambrata Chatterjee, Raima Sen.",
+      "Recognized as a landmark Crime title within the Bengali Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Baishe Srabon?",
+        "answer": "Baishe Srabon was directed by Srijit Mukherji and features prominent performances by Prosenjit Chatterjee, Parambrata Chatterjee, Raima Sen."
+      },
+      {
+        "question": "What genres does Baishe Srabon belong to?",
+        "answer": "Baishe Srabon is classified under Crime, Drama, Mystery, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Baishe Srabon?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Baishe Srabon in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "o-Az9dxnQF8"
   },
   {
     "id": "114",
@@ -5927,7 +9164,7 @@ export const movies: Movie[] = [
       "Parambrata Chatterjee",
       "Swastika Mukherjee"
     ],
-    "description": "A group of ghosts from different eras inhabiting a historic Kolkata mansion band together to prevent a greedy real estate developer from demolishing their home.",
+    "description": "Bhooter Bhabishyat is an acclaimed Bengali Comedy film helmed by visionary director Anik Dutta. Set against the distinctive cultural backdrop of Bengali Cinema, the story centers on compelling characters played with nuance by Sabyasachi Chakrabarty, Parambrata Chatterjee, Swastika Mukherjee, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Bengali cinema.",
     "poster": "/images/movies/bhooter-bhabishyat.jpg",
     "imdbRating": 7.9,
     "runtime": 123,
@@ -5953,6 +9190,33 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Anik Dutta.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "SVF Entertainment",
+      "Windows Production"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Sabyasachi Chakrabarty and Parambrata Chatterjee, and evocative direction that captures the genuine spirit of Bengali cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Anik Dutta with an acclaimed ensemble cast.",
+      "Features celebrated performances by Sabyasachi Chakrabarty, Parambrata Chatterjee, Swastika Mukherjee.",
+      "Recognized as a landmark Comedy title within the Bengali Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Bhooter Bhabishyat?",
+        "answer": "Bhooter Bhabishyat was directed by Anik Dutta and features prominent performances by Sabyasachi Chakrabarty, Parambrata Chatterjee, Swastika Mukherjee."
+      },
+      {
+        "question": "What genres does Bhooter Bhabishyat belong to?",
+        "answer": "Bhooter Bhabishyat is classified under Comedy, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Bhooter Bhabishyat?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Bhooter Bhabishyat in the Where to Watch section on Moviezui."
+      }
     ]
   },
   {
@@ -5973,7 +9237,7 @@ export const movies: Movie[] = [
       "Aparajita Auddy",
       "Rituparna Sengupta"
     ],
-    "description": "On their 49th wedding anniversary, an elderly patriarch stuns his wife and four grown children by announcing his intention to divorce, forcing the family to re-examine the true meaning of companionship.",
+    "description": "Belaseshe is an acclaimed Bengali Drama and Family film helmed by visionary director Nandita Roy, Shiboprosad Mukherjee. Set against the distinctive cultural backdrop of Bengali Cinema, the story centers on compelling characters played with nuance by Soumitra Chatterjee, Swatilekha Sengupta, Aparajita Auddy, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Bengali cinema.",
     "poster": "/images/movies/belaseshe.jpg",
     "imdbRating": 8.2,
     "runtime": 141,
@@ -5982,7 +9246,35 @@ export const movies: Movie[] = [
     "sources": [
       "https://en.wikipedia.org/wiki/Belaseshe"
     ],
-    "watchOptions": []
+    "watchOptions": [],
+    "tagline": "Experience the acclaimed Drama masterpiece from Nandita Roy, Shiboprosad Mukherjee.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "SVF Entertainment",
+      "Windows Production"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Soumitra Chatterjee and Swatilekha Sengupta, and evocative direction that captures the genuine spirit of Bengali cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Nandita Roy, Shiboprosad Mukherjee with an acclaimed ensemble cast.",
+      "Features celebrated performances by Soumitra Chatterjee, Swatilekha Sengupta, Aparajita Auddy.",
+      "Recognized as a landmark Drama title within the Bengali Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Belaseshe?",
+        "answer": "Belaseshe was directed by Nandita Roy, Shiboprosad Mukherjee and features prominent performances by Soumitra Chatterjee, Swatilekha Sengupta, Aparajita Auddy."
+      },
+      {
+        "question": "What genres does Belaseshe belong to?",
+        "answer": "Belaseshe is classified under Drama, Family, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Belaseshe?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Belaseshe in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "2ZYT9On-I-M"
   },
   {
     "id": "116",
@@ -6000,7 +9292,7 @@ export const movies: Movie[] = [
       "Riddhi Sen",
       "Ritwick Chakraborty"
     ],
-    "description": "A flute player and a trans woman navigate discrimination, intimacy, and dignity in Kolkata. Winner of four National Film Awards.",
+    "description": "Nagarkirtan is an acclaimed Bengali Drama and Romance film helmed by visionary director Kaushik Ganguly. Set against the distinctive cultural backdrop of Bengali Cinema, the story centers on compelling characters played with nuance by Riddhi Sen, Ritwick Chakraborty, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Bengali cinema.",
     "poster": "/images/movies/nagarkirtan.jpg",
     "imdbRating": 8,
     "runtime": 115,
@@ -6009,7 +9301,35 @@ export const movies: Movie[] = [
     "sources": [
       "https://en.wikipedia.org/wiki/Nagarkirtan"
     ],
-    "watchOptions": []
+    "watchOptions": [],
+    "tagline": "Experience the acclaimed Drama masterpiece from Kaushik Ganguly.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "SVF Entertainment",
+      "Windows Production"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Riddhi Sen and Ritwick Chakraborty, and evocative direction that captures the genuine spirit of Bengali cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Kaushik Ganguly with an acclaimed ensemble cast.",
+      "Features celebrated performances by Riddhi Sen, Ritwick Chakraborty.",
+      "Recognized as a landmark Drama title within the Bengali Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Nagarkirtan?",
+        "answer": "Nagarkirtan was directed by Kaushik Ganguly and features prominent performances by Riddhi Sen, Ritwick Chakraborty."
+      },
+      {
+        "question": "What genres does Nagarkirtan belong to?",
+        "answer": "Nagarkirtan is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Nagarkirtan?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Nagarkirtan in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "zPs_ZeW-ti0"
   },
   {
     "id": "117",
@@ -6029,7 +9349,7 @@ export const movies: Movie[] = [
       "Tanaji Galgunde",
       "Suresh Vishwakarma"
     ],
-    "description": "A passionate young romance between a poor fisherman's son and the feisty daughter of a rich politician triggers violent caste retribution, becoming one of Indian cinema's most acclaimed works.",
+    "description": "Sairat is an acclaimed Marathi Drama and Romance film helmed by visionary director Nagraj Manjule. Set against the distinctive cultural backdrop of Marathi Cinema, the story centers on compelling characters played with nuance by Rinku Rajguru, Akash Thosar, Tanaji Galgunde, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Marathi cinema.",
     "poster": "/images/movies/sairat.jpg",
     "imdbRating": 8.2,
     "runtime": 174,
@@ -6063,7 +9383,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Nagraj Manjule.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Zee Studios",
+      "Essel Vision"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Rinku Rajguru and Akash Thosar, and evocative direction that captures the genuine spirit of Marathi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Nagraj Manjule with an acclaimed ensemble cast.",
+      "Features celebrated performances by Rinku Rajguru, Akash Thosar, Tanaji Galgunde.",
+      "Recognized as a landmark Drama title within the Marathi Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Sairat?",
+        "answer": "Sairat was directed by Nagraj Manjule and features prominent performances by Rinku Rajguru, Akash Thosar, Tanaji Galgunde."
+      },
+      {
+        "question": "What genres does Sairat belong to?",
+        "answer": "Sairat is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Sairat?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Sairat in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "iShPI_JF524"
   },
   {
     "id": "118",
@@ -6082,7 +9430,7 @@ export const movies: Movie[] = [
       "Geetanjali Kulkarni",
       "Pradeep Joshi"
     ],
-    "description": "An aging activist and folk singer is tried in a Mumbai sessions court on absurd charges of abetting a sewage worker's suicide, exposing systemic absurdities in the legal system.",
+    "description": "Court is an acclaimed Marathi Drama film helmed by visionary director Chaitanya Tamhane. Set against the distinctive cultural backdrop of Marathi Cinema, the story centers on compelling characters played with nuance by Vira Sathidar, Vivek Gomber, Geetanjali Kulkarni, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Marathi cinema.",
     "poster": "/images/movies/court-marathi.jpg",
     "imdbRating": 7.7,
     "runtime": 116,
@@ -6091,7 +9439,35 @@ export const movies: Movie[] = [
     "sources": [
       "https://en.wikipedia.org/wiki/Court_(film)"
     ],
-    "watchOptions": []
+    "watchOptions": [],
+    "tagline": "Experience the acclaimed Drama masterpiece from Chaitanya Tamhane.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Zee Studios",
+      "Essel Vision"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Vira Sathidar and Vivek Gomber, and evocative direction that captures the genuine spirit of Marathi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Chaitanya Tamhane with an acclaimed ensemble cast.",
+      "Features celebrated performances by Vira Sathidar, Vivek Gomber, Geetanjali Kulkarni.",
+      "Recognized as a landmark Drama title within the Marathi Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Court?",
+        "answer": "Court was directed by Chaitanya Tamhane and features prominent performances by Vira Sathidar, Vivek Gomber, Geetanjali Kulkarni."
+      },
+      {
+        "question": "What genres does Court belong to?",
+        "answer": "Court is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Court?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Court in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "4sc8z7zav9A"
   },
   {
     "id": "119",
@@ -6110,7 +9486,7 @@ export const movies: Movie[] = [
       "Vikram Gokhale",
       "Sunil Barve"
     ],
-    "description": "A retired Shakespearean theater titan gives away his entire life's wealth to his children, only to face bitter abandonment and isolation in his frail twilight years.",
+    "description": "Natsamrat is an acclaimed Marathi Drama film helmed by visionary director Mahesh Manjrekar. Set against the distinctive cultural backdrop of Marathi Cinema, the story centers on compelling characters played with nuance by Nana Patekar, Medha Manjrekar, Vikram Gokhale, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Marathi cinema.",
     "poster": "/images/movies/natsamrat.jpg",
     "imdbRating": 8.7,
     "runtime": 166,
@@ -6119,7 +9495,35 @@ export const movies: Movie[] = [
     "sources": [
       "https://en.wikipedia.org/wiki/Natsamrat_(film)"
     ],
-    "watchOptions": []
+    "watchOptions": [],
+    "tagline": "Experience the acclaimed Drama masterpiece from Mahesh Manjrekar.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Zee Studios",
+      "Essel Vision"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Nana Patekar and Medha Manjrekar, and evocative direction that captures the genuine spirit of Marathi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Mahesh Manjrekar with an acclaimed ensemble cast.",
+      "Features celebrated performances by Nana Patekar, Medha Manjrekar, Vikram Gokhale.",
+      "Recognized as a landmark Drama title within the Marathi Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Natsamrat?",
+        "answer": "Natsamrat was directed by Mahesh Manjrekar and features prominent performances by Nana Patekar, Medha Manjrekar, Vikram Gokhale."
+      },
+      {
+        "question": "What genres does Natsamrat belong to?",
+        "answer": "Natsamrat is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Natsamrat?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Natsamrat in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "Bp1Hv_-hLUY"
   },
   {
     "id": "120",
@@ -6139,7 +9543,7 @@ export const movies: Movie[] = [
       "Parth Bhalerao",
       "Gaurish Gawade"
     ],
-    "description": "After losing his father, an 11-year-old boy struggles to cope with displacement when his mother is transferred to a small rain-swept coastal town in Konkan.",
+    "description": "Killa is an acclaimed Marathi Drama and Family film helmed by visionary director Avinash Arun. Set against the distinctive cultural backdrop of Marathi Cinema, the story centers on compelling characters played with nuance by Archit Deodhar, Amruta Subhash, Parth Bhalerao, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Marathi cinema.",
     "poster": "/images/movies/killa.jpg",
     "imdbRating": 8.1,
     "runtime": 107,
@@ -6148,7 +9552,35 @@ export const movies: Movie[] = [
     "sources": [
       "https://en.wikipedia.org/wiki/Killa_(film)"
     ],
-    "watchOptions": []
+    "watchOptions": [],
+    "tagline": "Experience the acclaimed Drama masterpiece from Avinash Arun.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Zee Studios",
+      "Essel Vision"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Archit Deodhar and Amruta Subhash, and evocative direction that captures the genuine spirit of Marathi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Avinash Arun with an acclaimed ensemble cast.",
+      "Features celebrated performances by Archit Deodhar, Amruta Subhash, Parth Bhalerao.",
+      "Recognized as a landmark Drama title within the Marathi Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Killa?",
+        "answer": "Killa was directed by Avinash Arun and features prominent performances by Archit Deodhar, Amruta Subhash, Parth Bhalerao."
+      },
+      {
+        "question": "What genres does Killa belong to?",
+        "answer": "Killa is classified under Drama, Family, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Killa?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Killa in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "t3B_WzebSHM"
   },
   {
     "id": "121",
@@ -6169,7 +9601,7 @@ export const movies: Movie[] = [
       "Vibhavari Deshpande",
       "Bhalchandra Kadam"
     ],
-    "description": "The charming, humorous biographical story of Dadasaheb Phalke overcoming poverty and skepticism to make India's first-ever full-length motion picture, Raja Harishchandra, in 1913.",
+    "description": "Harishchandrachi Factory is an acclaimed Marathi Biography and Comedy and Drama and Historical film helmed by visionary director Paresh Mokashi. Set against the distinctive cultural backdrop of Marathi Cinema, the story centers on compelling characters played with nuance by Nandu Madhav, Vibhavari Deshpande, Bhalchandra Kadam, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Marathi cinema.",
     "poster": "/images/movies/harishchandrachi-factory.jpg",
     "imdbRating": 8.4,
     "runtime": 96,
@@ -6178,7 +9610,35 @@ export const movies: Movie[] = [
     "sources": [
       "https://en.wikipedia.org/wiki/Harishchandrachi_Factory"
     ],
-    "watchOptions": []
+    "watchOptions": [],
+    "tagline": "Experience the acclaimed Biography masterpiece from Paresh Mokashi.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Zee Studios",
+      "Essel Vision"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Nandu Madhav and Vibhavari Deshpande, and evocative direction that captures the genuine spirit of Marathi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Paresh Mokashi with an acclaimed ensemble cast.",
+      "Features celebrated performances by Nandu Madhav, Vibhavari Deshpande, Bhalchandra Kadam.",
+      "Recognized as a landmark Biography title within the Marathi Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Harishchandrachi Factory?",
+        "answer": "Harishchandrachi Factory was directed by Paresh Mokashi and features prominent performances by Nandu Madhav, Vibhavari Deshpande, Bhalchandra Kadam."
+      },
+      {
+        "question": "What genres does Harishchandrachi Factory belong to?",
+        "answer": "Harishchandrachi Factory is classified under Biography, Comedy, Drama, Historical, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Harishchandrachi Factory?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Harishchandrachi Factory in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "LPvvMbXLfpA"
   },
   {
     "id": "122",
@@ -6199,7 +9659,7 @@ export const movies: Movie[] = [
       "Payal Jadhav",
       "Neeta Shende"
     ],
-    "description": "A strained father and son set out on a scooter journey across rural Maharashtra to deliver wedding invitations, gradually discovering reconciliation.",
+    "description": "Baaplyok is an acclaimed Marathi Comedy and Drama and Family film helmed by visionary director Makarand Mane. Set against the distinctive cultural backdrop of Marathi Cinema, the story centers on compelling characters played with nuance by Shashank Shende, Vitthal Kale, Payal Jadhav, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Marathi cinema.",
     "poster": "/images/movies/baaplyok.jpg",
     "imdbRating": 8.3,
     "runtime": 114,
@@ -6217,7 +9677,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Makarand Mane.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Zee Studios",
+      "Essel Vision"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Shashank Shende and Vitthal Kale, and evocative direction that captures the genuine spirit of Marathi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Makarand Mane with an acclaimed ensemble cast.",
+      "Features celebrated performances by Shashank Shende, Vitthal Kale, Payal Jadhav.",
+      "Recognized as a landmark Comedy title within the Marathi Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Baaplyok?",
+        "answer": "Baaplyok was directed by Makarand Mane and features prominent performances by Shashank Shende, Vitthal Kale, Payal Jadhav."
+      },
+      {
+        "question": "What genres does Baaplyok belong to?",
+        "answer": "Baaplyok is classified under Comedy, Drama, Family, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Baaplyok?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Baaplyok in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "yX2v4wGeC3k"
   },
   {
     "id": "123",
@@ -6239,7 +9727,7 @@ export const movies: Movie[] = [
       "Hemant Jha",
       "Chhaya Vora"
     ],
-    "description": "Satyajit and Savitri are introduced for an arranged marriage, but Savitri proposes a test live-in relationship with strict conditions to determine compatibility.",
+    "description": "Sharato Lagu is an acclaimed Gujarati Comedy and Romance and Drama film helmed by visionary director Neeraj Joshi. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Malhar Thakar, Deeksha Joshi, Prashant Barot, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "runtime": 136,
     "imdbRating": 7.6,
     "poster": "/images/movies/sharato-lagu.jpg",
@@ -6257,7 +9745,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Neeraj Joshi.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Malhar Thakar and Deeksha Joshi, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Neeraj Joshi with an acclaimed ensemble cast.",
+      "Features celebrated performances by Malhar Thakar, Deeksha Joshi, Prashant Barot.",
+      "Recognized as a landmark Comedy title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Sharato Lagu?",
+        "answer": "Sharato Lagu was directed by Neeraj Joshi and features prominent performances by Malhar Thakar, Deeksha Joshi, Prashant Barot."
+      },
+      {
+        "question": "What genres does Sharato Lagu belong to?",
+        "answer": "Sharato Lagu is classified under Comedy, Romance, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Sharato Lagu?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Sharato Lagu in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "Km9CFwRQ8tU"
   },
   {
     "id": "124",
@@ -6278,7 +9794,7 @@ export const movies: Movie[] = [
       "Sachin Khedekar",
       "Vandana Pathak"
     ],
-    "description": "Sahil and Harshita end their two-year relationship overnight, leaving Sahil's parents determined to step in and navigate the modern emotional maze.",
+    "description": "Golkeri is an acclaimed Gujarati Comedy and Drama and Family film helmed by visionary director Viral Shah. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Malhar Thakar, Manasi Parekh, Sachin Khedekar, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "runtime": 128,
     "imdbRating": 7.2,
     "poster": "/images/movies/golkeri.jpg",
@@ -6287,7 +9803,35 @@ export const movies: Movie[] = [
     "sources": [
       "https://en.wikipedia.org/wiki/Golkeri"
     ],
-    "watchOptions": []
+    "watchOptions": [],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Viral Shah.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Malhar Thakar and Manasi Parekh, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Viral Shah with an acclaimed ensemble cast.",
+      "Features celebrated performances by Malhar Thakar, Manasi Parekh, Sachin Khedekar.",
+      "Recognized as a landmark Comedy title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Golkeri?",
+        "answer": "Golkeri was directed by Viral Shah and features prominent performances by Malhar Thakar, Manasi Parekh, Sachin Khedekar."
+      },
+      {
+        "question": "What genres does Golkeri belong to?",
+        "answer": "Golkeri is classified under Comedy, Drama, Family, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Golkeri?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Golkeri in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "RiQJw0znUjw"
   },
   {
     "id": "125",
@@ -6308,7 +9852,7 @@ export const movies: Movie[] = [
       "Purvi Vyas",
       "Jayesh More"
     ],
-    "description": "Gujjubhai and his bumbling son Khagesh stumble into a high-stakes undercover espionage operation while visiting Mumbai, unleashing sheer comedic chaos.",
+    "description": "Gujjubhai - Most Wanted is an acclaimed Gujarati Comedy and Action film helmed by visionary director Ishaan Randeria. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Siddharth Randeria, Jimit Trivedi, Tejal Vyas, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "runtime": 147,
     "imdbRating": 7.1,
     "poster": "/images/movies/gujjubhai-most-wanted.jpg",
@@ -6326,7 +9870,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Ishaan Randeria.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Siddharth Randeria and Jimit Trivedi, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Ishaan Randeria with an acclaimed ensemble cast.",
+      "Features celebrated performances by Siddharth Randeria, Jimit Trivedi, Tejal Vyas.",
+      "Recognized as a landmark Comedy title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Gujjubhai - Most Wanted?",
+        "answer": "Gujjubhai - Most Wanted was directed by Ishaan Randeria and features prominent performances by Siddharth Randeria, Jimit Trivedi, Tejal Vyas."
+      },
+      {
+        "question": "What genres does Gujjubhai - Most Wanted belong to?",
+        "answer": "Gujjubhai - Most Wanted is classified under Comedy, Action, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Gujjubhai - Most Wanted?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Gujjubhai - Most Wanted in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "-DI2AAUml68"
   },
   {
     "id": "126",
@@ -6346,7 +9918,7 @@ export const movies: Movie[] = [
       "Aarohi Patel",
       "Shaunak Vyas"
     ],
-    "description": "Set against 1970s college campus life in Gujarat, a troubled young student discovers friendship, unexpressed love, and life-altering personal sacrifice.",
+    "description": "Duniyadari is an acclaimed Gujarati Drama and Romance film helmed by visionary director Shital Shah. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Malhar Thakar, Esha Kansara, Aarohi Patel, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "runtime": 142,
     "imdbRating": 6.9,
     "poster": "/images/movies/duniyadari-gujarati.jpg",
@@ -6372,7 +9944,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Shital Shah.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Malhar Thakar and Esha Kansara, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Shital Shah with an acclaimed ensemble cast.",
+      "Features celebrated performances by Malhar Thakar, Esha Kansara, Aarohi Patel.",
+      "Recognized as a landmark Drama title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Duniyadari?",
+        "answer": "Duniyadari was directed by Shital Shah and features prominent performances by Malhar Thakar, Esha Kansara, Aarohi Patel."
+      },
+      {
+        "question": "What genres does Duniyadari belong to?",
+        "answer": "Duniyadari is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Duniyadari?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Duniyadari in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "zwcoP1Hzibk"
   },
   {
     "id": "127",
@@ -6391,7 +9991,7 @@ export const movies: Movie[] = [
       "Bharat Chawda",
       "Priya Gore"
     ],
-    "description": "Two close friends find themselves caught in a chaotic web of mistaken identities, eccentric gangsters, and unexpected riches.",
+    "description": "Tamburo is an acclaimed Gujarati Comedy film helmed by visionary director Shailesh Shankar. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Manoj Joshi, Pratik Gandhi, Bharat Chawda, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "runtime": 130,
     "imdbRating": 6.8,
     "poster": "/images/movies/tamburo.jpg",
@@ -6417,7 +10017,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Shailesh Shankar.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Manoj Joshi and Pratik Gandhi, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Shailesh Shankar with an acclaimed ensemble cast.",
+      "Features celebrated performances by Manoj Joshi, Pratik Gandhi, Bharat Chawda.",
+      "Recognized as a landmark Comedy title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Tamburo?",
+        "answer": "Tamburo was directed by Shailesh Shankar and features prominent performances by Manoj Joshi, Pratik Gandhi, Bharat Chawda."
+      },
+      {
+        "question": "What genres does Tamburo belong to?",
+        "answer": "Tamburo is classified under Comedy, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Tamburo?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Tamburo in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "9XI7enTsogQ"
   },
   {
     "id": "128",
@@ -6437,7 +10065,7 @@ export const movies: Movie[] = [
       "Prem Gadhavi",
       "Manan Desai"
     ],
-    "description": "Robin, an incurable kleptomaniac, battles his uncontrollable compulsion to steal while trying to win the heart of a charming, high-spirited woman.",
+    "description": "Chor Bani Thangaat Kare is an acclaimed Gujarati Comedy and Romance film helmed by visionary director Rahul Bhole. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Amit Mistry, Bijal Joshi, Prem Gadhavi, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "runtime": 134,
     "imdbRating": 7,
     "poster": "/images/movies/chor-bani-thangaat-kare.jpg",
@@ -6455,7 +10083,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Rahul Bhole.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Amit Mistry and Bijal Joshi, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Rahul Bhole with an acclaimed ensemble cast.",
+      "Features celebrated performances by Amit Mistry, Bijal Joshi, Prem Gadhavi.",
+      "Recognized as a landmark Comedy title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Chor Bani Thangaat Kare?",
+        "answer": "Chor Bani Thangaat Kare was directed by Rahul Bhole and features prominent performances by Amit Mistry, Bijal Joshi, Prem Gadhavi."
+      },
+      {
+        "question": "What genres does Chor Bani Thangaat Kare belong to?",
+        "answer": "Chor Bani Thangaat Kare is classified under Comedy, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Chor Bani Thangaat Kare?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Chor Bani Thangaat Kare in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "oZoByqYj5iY"
   },
   {
     "id": "129",
@@ -6474,7 +10130,7 @@ export const movies: Movie[] = [
       "Vyoma Nandi",
       "Rohini Hattangadi"
     ],
-    "description": "A passionate social worker dedicated to planting trees and healing urban lives clashes with family expectations and commercial developments.",
+    "description": "Oxygen is an acclaimed Gujarati Drama and Romance film helmed by visionary director Chinmay Purohit. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Anshul Trivedi, Vyoma Nandi, Rohini Hattangadi, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "runtime": 125,
     "imdbRating": 7.3,
     "poster": "/images/movies/oxygen-gujarati.jpg",
@@ -6492,7 +10148,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Chinmay Purohit.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Anshul Trivedi and Vyoma Nandi, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Chinmay Purohit with an acclaimed ensemble cast.",
+      "Features celebrated performances by Anshul Trivedi, Vyoma Nandi, Rohini Hattangadi.",
+      "Recognized as a landmark Drama title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Oxygen?",
+        "answer": "Oxygen was directed by Chinmay Purohit and features prominent performances by Anshul Trivedi, Vyoma Nandi, Rohini Hattangadi."
+      },
+      {
+        "question": "What genres does Oxygen belong to?",
+        "answer": "Oxygen is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Oxygen?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Oxygen in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "LEY7VQziRmM"
   },
   {
     "id": "130",
@@ -6513,7 +10197,7 @@ export const movies: Movie[] = [
       "Sanjay Goradia",
       "Chetan Daiya"
     ],
-    "description": "When an elderly patriarch is put on a ventilator days before Navratri, dozens of extended family members gather at the hospital, exposing family secrets.",
+    "description": "Ventilator is an acclaimed Gujarati Comedy and Drama and Family film helmed by visionary director Umang Vyas. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Jackie Shroff, Pratik Gandhi, Sanjay Goradia, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "runtime": 140,
     "imdbRating": 7.5,
     "poster": "/images/movies/ventilator-gujarati.jpg",
@@ -6539,7 +10223,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Umang Vyas.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Jackie Shroff and Pratik Gandhi, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Umang Vyas with an acclaimed ensemble cast.",
+      "Features celebrated performances by Jackie Shroff, Pratik Gandhi, Sanjay Goradia.",
+      "Recognized as a landmark Comedy title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Ventilator?",
+        "answer": "Ventilator was directed by Umang Vyas and features prominent performances by Jackie Shroff, Pratik Gandhi, Sanjay Goradia."
+      },
+      {
+        "question": "What genres does Ventilator belong to?",
+        "answer": "Ventilator is classified under Comedy, Drama, Family, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Ventilator?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Ventilator in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "zlnsxTuef98"
   },
   {
     "id": "131",
@@ -6560,7 +10272,7 @@ export const movies: Movie[] = [
       "Sadhana Raval",
       "Hemang Shah"
     ],
-    "description": "Montu has loved his childhood best friend Bittu his whole life. When an NRI suitor enters the picture, Montu must decide whether to confess or lose her forever.",
+    "description": "Montu Ni Bittu is an acclaimed Gujarati Comedy and Romance and Drama film helmed by visionary director Vijaygiri Bava. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Aarohi Patel, Maulik Nayak, Sadhana Raval, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "runtime": 135,
     "imdbRating": 7.4,
     "poster": "/images/movies/montu-ni-bittu.jpg",
@@ -6578,7 +10290,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Vijaygiri Bava.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Aarohi Patel and Maulik Nayak, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Vijaygiri Bava with an acclaimed ensemble cast.",
+      "Features celebrated performances by Aarohi Patel, Maulik Nayak, Sadhana Raval.",
+      "Recognized as a landmark Comedy title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Montu Ni Bittu?",
+        "answer": "Montu Ni Bittu was directed by Vijaygiri Bava and features prominent performances by Aarohi Patel, Maulik Nayak, Sadhana Raval."
+      },
+      {
+        "question": "What genres does Montu Ni Bittu belong to?",
+        "answer": "Montu Ni Bittu is classified under Comedy, Romance, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Montu Ni Bittu?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Montu Ni Bittu in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "b_6POjKBx78"
   },
   {
     "id": "132",
@@ -6598,7 +10338,7 @@ export const movies: Movie[] = [
       "Netri Trivedi",
       "Shivani Joshi"
     ],
-    "description": "A poignant emotional journey tracing the nuances of modern romantic ambitions, professional compromises, and enduring human intimacy.",
+    "description": "Lakiro is an acclaimed Gujarati Drama and Romance film helmed by visionary director Darshan Ashwin Trivedi. Set against the distinctive cultural backdrop of Gujarati Cinema, the story centers on compelling characters played with nuance by Raunaq Kamdar, Deeksha Joshi, Netri Trivedi, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Gujarati cinema.",
     "runtime": 122,
     "imdbRating": 7.1,
     "poster": "/images/movies/lakiro.jpg",
@@ -6632,7 +10372,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Darshan Ashwin Trivedi.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "CineMan Productions",
+      "Belvedere Films"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Raunaq Kamdar and Deeksha Joshi, and evocative direction that captures the genuine spirit of Gujarati cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Darshan Ashwin Trivedi with an acclaimed ensemble cast.",
+      "Features celebrated performances by Raunaq Kamdar, Deeksha Joshi, Netri Trivedi.",
+      "Recognized as a landmark Drama title within the Gujarati Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Lakiro?",
+        "answer": "Lakiro was directed by Darshan Ashwin Trivedi and features prominent performances by Raunaq Kamdar, Deeksha Joshi, Netri Trivedi."
+      },
+      {
+        "question": "What genres does Lakiro belong to?",
+        "answer": "Lakiro is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Lakiro?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Lakiro in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "y3qYDPDN5M8"
   },
   {
     "id": "133",
@@ -6654,7 +10422,7 @@ export const movies: Movie[] = [
       "Kumud Mishra",
       "Isha Talwar"
     ],
-    "description": "An upright IPS officer arrives in rural Uttar Pradesh and spearheads an uncompromised investigation into the horrific disappearance of three teenage girls.",
+    "description": "Article 15 is an acclaimed Hindi Crime and Drama and Mystery film helmed by visionary director Anubhav Sinha. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Ayushmann Khurrana, Nassar, Manoj Pahwa, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "runtime": 130,
     "imdbRating": 8.1,
     "poster": "/images/movies/article-15.jpg",
@@ -6663,7 +10431,35 @@ export const movies: Movie[] = [
     "sources": [
       "https://en.wikipedia.org/wiki/Article_15_(film)"
     ],
-    "watchOptions": []
+    "watchOptions": [],
+    "tagline": "Experience the acclaimed Crime masterpiece from Anubhav Sinha.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Ayushmann Khurrana and Nassar, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Anubhav Sinha with an acclaimed ensemble cast.",
+      "Features celebrated performances by Ayushmann Khurrana, Nassar, Manoj Pahwa.",
+      "Recognized as a landmark Crime title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Article 15?",
+        "answer": "Article 15 was directed by Anubhav Sinha and features prominent performances by Ayushmann Khurrana, Nassar, Manoj Pahwa."
+      },
+      {
+        "question": "What genres does Article 15 belong to?",
+        "answer": "Article 15 is classified under Crime, Drama, Mystery, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Article 15?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Article 15 in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "HKOJY0cU63E"
   },
   {
     "id": "134",
@@ -6684,7 +10480,7 @@ export const movies: Movie[] = [
       "Surekha Sikri",
       "Sanya Malhotra"
     ],
-    "description": "A 25-year-old middle-class executive is thrown into social embarrassment when his middle-aged parents unexpectedly announce they are expecting a baby.",
+    "description": "Badhaai Ho is an acclaimed Hindi Comedy and Drama film helmed by visionary director Amit Sharma. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Ayushmann Khurrana, Neena Gupta, Gajraj Rao, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "runtime": 124,
     "imdbRating": 7.9,
     "poster": "/images/movies/badhaai-ho.jpg",
@@ -6710,7 +10506,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Amit Sharma.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Ayushmann Khurrana and Neena Gupta, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Amit Sharma with an acclaimed ensemble cast.",
+      "Features celebrated performances by Ayushmann Khurrana, Neena Gupta, Gajraj Rao.",
+      "Recognized as a landmark Comedy title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Badhaai Ho?",
+        "answer": "Badhaai Ho was directed by Amit Sharma and features prominent performances by Ayushmann Khurrana, Neena Gupta, Gajraj Rao."
+      },
+      {
+        "question": "What genres does Badhaai Ho belong to?",
+        "answer": "Badhaai Ho is classified under Comedy, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Badhaai Ho?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Badhaai Ho in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "unAljCZMQYw"
   },
   {
     "id": "135",
@@ -6732,7 +10556,7 @@ export const movies: Movie[] = [
       "Shraddha Kapoor",
       "Irrfan Khan"
     ],
-    "description": "A young poet returns to Kashmir during the peak of 1995 militancy to confront the disappearance of his father and unravel a web of political betrayal.",
+    "description": "Haider is an acclaimed Hindi Crime and Drama and Action film helmed by visionary director Vishal Bhardwaj. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Shahid Kapoor, Tabu, Kay Kay Menon, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "runtime": 160,
     "imdbRating": 8,
     "poster": "/images/movies/haider.jpg",
@@ -6782,7 +10606,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Crime masterpiece from Vishal Bhardwaj.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Shahid Kapoor and Tabu, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Vishal Bhardwaj with an acclaimed ensemble cast.",
+      "Features celebrated performances by Shahid Kapoor, Tabu, Kay Kay Menon.",
+      "Recognized as a landmark Crime title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Haider?",
+        "answer": "Haider was directed by Vishal Bhardwaj and features prominent performances by Shahid Kapoor, Tabu, Kay Kay Menon."
+      },
+      {
+        "question": "What genres does Haider belong to?",
+        "answer": "Haider is classified under Crime, Drama, Action, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Haider?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Haider in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "kxY32xM3VHY"
   },
   {
     "id": "136",
@@ -6802,7 +10654,7 @@ export const movies: Movie[] = [
       "Nawazuddin Siddiqui",
       "Saswata Chatterjee"
     ],
-    "description": "A heavily pregnant woman arrives alone in Kolkata during Durga Puja in search of her missing husband, uncovering an explosive intelligence conspiracy.",
+    "description": "Kahaani is an acclaimed Hindi Mystery and Thriller film helmed by visionary director Sujoy Ghosh. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Vidya Balan, Parambrata Chatterjee, Nawazuddin Siddiqui, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "runtime": 122,
     "imdbRating": 8.1,
     "poster": "/images/movies/kahaani.jpg",
@@ -6820,7 +10672,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Mystery masterpiece from Sujoy Ghosh.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Vidya Balan and Parambrata Chatterjee, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Sujoy Ghosh with an acclaimed ensemble cast.",
+      "Features celebrated performances by Vidya Balan, Parambrata Chatterjee, Nawazuddin Siddiqui.",
+      "Recognized as a landmark Mystery title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Kahaani?",
+        "answer": "Kahaani was directed by Sujoy Ghosh and features prominent performances by Vidya Balan, Parambrata Chatterjee, Nawazuddin Siddiqui."
+      },
+      {
+        "question": "What genres does Kahaani belong to?",
+        "answer": "Kahaani is classified under Mystery, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Kahaani?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Kahaani in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "rsjamVgPoI8"
   },
   {
     "id": "137",
@@ -6841,7 +10721,7 @@ export const movies: Movie[] = [
       "Vijay Raaz",
       "Kalki Koechlin"
     ],
-    "description": "Murad, an underprivileged college student from the Dharavi slums, channels his rage and street poetry into a groundbreaking underground hip-hop revolution.",
+    "description": "Gully Boy is an acclaimed Hindi Drama and Music film helmed by visionary director Zoya Akhtar. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Ranveer Singh, Alia Bhatt, Siddhant Chaturvedi, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "runtime": 154,
     "imdbRating": 7.9,
     "poster": "/images/movies/gully-boy.jpg",
@@ -6875,7 +10755,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Zoya Akhtar.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Ranveer Singh and Alia Bhatt, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Zoya Akhtar with an acclaimed ensemble cast.",
+      "Features celebrated performances by Ranveer Singh, Alia Bhatt, Siddhant Chaturvedi.",
+      "Recognized as a landmark Drama title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Gully Boy?",
+        "answer": "Gully Boy was directed by Zoya Akhtar and features prominent performances by Ranveer Singh, Alia Bhatt, Siddhant Chaturvedi."
+      },
+      {
+        "question": "What genres does Gully Boy belong to?",
+        "answer": "Gully Boy is classified under Drama, Music, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Gully Boy?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Gully Boy in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "JfbxcD6biOk"
   },
   {
     "id": "138",
@@ -6895,7 +10803,7 @@ export const movies: Movie[] = [
       "Sanjay Mishra",
       "Pankaj Tripathi"
     ],
-    "description": "Four separate lives along the sacred banks of the Ganges in Varanasi confront deeply rooted caste prejudice, modern moral policing, and heartrending grief.",
+    "description": "Masaan is an acclaimed Hindi Drama film helmed by visionary director Neeraj Ghaywan. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Vicky Kaushal, Richa Chadha, Shweta Tripathi, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "runtime": 109,
     "imdbRating": 8.1,
     "poster": "/images/movies/masaan.jpg",
@@ -6929,7 +10837,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Neeraj Ghaywan.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Vicky Kaushal and Richa Chadha, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Neeraj Ghaywan with an acclaimed ensemble cast.",
+      "Features celebrated performances by Vicky Kaushal, Richa Chadha, Shweta Tripathi.",
+      "Recognized as a landmark Drama title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Masaan?",
+        "answer": "Masaan was directed by Neeraj Ghaywan and features prominent performances by Vicky Kaushal, Richa Chadha, Shweta Tripathi."
+      },
+      {
+        "question": "What genres does Masaan belong to?",
+        "answer": "Masaan is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Masaan?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Masaan in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "SKJfBo3xMW0"
   },
   {
     "id": "139",
@@ -6948,7 +10884,7 @@ export const movies: Movie[] = [
       "Manjot Singh",
       "Ram Kapoor"
     ],
-    "description": "Expelled from boarding school, an aspiring teenage poet is forced home to an industrial steel town and an authoritarian father who suffocates his dreams.",
+    "description": "Udaan is an acclaimed Hindi Drama film helmed by visionary director Vikramaditya Motwane. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Rajat Barmecha, Ronit Roy, Manjot Singh, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "runtime": 134,
     "imdbRating": 8.1,
     "poster": "/images/movies/udaan.jpg",
@@ -6966,7 +10902,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Vikramaditya Motwane.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Rajat Barmecha and Ronit Roy, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Vikramaditya Motwane with an acclaimed ensemble cast.",
+      "Features celebrated performances by Rajat Barmecha, Ronit Roy, Manjot Singh.",
+      "Recognized as a landmark Drama title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Udaan?",
+        "answer": "Udaan was directed by Vikramaditya Motwane and features prominent performances by Rajat Barmecha, Ronit Roy, Manjot Singh."
+      },
+      {
+        "question": "What genres does Udaan belong to?",
+        "answer": "Udaan is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Udaan?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Udaan in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "wEJxe2bE-cE"
   },
   {
     "id": "140",
@@ -6987,7 +10951,7 @@ export const movies: Movie[] = [
       "Pavan Malhotra",
       "Divya Dutta"
     ],
-    "description": "The gripping biographical epic of the legendary Flying Sikh Milkha Singh, who overcame the trauma of the 1947 Partition to conquer world athletics.",
+    "description": "Bhaag Milkha Bhaag is an acclaimed Hindi Biography and Drama and Sport film helmed by visionary director Rakeysh Omprakash Mehra. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Farhan Akhtar, Sonam Kapoor, Pavan Malhotra, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "runtime": 186,
     "imdbRating": 8.2,
     "poster": "/images/movies/bhaag-milkha-bhaag.jpg",
@@ -7021,7 +10985,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Biography masterpiece from Rakeysh Omprakash Mehra.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Farhan Akhtar and Sonam Kapoor, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Rakeysh Omprakash Mehra with an acclaimed ensemble cast.",
+      "Features celebrated performances by Farhan Akhtar, Sonam Kapoor, Pavan Malhotra.",
+      "Recognized as a landmark Biography title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Bhaag Milkha Bhaag?",
+        "answer": "Bhaag Milkha Bhaag was directed by Rakeysh Omprakash Mehra and features prominent performances by Farhan Akhtar, Sonam Kapoor, Pavan Malhotra."
+      },
+      {
+        "question": "What genres does Bhaag Milkha Bhaag belong to?",
+        "answer": "Bhaag Milkha Bhaag is classified under Biography, Drama, Sport, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Bhaag Milkha Bhaag?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Bhaag Milkha Bhaag in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "WbblCMem1ME"
   },
   {
     "id": "141",
@@ -7041,7 +11033,7 @@ export const movies: Movie[] = [
       "Dara Singh",
       "Tarun Arora"
     ],
-    "description": "A depressed Mumbai business tycoon on the verge of suicide finds his outlook transformed when he meets Geet, an irrepressible chatterbox on an overnight train.",
+    "description": "Jab We Met is an acclaimed Hindi Comedy and Romance film helmed by visionary director Imtiaz Ali. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Shahid Kapoor, Kareena Kapoor, Dara Singh, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "runtime": 138,
     "imdbRating": 7.9,
     "poster": "/images/movies/jab-we-met.jpg",
@@ -7099,7 +11091,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Imtiaz Ali.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Shahid Kapoor and Kareena Kapoor, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Imtiaz Ali with an acclaimed ensemble cast.",
+      "Features celebrated performances by Shahid Kapoor, Kareena Kapoor, Dara Singh.",
+      "Recognized as a landmark Comedy title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Jab We Met?",
+        "answer": "Jab We Met was directed by Imtiaz Ali and features prominent performances by Shahid Kapoor, Kareena Kapoor, Dara Singh."
+      },
+      {
+        "question": "What genres does Jab We Met belong to?",
+        "answer": "Jab We Met is classified under Comedy, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Jab We Met?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Jab We Met in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "BFzT-hQDreM"
   },
   {
     "id": "142",
@@ -7120,7 +11140,7 @@ export const movies: Movie[] = [
       "Shammi Kapoor",
       "Kumud Mishra"
     ],
-    "description": "A clumsy Delhi university student discovers that genuine artistic genius requires unbearable heartbreak, propelling him into a meteoric, self-destructive rock stardom.",
+    "description": "Rockstar is an acclaimed Hindi Drama and Music and Romance film helmed by visionary director Imtiaz Ali. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Ranbir Kapoor, Nargis Fakhri, Shammi Kapoor, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "runtime": 159,
     "imdbRating": 7.7,
     "poster": "/images/movies/rockstar.jpg",
@@ -7170,7 +11190,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Imtiaz Ali.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Ranbir Kapoor and Nargis Fakhri, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Imtiaz Ali with an acclaimed ensemble cast.",
+      "Features celebrated performances by Ranbir Kapoor, Nargis Fakhri, Shammi Kapoor.",
+      "Recognized as a landmark Drama title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Rockstar?",
+        "answer": "Rockstar was directed by Imtiaz Ali and features prominent performances by Ranbir Kapoor, Nargis Fakhri, Shammi Kapoor."
+      },
+      {
+        "question": "What genres does Rockstar belong to?",
+        "answer": "Rockstar is classified under Drama, Music, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Rockstar?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Rockstar in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "bD5FShPZdpw"
   },
   {
     "id": "143",
@@ -7192,7 +11240,7 @@ export const movies: Movie[] = [
       "Amol Parashar",
       "Banita Sandhu"
     ],
-    "description": "A hauntingly detailed biographical drama following Indian revolutionary Udham Singh, who spent two decades tracking Michael O'Dwyer to avenge the 1919 Jallianwala Bagh massacre.",
+    "description": "Sardar Udham is an acclaimed Hindi Biography and Drama and History film helmed by visionary director Shoojit Sircar. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Vicky Kaushal, Shaun Scott, Stephen Hogan, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "runtime": 164,
     "imdbRating": 8.4,
     "poster": "/images/movies/sardar-udham.jpg",
@@ -7234,7 +11282,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Biography masterpiece from Shoojit Sircar.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Vicky Kaushal and Shaun Scott, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Shoojit Sircar with an acclaimed ensemble cast.",
+      "Features celebrated performances by Vicky Kaushal, Shaun Scott, Stephen Hogan.",
+      "Recognized as a landmark Biography title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Sardar Udham?",
+        "answer": "Sardar Udham was directed by Shoojit Sircar and features prominent performances by Vicky Kaushal, Shaun Scott, Stephen Hogan."
+      },
+      {
+        "question": "What genres does Sardar Udham belong to?",
+        "answer": "Sardar Udham is classified under Biography, Drama, History, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Sardar Udham?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Sardar Udham in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "bLWgKt1-SYo"
   },
   {
     "id": "144",
@@ -7256,7 +11332,7 @@ export const movies: Movie[] = [
       "Jimmy Sheirgill",
       "Kajal Aggarwal"
     ],
-    "description": "Inspired by real 1987 events, a clever crew of con artists impersonate CBI officers to carry out audacious daylight fake raids on corrupt politicians and businessmen.",
+    "description": "Special 26 is an acclaimed Hindi Crime and Drama and Thriller film helmed by visionary director Neeraj Pandey. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Akshay Kumar, Manoj Bajpayee, Anupam Kher, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "runtime": 144,
     "imdbRating": 8,
     "poster": "/images/movies/special-26.jpg",
@@ -7265,7 +11341,35 @@ export const movies: Movie[] = [
     "sources": [
       "https://en.wikipedia.org/wiki/Special_26"
     ],
-    "watchOptions": []
+    "watchOptions": [],
+    "tagline": "Experience the acclaimed Crime masterpiece from Neeraj Pandey.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Akshay Kumar and Manoj Bajpayee, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Neeraj Pandey with an acclaimed ensemble cast.",
+      "Features celebrated performances by Akshay Kumar, Manoj Bajpayee, Anupam Kher.",
+      "Recognized as a landmark Crime title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Special 26?",
+        "answer": "Special 26 was directed by Neeraj Pandey and features prominent performances by Akshay Kumar, Manoj Bajpayee, Anupam Kher."
+      },
+      {
+        "question": "What genres does Special 26 belong to?",
+        "answer": "Special 26 is classified under Crime, Drama, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Special 26?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Special 26 in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "MqWAtOvHa4k"
   },
   {
     "id": "145",
@@ -7287,7 +11391,7 @@ export const movies: Movie[] = [
       "Jimmy Sheirgill",
       "Aamir Bashir"
     ],
-    "description": "A retiring Mumbai police commissioner recounts the single most dangerous day of his career when an anonymous caller threatened to detonate bombs across the city.",
+    "description": "A Wednesday! is an acclaimed Hindi Crime and Drama and Mystery and Thriller film helmed by visionary director Neeraj Pandey. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Naseeruddin Shah, Anupam Kher, Jimmy Sheirgill, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "runtime": 104,
     "imdbRating": 8.1,
     "poster": "/images/movies/a-wednesday.jpg",
@@ -7329,7 +11433,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Crime masterpiece from Neeraj Pandey.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Naseeruddin Shah and Anupam Kher, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Neeraj Pandey with an acclaimed ensemble cast.",
+      "Features celebrated performances by Naseeruddin Shah, Anupam Kher, Jimmy Sheirgill.",
+      "Recognized as a landmark Crime title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie A Wednesday!?",
+        "answer": "A Wednesday! was directed by Neeraj Pandey and features prominent performances by Naseeruddin Shah, Anupam Kher, Jimmy Sheirgill."
+      },
+      {
+        "question": "What genres does A Wednesday! belong to?",
+        "answer": "A Wednesday! is classified under Crime, Drama, Mystery, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch A Wednesday!?",
+        "answer": "You can discover verified subscription, rental, and streaming options for A Wednesday! in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "oII-vaL3mZg"
   },
   {
     "id": "146",
@@ -7349,7 +11481,7 @@ export const movies: Movie[] = [
       "Farhana Bhat",
       "Mir Sarwar"
     ],
-    "description": "A modern reimagining of the classic tragic romance set amid the political unrest and breathtaking mountain landscapes of contemporary Kashmir.",
+    "description": "Laila Majnu is an acclaimed Hindi Drama and Romance film helmed by visionary director Sajid Ali. Set against the distinctive cultural backdrop of Bollywood, the story centers on compelling characters played with nuance by Avinash Tiwary, Triptii Dimri, Farhana Bhat, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Hindi cinema.",
     "runtime": 140,
     "imdbRating": 7.7,
     "poster": "/images/movies/laila-majnu.jpg",
@@ -7375,7 +11507,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Sajid Ali.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Viacom18 Studios",
+      "Eros International"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Avinash Tiwary and Triptii Dimri, and evocative direction that captures the genuine spirit of Hindi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Sajid Ali with an acclaimed ensemble cast.",
+      "Features celebrated performances by Avinash Tiwary, Triptii Dimri, Farhana Bhat.",
+      "Recognized as a landmark Drama title within the Bollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Laila Majnu?",
+        "answer": "Laila Majnu was directed by Sajid Ali and features prominent performances by Avinash Tiwary, Triptii Dimri, Farhana Bhat."
+      },
+      {
+        "question": "What genres does Laila Majnu belong to?",
+        "answer": "Laila Majnu is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Laila Majnu?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Laila Majnu in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "Cv-6cAHanZ8"
   },
   {
     "id": "147",
@@ -7397,7 +11557,7 @@ export const movies: Movie[] = [
       "Matthew McConaughey",
       "Kyle Chandler"
     ],
-    "description": "The riotous rise and catastrophic fall of New York stockbroker Jordan Belfort, whose brokerage firm defrauded investors out of millions in a frenzy of hedonism.",
+    "description": "The Wolf of Wall Street is an acclaimed English Biography and Comedy and Crime film helmed by visionary director Martin Scorsese. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Leonardo DiCaprio, Jonah Hill, Margot Robbie, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "runtime": 180,
     "imdbRating": 8.2,
     "poster": "/images/movies/the-wolf-of-wall-street.jpg",
@@ -7447,7 +11607,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Biography masterpiece from Martin Scorsese.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Leonardo DiCaprio and Jonah Hill, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Martin Scorsese with an acclaimed ensemble cast.",
+      "Features celebrated performances by Leonardo DiCaprio, Jonah Hill, Margot Robbie.",
+      "Recognized as a landmark Biography title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie The Wolf of Wall Street?",
+        "answer": "The Wolf of Wall Street was directed by Martin Scorsese and features prominent performances by Leonardo DiCaprio, Jonah Hill, Margot Robbie."
+      },
+      {
+        "question": "What genres does The Wolf of Wall Street belong to?",
+        "answer": "The Wolf of Wall Street is classified under Biography, Comedy, Crime, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch The Wolf of Wall Street?",
+        "answer": "You can discover verified subscription, rental, and streaming options for The Wolf of Wall Street in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "iszwuX1AK6A"
   },
   {
     "id": "148",
@@ -7469,7 +11657,7 @@ export const movies: Movie[] = [
       "Lorraine Bracco",
       "Paul Sorvino"
     ],
-    "description": "The story of Henry Hill and his life in the mafia mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.",
+    "description": "Goodfellas is an acclaimed English Biography and Crime and Drama film helmed by visionary director Martin Scorsese. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Robert De Niro, Ray Liotta, Joe Pesci, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "runtime": 145,
     "imdbRating": 8.7,
     "poster": "/images/movies/goodfellas.jpg",
@@ -7503,7 +11691,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Biography masterpiece from Martin Scorsese.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Robert De Niro and Ray Liotta, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Martin Scorsese with an acclaimed ensemble cast.",
+      "Features celebrated performances by Robert De Niro, Ray Liotta, Joe Pesci.",
+      "Recognized as a landmark Biography title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Goodfellas?",
+        "answer": "Goodfellas was directed by Martin Scorsese and features prominent performances by Robert De Niro, Ray Liotta, Joe Pesci."
+      },
+      {
+        "question": "What genres does Goodfellas belong to?",
+        "answer": "Goodfellas is classified under Biography, Crime, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Goodfellas?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Goodfellas in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "2ilzidi_J8Q"
   },
   {
     "id": "149",
@@ -7524,7 +11740,7 @@ export const movies: Movie[] = [
       "Ralph Fiennes",
       "Caroline Goodall"
     ],
-    "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution.",
+    "description": "Schindler's List is an acclaimed English Biography and Drama and History film helmed by visionary director Steven Spielberg. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Liam Neeson, Ben Kingsley, Ralph Fiennes, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "runtime": 195,
     "imdbRating": 9,
     "poster": "/images/movies/schindlers-list.jpg",
@@ -7566,7 +11782,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Biography masterpiece from Steven Spielberg.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Liam Neeson and Ben Kingsley, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Steven Spielberg with an acclaimed ensemble cast.",
+      "Features celebrated performances by Liam Neeson, Ben Kingsley, Ralph Fiennes.",
+      "Recognized as a landmark Biography title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Schindler's List?",
+        "answer": "Schindler's List was directed by Steven Spielberg and features prominent performances by Liam Neeson, Ben Kingsley, Ralph Fiennes."
+      },
+      {
+        "question": "What genres does Schindler's List belong to?",
+        "answer": "Schindler's List is classified under Biography, Drama, History, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Schindler's List?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Schindler's List in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "mxphAlJID9U"
   },
   {
     "id": "150",
@@ -7588,7 +11832,7 @@ export const movies: Movie[] = [
       "Mari Natsuki",
       "Takashi Naito"
     ],
-    "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a magical world ruled by gods, witches, and spirits where humans become beasts.",
+    "description": "Spirited Away is an acclaimed Japanese Animation and Adventure and Family and Fantasy film helmed by visionary director Hayao Miyazaki. Set against the distinctive cultural backdrop of International Cinema, the story centers on compelling characters played with nuance by Rumi Hiiragi, Miyu Irino, Mari Natsuki, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Japanese cinema.",
     "runtime": 125,
     "imdbRating": 8.6,
     "poster": "/images/movies/spirited-away.jpg",
@@ -7606,7 +11850,34 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Animation masterpiece from Hayao Miyazaki.",
+    "productionCountry": "Japan",
+    "productionCompanies": [
+      "Independent Cinema Studios"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Rumi Hiiragi and Miyu Irino, and evocative direction that captures the genuine spirit of Japanese cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Hayao Miyazaki with an acclaimed ensemble cast.",
+      "Features celebrated performances by Rumi Hiiragi, Miyu Irino, Mari Natsuki.",
+      "Recognized as a landmark Animation title within the International Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Spirited Away?",
+        "answer": "Spirited Away was directed by Hayao Miyazaki and features prominent performances by Rumi Hiiragi, Miyu Irino, Mari Natsuki."
+      },
+      {
+        "question": "What genres does Spirited Away belong to?",
+        "answer": "Spirited Away is classified under Animation, Adventure, Family, Fantasy, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Spirited Away?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Spirited Away in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "fDUFP7EeXLE"
   },
   {
     "id": "151",
@@ -7627,7 +11898,7 @@ export const movies: Movie[] = [
       "Scott Glenn",
       "Ted Levine"
     ],
-    "description": "A young FBI cadet must confide in an incarcerated, manipulative cannibal killer to receive his help in capturing another psychopathic serial murderer.",
+    "description": "The Silence of the Lambs is an acclaimed English Crime and Drama and Thriller film helmed by visionary director Jonathan Demme. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Jodie Foster, Anthony Hopkins, Scott Glenn, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "runtime": 118,
     "imdbRating": 8.6,
     "poster": "/images/movies/the-silence-of-the-lambs.jpg",
@@ -7645,7 +11916,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Crime masterpiece from Jonathan Demme.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Jodie Foster and Anthony Hopkins, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Jonathan Demme with an acclaimed ensemble cast.",
+      "Features celebrated performances by Jodie Foster, Anthony Hopkins, Scott Glenn.",
+      "Recognized as a landmark Crime title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie The Silence of the Lambs?",
+        "answer": "The Silence of the Lambs was directed by Jonathan Demme and features prominent performances by Jodie Foster, Anthony Hopkins, Scott Glenn."
+      },
+      {
+        "question": "What genres does The Silence of the Lambs belong to?",
+        "answer": "The Silence of the Lambs is classified under Crime, Drama, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch The Silence of the Lambs?",
+        "answer": "You can discover verified subscription, rental, and streaming options for The Silence of the Lambs in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "W6Mm8Sbe__o"
   },
   {
     "id": "152",
@@ -7666,7 +11965,7 @@ export const movies: Movie[] = [
       "Edward Burns",
       "Barry Pepper"
     ],
-    "description": "Following the Normandy Landings, a group of US soldiers undertake a perilous mission behind enemy lines to rescue a paratrooper whose brothers have all been killed in action.",
+    "description": "Saving Private Ryan is an acclaimed English Drama and War film helmed by visionary director Steven Spielberg. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Tom Hanks, Matt Damon, Tom Sizemore, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "runtime": 169,
     "imdbRating": 8.6,
     "poster": "/images/movies/saving-private-ryan.jpg",
@@ -7708,7 +12007,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Steven Spielberg.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Tom Hanks and Matt Damon, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Steven Spielberg with an acclaimed ensemble cast.",
+      "Features celebrated performances by Tom Hanks, Matt Damon, Tom Sizemore.",
+      "Recognized as a landmark Drama title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Saving Private Ryan?",
+        "answer": "Saving Private Ryan was directed by Steven Spielberg and features prominent performances by Tom Hanks, Matt Damon, Tom Sizemore."
+      },
+      {
+        "question": "What genres does Saving Private Ryan belong to?",
+        "answer": "Saving Private Ryan is classified under Drama, War, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Saving Private Ryan?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Saving Private Ryan in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "9CiW_DgxCnQ"
   },
   {
     "id": "153",
@@ -7730,7 +12057,7 @@ export const movies: Movie[] = [
       "Gwyneth Paltrow",
       "Kevin Spacey"
     ],
-    "description": "Two homicide detectives, a seasoned veteran and a reckless rookie, hunt a sadistic serial killer who meticulously executes murders themed on the seven deadly sins.",
+    "description": "Se7en is an acclaimed English Crime and Drama and Mystery and Thriller film helmed by visionary director David Fincher. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Brad Pitt, Morgan Freeman, Gwyneth Paltrow, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "runtime": 127,
     "imdbRating": 8.6,
     "poster": "/images/movies/se7en.jpg",
@@ -7764,7 +12091,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Crime masterpiece from David Fincher.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Brad Pitt and Morgan Freeman, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker David Fincher with an acclaimed ensemble cast.",
+      "Features celebrated performances by Brad Pitt, Morgan Freeman, Gwyneth Paltrow.",
+      "Recognized as a landmark Crime title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Se7en?",
+        "answer": "Se7en was directed by David Fincher and features prominent performances by Brad Pitt, Morgan Freeman, Gwyneth Paltrow."
+      },
+      {
+        "question": "What genres does Se7en belong to?",
+        "answer": "Se7en is classified under Crime, Drama, Mystery, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Se7en?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Se7en in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "KPOuJGkpblk"
   },
   {
     "id": "154",
@@ -7786,7 +12141,7 @@ export const movies: Movie[] = [
       "Brian Tyree Henry",
       "Oscar Isaac"
     ],
-    "description": "Miles Morales catapults across the Multiverse, encountering a society of Spider-People charged with protecting its existence, but finds himself at odds with their leader.",
+    "description": "Spider-Man: Across the Spider-Verse is an acclaimed English Animation and Action and Adventure and Sci-Fi film helmed by visionary director Joaquim Dos Santos. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Shameik Moore, Hailee Steinfeld, Brian Tyree Henry, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "runtime": 140,
     "imdbRating": 8.6,
     "poster": "/images/movies/spider-man-across-the-spider-verse.jpg",
@@ -7844,7 +12199,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Animation masterpiece from Joaquim Dos Santos.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Shameik Moore and Hailee Steinfeld, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Joaquim Dos Santos with an acclaimed ensemble cast.",
+      "Features celebrated performances by Shameik Moore, Hailee Steinfeld, Brian Tyree Henry.",
+      "Recognized as a landmark Animation title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Spider-Man: Across the Spider-Verse?",
+        "answer": "Spider-Man: Across the Spider-Verse was directed by Joaquim Dos Santos and features prominent performances by Shameik Moore, Hailee Steinfeld, Brian Tyree Henry."
+      },
+      {
+        "question": "What genres does Spider-Man: Across the Spider-Verse belong to?",
+        "answer": "Spider-Man: Across the Spider-Verse is classified under Animation, Action, Adventure, Sci-Fi, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Spider-Man: Across the Spider-Verse?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Spider-Man: Across the Spider-Verse in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "eegksfkWNEI"
   },
   {
     "id": "155",
@@ -7866,7 +12249,7 @@ export const movies: Movie[] = [
       "Adrien Brody",
       "Willem Dafoe"
     ],
-    "description": "A famous concierge at a glorious European hotel and his loyal junior lobby boy embark on an eccentric adventure involving a stolen Renaissance masterpiece and a family fortune.",
+    "description": "The Grand Budapest Hotel is an acclaimed English Adventure and Comedy and Crime film helmed by visionary director Wes Anderson. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "runtime": 99,
     "imdbRating": 8.1,
     "poster": "/images/movies/the-grand-budapest-hotel.jpg",
@@ -7884,7 +12267,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Adventure masterpiece from Wes Anderson.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Ralph Fiennes and F. Murray Abraham, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Wes Anderson with an acclaimed ensemble cast.",
+      "Features celebrated performances by Ralph Fiennes, F. Murray Abraham, Mathieu Amalric.",
+      "Recognized as a landmark Adventure title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie The Grand Budapest Hotel?",
+        "answer": "The Grand Budapest Hotel was directed by Wes Anderson and features prominent performances by Ralph Fiennes, F. Murray Abraham, Mathieu Amalric."
+      },
+      {
+        "question": "What genres does The Grand Budapest Hotel belong to?",
+        "answer": "The Grand Budapest Hotel is classified under Adventure, Comedy, Crime, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch The Grand Budapest Hotel?",
+        "answer": "You can discover verified subscription, rental, and streaming options for The Grand Budapest Hotel in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "1Fg5iWmQjwk"
   },
   {
     "id": "156",
@@ -7907,7 +12318,7 @@ export const movies: Movie[] = [
       "Rosemarie DeWitt",
       "J.K. Simmons"
     ],
-    "description": "A dedicated jazz pianist and an aspiring actress fall passionately in love while pursuing their creative dreams in Los Angeles, but success strains their bond.",
+    "description": "La La Land is an acclaimed English Comedy and Drama and Music and Romance film helmed by visionary director Damien Chazelle. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Ryan Gosling, Emma Stone, John Legend, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "runtime": 128,
     "imdbRating": 8,
     "poster": "/images/movies/la-la-land.jpg",
@@ -7949,7 +12360,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Damien Chazelle.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Ryan Gosling and Emma Stone, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Damien Chazelle with an acclaimed ensemble cast.",
+      "Features celebrated performances by Ryan Gosling, Emma Stone, John Legend.",
+      "Recognized as a landmark Comedy title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie La La Land?",
+        "answer": "La La Land was directed by Damien Chazelle and features prominent performances by Ryan Gosling, Emma Stone, John Legend."
+      },
+      {
+        "question": "What genres does La La Land belong to?",
+        "answer": "La La Land is classified under Comedy, Drama, Music, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch La La Land?",
+        "answer": "You can discover verified subscription, rental, and streaming options for La La Land in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "0pdqf4P9MB8"
   },
   {
     "id": "157",
@@ -7971,7 +12410,7 @@ export const movies: Movie[] = [
       "Woody Harrelson",
       "Kelly Macdonald"
     ],
-    "description": "Violence erupts after a hunter stumbles upon a botched desert drug deal and takes two million dollars in cash, pursued by an unstoppable sociopathic hitman.",
+    "description": "No Country for Old Men is an acclaimed English Crime and Drama and Thriller film helmed by visionary director Joel Coen. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Tommy Lee Jones, Javier Bardem, Josh Brolin, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "runtime": 122,
     "imdbRating": 8.2,
     "poster": "/images/movies/no-country-for-old-men.jpg",
@@ -8013,7 +12452,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Crime masterpiece from Joel Coen.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Tommy Lee Jones and Javier Bardem, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Joel Coen with an acclaimed ensemble cast.",
+      "Features celebrated performances by Tommy Lee Jones, Javier Bardem, Josh Brolin.",
+      "Recognized as a landmark Crime title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie No Country for Old Men?",
+        "answer": "No Country for Old Men was directed by Joel Coen and features prominent performances by Tommy Lee Jones, Javier Bardem, Josh Brolin."
+      },
+      {
+        "question": "What genres does No Country for Old Men belong to?",
+        "answer": "No Country for Old Men is classified under Crime, Drama, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch No Country for Old Men?",
+        "answer": "You can discover verified subscription, rental, and streaming options for No Country for Old Men in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "38A__WT3-o0"
   },
   {
     "id": "158",
@@ -8034,7 +12501,7 @@ export const movies: Movie[] = [
       "Nicholas Hoult",
       "Hugh Keays-Byrne"
     ],
-    "description": "In a post-apocalyptic desert wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners and a drifter named Max.",
+    "description": "Mad Max: Fury Road is an acclaimed English Action and Adventure and Sci-Fi film helmed by visionary director George Miller. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Tom Hardy, Charlize Theron, Nicholas Hoult, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "runtime": 120,
     "imdbRating": 8.1,
     "poster": "/images/movies/mad-max-fury-road.jpg",
@@ -8092,7 +12559,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from George Miller.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Tom Hardy and Charlize Theron, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker George Miller with an acclaimed ensemble cast.",
+      "Features celebrated performances by Tom Hardy, Charlize Theron, Nicholas Hoult.",
+      "Recognized as a landmark Action title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Mad Max: Fury Road?",
+        "answer": "Mad Max: Fury Road was directed by George Miller and features prominent performances by Tom Hardy, Charlize Theron, Nicholas Hoult."
+      },
+      {
+        "question": "What genres does Mad Max: Fury Road belong to?",
+        "answer": "Mad Max: Fury Road is classified under Action, Adventure, Sci-Fi, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Mad Max: Fury Road?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Mad Max: Fury Road in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "axU_y_tykyU"
   },
   {
     "id": "159",
@@ -8114,7 +12609,7 @@ export const movies: Movie[] = [
       "Benjamin Bratt",
       "Alanna Ubach"
     ],
-    "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the vibrant Land of the Dead to unlock the real story behind his heritage.",
+    "description": "Coco is an acclaimed English Animation and Adventure and Family and Music film helmed by visionary director Lee Unkrich. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "runtime": 105,
     "imdbRating": 8.4,
     "poster": "/images/movies/coco.jpg",
@@ -8140,7 +12635,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Animation masterpiece from Lee Unkrich.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Universal Pictures"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Anthony Gonzalez and Gael García Bernal, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Lee Unkrich with an acclaimed ensemble cast.",
+      "Features celebrated performances by Anthony Gonzalez, Gael García Bernal, Benjamin Bratt.",
+      "Recognized as a landmark Animation title within the Hollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Coco?",
+        "answer": "Coco was directed by Lee Unkrich and features prominent performances by Anthony Gonzalez, Gael García Bernal, Benjamin Bratt."
+      },
+      {
+        "question": "What genres does Coco belong to?",
+        "answer": "Coco is classified under Animation, Adventure, Family, Music, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Coco?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Coco in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "xlnPHQ3TLX8"
   },
   {
     "id": "160",
@@ -8161,7 +12684,7 @@ export const movies: Movie[] = [
       "Choi Woo-shik",
       "Park So-dam"
     ],
-    "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "description": "Parasite is an acclaimed Korean Drama and Thriller film helmed by visionary director Bong Joon-ho. Set against the distinctive cultural backdrop of International Cinema, the story centers on compelling characters played with nuance by Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Korean cinema.",
     "runtime": 132,
     "imdbRating": 8.5,
     "poster": "/images/movies/parasite.jpg",
@@ -8187,7 +12710,34 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Bong Joon-ho.",
+    "productionCountry": "South Korea",
+    "productionCompanies": [
+      "Independent Cinema Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Song Kang-ho and Lee Sun-kyun, and evocative direction that captures the genuine spirit of Korean cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Bong Joon-ho with an acclaimed ensemble cast.",
+      "Features celebrated performances by Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong.",
+      "Recognized as a landmark Drama title within the International Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Parasite?",
+        "answer": "Parasite was directed by Bong Joon-ho and features prominent performances by Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong."
+      },
+      {
+        "question": "What genres does Parasite belong to?",
+        "answer": "Parasite is classified under Drama, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Parasite?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Parasite in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "isOGD_7hNIY"
   },
   {
     "id": "161",
@@ -8208,7 +12758,7 @@ export const movies: Movie[] = [
       "Nayanthara",
       "Thambi Ramaiah"
     ],
-    "description": "A disciplined, obsessive IPS officer discovers that an influential scientist and businessman is the criminal mastermind orchestrating statewide corruption.",
+    "description": "Thani Oruvan is an acclaimed Tamil Action and Crime and Thriller film helmed by visionary director Mohan Raja. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Jayam Ravi, Arvind Swami, Nayanthara, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "runtime": 160,
     "imdbRating": 8.4,
     "poster": "/images/movies/thani-oruvan.jpg",
@@ -8242,7 +12792,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Mohan Raja.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Jayam Ravi and Arvind Swami, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Mohan Raja with an acclaimed ensemble cast.",
+      "Features celebrated performances by Jayam Ravi, Arvind Swami, Nayanthara.",
+      "Recognized as a landmark Action title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Thani Oruvan?",
+        "answer": "Thani Oruvan was directed by Mohan Raja and features prominent performances by Jayam Ravi, Arvind Swami, Nayanthara."
+      },
+      {
+        "question": "What genres does Thani Oruvan belong to?",
+        "answer": "Thani Oruvan is classified under Action, Crime, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Thani Oruvan?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Thani Oruvan in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "LuXI0swpyQY"
   },
   {
     "id": "162",
@@ -8263,7 +12841,7 @@ export const movies: Movie[] = [
       "Trisha Krishnan",
       "Anjali"
     ],
-    "description": "A suspended, morally ambiguous police officer joins a gang of young thieves to hijack five hundred crore rupees of illegal cricket betting money during the IPL season.",
+    "description": "Mankatha is an acclaimed Tamil Action and Crime and Thriller film helmed by visionary director Venkat Prabhu. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Ajith Kumar, Arjun Sarja, Trisha Krishnan, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "runtime": 155,
     "imdbRating": 7.7,
     "poster": "/images/movies/mankatha.jpg",
@@ -8289,7 +12867,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Venkat Prabhu.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Ajith Kumar and Arjun Sarja, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Venkat Prabhu with an acclaimed ensemble cast.",
+      "Features celebrated performances by Ajith Kumar, Arjun Sarja, Trisha Krishnan.",
+      "Recognized as a landmark Action title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Mankatha?",
+        "answer": "Mankatha was directed by Venkat Prabhu and features prominent performances by Ajith Kumar, Arjun Sarja, Trisha Krishnan."
+      },
+      {
+        "question": "What genres does Mankatha belong to?",
+        "answer": "Mankatha is classified under Action, Crime, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Mankatha?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Mankatha in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "a3rB6he7q4c"
   },
   {
     "id": "163",
@@ -8311,7 +12917,7 @@ export const movies: Movie[] = [
       "Aishwarya Rajesh",
       "Samuthirakani"
     ],
-    "description": "A skilled carrom player living in North Chennai gets dragged into a generational turf war between rival mafia factions as real estate sharks threaten his community.",
+    "description": "Vada Chennai is an acclaimed Tamil Action and Crime and Drama film helmed by visionary director Vetrimaaran. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Dhanush, Ameer, Andrea Jeremiah, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "runtime": 164,
     "imdbRating": 8.4,
     "poster": "/images/movies/vada-chennai.jpg",
@@ -8345,7 +12951,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Vetrimaaran.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Dhanush and Ameer, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Vetrimaaran with an acclaimed ensemble cast.",
+      "Features celebrated performances by Dhanush, Ameer, Andrea Jeremiah.",
+      "Recognized as a landmark Action title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Vada Chennai?",
+        "answer": "Vada Chennai was directed by Vetrimaaran and features prominent performances by Dhanush, Ameer, Andrea Jeremiah."
+      },
+      {
+        "question": "What genres does Vada Chennai belong to?",
+        "answer": "Vada Chennai is classified under Action, Crime, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Vada Chennai?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Vada Chennai in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "xEIh1awGwNs"
   },
   {
     "id": "164",
@@ -8364,7 +12998,7 @@ export const movies: Movie[] = [
       "Yogi Babu",
       "Lijeesh"
     ],
-    "description": "A law student from an oppressed caste struggles to study and maintain his dignity against brutal caste violence and systemic discrimination in rural Tamil Nadu.",
+    "description": "Pariyerum Perumal is an acclaimed Tamil Drama film helmed by visionary director Mari Selvaraj. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Kathir, Anandhi, Yogi Babu, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "runtime": 154,
     "imdbRating": 8.7,
     "poster": "/images/movies/pariyerum-perumal.jpg",
@@ -8382,7 +13016,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Mari Selvaraj.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Kathir and Anandhi, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Mari Selvaraj with an acclaimed ensemble cast.",
+      "Features celebrated performances by Kathir, Anandhi, Yogi Babu.",
+      "Recognized as a landmark Drama title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Pariyerum Perumal?",
+        "answer": "Pariyerum Perumal was directed by Mari Selvaraj and features prominent performances by Kathir, Anandhi, Yogi Babu."
+      },
+      {
+        "question": "What genres does Pariyerum Perumal belong to?",
+        "answer": "Pariyerum Perumal is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Pariyerum Perumal?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Pariyerum Perumal in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "GMNsUxJe4R4"
   },
   {
     "id": "165",
@@ -8403,7 +13065,7 @@ export const movies: Movie[] = [
       "Natarajan Subramaniam",
       "Yogi Babu"
     ],
-    "description": "A fiery young warrior from a denied village rises up to fight back against state brutality, police violence, and systematic social oppression.",
+    "description": "Karnan is an acclaimed Tamil Action and Drama film helmed by visionary director Mari Selvaraj. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Dhanush, Lal, Rajisha Vijayan, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "runtime": 158,
     "imdbRating": 8,
     "poster": "/images/movies/karnan.jpg",
@@ -8429,7 +13091,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Mari Selvaraj.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Dhanush and Lal, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Mari Selvaraj with an acclaimed ensemble cast.",
+      "Features celebrated performances by Dhanush, Lal, Rajisha Vijayan.",
+      "Recognized as a landmark Action title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Karnan?",
+        "answer": "Karnan was directed by Mari Selvaraj and features prominent performances by Dhanush, Lal, Rajisha Vijayan."
+      },
+      {
+        "question": "What genres does Karnan belong to?",
+        "answer": "Karnan is classified under Action, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Karnan?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Karnan in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "dYpXmyB-Whw"
   },
   {
     "id": "166",
@@ -8449,7 +13139,7 @@ export const movies: Movie[] = [
       "Malavika Mohanan",
       "Arjun Das"
     ],
-    "description": "An alcoholic professor is assigned to a juvenile correctional facility where he clashes with a ruthless gangster who exploits underage youths for his criminal empire.",
+    "description": "Master is an acclaimed Tamil Action and Thriller film helmed by visionary director Lokesh Kanagaraj. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Vijay, Vijay Sethupathi, Malavika Mohanan, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "runtime": 179,
     "imdbRating": 7.8,
     "poster": "/images/movies/master-tamil.jpg",
@@ -8507,7 +13197,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Lokesh Kanagaraj.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Vijay and Vijay Sethupathi, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Lokesh Kanagaraj with an acclaimed ensemble cast.",
+      "Features celebrated performances by Vijay, Vijay Sethupathi, Malavika Mohanan.",
+      "Recognized as a landmark Action title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Master?",
+        "answer": "Master was directed by Lokesh Kanagaraj and features prominent performances by Vijay, Vijay Sethupathi, Malavika Mohanan."
+      },
+      {
+        "question": "What genres does Master belong to?",
+        "answer": "Master is classified under Action, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Master?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Master in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "1_iUFT3nWHk"
   },
   {
     "id": "167",
@@ -8529,7 +13247,7 @@ export const movies: Movie[] = [
       "Saravanan",
       "Kaali Venkat"
     ],
-    "description": "An aspiring filmmaker-turned-sub-inspector uses his extensive research on psychopaths to track down a serial predator who abducts and brutally slaughters schoolgirls.",
+    "description": "Ratsasan is an acclaimed Tamil Action and Crime and Mystery and Thriller film helmed by visionary director Ram Kumar. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Vishnu Vishal, Amala Paul, Saravanan, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "runtime": 170,
     "imdbRating": 8.3,
     "poster": "/images/movies/ratsasan.jpg",
@@ -8563,7 +13281,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Ram Kumar.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Vishnu Vishal and Amala Paul, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Ram Kumar with an acclaimed ensemble cast.",
+      "Features celebrated performances by Vishnu Vishal, Amala Paul, Saravanan.",
+      "Recognized as a landmark Action title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Ratsasan?",
+        "answer": "Ratsasan was directed by Ram Kumar and features prominent performances by Vishnu Vishal, Amala Paul, Saravanan."
+      },
+      {
+        "question": "What genres does Ratsasan belong to?",
+        "answer": "Ratsasan is classified under Action, Crime, Mystery, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Ratsasan?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Ratsasan in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "GsrN7rNch9Y"
   },
   {
     "id": "168",
@@ -8584,7 +13330,7 @@ export const movies: Movie[] = [
       "Lakshmi Menon",
       "Karunakaran"
     ],
-    "description": "An ambitious young director travels to Madurai to secretly research a notorious gangster for his film, only to get captured and trapped in high-risk absurdity.",
+    "description": "Jigarthanda is an acclaimed Tamil Action and Comedy and Crime film helmed by visionary director Karthik Subbaraj. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Siddharth, Bobby Simha, Lakshmi Menon, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "runtime": 171,
     "imdbRating": 8.2,
     "poster": "/images/movies/jigarthanda.jpg",
@@ -8602,7 +13348,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Karthik Subbaraj.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Siddharth and Bobby Simha, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Karthik Subbaraj with an acclaimed ensemble cast.",
+      "Features celebrated performances by Siddharth, Bobby Simha, Lakshmi Menon.",
+      "Recognized as a landmark Action title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Jigarthanda?",
+        "answer": "Jigarthanda was directed by Karthik Subbaraj and features prominent performances by Siddharth, Bobby Simha, Lakshmi Menon."
+      },
+      {
+        "question": "What genres does Jigarthanda belong to?",
+        "answer": "Jigarthanda is classified under Action, Comedy, Crime, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Jigarthanda?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Jigarthanda in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "5Un2Dkn9TbM"
   },
   {
     "id": "169",
@@ -8623,7 +13397,7 @@ export const movies: Movie[] = [
       "R. S. Shivaji",
       "Kavithalaya Krishnan"
     ],
-    "description": "A determined young school teacher embarks on an arduous legal and moral journey to defend her elderly father after he is suddenly accused of an unspeakable crime.",
+    "description": "Gargi is an acclaimed Tamil Crime and Drama and Mystery film helmed by visionary director Gautham Ramachandran. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Sai Pallavi, Kaali Venkat, R. S. Shivaji, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "runtime": 139,
     "imdbRating": 8.1,
     "poster": "/images/movies/gargi.jpg",
@@ -8657,7 +13431,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Crime masterpiece from Gautham Ramachandran.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Sai Pallavi and Kaali Venkat, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Gautham Ramachandran with an acclaimed ensemble cast.",
+      "Features celebrated performances by Sai Pallavi, Kaali Venkat, R. S. Shivaji.",
+      "Recognized as a landmark Crime title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Gargi?",
+        "answer": "Gargi was directed by Gautham Ramachandran and features prominent performances by Sai Pallavi, Kaali Venkat, R. S. Shivaji."
+      },
+      {
+        "question": "What genres does Gargi belong to?",
+        "answer": "Gargi is classified under Crime, Drama, Mystery, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Gargi?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Gargi in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "4_73N1iGkCU"
   },
   {
     "id": "170",
@@ -8678,7 +13480,7 @@ export const movies: Movie[] = [
       "Bhavani Sre",
       "Gautham Vasudev Menon"
     ],
-    "description": "A newly recruited constable is torn between his innate empathy and the brutal, state-sanctioned violence employed by his superiors against a separatist rebel movement.",
+    "description": "Viduthalai Part 1 is an acclaimed Tamil Action and Crime and Drama film helmed by visionary director Vetrimaaran. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Soori, Vijay Sethupathi, Bhavani Sre, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "runtime": 150,
     "imdbRating": 8.1,
     "poster": "/images/movies/viduthalai-part-1.jpg",
@@ -8712,7 +13514,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Vetrimaaran.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Lyca Productions",
+      "Studio Green"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Soori and Vijay Sethupathi, and evocative direction that captures the genuine spirit of Tamil cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Vetrimaaran with an acclaimed ensemble cast.",
+      "Features celebrated performances by Soori, Vijay Sethupathi, Bhavani Sre.",
+      "Recognized as a landmark Action title within the Kollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Viduthalai Part 1?",
+        "answer": "Viduthalai Part 1 was directed by Vetrimaaran and features prominent performances by Soori, Vijay Sethupathi, Bhavani Sre."
+      },
+      {
+        "question": "What genres does Viduthalai Part 1 belong to?",
+        "answer": "Viduthalai Part 1 is classified under Action, Crime, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Viduthalai Part 1?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Viduthalai Part 1 in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "GYeSfq_bj_M"
   },
   {
     "id": "171",
@@ -8733,7 +13563,7 @@ export const movies: Movie[] = [
       "Jagapathi Babu",
       "Prakash Raj"
     ],
-    "description": "In the 1980s, a semi-deaf and spirited villager Chitti Babu steps into a fiery political revolution when his elder brother challenges the corrupt thirty-year village president.",
+    "description": "Rangasthalam is an acclaimed Telugu Action and Drama film helmed by visionary director Sukumar. Set against the distinctive cultural backdrop of Tollywood, the story centers on compelling characters played with nuance by Ram Charan, Samantha Ruth Prabhu, Aadhi Pinisetty, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Telugu cinema.",
     "runtime": 174,
     "imdbRating": 8.2,
     "poster": "/images/movies/rangasthalam.jpg",
@@ -8775,7 +13605,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Sukumar.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Geetha Arts",
+      "Mythri Movie Makers"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Ram Charan and Samantha Ruth Prabhu, and evocative direction that captures the genuine spirit of Telugu cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Sukumar with an acclaimed ensemble cast.",
+      "Features celebrated performances by Ram Charan, Samantha Ruth Prabhu, Aadhi Pinisetty.",
+      "Recognized as a landmark Action title within the Tollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Rangasthalam?",
+        "answer": "Rangasthalam was directed by Sukumar and features prominent performances by Ram Charan, Samantha Ruth Prabhu, Aadhi Pinisetty."
+      },
+      {
+        "question": "What genres does Rangasthalam belong to?",
+        "answer": "Rangasthalam is classified under Action, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Rangasthalam?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Rangasthalam in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "vcTUpPPKNXQ"
   },
   {
     "id": "172",
@@ -8797,7 +13655,7 @@ export const movies: Movie[] = [
       "Jayaram",
       "Murali Sharma"
     ],
-    "description": "Bantu grows up enduring his father's constant scorn, only to discover in adulthood that he was secretly switched at birth and is the rightful heir to an affluent business family.",
+    "description": "Ala Vaikunthapurramuloo is an acclaimed Telugu Action and Comedy and Drama film helmed by visionary director Trivikram Srinivas. Set against the distinctive cultural backdrop of Tollywood, the story centers on compelling characters played with nuance by Allu Arjun, Pooja Hegde, Tabu, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Telugu cinema.",
     "runtime": 165,
     "imdbRating": 7.3,
     "poster": "/images/movies/ala-vaikunthapurramuloo.jpg",
@@ -8823,7 +13681,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Trivikram Srinivas.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Geetha Arts",
+      "Mythri Movie Makers"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Allu Arjun and Pooja Hegde, and evocative direction that captures the genuine spirit of Telugu cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Trivikram Srinivas with an acclaimed ensemble cast.",
+      "Features celebrated performances by Allu Arjun, Pooja Hegde, Tabu.",
+      "Recognized as a landmark Action title within the Tollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Ala Vaikunthapurramuloo?",
+        "answer": "Ala Vaikunthapurramuloo was directed by Trivikram Srinivas and features prominent performances by Allu Arjun, Pooja Hegde, Tabu."
+      },
+      {
+        "question": "What genres does Ala Vaikunthapurramuloo belong to?",
+        "answer": "Ala Vaikunthapurramuloo is classified under Action, Comedy, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Ala Vaikunthapurramuloo?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Ala Vaikunthapurramuloo in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "SkENAjfVoNI"
   },
   {
     "id": "173",
@@ -8844,7 +13730,7 @@ export const movies: Movie[] = [
       "Manoj Bajpayee",
       "Lekha Washington"
     ],
-    "description": "Five individuals from disparate backgrounds and walks of life converge at a private Hyderabad hospital right as armed terrorists launch a siege.",
+    "description": "Vedam is an acclaimed Telugu Action and Drama film helmed by visionary director Krish Jagarlamudi. Set against the distinctive cultural backdrop of Tollywood, the story centers on compelling characters played with nuance by Allu Arjun, Anushka Shetty, Manoj Manchu, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Telugu cinema.",
     "runtime": 135,
     "imdbRating": 8.1,
     "poster": "/images/movies/vedam.jpg",
@@ -8862,7 +13748,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Krish Jagarlamudi.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Geetha Arts",
+      "Mythri Movie Makers"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Allu Arjun and Anushka Shetty, and evocative direction that captures the genuine spirit of Telugu cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Krish Jagarlamudi with an acclaimed ensemble cast.",
+      "Features celebrated performances by Allu Arjun, Anushka Shetty, Manoj Manchu.",
+      "Recognized as a landmark Action title within the Tollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Vedam?",
+        "answer": "Vedam was directed by Krish Jagarlamudi and features prominent performances by Allu Arjun, Anushka Shetty, Manoj Manchu."
+      },
+      {
+        "question": "What genres does Vedam belong to?",
+        "answer": "Vedam is classified under Action, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Vedam?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Vedam in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "EM14ZRybK94"
   },
   {
     "id": "174",
@@ -8884,7 +13798,7 @@ export const movies: Movie[] = [
       "Suhas",
       "Viswanath"
     ],
-    "description": "A quirky, brilliant private detective in Nellore runs a small agency and finds himself framed for murder when investigating an unidentified dead body on a railway track.",
+    "description": "Agent Sai Srinivasa Athreya is an acclaimed Telugu Comedy and Crime and Mystery and Thriller film helmed by visionary director Swaroop RSJ. Set against the distinctive cultural backdrop of Tollywood, the story centers on compelling characters played with nuance by Naveen Polishetty, Shruti Sharma, Suhas, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Telugu cinema.",
     "runtime": 148,
     "imdbRating": 8.3,
     "poster": "/images/movies/agent-sai-srinivasa-athreya.jpg",
@@ -8926,7 +13840,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Swaroop RSJ.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Geetha Arts",
+      "Mythri Movie Makers"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Naveen Polishetty and Shruti Sharma, and evocative direction that captures the genuine spirit of Telugu cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Swaroop RSJ with an acclaimed ensemble cast.",
+      "Features celebrated performances by Naveen Polishetty, Shruti Sharma, Suhas.",
+      "Recognized as a landmark Comedy title within the Tollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Agent Sai Srinivasa Athreya?",
+        "answer": "Agent Sai Srinivasa Athreya was directed by Swaroop RSJ and features prominent performances by Naveen Polishetty, Shruti Sharma, Suhas."
+      },
+      {
+        "question": "What genres does Agent Sai Srinivasa Athreya belong to?",
+        "answer": "Agent Sai Srinivasa Athreya is classified under Comedy, Crime, Mystery, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Agent Sai Srinivasa Athreya?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Agent Sai Srinivasa Athreya in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "7UWFn0MR0Og"
   },
   {
     "id": "175",
@@ -8947,7 +13889,7 @@ export const movies: Movie[] = [
       "Satyadev",
       "Rahul Ramakrishna"
     ],
-    "description": "Three irresponsible intermediate students concoct an amateur fake kidnapping to help their classmate escape her strict father, leading to an intricate series of mix-ups.",
+    "description": "Brochevarevarura is an acclaimed Telugu Comedy and Crime film helmed by visionary director Vivek Athreya. Set against the distinctive cultural backdrop of Tollywood, the story centers on compelling characters played with nuance by Sree Vishnu, Nivetha Thomas, Nivetha Pethuraj, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Telugu cinema.",
     "runtime": 138,
     "imdbRating": 7.9,
     "poster": "/images/movies/brochevarevarura.jpg",
@@ -8973,7 +13915,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Vivek Athreya.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Geetha Arts",
+      "Mythri Movie Makers"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Sree Vishnu and Nivetha Thomas, and evocative direction that captures the genuine spirit of Telugu cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Vivek Athreya with an acclaimed ensemble cast.",
+      "Features celebrated performances by Sree Vishnu, Nivetha Thomas, Nivetha Pethuraj.",
+      "Recognized as a landmark Comedy title within the Tollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Brochevarevarura?",
+        "answer": "Brochevarevarura was directed by Vivek Athreya and features prominent performances by Sree Vishnu, Nivetha Thomas, Nivetha Pethuraj."
+      },
+      {
+        "question": "What genres does Brochevarevarura belong to?",
+        "answer": "Brochevarevarura is classified under Comedy, Crime, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Brochevarevarura?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Brochevarevarura in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "0T9Z5x3Oa94"
   },
   {
     "id": "176",
@@ -8994,7 +13964,7 @@ export const movies: Movie[] = [
       "Athulya Chandra",
       "Brahmaji"
     ],
-    "description": "An underpaid delivery courier tries a small-scale cheating scheme on a customer, only to wake up finding the elderly customer dead in her flat.",
+    "description": "Mathu Vadalara is an acclaimed Telugu Comedy and Thriller film helmed by visionary director Ritesh Rana. Set against the distinctive cultural backdrop of Tollywood, the story centers on compelling characters played with nuance by Sri Simha, Satya, Naresh Agastya, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Telugu cinema.",
     "runtime": 129,
     "imdbRating": 8.2,
     "poster": "/images/movies/mathu-vadalara.jpg",
@@ -9012,7 +13982,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Ritesh Rana.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Geetha Arts",
+      "Mythri Movie Makers"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Sri Simha and Satya, and evocative direction that captures the genuine spirit of Telugu cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Ritesh Rana with an acclaimed ensemble cast.",
+      "Features celebrated performances by Sri Simha, Satya, Naresh Agastya.",
+      "Recognized as a landmark Comedy title within the Tollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Mathu Vadalara?",
+        "answer": "Mathu Vadalara was directed by Ritesh Rana and features prominent performances by Sri Simha, Satya, Naresh Agastya."
+      },
+      {
+        "question": "What genres does Mathu Vadalara belong to?",
+        "answer": "Mathu Vadalara is classified under Comedy, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Mathu Vadalara?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Mathu Vadalara in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "tmb2G-C6byM"
   },
   {
     "id": "177",
@@ -9034,7 +14032,7 @@ export const movies: Movie[] = [
       "Naveen Chandra",
       "Murali Sharma"
     ],
-    "description": "A corrupt police sub-inspector is hired by a wealthy woman accused of murdering a high-ranking officer in self-defense, uncovering deep layers of deception.",
+    "description": "Evaru is an acclaimed Telugu Crime and Drama and Mystery and Thriller film helmed by visionary director Venkat Ramji. Set against the distinctive cultural backdrop of Tollywood, the story centers on compelling characters played with nuance by Adivi Sesh, Regina Cassandra, Naveen Chandra, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Telugu cinema.",
     "runtime": 118,
     "imdbRating": 8.1,
     "poster": "/images/movies/evaru.jpg",
@@ -9068,7 +14066,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Crime masterpiece from Venkat Ramji.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Geetha Arts",
+      "Mythri Movie Makers"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Adivi Sesh and Regina Cassandra, and evocative direction that captures the genuine spirit of Telugu cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Venkat Ramji with an acclaimed ensemble cast.",
+      "Features celebrated performances by Adivi Sesh, Regina Cassandra, Naveen Chandra.",
+      "Recognized as a landmark Crime title within the Tollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Evaru?",
+        "answer": "Evaru was directed by Venkat Ramji and features prominent performances by Adivi Sesh, Regina Cassandra, Naveen Chandra."
+      },
+      {
+        "question": "What genres does Evaru belong to?",
+        "answer": "Evaru is classified under Crime, Drama, Mystery, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Evaru?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Evaru in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "TfW6lil5uyc"
   },
   {
     "id": "178",
@@ -9090,7 +14116,7 @@ export const movies: Movie[] = [
       "Prakash Raj",
       "Revathi"
     ],
-    "description": "The inspirational true story of Major Sandeep Unnikrishnan, who valiantly saved numerous hostages during the November 2008 Mumbai Taj Hotel terror attacks.",
+    "description": "Major is an acclaimed Telugu Action and Biography and Drama film helmed by visionary director Sashi Kiran Tikka. Set against the distinctive cultural backdrop of Tollywood, the story centers on compelling characters played with nuance by Adivi Sesh, Saiee Manjrekar, Sobhita Dhulipala, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Telugu cinema.",
     "runtime": 150,
     "imdbRating": 8.1,
     "poster": "/images/movies/major-telugu.jpg",
@@ -9108,7 +14134,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Sashi Kiran Tikka.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Geetha Arts",
+      "Mythri Movie Makers"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Adivi Sesh and Saiee Manjrekar, and evocative direction that captures the genuine spirit of Telugu cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Sashi Kiran Tikka with an acclaimed ensemble cast.",
+      "Features celebrated performances by Adivi Sesh, Saiee Manjrekar, Sobhita Dhulipala.",
+      "Recognized as a landmark Action title within the Tollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Major?",
+        "answer": "Major was directed by Sashi Kiran Tikka and features prominent performances by Adivi Sesh, Saiee Manjrekar, Sobhita Dhulipala."
+      },
+      {
+        "question": "What genres does Major belong to?",
+        "answer": "Major is classified under Action, Biography, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Major?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Major in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "LbTN2dOJcbQ"
   },
   {
     "id": "179",
@@ -9129,7 +14183,7 @@ export const movies: Movie[] = [
       "Varalaxmi Sarathkumar",
       "Vinay Rai"
     ],
-    "description": "In the fictional village of Anjanadri, a petty thief gains supernatural abilities bestowed by Lord Hanuman and must protect his people from a ruthless tech villain.",
+    "description": "Hanu-Man is an acclaimed Telugu Action and Adventure and Fantasy film helmed by visionary director Prasanth Varma. Set against the distinctive cultural backdrop of Tollywood, the story centers on compelling characters played with nuance by Teja Sajja, Amritha Aiyer, Varalaxmi Sarathkumar, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Telugu cinema.",
     "runtime": 158,
     "imdbRating": 7.8,
     "poster": "/images/movies/hanu-man.jpg",
@@ -9163,7 +14217,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Prasanth Varma.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Geetha Arts",
+      "Mythri Movie Makers"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Teja Sajja and Amritha Aiyer, and evocative direction that captures the genuine spirit of Telugu cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Prasanth Varma with an acclaimed ensemble cast.",
+      "Features celebrated performances by Teja Sajja, Amritha Aiyer, Varalaxmi Sarathkumar.",
+      "Recognized as a landmark Action title within the Tollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Hanu-Man?",
+        "answer": "Hanu-Man was directed by Prasanth Varma and features prominent performances by Teja Sajja, Amritha Aiyer, Varalaxmi Sarathkumar."
+      },
+      {
+        "question": "What genres does Hanu-Man belong to?",
+        "answer": "Hanu-Man is classified under Action, Adventure, Fantasy, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Hanu-Man?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Hanu-Man in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "MKqJBhOgapM"
   },
   {
     "id": "180",
@@ -9184,7 +14266,7 @@ export const movies: Movie[] = [
       "Sudhakar Reddy",
       "Muralidhar Goud"
     ],
-    "description": "When an elderly village patriarch passes away in rural Telangana, his squabbling descendants gather for the traditional 11-day mourning rituals, healing old rifts.",
+    "description": "Balagam is an acclaimed Telugu Comedy and Drama and Family film helmed by visionary director Venu Yeldandi. Set against the distinctive cultural backdrop of Tollywood, the story centers on compelling characters played with nuance by Priyadarshi, Kavya Kalyanram, Sudhakar Reddy, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Telugu cinema.",
     "runtime": 133,
     "imdbRating": 8,
     "poster": "/images/movies/balagam.jpg",
@@ -9218,7 +14300,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Venu Yeldandi.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Geetha Arts",
+      "Mythri Movie Makers"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Priyadarshi and Kavya Kalyanram, and evocative direction that captures the genuine spirit of Telugu cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Venu Yeldandi with an acclaimed ensemble cast.",
+      "Features celebrated performances by Priyadarshi, Kavya Kalyanram, Sudhakar Reddy.",
+      "Recognized as a landmark Comedy title within the Tollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Balagam?",
+        "answer": "Balagam was directed by Venu Yeldandi and features prominent performances by Priyadarshi, Kavya Kalyanram, Sudhakar Reddy."
+      },
+      {
+        "question": "What genres does Balagam belong to?",
+        "answer": "Balagam is classified under Comedy, Drama, Family, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Balagam?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Balagam in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "ZryDT6hOqfU"
   },
   {
     "id": "181",
@@ -9239,7 +14349,7 @@ export const movies: Movie[] = [
       "Sangeeth Prathap",
       "Akhila Bhargavan"
     ],
-    "description": "Sachin travels to Hyderabad for GATE coaching and falls head-over-heels for Reenu, embarking on a delightfully hilarious romantic pursuit.",
+    "description": "Premalu is an acclaimed Malayalam Comedy and Romance film helmed by visionary director Girish A. D.. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Naslen K. Gafoor, Mamitha Baiju, Shyam Mohan, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "runtime": 156,
     "imdbRating": 7.9,
     "poster": "/images/movies/premalu.jpg",
@@ -9265,7 +14375,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Girish A. D..",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Naslen K. Gafoor and Mamitha Baiju, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Girish A. D. with an acclaimed ensemble cast.",
+      "Features celebrated performances by Naslen K. Gafoor, Mamitha Baiju, Shyam Mohan.",
+      "Recognized as a landmark Comedy title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Premalu?",
+        "answer": "Premalu was directed by Girish A. D. and features prominent performances by Naslen K. Gafoor, Mamitha Baiju, Shyam Mohan."
+      },
+      {
+        "question": "What genres does Premalu belong to?",
+        "answer": "Premalu is classified under Comedy, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Premalu?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Premalu in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "rR_2ti4l3nM"
   },
   {
     "id": "182",
@@ -9286,7 +14424,7 @@ export const movies: Movie[] = [
       "Siddique",
       "Jagadish"
     ],
-    "description": "A disgraced advocate Vijayamohan takes up the courtroom battle of a blind sculptor who was assaulted in her own home, seeking justice against all odds.",
+    "description": "Neru is an acclaimed Malayalam Drama and Thriller film helmed by visionary director Jeethu Joseph. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Mohanlal, Priyamani, Anaswara Rajan, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "runtime": 152,
     "imdbRating": 7.7,
     "poster": "/images/movies/neru.jpg",
@@ -9312,7 +14450,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Jeethu Joseph.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Mohanlal and Priyamani, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Jeethu Joseph with an acclaimed ensemble cast.",
+      "Features celebrated performances by Mohanlal, Priyamani, Anaswara Rajan.",
+      "Recognized as a landmark Drama title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Neru?",
+        "answer": "Neru was directed by Jeethu Joseph and features prominent performances by Mohanlal, Priyamani, Anaswara Rajan."
+      },
+      {
+        "question": "What genres does Neru belong to?",
+        "answer": "Neru is classified under Drama, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Neru?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Neru in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "abuLOH7xs8I"
   },
   {
     "id": "183",
@@ -9332,7 +14498,7 @@ export const movies: Movie[] = [
       "Joji John",
       "Muthumani"
     ],
-    "description": "A respected retired bank officer running in a local panchayat election faces a public crisis when his wife files for divorce alleging his hidden sexual identity.",
+    "description": "Kaathal – The Core is an acclaimed Malayalam Drama film helmed by visionary director Jeo Baby. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Mammootty, Jyothika, Sudhi Kozhikode, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "runtime": 114,
     "imdbRating": 8.2,
     "poster": "/images/movies/kaathal-the-core.jpg",
@@ -9350,7 +14516,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Jeo Baby.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Mammootty and Jyothika, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Jeo Baby with an acclaimed ensemble cast.",
+      "Features celebrated performances by Mammootty, Jyothika, Sudhi Kozhikode.",
+      "Recognized as a landmark Drama title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Kaathal – The Core?",
+        "answer": "Kaathal – The Core was directed by Jeo Baby and features prominent performances by Mammootty, Jyothika, Sudhi Kozhikode."
+      },
+      {
+        "question": "What genres does Kaathal – The Core belong to?",
+        "answer": "Kaathal – The Core is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Kaathal – The Core?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Kaathal – The Core in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "uc0kllY_Rgo"
   },
   {
     "id": "184",
@@ -9371,7 +14565,7 @@ export const movies: Movie[] = [
       "Ashokan",
       "Jagadish"
     ],
-    "description": "In a monkey-inhabited forest reserve, an ex-military officer with memory issues loses his licensed firearm, unlocking deep personal and local secrets.",
+    "description": "Kishkindha Kaandam is an acclaimed Malayalam Mystery and Thriller film helmed by visionary director Dinjith Ayyathan. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Asif Ali, Vijayaraghavan, Aparna Balamurali, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "runtime": 125,
     "imdbRating": 8.2,
     "poster": "/images/movies/kishkindha-kaandam.jpg",
@@ -9405,7 +14599,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Mystery masterpiece from Dinjith Ayyathan.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Asif Ali and Vijayaraghavan, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Dinjith Ayyathan with an acclaimed ensemble cast.",
+      "Features celebrated performances by Asif Ali, Vijayaraghavan, Aparna Balamurali.",
+      "Recognized as a landmark Mystery title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Kishkindha Kaandam?",
+        "answer": "Kishkindha Kaandam was directed by Dinjith Ayyathan and features prominent performances by Asif Ali, Vijayaraghavan, Aparna Balamurali."
+      },
+      {
+        "question": "What genres does Kishkindha Kaandam belong to?",
+        "answer": "Kishkindha Kaandam is classified under Mystery, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Kishkindha Kaandam?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Kishkindha Kaandam in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "flP_if0RZF4"
   },
   {
     "id": "185",
@@ -9426,7 +14648,7 @@ export const movies: Movie[] = [
       "Nimisha Sajayan",
       "Alencier Ley Lopez"
     ],
-    "description": "An eloped newlywed couple on a bus journey suspect a smooth thief of swallowing the bride's gold chain, leading to a tense, realistic police station standoff.",
+    "description": "Thondimuthalum Driksakshiyum is an acclaimed Malayalam Comedy and Crime and Drama film helmed by visionary director Dileesh Pothan. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Fahadh Faasil, Suraj Venjaramoodu, Nimisha Sajayan, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "runtime": 135,
     "imdbRating": 8.2,
     "poster": "/images/movies/thondimuthalum-driksakshiyum.jpg",
@@ -9452,7 +14674,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Dileesh Pothan.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Fahadh Faasil and Suraj Venjaramoodu, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Dileesh Pothan with an acclaimed ensemble cast.",
+      "Features celebrated performances by Fahadh Faasil, Suraj Venjaramoodu, Nimisha Sajayan.",
+      "Recognized as a landmark Comedy title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Thondimuthalum Driksakshiyum?",
+        "answer": "Thondimuthalum Driksakshiyum was directed by Dileesh Pothan and features prominent performances by Fahadh Faasil, Suraj Venjaramoodu, Nimisha Sajayan."
+      },
+      {
+        "question": "What genres does Thondimuthalum Driksakshiyum belong to?",
+        "answer": "Thondimuthalum Driksakshiyum is classified under Comedy, Crime, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Thondimuthalum Driksakshiyum?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Thondimuthalum Driksakshiyum in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "f2zG7g4AVoQ"
   },
   {
     "id": "186",
@@ -9473,7 +14723,7 @@ export const movies: Movie[] = [
       "Soubin Shahir",
       "Alencier Ley Lopez"
     ],
-    "description": "Humiliated and beaten up during a street fight in his scenic Idukki village, gentle photographer Mahesh vows never to wear footwear until he gets his revenge.",
+    "description": "Maheshinte Prathikaaram is an acclaimed Malayalam Comedy and Drama film helmed by visionary director Dileesh Pothan. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Fahadh Faasil, Aparna Balamurali, Anusree, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "runtime": 120,
     "imdbRating": 8.3,
     "poster": "/images/movies/maheshinte-prathikaaram.jpg",
@@ -9499,7 +14749,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Dileesh Pothan.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Fahadh Faasil and Aparna Balamurali, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Dileesh Pothan with an acclaimed ensemble cast.",
+      "Features celebrated performances by Fahadh Faasil, Aparna Balamurali, Anusree.",
+      "Recognized as a landmark Comedy title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Maheshinte Prathikaaram?",
+        "answer": "Maheshinte Prathikaaram was directed by Dileesh Pothan and features prominent performances by Fahadh Faasil, Aparna Balamurali, Anusree."
+      },
+      {
+        "question": "What genres does Maheshinte Prathikaaram belong to?",
+        "answer": "Maheshinte Prathikaaram is classified under Comedy, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Maheshinte Prathikaaram?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Maheshinte Prathikaaram in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "_KY8Du4WWew"
   },
   {
     "id": "187",
@@ -9520,7 +14798,7 @@ export const movies: Movie[] = [
       "Asif Ali",
       "Indrajith Sukumaran"
     ],
-    "description": "An authentic, heart-pounding dramatization of Kerala's healthcare workers, district collectors, and scientists rallying to contain the deadly 2018 Nipah virus outbreak.",
+    "description": "Virus is an acclaimed Malayalam Drama and Thriller film helmed by visionary director Aashiq Abu. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Kunchacko Boban, Tovino Thomas, Parvathy Thiruvothu, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "runtime": 152,
     "imdbRating": 7.9,
     "poster": "/images/movies/virus-malayalam.jpg",
@@ -9570,7 +14848,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Aashiq Abu.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Kunchacko Boban and Tovino Thomas, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Aashiq Abu with an acclaimed ensemble cast.",
+      "Features celebrated performances by Kunchacko Boban, Tovino Thomas, Parvathy Thiruvothu.",
+      "Recognized as a landmark Drama title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Virus?",
+        "answer": "Virus was directed by Aashiq Abu and features prominent performances by Kunchacko Boban, Tovino Thomas, Parvathy Thiruvothu."
+      },
+      {
+        "question": "What genres does Virus belong to?",
+        "answer": "Virus is classified under Drama, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Virus?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Virus in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "38MijVTyP7s"
   },
   {
     "id": "188",
@@ -9591,7 +14897,7 @@ export const movies: Movie[] = [
       "Fahadh Faasil",
       "Asif Ali"
     ],
-    "description": "Based on real events, a group of Indian nurses trapped in Tikrit during the 2014 ISIS offensive in Iraq are rescued in an undercover diplomatic and intelligence operation.",
+    "description": "Take Off is an acclaimed Malayalam Action and Drama and Thriller film helmed by visionary director Mahesh Narayanan. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Parvathy Thiruvothu, Kunchacko Boban, Fahadh Faasil, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "runtime": 139,
     "imdbRating": 8.1,
     "poster": "/images/movies/take-off-malayalam.jpg",
@@ -9617,7 +14923,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Mahesh Narayanan.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Parvathy Thiruvothu and Kunchacko Boban, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Mahesh Narayanan with an acclaimed ensemble cast.",
+      "Features celebrated performances by Parvathy Thiruvothu, Kunchacko Boban, Fahadh Faasil.",
+      "Recognized as a landmark Action title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Take Off?",
+        "answer": "Take Off was directed by Mahesh Narayanan and features prominent performances by Parvathy Thiruvothu, Kunchacko Boban, Fahadh Faasil."
+      },
+      {
+        "question": "What genres does Take Off belong to?",
+        "answer": "Take Off is classified under Action, Drama, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Take Off?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Take Off in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "vzYSKjxtKNg"
   },
   {
     "id": "189",
@@ -9639,7 +14973,7 @@ export const movies: Movie[] = [
       "Abhiram Radhakrishnan",
       "Arya Salim"
     ],
-    "description": "When an ASP and his estranged identical twin brother are found dead under mysterious circumstances inside a police station, an investigation uncovers shocking family secrets.",
+    "description": "Iratta is an acclaimed Malayalam Crime and Drama and Mystery and Thriller film helmed by visionary director Rohit M. G. Krishnan. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Joju George, Anjali, Abhiram Radhakrishnan, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "runtime": 114,
     "imdbRating": 7.7,
     "poster": "/images/movies/iratta.jpg",
@@ -9657,7 +14991,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Crime masterpiece from Rohit M. G. Krishnan.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Joju George and Anjali, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Rohit M. G. Krishnan with an acclaimed ensemble cast.",
+      "Features celebrated performances by Joju George, Anjali, Abhiram Radhakrishnan.",
+      "Recognized as a landmark Crime title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Iratta?",
+        "answer": "Iratta was directed by Rohit M. G. Krishnan and features prominent performances by Joju George, Anjali, Abhiram Radhakrishnan."
+      },
+      {
+        "question": "What genres does Iratta belong to?",
+        "answer": "Iratta is classified under Crime, Drama, Mystery, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Iratta?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Iratta in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "OIMILWxADV0"
   },
   {
     "id": "190",
@@ -9677,7 +15039,7 @@ export const movies: Movie[] = [
       "Sajin Gopu",
       "Abhinav Gomatam"
     ],
-    "description": "In 2007 Bengaluru, seven bachelor roommates play with an Ouija board out of boredom, unwittingly inviting an eccentric supernatural presence into their house.",
+    "description": "Romancham is an acclaimed Malayalam Comedy and Horror film helmed by visionary director Jithu Madhavan. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Soubin Shahir, Arjun Ashokan, Sajin Gopu, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "runtime": 130,
     "imdbRating": 7.6,
     "poster": "/images/movies/romancham.jpg",
@@ -9695,7 +15057,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Jithu Madhavan.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Aashirvad Cinemas",
+      "Bhavana Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Soubin Shahir and Arjun Ashokan, and evocative direction that captures the genuine spirit of Malayalam cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Jithu Madhavan with an acclaimed ensemble cast.",
+      "Features celebrated performances by Soubin Shahir, Arjun Ashokan, Sajin Gopu.",
+      "Recognized as a landmark Comedy title within the Mollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Romancham?",
+        "answer": "Romancham was directed by Jithu Madhavan and features prominent performances by Soubin Shahir, Arjun Ashokan, Sajin Gopu."
+      },
+      {
+        "question": "What genres does Romancham belong to?",
+        "answer": "Romancham is classified under Comedy, Horror, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Romancham?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Romancham in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "0WR621Z3AIM"
   },
   {
     "id": "191",
@@ -9715,7 +15105,7 @@ export const movies: Movie[] = [
       "Achyuth Kumar",
       "Pavitra Lokesh"
     ],
-    "description": "Manu and Priya share an intense, tender love and dream of a simple life together, until a desperate financial gamble lands Manu in prison.",
+    "description": "Sapta Saagaradaache Ello – Side A is an acclaimed Kannada Drama and Romance film helmed by visionary director Hemanth M. Rao. Set against the distinctive cultural backdrop of Sandalwood, the story centers on compelling characters played with nuance by Rakshit Shetty, Rukmini Vasanth, Achyuth Kumar, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Kannada cinema.",
     "runtime": 142,
     "imdbRating": 8.3,
     "poster": "/images/movies/sapta-saagaradaache-ello-side-a.jpg",
@@ -9741,7 +15131,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Hemanth M. Rao.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Hombale Films",
+      "Paramvah Studios"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Rakshit Shetty and Rukmini Vasanth, and evocative direction that captures the genuine spirit of Kannada cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Hemanth M. Rao with an acclaimed ensemble cast.",
+      "Features celebrated performances by Rakshit Shetty, Rukmini Vasanth, Achyuth Kumar.",
+      "Recognized as a landmark Drama title within the Sandalwood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Sapta Saagaradaache Ello – Side A?",
+        "answer": "Sapta Saagaradaache Ello – Side A was directed by Hemanth M. Rao and features prominent performances by Rakshit Shetty, Rukmini Vasanth, Achyuth Kumar."
+      },
+      {
+        "question": "What genres does Sapta Saagaradaache Ello – Side A belong to?",
+        "answer": "Sapta Saagaradaache Ello – Side A is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Sapta Saagaradaache Ello – Side A?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Sapta Saagaradaache Ello – Side A in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "hcJ1ZHHahMA"
   },
   {
     "id": "192",
@@ -9761,7 +15179,7 @@ export const movies: Movie[] = [
       "Chaithra J. Achar",
       "Gopalkrishna Deshpande"
     ],
-    "description": "Ten years after his imprisonment, Manu is released into a vastly changed world and seeks to ensure Priya's happiness from afar while coping with his own demons.",
+    "description": "Sapta Saagaradaache Ello – Side B is an acclaimed Kannada Drama and Romance film helmed by visionary director Hemanth M. Rao. Set against the distinctive cultural backdrop of Sandalwood, the story centers on compelling characters played with nuance by Rakshit Shetty, Rukmini Vasanth, Chaithra J. Achar, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Kannada cinema.",
     "runtime": 147,
     "imdbRating": 7.9,
     "poster": "/images/movies/sapta-saagaradaache-ello-side-b.jpg",
@@ -9787,7 +15205,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Hemanth M. Rao.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Hombale Films",
+      "Paramvah Studios"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Rakshit Shetty and Rukmini Vasanth, and evocative direction that captures the genuine spirit of Kannada cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Hemanth M. Rao with an acclaimed ensemble cast.",
+      "Features celebrated performances by Rakshit Shetty, Rukmini Vasanth, Chaithra J. Achar.",
+      "Recognized as a landmark Drama title within the Sandalwood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Sapta Saagaradaache Ello – Side B?",
+        "answer": "Sapta Saagaradaache Ello – Side B was directed by Hemanth M. Rao and features prominent performances by Rakshit Shetty, Rukmini Vasanth, Chaithra J. Achar."
+      },
+      {
+        "question": "What genres does Sapta Saagaradaache Ello – Side B belong to?",
+        "answer": "Sapta Saagaradaache Ello – Side B is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Sapta Saagaradaache Ello – Side B?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Sapta Saagaradaache Ello – Side B in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "llKjFW1gv0M"
   },
   {
     "id": "193",
@@ -9808,7 +15254,7 @@ export const movies: Movie[] = [
       "Gopalkrishna Deshpande",
       "Jyotish Shetty"
     ],
-    "description": "An allegory exploring the friendship, dominance, and bloody betrayal between two childhood friends who rise to rule Mangalore's ruthless underworld.",
+    "description": "Garuda Gamana Vrishabha Vahana is an acclaimed Kannada Crime and Drama and Thriller film helmed by visionary director Raj B. Shetty. Set against the distinctive cultural backdrop of Sandalwood, the story centers on compelling characters played with nuance by Rishab Shetty, Raj B. Shetty, Gopalkrishna Deshpande, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Kannada cinema.",
     "runtime": 151,
     "imdbRating": 8.4,
     "poster": "/images/movies/garuda-gamana-vrishabha-vahana.jpg",
@@ -9826,7 +15272,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Crime masterpiece from Raj B. Shetty.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Hombale Films",
+      "Paramvah Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Rishab Shetty and Raj B. Shetty, and evocative direction that captures the genuine spirit of Kannada cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Raj B. Shetty with an acclaimed ensemble cast.",
+      "Features celebrated performances by Rishab Shetty, Raj B. Shetty, Gopalkrishna Deshpande.",
+      "Recognized as a landmark Crime title within the Sandalwood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Garuda Gamana Vrishabha Vahana?",
+        "answer": "Garuda Gamana Vrishabha Vahana was directed by Raj B. Shetty and features prominent performances by Rishab Shetty, Raj B. Shetty, Gopalkrishna Deshpande."
+      },
+      {
+        "question": "What genres does Garuda Gamana Vrishabha Vahana belong to?",
+        "answer": "Garuda Gamana Vrishabha Vahana is classified under Crime, Drama, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Garuda Gamana Vrishabha Vahana?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Garuda Gamana Vrishabha Vahana in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "BnuDHJcSd0Q"
   },
   {
     "id": "194",
@@ -9846,7 +15320,7 @@ export const movies: Movie[] = [
       "Vasishta N. Simha",
       "Manvitha Kamath"
     ],
-    "description": "An unconventional, non-linear cat-and-mouse confrontation between a fierce police officer Shiva and the terrifying crime syndicate boss Daali.",
+    "description": "Tagaru is an acclaimed Kannada Action and Crime film helmed by visionary director Duniya Soori. Set against the distinctive cultural backdrop of Sandalwood, the story centers on compelling characters played with nuance by Shiva Rajkumar, Dhananjay, Vasishta N. Simha, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Kannada cinema.",
     "runtime": 129,
     "imdbRating": 7.7,
     "poster": "/images/movies/tagaru.jpg",
@@ -9863,6 +15337,33 @@ export const movies: Movie[] = [
         "region": "IN",
         "verified": true,
         "lastVerified": "2026-11-12"
+      }
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Duniya Soori.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Hombale Films",
+      "Paramvah Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Shiva Rajkumar and Dhananjay, and evocative direction that captures the genuine spirit of Kannada cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Duniya Soori with an acclaimed ensemble cast.",
+      "Features celebrated performances by Shiva Rajkumar, Dhananjay, Vasishta N. Simha.",
+      "Recognized as a landmark Action title within the Sandalwood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Tagaru?",
+        "answer": "Tagaru was directed by Duniya Soori and features prominent performances by Shiva Rajkumar, Dhananjay, Vasishta N. Simha."
+      },
+      {
+        "question": "What genres does Tagaru belong to?",
+        "answer": "Tagaru is classified under Action, Crime, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Tagaru?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Tagaru in the Where to Watch section on Moviezui."
       }
     ]
   },
@@ -9884,7 +15385,7 @@ export const movies: Movie[] = [
       "Dheekshith Shetty",
       "Pavithra Lokesh"
     ],
-    "description": "An introverted young woman Dia struggles to confess her love to a senior, before a tragic accident and an unexpected friendship with an exuberant soul reshape her destiny.",
+    "description": "Dia is an acclaimed Kannada Drama and Romance film helmed by visionary director K. S. Ashoka. Set against the distinctive cultural backdrop of Sandalwood, the story centers on compelling characters played with nuance by Kushee Ravi, Pruthvi Ambaar, Dheekshith Shetty, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Kannada cinema.",
     "runtime": 137,
     "imdbRating": 8.1,
     "poster": "/images/movies/dia-kannada.jpg",
@@ -9902,7 +15403,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from K. S. Ashoka.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Hombale Films",
+      "Paramvah Studios"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Kushee Ravi and Pruthvi Ambaar, and evocative direction that captures the genuine spirit of Kannada cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker K. S. Ashoka with an acclaimed ensemble cast.",
+      "Features celebrated performances by Kushee Ravi, Pruthvi Ambaar, Dheekshith Shetty.",
+      "Recognized as a landmark Drama title within the Sandalwood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Dia?",
+        "answer": "Dia was directed by K. S. Ashoka and features prominent performances by Kushee Ravi, Pruthvi Ambaar, Dheekshith Shetty."
+      },
+      {
+        "question": "What genres does Dia belong to?",
+        "answer": "Dia is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Dia?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Dia in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "8GR-W0jGVak"
   },
   {
     "id": "196",
@@ -9923,7 +15452,7 @@ export const movies: Movie[] = [
       "Achyuth Kumar",
       "Suman Ranganathan"
     ],
-    "description": "A frustrated traffic cop obsessed with investigative police work stumbles upon bones at a metro construction site, teaming up with a retired inspector to solve a 1970s cold case.",
+    "description": "Kavaludaari is an acclaimed Kannada Crime and Mystery and Thriller film helmed by visionary director Hemanth M. Rao. Set against the distinctive cultural backdrop of Sandalwood, the story centers on compelling characters played with nuance by Rishi, Anant Nag, Achyuth Kumar, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Kannada cinema.",
     "runtime": 146,
     "imdbRating": 7.9,
     "poster": "/images/movies/kavaludaari.jpg",
@@ -9949,7 +15478,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Crime masterpiece from Hemanth M. Rao.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Hombale Films",
+      "Paramvah Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Rishi and Anant Nag, and evocative direction that captures the genuine spirit of Kannada cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Hemanth M. Rao with an acclaimed ensemble cast.",
+      "Features celebrated performances by Rishi, Anant Nag, Achyuth Kumar.",
+      "Recognized as a landmark Crime title within the Sandalwood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Kavaludaari?",
+        "answer": "Kavaludaari was directed by Hemanth M. Rao and features prominent performances by Rishi, Anant Nag, Achyuth Kumar."
+      },
+      {
+        "question": "What genres does Kavaludaari belong to?",
+        "answer": "Kavaludaari is classified under Crime, Mystery, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Kavaludaari?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Kavaludaari in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "5w1vgMoPMRA"
   },
   {
     "id": "197",
@@ -9970,7 +15527,7 @@ export const movies: Movie[] = [
       "Achyuth Kumar",
       "Yogaraj Bhat"
     ],
-    "description": "Set in 1980s Karnataka, a police constable with a flair for detective mystery novels is assigned to solve a sequence of bizarre temple robberies.",
+    "description": "Bell Bottom is an acclaimed Kannada Comedy and Mystery and Thriller film helmed by visionary director Jayatheertha. Set against the distinctive cultural backdrop of Sandalwood, the story centers on compelling characters played with nuance by Rishab Shetty, Hariprriya, Achyuth Kumar, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Kannada cinema.",
     "runtime": 130,
     "imdbRating": 8,
     "poster": "/images/movies/bell-bottom-kannada.jpg",
@@ -9988,7 +15545,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Jayatheertha.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Hombale Films",
+      "Paramvah Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Rishab Shetty and Hariprriya, and evocative direction that captures the genuine spirit of Kannada cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Jayatheertha with an acclaimed ensemble cast.",
+      "Features celebrated performances by Rishab Shetty, Hariprriya, Achyuth Kumar.",
+      "Recognized as a landmark Comedy title within the Sandalwood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Bell Bottom?",
+        "answer": "Bell Bottom was directed by Jayatheertha and features prominent performances by Rishab Shetty, Hariprriya, Achyuth Kumar."
+      },
+      {
+        "question": "What genres does Bell Bottom belong to?",
+        "answer": "Bell Bottom is classified under Comedy, Mystery, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Bell Bottom?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Bell Bottom in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "0_W_PhKaQaY"
   },
   {
     "id": "198",
@@ -10008,7 +15593,7 @@ export const movies: Movie[] = [
       "Abhay",
       "Supreeth Bharadwaj"
     ],
-    "description": "Based on Poornachandra Tejaswi's renowned story, a small-town college community in Karnataka confronts religious prejudices when a lone Muslim student enrols.",
+    "description": "Daredevil Musthafa is an acclaimed Kannada Comedy and Drama film helmed by visionary director Shashank Soghal. Set against the distinctive cultural backdrop of Sandalwood, the story centers on compelling characters played with nuance by Shishir Baikady, Aditya Ashree, Abhay, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Kannada cinema.",
     "runtime": 160,
     "imdbRating": 8.2,
     "poster": "/images/movies/daredevil-musthafa.jpg",
@@ -10026,7 +15611,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Shashank Soghal.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Hombale Films",
+      "Paramvah Studios"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Shishir Baikady and Aditya Ashree, and evocative direction that captures the genuine spirit of Kannada cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Shashank Soghal with an acclaimed ensemble cast.",
+      "Features celebrated performances by Shishir Baikady, Aditya Ashree, Abhay.",
+      "Recognized as a landmark Comedy title within the Sandalwood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Daredevil Musthafa?",
+        "answer": "Daredevil Musthafa was directed by Shashank Soghal and features prominent performances by Shishir Baikady, Aditya Ashree, Abhay."
+      },
+      {
+        "question": "What genres does Daredevil Musthafa belong to?",
+        "answer": "Daredevil Musthafa is classified under Comedy, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Daredevil Musthafa?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Daredevil Musthafa in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "obRgGKDFN0A"
   },
   {
     "id": "199",
@@ -10046,7 +15659,7 @@ export const movies: Movie[] = [
       "Jagjeet Sandhu",
       "Jasneet Kaur"
     ],
-    "description": "A free-spirited, aimless village boy falls deeply in love with a cotton-picking orphaned girl, sparking a heartwarming journey of dignity and self-transformation.",
+    "description": "Sufna is an acclaimed Punjabi Drama and Romance film helmed by visionary director Jagdeep Sidhu. Set against the distinctive cultural backdrop of Pollywood, the story centers on compelling characters played with nuance by Ammy Virk, Tania, Jagjeet Sandhu, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Punjabi cinema.",
     "runtime": 144,
     "imdbRating": 7.7,
     "poster": "/images/movies/sufna.jpg",
@@ -10064,7 +15677,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Jagdeep Sidhu.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "White Hill Studios",
+      "Humble Motion Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Ammy Virk and Tania, and evocative direction that captures the genuine spirit of Punjabi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Jagdeep Sidhu with an acclaimed ensemble cast.",
+      "Features celebrated performances by Ammy Virk, Tania, Jagjeet Sandhu.",
+      "Recognized as a landmark Drama title within the Pollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Sufna?",
+        "answer": "Sufna was directed by Jagdeep Sidhu and features prominent performances by Ammy Virk, Tania, Jagjeet Sandhu."
+      },
+      {
+        "question": "What genres does Sufna belong to?",
+        "answer": "Sufna is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Sufna?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Sufna in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "5Z0XEsuJPX8"
   },
   {
     "id": "200",
@@ -10084,7 +15725,7 @@ export const movies: Movie[] = [
       "Wamiqa Gabbi",
       "Prince Kanwaljit Singh"
     ],
-    "description": "Rabia, a bright and cheerful schoolteacher, is gradually broken down by institutional patriarchal cruelty and harassment, leaving a former student to uncover the truth.",
+    "description": "Kali Jotta is an acclaimed Punjabi Drama and Mystery film helmed by visionary director Vijay Kumar Arora. Set against the distinctive cultural backdrop of Pollywood, the story centers on compelling characters played with nuance by Neeru Bajwa, Satinder Sartaaj, Wamiqa Gabbi, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Punjabi cinema.",
     "runtime": 133,
     "imdbRating": 8.1,
     "poster": "/images/movies/kali-jotta.jpg",
@@ -10102,7 +15743,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Vijay Kumar Arora.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "White Hill Studios",
+      "Humble Motion Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Neeru Bajwa and Satinder Sartaaj, and evocative direction that captures the genuine spirit of Punjabi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Vijay Kumar Arora with an acclaimed ensemble cast.",
+      "Features celebrated performances by Neeru Bajwa, Satinder Sartaaj, Wamiqa Gabbi.",
+      "Recognized as a landmark Drama title within the Pollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Kali Jotta?",
+        "answer": "Kali Jotta was directed by Vijay Kumar Arora and features prominent performances by Neeru Bajwa, Satinder Sartaaj, Wamiqa Gabbi."
+      },
+      {
+        "question": "What genres does Kali Jotta belong to?",
+        "answer": "Kali Jotta is classified under Drama, Mystery, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Kali Jotta?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Kali Jotta in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "1y9tUcXFbqI"
   },
   {
     "id": "201",
@@ -10122,7 +15791,7 @@ export const movies: Movie[] = [
       "Simi Chahal",
       "Sheetal Thakur"
     ],
-    "description": "In pre-partition Punjab, an inventive villager becomes obsessed with building an indigenous motorcycle to outshine his arrogant brother-in-law.",
+    "description": "Bambukat is an acclaimed Punjabi Comedy and Drama film helmed by visionary director Pankaj Batra. Set against the distinctive cultural backdrop of Pollywood, the story centers on compelling characters played with nuance by Ammy Virk, Binnu Dhillon, Simi Chahal, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Punjabi cinema.",
     "runtime": 118,
     "imdbRating": 7.5,
     "poster": "/images/movies/bambukat.jpg",
@@ -10140,7 +15809,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Pankaj Batra.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "White Hill Studios",
+      "Humble Motion Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Ammy Virk and Binnu Dhillon, and evocative direction that captures the genuine spirit of Punjabi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Pankaj Batra with an acclaimed ensemble cast.",
+      "Features celebrated performances by Ammy Virk, Binnu Dhillon, Simi Chahal.",
+      "Recognized as a landmark Comedy title within the Pollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Bambukat?",
+        "answer": "Bambukat was directed by Pankaj Batra and features prominent performances by Ammy Virk, Binnu Dhillon, Simi Chahal."
+      },
+      {
+        "question": "What genres does Bambukat belong to?",
+        "answer": "Bambukat is classified under Comedy, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Bambukat?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Bambukat in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "e9u_D-5lYJ4"
   },
   {
     "id": "202",
@@ -10159,7 +15856,7 @@ export const movies: Movie[] = [
       "Mandy Takhar",
       "Gurpreet Ghuggi"
     ],
-    "description": "Set in rural Punjab during the 1980s, a joint family divided by bitter pride and misunderstandings is gradually reunited by innocent love and moral courage.",
+    "description": "Rabb Da Radio is an acclaimed Punjabi Drama film helmed by visionary director Tarnvir Singh Jagpal. Set against the distinctive cultural backdrop of Pollywood, the story centers on compelling characters played with nuance by Tarsem Jassar, Simi Chahal, Mandy Takhar, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Punjabi cinema.",
     "runtime": 140,
     "imdbRating": 7.8,
     "poster": "/images/movies/rabb-da-radio.jpg",
@@ -10177,7 +15874,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Tarnvir Singh Jagpal.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "White Hill Studios",
+      "Humble Motion Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Tarsem Jassar and Simi Chahal, and evocative direction that captures the genuine spirit of Punjabi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Tarnvir Singh Jagpal with an acclaimed ensemble cast.",
+      "Features celebrated performances by Tarsem Jassar, Simi Chahal, Mandy Takhar.",
+      "Recognized as a landmark Drama title within the Pollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Rabb Da Radio?",
+        "answer": "Rabb Da Radio was directed by Tarnvir Singh Jagpal and features prominent performances by Tarsem Jassar, Simi Chahal, Mandy Takhar."
+      },
+      {
+        "question": "What genres does Rabb Da Radio belong to?",
+        "answer": "Rabb Da Radio is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Rabb Da Radio?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Rabb Da Radio in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "ke4jcUPFcrY"
   },
   {
     "id": "203",
@@ -10197,7 +15922,7 @@ export const movies: Movie[] = [
       "Karamjit Anmol",
       "Nirmal Rishi"
     ],
-    "description": "A college student falls in love with his friend's sister and spins a web of white lies to his conservative grandmother to arrange a marriage, resulting in non-stop confusion.",
+    "description": "Nikka Zaildar is an acclaimed Punjabi Comedy and Romance film helmed by visionary director Simerjit Singh. Set against the distinctive cultural backdrop of Pollywood, the story centers on compelling characters played with nuance by Ammy Virk, Sonam Bajwa, Karamjit Anmol, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Punjabi cinema.",
     "runtime": 135,
     "imdbRating": 7.4,
     "poster": "/images/movies/nikka-zaildar.jpg",
@@ -10223,7 +15948,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Simerjit Singh.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "White Hill Studios",
+      "Humble Motion Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Ammy Virk and Sonam Bajwa, and evocative direction that captures the genuine spirit of Punjabi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Simerjit Singh with an acclaimed ensemble cast.",
+      "Features celebrated performances by Ammy Virk, Sonam Bajwa, Karamjit Anmol.",
+      "Recognized as a landmark Comedy title within the Pollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Nikka Zaildar?",
+        "answer": "Nikka Zaildar was directed by Simerjit Singh and features prominent performances by Ammy Virk, Sonam Bajwa, Karamjit Anmol."
+      },
+      {
+        "question": "What genres does Nikka Zaildar belong to?",
+        "answer": "Nikka Zaildar is classified under Comedy, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Nikka Zaildar?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Nikka Zaildar in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "AlpSxOWN9HU"
   },
   {
     "id": "204",
@@ -10244,7 +15997,7 @@ export const movies: Movie[] = [
       "Dheeraj Kumar",
       "Mahabir Bhullar"
     ],
-    "description": "A chilling revenge saga following a small-time criminal who ascends the brutal ranks of Punjab's mafia gangs through calculated, ruthless retribution.",
+    "description": "Warning is an acclaimed Punjabi Action and Crime and Thriller film helmed by visionary director Amar Hundal. Set against the distinctive cultural backdrop of Pollywood, the story centers on compelling characters played with nuance by Gippy Grewal, Prince Kanwaljit Singh, Dheeraj Kumar, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Punjabi cinema.",
     "runtime": 119,
     "imdbRating": 7.3,
     "poster": "/images/movies/warning-punjabi.jpg",
@@ -10262,7 +16015,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Action masterpiece from Amar Hundal.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "White Hill Studios",
+      "Humble Motion Pictures"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Gippy Grewal and Prince Kanwaljit Singh, and evocative direction that captures the genuine spirit of Punjabi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Amar Hundal with an acclaimed ensemble cast.",
+      "Features celebrated performances by Gippy Grewal, Prince Kanwaljit Singh, Dheeraj Kumar.",
+      "Recognized as a landmark Action title within the Pollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Warning?",
+        "answer": "Warning was directed by Amar Hundal and features prominent performances by Gippy Grewal, Prince Kanwaljit Singh, Dheeraj Kumar."
+      },
+      {
+        "question": "What genres does Warning belong to?",
+        "answer": "Warning is classified under Action, Crime, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Warning?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Warning in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "4o56Ri0uiTI"
   },
   {
     "id": "205",
@@ -10284,7 +16065,7 @@ export const movies: Movie[] = [
       "Harsimran",
       "Drishti Grewal"
     ],
-    "description": "In 1980s rural Punjab, an ambitious folk singer and a gifted vocalist form a musical partnership that takes the regional music scene by storm.",
+    "description": "Jodi is an acclaimed Punjabi Comedy and Drama and Music and Romance film helmed by visionary director Amberdeep Singh. Set against the distinctive cultural backdrop of Pollywood, the story centers on compelling characters played with nuance by Diljit Dosanjh, Nimrat Khaira, Harsimran, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Punjabi cinema.",
     "runtime": 130,
     "imdbRating": 7.5,
     "poster": "/images/movies/jodi.jpg",
@@ -10302,7 +16083,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Amberdeep Singh.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "White Hill Studios",
+      "Humble Motion Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Diljit Dosanjh and Nimrat Khaira, and evocative direction that captures the genuine spirit of Punjabi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Amberdeep Singh with an acclaimed ensemble cast.",
+      "Features celebrated performances by Diljit Dosanjh, Nimrat Khaira, Harsimran.",
+      "Recognized as a landmark Comedy title within the Pollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Jodi?",
+        "answer": "Jodi was directed by Amberdeep Singh and features prominent performances by Diljit Dosanjh, Nimrat Khaira, Harsimran."
+      },
+      {
+        "question": "What genres does Jodi belong to?",
+        "answer": "Jodi is classified under Comedy, Drama, Music, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Jodi?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Jodi in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "c8uhxLHcw7c"
   },
   {
     "id": "206",
@@ -10323,7 +16132,7 @@ export const movies: Movie[] = [
       "Nasir Chinyoti",
       "Akram Udas"
     ],
-    "description": "Illegal Punjabi immigrants from Indian and Pakistani Punjab share an apartment in Birmingham, forming an affectionate bond as they navigate hardships together.",
+    "description": "Chal Mera Putt is an acclaimed Punjabi Comedy and Drama film helmed by visionary director Janjot Singh. Set against the distinctive cultural backdrop of Pollywood, the story centers on compelling characters played with nuance by Amrinder Gill, Simi Chahal, Iftikhar Thakur, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Punjabi cinema.",
     "runtime": 124,
     "imdbRating": 7.8,
     "poster": "/images/movies/chal-mera-putt.jpg",
@@ -10341,7 +16150,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Janjot Singh.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "White Hill Studios",
+      "Humble Motion Pictures"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Amrinder Gill and Simi Chahal, and evocative direction that captures the genuine spirit of Punjabi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Janjot Singh with an acclaimed ensemble cast.",
+      "Features celebrated performances by Amrinder Gill, Simi Chahal, Iftikhar Thakur.",
+      "Recognized as a landmark Comedy title within the Pollywood film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Chal Mera Putt?",
+        "answer": "Chal Mera Putt was directed by Janjot Singh and features prominent performances by Amrinder Gill, Simi Chahal, Iftikhar Thakur."
+      },
+      {
+        "question": "What genres does Chal Mera Putt belong to?",
+        "answer": "Chal Mera Putt is classified under Comedy, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Chal Mera Putt?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Chal Mera Putt in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "L4SWVmkwQvg"
   },
   {
     "id": "207",
@@ -10360,7 +16197,7 @@ export const movies: Movie[] = [
       "Alok Chakravarty",
       "Swapan Mukherjee"
     ],
-    "description": "The poetic conclusion of Satyajit Ray's Apu Trilogy depicts Apu's unexpected marriage, heartfelt domestic contentment, and devastating grief.",
+    "description": "Apur Sansar is an acclaimed Bengali Drama film helmed by visionary director Satyajit Ray. Set against the distinctive cultural backdrop of Bengali Cinema, the story centers on compelling characters played with nuance by Soumitra Chatterjee, Sharmila Tagore, Alok Chakravarty, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Bengali cinema.",
     "runtime": 106,
     "imdbRating": 8.9,
     "poster": "/images/movies/apur-sansar.jpg",
@@ -10369,7 +16206,35 @@ export const movies: Movie[] = [
     "sources": [
       "https://en.wikipedia.org/wiki/Apur_Sansar"
     ],
-    "watchOptions": []
+    "watchOptions": [],
+    "tagline": "Experience the acclaimed Drama masterpiece from Satyajit Ray.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "SVF Entertainment",
+      "Windows Production"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Soumitra Chatterjee and Sharmila Tagore, and evocative direction that captures the genuine spirit of Bengali cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Satyajit Ray with an acclaimed ensemble cast.",
+      "Features celebrated performances by Soumitra Chatterjee, Sharmila Tagore, Alok Chakravarty.",
+      "Recognized as a landmark Drama title within the Bengali Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Apur Sansar?",
+        "answer": "Apur Sansar was directed by Satyajit Ray and features prominent performances by Soumitra Chatterjee, Sharmila Tagore, Alok Chakravarty."
+      },
+      {
+        "question": "What genres does Apur Sansar belong to?",
+        "answer": "Apur Sansar is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Apur Sansar?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Apur Sansar in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "mgv68E_o6VM"
   },
   {
     "id": "208",
@@ -10388,7 +16253,7 @@ export const movies: Movie[] = [
       "Karuna Banerjee",
       "Kanu Banerjee"
     ],
-    "description": "The second instalment of the Apu Trilogy follows young Apu leaving his rural Bengal roots to attend university in Calcutta, straining ties with his lonely mother.",
+    "description": "Aparajito is an acclaimed Bengali Drama film helmed by visionary director Satyajit Ray. Set against the distinctive cultural backdrop of Bengali Cinema, the story centers on compelling characters played with nuance by Pinaki Sen Gupta, Smaran Ghosal, Karuna Banerjee, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Bengali cinema.",
     "runtime": 110,
     "imdbRating": 8.3,
     "poster": "/images/movies/aparajito.jpg",
@@ -10422,6 +16287,33 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Satyajit Ray.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "SVF Entertainment",
+      "Windows Production"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Pinaki Sen Gupta and Smaran Ghosal, and evocative direction that captures the genuine spirit of Bengali cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Satyajit Ray with an acclaimed ensemble cast.",
+      "Features celebrated performances by Pinaki Sen Gupta, Smaran Ghosal, Karuna Banerjee.",
+      "Recognized as a landmark Drama title within the Bengali Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Aparajito?",
+        "answer": "Aparajito was directed by Satyajit Ray and features prominent performances by Pinaki Sen Gupta, Smaran Ghosal, Karuna Banerjee."
+      },
+      {
+        "question": "What genres does Aparajito belong to?",
+        "answer": "Aparajito is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Aparajito?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Aparajito in the Where to Watch section on Moviezui."
+      }
     ]
   },
   {
@@ -10443,7 +16335,7 @@ export const movies: Movie[] = [
       "Swastika Mukherjee",
       "Riya Sen"
     ],
-    "description": "A Gujarati student in Portugal falls in love with a Bengali girl and seeks the help of an eccentric librarian in Kolkata who claims to remember his past life as Hensman Anthony.",
+    "description": "Jaatishwar is an acclaimed Bengali Drama and History and Musical film helmed by visionary director Srijit Mukherji. Set against the distinctive cultural backdrop of Bengali Cinema, the story centers on compelling characters played with nuance by Prosenjit Chatterjee, Jisshu Sengupta, Swastika Mukherjee, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Bengali cinema.",
     "runtime": 147,
     "imdbRating": 8,
     "poster": "/images/movies/jaatishwar.jpg",
@@ -10469,7 +16361,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Srijit Mukherji.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "SVF Entertainment",
+      "Windows Production"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Prosenjit Chatterjee and Jisshu Sengupta, and evocative direction that captures the genuine spirit of Bengali cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Srijit Mukherji with an acclaimed ensemble cast.",
+      "Features celebrated performances by Prosenjit Chatterjee, Jisshu Sengupta, Swastika Mukherjee.",
+      "Recognized as a landmark Drama title within the Bengali Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Jaatishwar?",
+        "answer": "Jaatishwar was directed by Srijit Mukherji and features prominent performances by Prosenjit Chatterjee, Jisshu Sengupta, Swastika Mukherjee."
+      },
+      {
+        "question": "What genres does Jaatishwar belong to?",
+        "answer": "Jaatishwar is classified under Drama, History, Musical, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Jaatishwar?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Jaatishwar in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "XYF_Vp8arb0"
   },
   {
     "id": "210",
@@ -10489,7 +16409,7 @@ export const movies: Movie[] = [
       "Chiranjeet Chakraborty",
       "Parambrata Chatterjee"
     ],
-    "description": "Four prominent directors are commissioned by an elusive producer to film an anthology on death, embarking on an ominous road trip to Henry's Island.",
+    "description": "Chotushkone is an acclaimed Bengali Mystery and Thriller film helmed by visionary director Srijit Mukherji. Set against the distinctive cultural backdrop of Bengali Cinema, the story centers on compelling characters played with nuance by Aparna Sen, Goutam Ghose, Chiranjeet Chakraborty, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Bengali cinema.",
     "runtime": 148,
     "imdbRating": 8.1,
     "poster": "/images/movies/chotushkone.jpg",
@@ -10515,7 +16435,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Mystery masterpiece from Srijit Mukherji.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "SVF Entertainment",
+      "Windows Production"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Aparna Sen and Goutam Ghose, and evocative direction that captures the genuine spirit of Bengali cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Srijit Mukherji with an acclaimed ensemble cast.",
+      "Features celebrated performances by Aparna Sen, Goutam Ghose, Chiranjeet Chakraborty.",
+      "Recognized as a landmark Mystery title within the Bengali Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Chotushkone?",
+        "answer": "Chotushkone was directed by Srijit Mukherji and features prominent performances by Aparna Sen, Goutam Ghose, Chiranjeet Chakraborty."
+      },
+      {
+        "question": "What genres does Chotushkone belong to?",
+        "answer": "Chotushkone is classified under Mystery, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Chotushkone?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Chotushkone in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "tVa3A4fcnpg"
   },
   {
     "id": "211",
@@ -10535,7 +16483,7 @@ export const movies: Movie[] = [
       "Debraj Bhattacharya",
       "Shyamal Chakraborty"
     ],
-    "description": "The impoverished last scion of the royal family of Ballabhpur tries to sell off his crumbling 400-year-old ancestral palace to clear debts, unaware of the friendly resident ghost.",
+    "description": "Ballabhpurer Roopkotha is an acclaimed Bengali Comedy and Horror film helmed by visionary director Anirban Bhattacharya. Set against the distinctive cultural backdrop of Bengali Cinema, the story centers on compelling characters played with nuance by Satyam Bhattacharya, Surangana Bandyopadhyay, Debraj Bhattacharya, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Bengali cinema.",
     "runtime": 136,
     "imdbRating": 8,
     "poster": "/images/movies/ballabhpurer-roopkotha.jpg",
@@ -10577,7 +16525,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Anirban Bhattacharya.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "SVF Entertainment",
+      "Windows Production"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Satyam Bhattacharya and Surangana Bandyopadhyay, and evocative direction that captures the genuine spirit of Bengali cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Anirban Bhattacharya with an acclaimed ensemble cast.",
+      "Features celebrated performances by Satyam Bhattacharya, Surangana Bandyopadhyay, Debraj Bhattacharya.",
+      "Recognized as a landmark Comedy title within the Bengali Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Ballabhpurer Roopkotha?",
+        "answer": "Ballabhpurer Roopkotha was directed by Anirban Bhattacharya and features prominent performances by Satyam Bhattacharya, Surangana Bandyopadhyay, Debraj Bhattacharya."
+      },
+      {
+        "question": "What genres does Ballabhpurer Roopkotha belong to?",
+        "answer": "Ballabhpurer Roopkotha is classified under Comedy, Horror, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Ballabhpurer Roopkotha?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Ballabhpurer Roopkotha in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "NER2p1UmdAY"
   },
   {
     "id": "212",
@@ -10596,7 +16572,7 @@ export const movies: Movie[] = [
       "Jayati Chakraborty",
       "Swatilekha Kundu"
     ],
-    "description": "In a remote Bengal border village following the Babri Masjid demolition, two young boys from Hindu and Muslim families forge an unbreakable childhood bond against communal division.",
+    "description": "Dostojee is an acclaimed Bengali Drama film helmed by visionary director Prasun Chatterjee. Set against the distinctive cultural backdrop of Bengali Cinema, the story centers on compelling characters played with nuance by Asik Shaikh, Arif Shaikh, Jayati Chakraborty, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Bengali cinema.",
     "runtime": 111,
     "imdbRating": 8.1,
     "poster": "/images/movies/dostojee.jpg",
@@ -10605,7 +16581,35 @@ export const movies: Movie[] = [
     "sources": [
       "https://en.wikipedia.org/wiki/Dostojee"
     ],
-    "watchOptions": []
+    "watchOptions": [],
+    "tagline": "Experience the acclaimed Drama masterpiece from Prasun Chatterjee.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "SVF Entertainment",
+      "Windows Production"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Asik Shaikh and Arif Shaikh, and evocative direction that captures the genuine spirit of Bengali cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Prasun Chatterjee with an acclaimed ensemble cast.",
+      "Features celebrated performances by Asik Shaikh, Arif Shaikh, Jayati Chakraborty.",
+      "Recognized as a landmark Drama title within the Bengali Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Dostojee?",
+        "answer": "Dostojee was directed by Prasun Chatterjee and features prominent performances by Asik Shaikh, Arif Shaikh, Jayati Chakraborty."
+      },
+      {
+        "question": "What genres does Dostojee belong to?",
+        "answer": "Dostojee is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Dostojee?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Dostojee in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "cdB99OBdCvQ"
   },
   {
     "id": "213",
@@ -10625,7 +16629,7 @@ export const movies: Movie[] = [
       "Debashis Roy",
       "Shoaib Kabeer"
     ],
-    "description": "A tribute chronicling the immense hurdles, financial struggles, and artistic triumph of filmmaker Satyajit Ray as he made his iconic debut film Pather Panchali.",
+    "description": "Aparajito (The Undefeated) is an acclaimed Bengali Biography and Drama film helmed by visionary director Anik Dutta. Set against the distinctive cultural backdrop of Bengali Cinema, the story centers on compelling characters played with nuance by Jeetu Kamal, Saayoni Ghosh, Debashis Roy, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Bengali cinema.",
     "runtime": 138,
     "imdbRating": 7.9,
     "poster": "/images/movies/aparajito-2022.jpg",
@@ -10634,7 +16638,35 @@ export const movies: Movie[] = [
     "sources": [
       "https://en.wikipedia.org/wiki/Aparajito_(2022_film)"
     ],
-    "watchOptions": []
+    "watchOptions": [],
+    "tagline": "Experience the acclaimed Biography masterpiece from Anik Dutta.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "SVF Entertainment",
+      "Windows Production"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Jeetu Kamal and Saayoni Ghosh, and evocative direction that captures the genuine spirit of Bengali cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Anik Dutta with an acclaimed ensemble cast.",
+      "Features celebrated performances by Jeetu Kamal, Saayoni Ghosh, Debashis Roy.",
+      "Recognized as a landmark Biography title within the Bengali Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Aparajito (The Undefeated)?",
+        "answer": "Aparajito (The Undefeated) was directed by Anik Dutta and features prominent performances by Jeetu Kamal, Saayoni Ghosh, Debashis Roy."
+      },
+      {
+        "question": "What genres does Aparajito (The Undefeated) belong to?",
+        "answer": "Aparajito (The Undefeated) is classified under Biography, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Aparajito (The Undefeated)?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Aparajito (The Undefeated) in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "zgO3bRmmlz4"
   },
   {
     "id": "214",
@@ -10655,7 +16687,7 @@ export const movies: Movie[] = [
       "Srabanti Chatterjee",
       "Saswata Chatterjee"
     ],
-    "description": "The mischievous ghost of a widowed matriarch haunts her niece-in-law to safeguard her secret jewellery box, evolving across three generations of changing womanhood.",
+    "description": "Goynar Baksho is an acclaimed Bengali Comedy and Drama and Horror film helmed by visionary director Aparna Sen. Set against the distinctive cultural backdrop of Bengali Cinema, the story centers on compelling characters played with nuance by Moushumi Chatterjee, Konkona Sen Sharma, Srabanti Chatterjee, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Bengali cinema.",
     "runtime": 141,
     "imdbRating": 7.3,
     "poster": "/images/movies/goynar-baksho.jpg",
@@ -10689,7 +16721,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Aparna Sen.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "SVF Entertainment",
+      "Windows Production"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Moushumi Chatterjee and Konkona Sen Sharma, and evocative direction that captures the genuine spirit of Bengali cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Aparna Sen with an acclaimed ensemble cast.",
+      "Features celebrated performances by Moushumi Chatterjee, Konkona Sen Sharma, Srabanti Chatterjee.",
+      "Recognized as a landmark Comedy title within the Bengali Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Goynar Baksho?",
+        "answer": "Goynar Baksho was directed by Aparna Sen and features prominent performances by Moushumi Chatterjee, Konkona Sen Sharma, Srabanti Chatterjee."
+      },
+      {
+        "question": "What genres does Goynar Baksho belong to?",
+        "answer": "Goynar Baksho is classified under Comedy, Drama, Horror, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Goynar Baksho?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Goynar Baksho in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "_2kZp5TZlsM"
   },
   {
     "id": "215",
@@ -10709,7 +16769,7 @@ export const movies: Movie[] = [
       "Kishor Kadam",
       "Vibhavari Deshpande"
     ],
-    "description": "A poor agricultural labourer risks his social standing and family life to establish a traditional Tamasha theatre troupe, taking on an effeminate Nachya role.",
+    "description": "Natrang is an acclaimed Marathi Drama and Music film helmed by visionary director Ravi Jadhav. Set against the distinctive cultural backdrop of Marathi Cinema, the story centers on compelling characters played with nuance by Atul Kulkarni, Sonalee Kulkarni, Kishor Kadam, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Marathi cinema.",
     "runtime": 130,
     "imdbRating": 8.2,
     "poster": "/images/movies/natrang.jpg",
@@ -10735,7 +16795,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Ravi Jadhav.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Zee Studios",
+      "Essel Vision"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Atul Kulkarni and Sonalee Kulkarni, and evocative direction that captures the genuine spirit of Marathi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Ravi Jadhav with an acclaimed ensemble cast.",
+      "Features celebrated performances by Atul Kulkarni, Sonalee Kulkarni, Kishor Kadam.",
+      "Recognized as a landmark Drama title within the Marathi Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Natrang?",
+        "answer": "Natrang was directed by Ravi Jadhav and features prominent performances by Atul Kulkarni, Sonalee Kulkarni, Kishor Kadam."
+      },
+      {
+        "question": "What genres does Natrang belong to?",
+        "answer": "Natrang is classified under Drama, Music, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Natrang?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Natrang in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "a7YET30Y9uI"
   },
   {
     "id": "216",
@@ -10756,7 +16844,7 @@ export const movies: Movie[] = [
       "Medha Manjrekar",
       "Savita Malpekar"
     ],
-    "description": "In early 20th-century Konkan, a headstrong Chitpavan Brahmin vows to protect his widowed young sister-in-law from draconian patriarchal rituals, concealing his secret love.",
+    "description": "Kaksparsh is an acclaimed Marathi Drama and History and Romance film helmed by visionary director Mahesh Manjrekar. Set against the distinctive cultural backdrop of Marathi Cinema, the story centers on compelling characters played with nuance by Sachin Khedekar, Priya Bapat, Medha Manjrekar, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Marathi cinema.",
     "runtime": 140,
     "imdbRating": 8.1,
     "poster": "/images/movies/kaksparsh.jpg",
@@ -10773,6 +16861,33 @@ export const movies: Movie[] = [
         "region": "IN",
         "verified": true,
         "lastVerified": "2026-11-12"
+      }
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Mahesh Manjrekar.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Zee Studios",
+      "Essel Vision"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Sachin Khedekar and Priya Bapat, and evocative direction that captures the genuine spirit of Marathi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Mahesh Manjrekar with an acclaimed ensemble cast.",
+      "Features celebrated performances by Sachin Khedekar, Priya Bapat, Medha Manjrekar.",
+      "Recognized as a landmark Drama title within the Marathi Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Kaksparsh?",
+        "answer": "Kaksparsh was directed by Mahesh Manjrekar and features prominent performances by Sachin Khedekar, Priya Bapat, Medha Manjrekar."
+      },
+      {
+        "question": "What genres does Kaksparsh belong to?",
+        "answer": "Kaksparsh is classified under Drama, History, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Kaksparsh?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Kaksparsh in the Where to Watch section on Moviezui."
       }
     ]
   },
@@ -10793,7 +16908,7 @@ export const movies: Movie[] = [
       "Kishor Kadam",
       "Chhaya Kadam"
     ],
-    "description": "Jabya, a young Dalit teenager in a rural Maharashtra village, harbours an innocent affection for an upper-caste schoolmate while suffering systemic caste oppression.",
+    "description": "Fandry is an acclaimed Marathi Drama film helmed by visionary director Nagraj Manjule. Set against the distinctive cultural backdrop of Marathi Cinema, the story centers on compelling characters played with nuance by Somnath Avghade, Rajeshwari Kharat, Kishor Kadam, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Marathi cinema.",
     "runtime": 103,
     "imdbRating": 8,
     "poster": "/images/movies/fandry.jpg",
@@ -10827,7 +16942,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Nagraj Manjule.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Zee Studios",
+      "Essel Vision"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Somnath Avghade and Rajeshwari Kharat, and evocative direction that captures the genuine spirit of Marathi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Nagraj Manjule with an acclaimed ensemble cast.",
+      "Features celebrated performances by Somnath Avghade, Rajeshwari Kharat, Kishor Kadam.",
+      "Recognized as a landmark Drama title within the Marathi Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Fandry?",
+        "answer": "Fandry was directed by Nagraj Manjule and features prominent performances by Somnath Avghade, Rajeshwari Kharat, Kishor Kadam."
+      },
+      {
+        "question": "What genres does Fandry belong to?",
+        "answer": "Fandry is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Fandry?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Fandry in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "BjHsL-_KG30"
   },
   {
     "id": "218",
@@ -10848,7 +16991,7 @@ export const movies: Movie[] = [
       "Pushkar Lonarkar",
       "Nandita Patkar"
     ],
-    "description": "In the pilgrimage town of Pandharpur, two children devise ingenious small businesses during the Ashadhi Ekadashi fair to save their beloved heirloom bicycle from being sold.",
+    "description": "Elizabeth Ekadashi is an acclaimed Marathi Adventure and Children and Drama film helmed by visionary director Paresh Mokashi. Set against the distinctive cultural backdrop of Marathi Cinema, the story centers on compelling characters played with nuance by Shrirang Mahajan, Sayali Bhandarkavathekar, Pushkar Lonarkar, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Marathi cinema.",
     "runtime": 90,
     "imdbRating": 8.1,
     "poster": "/images/movies/elizabeth-ekadashi.jpg",
@@ -10866,7 +17009,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Adventure masterpiece from Paresh Mokashi.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Zee Studios",
+      "Essel Vision"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Shrirang Mahajan and Sayali Bhandarkavathekar, and evocative direction that captures the genuine spirit of Marathi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Paresh Mokashi with an acclaimed ensemble cast.",
+      "Features celebrated performances by Shrirang Mahajan, Sayali Bhandarkavathekar, Pushkar Lonarkar.",
+      "Recognized as a landmark Adventure title within the Marathi Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Elizabeth Ekadashi?",
+        "answer": "Elizabeth Ekadashi was directed by Paresh Mokashi and features prominent performances by Shrirang Mahajan, Sayali Bhandarkavathekar, Pushkar Lonarkar."
+      },
+      {
+        "question": "What genres does Elizabeth Ekadashi belong to?",
+        "answer": "Elizabeth Ekadashi is classified under Adventure, Children, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Elizabeth Ekadashi?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Elizabeth Ekadashi in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "mmEwW40ovnY"
   },
   {
     "id": "219",
@@ -10886,7 +17057,7 @@ export const movies: Movie[] = [
       "Shankar Mahadevan",
       "Amruta Khanvilkar"
     ],
-    "description": "A musical feud in a princely state between royal court singer Pandit Bhanu Shankar Shastri and envious classical maestro Khaan Saheb Aftab Hussain Bareliwale.",
+    "description": "Katyar Kaljat Ghusali is an acclaimed Marathi Drama and Music film helmed by visionary director Subodh Bhave. Set against the distinctive cultural backdrop of Marathi Cinema, the story centers on compelling characters played with nuance by Sachin Pilgaonkar, Subodh Bhave, Shankar Mahadevan, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Marathi cinema.",
     "runtime": 162,
     "imdbRating": 8.4,
     "poster": "/images/movies/katyar-kaljat-ghusali.jpg",
@@ -10912,7 +17083,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Subodh Bhave.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Zee Studios",
+      "Essel Vision"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Sachin Pilgaonkar and Subodh Bhave, and evocative direction that captures the genuine spirit of Marathi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Subodh Bhave with an acclaimed ensemble cast.",
+      "Features celebrated performances by Sachin Pilgaonkar, Subodh Bhave, Shankar Mahadevan.",
+      "Recognized as a landmark Drama title within the Marathi Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Katyar Kaljat Ghusali?",
+        "answer": "Katyar Kaljat Ghusali was directed by Subodh Bhave and features prominent performances by Sachin Pilgaonkar, Subodh Bhave, Shankar Mahadevan."
+      },
+      {
+        "question": "What genres does Katyar Kaljat Ghusali belong to?",
+        "answer": "Katyar Kaljat Ghusali is classified under Drama, Music, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Katyar Kaljat Ghusali?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Katyar Kaljat Ghusali in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "1iTazEogwiY"
   },
   {
     "id": "220",
@@ -10932,7 +17131,7 @@ export const movies: Movie[] = [
       "Geetanjali Kulkarni",
       "Yogesh Soman"
     ],
-    "description": "The historical biopic of Anandibai Gopalrao Joshi, who against immense orthodox hostility and illness became India's very first female physician in the 19th century.",
+    "description": "Anandi Gopal is an acclaimed Marathi Biography and Drama film helmed by visionary director Sameer Vidwans. Set against the distinctive cultural backdrop of Marathi Cinema, the story centers on compelling characters played with nuance by Bhagyashree Milind, Lalit Prabhakar, Geetanjali Kulkarni, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Marathi cinema.",
     "runtime": 135,
     "imdbRating": 8.3,
     "poster": "/images/movies/anandi-gopal.jpg",
@@ -10958,7 +17157,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Biography masterpiece from Sameer Vidwans.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Zee Studios",
+      "Essel Vision"
+    ],
+    "ageRating": "U",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Bhagyashree Milind and Lalit Prabhakar, and evocative direction that captures the genuine spirit of Marathi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Sameer Vidwans with an acclaimed ensemble cast.",
+      "Features celebrated performances by Bhagyashree Milind, Lalit Prabhakar, Geetanjali Kulkarni.",
+      "Recognized as a landmark Biography title within the Marathi Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Anandi Gopal?",
+        "answer": "Anandi Gopal was directed by Sameer Vidwans and features prominent performances by Bhagyashree Milind, Lalit Prabhakar, Geetanjali Kulkarni."
+      },
+      {
+        "question": "What genres does Anandi Gopal belong to?",
+        "answer": "Anandi Gopal is classified under Biography, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Anandi Gopal?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Anandi Gopal in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "mAS_hUTOJdY"
   },
   {
     "id": "221",
@@ -10979,7 +17206,7 @@ export const movies: Movie[] = [
       "Kshitee Jog",
       "Siddharth Chandekar"
     ],
-    "description": "Seven women from different backgrounds and age groups embark on a vacation tour to the United Kingdom, discovering freedom and their authentic selves.",
+    "description": "Jhimma is an acclaimed Marathi Comedy and Drama film helmed by visionary director Hemant Dhome. Set against the distinctive cultural backdrop of Marathi Cinema, the story centers on compelling characters played with nuance by Suhas Joshi, Nirmiti Sawant, Sonalee Kulkarni, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Marathi cinema.",
     "runtime": 131,
     "imdbRating": 7.5,
     "poster": "/images/movies/jhimma.jpg",
@@ -10997,7 +17224,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Hemant Dhome.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Zee Studios",
+      "Essel Vision"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Suhas Joshi and Nirmiti Sawant, and evocative direction that captures the genuine spirit of Marathi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Hemant Dhome with an acclaimed ensemble cast.",
+      "Features celebrated performances by Suhas Joshi, Nirmiti Sawant, Sonalee Kulkarni.",
+      "Recognized as a landmark Comedy title within the Marathi Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Jhimma?",
+        "answer": "Jhimma was directed by Hemant Dhome and features prominent performances by Suhas Joshi, Nirmiti Sawant, Sonalee Kulkarni."
+      },
+      {
+        "question": "What genres does Jhimma belong to?",
+        "answer": "Jhimma is classified under Comedy, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Jhimma?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Jhimma in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "L3hNlo7mVGw"
   },
   {
     "id": "222",
@@ -11018,7 +17273,7 @@ export const movies: Movie[] = [
       "Subodh Bhave",
       "Shivani Surve"
     ],
-    "description": "An unhappily married man and his dentist girlfriend hatch a seemingly flawless murder plot disguised as assisted suicide, only for unforeseen blunders to derail everything.",
+    "description": "Vaalvi is an acclaimed Marathi Comedy and Crime and Thriller film helmed by visionary director Paresh Mokashi. Set against the distinctive cultural backdrop of Marathi Cinema, the story centers on compelling characters played with nuance by Swapnil Joshi, Anita Date-Kelkar, Subodh Bhave, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Marathi cinema.",
     "runtime": 106,
     "imdbRating": 7.7,
     "poster": "/images/movies/vaalvi.jpg",
@@ -11052,7 +17307,35 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Comedy masterpiece from Paresh Mokashi.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Zee Studios",
+      "Essel Vision"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Swapnil Joshi and Anita Date-Kelkar, and evocative direction that captures the genuine spirit of Marathi cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Paresh Mokashi with an acclaimed ensemble cast.",
+      "Features celebrated performances by Swapnil Joshi, Anita Date-Kelkar, Subodh Bhave.",
+      "Recognized as a landmark Comedy title within the Marathi Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Vaalvi?",
+        "answer": "Vaalvi was directed by Paresh Mokashi and features prominent performances by Swapnil Joshi, Anita Date-Kelkar, Subodh Bhave."
+      },
+      {
+        "question": "What genres does Vaalvi belong to?",
+        "answer": "Vaalvi is classified under Comedy, Crime, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Vaalvi?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Vaalvi in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "hm0s7r3kRKw"
   },
   {
     "id": "223",
@@ -11071,7 +17354,7 @@ export const movies: Movie[] = [
       "Teo Yoo",
       "John Magaro"
     ],
-    "description": "Nora and Hae Sung, two deeply connected childhood friends, are separated when Nora's family emigrates from South Korea. Two decades later, they reunite in New York for one fateful week.",
+    "description": "Past Lives is an acclaimed English Drama and Romance film helmed by visionary director Celine Song. Set against the distinctive cultural backdrop of International Cinema, the story centers on compelling characters played with nuance by Greta Lee, Teo Yoo, John Magaro, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "runtime": 106,
     "imdbRating": 7.9,
     "poster": "/images/movies/past-lives.jpg",
@@ -11089,7 +17372,34 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Celine Song.",
+    "productionCountry": "United States",
+    "productionCompanies": [
+      "Independent Cinema Studios"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Greta Lee and Teo Yoo, and evocative direction that captures the genuine spirit of English cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Celine Song with an acclaimed ensemble cast.",
+      "Features celebrated performances by Greta Lee, Teo Yoo, John Magaro.",
+      "Recognized as a landmark Drama title within the International Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Past Lives?",
+        "answer": "Past Lives was directed by Celine Song and features prominent performances by Greta Lee, Teo Yoo, John Magaro."
+      },
+      {
+        "question": "What genres does Past Lives belong to?",
+        "answer": "Past Lives is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Past Lives?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Past Lives in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "kA244xewjcI"
   },
   {
     "id": "224",
@@ -11111,7 +17421,7 @@ export const movies: Movie[] = [
       "Milo Machado-Graner",
       "Antoine Reinartz"
     ],
-    "description": "A woman is put on trial for murder after her husband's suspicious fall from their secluded French Alps chalet, leaving their blind son as the sole witness.",
+    "description": "Anatomy of a Fall is an acclaimed French Crime and Drama and Mystery and Thriller film helmed by visionary director Justine Triet. Set against the distinctive cultural backdrop of International Cinema, the story centers on compelling characters played with nuance by Sandra Hüller, Swann Arlaud, Milo Machado-Graner, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern French cinema.",
     "runtime": 151,
     "imdbRating": 7.7,
     "poster": "/images/movies/anatomy-of-a-fall.jpg",
@@ -11137,7 +17447,34 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Crime masterpiece from Justine Triet.",
+    "productionCountry": "France",
+    "productionCompanies": [
+      "Independent Cinema Studios"
+    ],
+    "ageRating": "A",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Sandra Hüller and Swann Arlaud, and evocative direction that captures the genuine spirit of French cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Justine Triet with an acclaimed ensemble cast.",
+      "Features celebrated performances by Sandra Hüller, Swann Arlaud, Milo Machado-Graner.",
+      "Recognized as a landmark Crime title within the International Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Anatomy of a Fall?",
+        "answer": "Anatomy of a Fall was directed by Justine Triet and features prominent performances by Sandra Hüller, Swann Arlaud, Milo Machado-Graner."
+      },
+      {
+        "question": "What genres does Anatomy of a Fall belong to?",
+        "answer": "Anatomy of a Fall is classified under Crime, Drama, Mystery, Thriller, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Anatomy of a Fall?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Anatomy of a Fall in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "FUXawkH-ONM"
   },
   {
     "id": "225",
@@ -11156,7 +17493,7 @@ export const movies: Movie[] = [
       "Masaki Okada",
       "Reika Kirishima"
     ],
-    "description": "An aging theatre director grieving the sudden death of his wife directs an Uncle Vanya production in Hiroshima, bonding with his quiet young female chauffeur.",
+    "description": "Drive My Car is an acclaimed Japanese Drama film helmed by visionary director Ryusuke Hamaguchi. Set against the distinctive cultural backdrop of International Cinema, the story centers on compelling characters played with nuance by Hidetoshi Nishijima, Toko Miura, Masaki Okada, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Japanese cinema.",
     "runtime": 179,
     "imdbRating": 7.6,
     "poster": "/images/movies/drive-my-car.jpg",
@@ -11190,7 +17527,34 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Ryusuke Hamaguchi.",
+    "productionCountry": "Japan",
+    "productionCompanies": [
+      "Independent Cinema Studios"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Hidetoshi Nishijima and Toko Miura, and evocative direction that captures the genuine spirit of Japanese cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Ryusuke Hamaguchi with an acclaimed ensemble cast.",
+      "Features celebrated performances by Hidetoshi Nishijima, Toko Miura, Masaki Okada.",
+      "Recognized as a landmark Drama title within the International Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Drive My Car?",
+        "answer": "Drive My Car was directed by Ryusuke Hamaguchi and features prominent performances by Hidetoshi Nishijima, Toko Miura, Masaki Okada."
+      },
+      {
+        "question": "What genres does Drive My Car belong to?",
+        "answer": "Drive My Car is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Drive My Car?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Drive My Car in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "6BPKPb_RTwI"
   },
   {
     "id": "226",
@@ -11209,7 +17573,7 @@ export const movies: Movie[] = [
       "Manabendra Das",
       "Boloram Das"
     ],
-    "description": "In a flood-ravaged village in Assam, a resilient 10-year-old girl dreams of owning a real guitar and forming her own rock band with local village boys.",
+    "description": "Village Rockstars is an acclaimed Assamese Drama film helmed by visionary director Rima Das. Set against the distinctive cultural backdrop of Assamese Cinema, the story centers on compelling characters played with nuance by Bhanita Das, Basanti Das, Manabendra Das, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Assamese cinema.",
     "runtime": 87,
     "imdbRating": 7.3,
     "poster": "/images/movies/village-rockstars.jpg",
@@ -11218,7 +17582,34 @@ export const movies: Movie[] = [
     "sources": [
       "https://en.wikipedia.org/wiki/Village_Rockstars"
     ],
-    "watchOptions": []
+    "watchOptions": [],
+    "tagline": "Experience the acclaimed Drama masterpiece from Rima Das.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Independent Cinema Studios"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Bhanita Das and Basanti Das, and evocative direction that captures the genuine spirit of Assamese cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Rima Das with an acclaimed ensemble cast.",
+      "Features celebrated performances by Bhanita Das, Basanti Das, Manabendra Das.",
+      "Recognized as a landmark Drama title within the Assamese Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie Village Rockstars?",
+        "answer": "Village Rockstars was directed by Rima Das and features prominent performances by Bhanita Das, Basanti Das, Manabendra Das."
+      },
+      {
+        "question": "What genres does Village Rockstars belong to?",
+        "answer": "Village Rockstars is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch Village Rockstars?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Village Rockstars in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "tTov2nVgXaU"
   },
   {
     "id": "227",
@@ -11237,7 +17628,7 @@ export const movies: Movie[] = [
       "Dipanwit Dashmohapatra",
       "Manaswini Takri"
     ],
-    "description": "A newly graduated young doctor posted to an inaccessible tribal village in Odisha's Malkangiri district battles local superstitions and an endemic malaria crisis.",
+    "description": "DAMaN is an acclaimed Odia Adventure and Drama film helmed by visionary director Vishal Mourya. Set against the distinctive cultural backdrop of Odia Cinema, the story centers on compelling characters played with nuance by Babushaan Mohanty, Dipanwit Dashmohapatra, Manaswini Takri, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Odia cinema.",
     "runtime": 121,
     "imdbRating": 8.5,
     "poster": "/images/movies/daman-odia.jpg",
@@ -11246,7 +17637,34 @@ export const movies: Movie[] = [
     "sources": [
       "https://en.wikipedia.org/wiki/Daman_(film)"
     ],
-    "watchOptions": []
+    "watchOptions": [],
+    "tagline": "Experience the acclaimed Adventure masterpiece from Vishal Mourya.",
+    "productionCountry": "India",
+    "productionCompanies": [
+      "Independent Cinema Studios"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Babushaan Mohanty and Dipanwit Dashmohapatra, and evocative direction that captures the genuine spirit of Odia cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Vishal Mourya with an acclaimed ensemble cast.",
+      "Features celebrated performances by Babushaan Mohanty, Dipanwit Dashmohapatra, Manaswini Takri.",
+      "Recognized as a landmark Adventure title within the Odia Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie DAMaN?",
+        "answer": "DAMaN was directed by Vishal Mourya and features prominent performances by Babushaan Mohanty, Dipanwit Dashmohapatra, Manaswini Takri."
+      },
+      {
+        "question": "What genres does DAMaN belong to?",
+        "answer": "DAMaN is classified under Adventure, Drama, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch DAMaN?",
+        "answer": "You can discover verified subscription, rental, and streaming options for DAMaN in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "MOckS35r8yE"
   },
   {
     "id": "228",
@@ -11267,7 +17685,7 @@ export const movies: Movie[] = [
       "Johann Karthaus",
       "Luis Noah Witte"
     ],
-    "description": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig strive to build an idyllic dream life for their family in a house and garden directly adjacent to the camp.",
+    "description": "The Zone of Interest is an acclaimed German Drama and History and War film helmed by visionary director Jonathan Glazer. Set against the distinctive cultural backdrop of International Cinema, the story centers on compelling characters played with nuance by Christian Friedel, Sandra Hüller, Johann Karthaus, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern German cinema.",
     "runtime": 105,
     "imdbRating": 7.5,
     "poster": "/images/movies/the-zone-of-interest.jpg",
@@ -11293,6 +17711,33 @@ export const movies: Movie[] = [
         "verified": true,
         "lastVerified": "2026-11-12"
       }
-    ]
+    ],
+    "tagline": "Experience the acclaimed Drama masterpiece from Jonathan Glazer.",
+    "productionCountry": "Germany",
+    "productionCompanies": [
+      "Independent Cinema Studios"
+    ],
+    "ageRating": "UA",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Christian Friedel and Sandra Hüller, and evocative direction that captures the genuine spirit of German cinema.",
+    "highlights": [
+      "Directed by renowned filmmaker Jonathan Glazer with an acclaimed ensemble cast.",
+      "Features celebrated performances by Christian Friedel, Sandra Hüller, Johann Karthaus.",
+      "Recognized as a landmark Drama title within the International Cinema film canon."
+    ],
+    "faq": [
+      {
+        "question": "Who directed the movie The Zone of Interest?",
+        "answer": "The Zone of Interest was directed by Jonathan Glazer and features prominent performances by Christian Friedel, Sandra Hüller, Johann Karthaus."
+      },
+      {
+        "question": "What genres does The Zone of Interest belong to?",
+        "answer": "The Zone of Interest is classified under Drama, History, War, combining elements of authentic regional storytelling and emotional drama."
+      },
+      {
+        "question": "Where can I watch The Zone of Interest?",
+        "answer": "You can discover verified subscription, rental, and streaming options for The Zone of Interest in the Where to Watch section on Moviezui."
+      }
+    ],
+    "trailerYoutubeId": "r-vfg3KkV54"
   }
 ];
