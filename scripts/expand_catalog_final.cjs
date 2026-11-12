@@ -71,7 +71,7 @@ async function fetchAndSavePoster(wikiSlug, destPath) {
     await delay(1100);
     const summaryRes = await fetch(
       `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(wikiSlug)}`,
-      { headers: { 'User-Agent': 'MoviezuiApp/2.0 (contact@moviezui.com)' } }
+      { headers: { 'User-Agent': 'MoviezuiApp/2.0 (bestfoodvloggers@gmail.com)' } }
     );
     if (!summaryRes.ok) return false;
     const json = await summaryRes.json();
@@ -80,7 +80,7 @@ async function fetchAndSavePoster(wikiSlug, destPath) {
 
     await delay(1100);
     const imgRes = await fetch(imgUrl, {
-      headers: { 'User-Agent': 'MoviezuiApp/2.0 (contact@moviezui.com)' }
+      headers: { 'User-Agent': 'MoviezuiApp/2.0 (bestfoodvloggers@gmail.com)' }
     });
     if (!imgRes.ok) return false;
 

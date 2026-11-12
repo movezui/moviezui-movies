@@ -8,6 +8,12 @@ import Movies from "./pages/Movies";
 import MovieDetails from "./pages/MovieDetails";
 import Genres from "./pages/Genres";
 import About from "./pages/About";
+import Contact from "./pages/Contact";
+import PrivacyPolicy from "./pages/PrivacyPolicy";
+import Terms from "./pages/Terms";
+import Disclaimer from "./pages/Disclaimer";
+import CopyrightPolicy from "./pages/CopyrightPolicy";
+import CookiePolicy from "./pages/CookiePolicy";
 import NotFound from "./pages/NotFound";
 
 function ScrollToTop() {
@@ -33,6 +39,12 @@ function App() {
             <Route path="/movie/:slug" element={<MovieDetails />} />
             <Route path="/genres" element={<Genres />} />
             <Route path="/about" element={<About />} />
+            <Route path="/contact" element={<Contact />} />
+            <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+            <Route path="/terms" element={<Terms />} />
+            <Route path="/disclaimer" element={<Disclaimer />} />
+            <Route path="/copyright-policy" element={<CopyrightPolicy />} />
+            <Route path="/cookie-policy" element={<CookiePolicy />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </main>

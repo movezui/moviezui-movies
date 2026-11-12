@@ -1,10 +1,16 @@
 // src/pages/NotFound.tsx
 import { Link } from "react-router-dom";
 import { Film, Home, ArrowLeft } from "lucide-react";
+import SEO from "../components/common/SEO";
 
 export default function NotFound() {
   return (
     <div className="max-w-xl mx-auto px-4 py-24 text-center space-y-6">
+      <SEO
+        title="Page Not Found (404)"
+        description="The requested page could not be found on Moviezui. Explore our complete catalog of movies across languages and genres."
+        noindex={true}
+      />
       <div className="w-20 h-20 rounded-full bg-card border border-white/10 flex items-center justify-center mx-auto text-primary">
         <Film size={36} />
       </div>

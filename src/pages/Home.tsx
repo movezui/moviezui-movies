@@ -6,8 +6,12 @@ import MovieCard from "../components/movies/MovieCard";
 import SectionHeading from "../components/movies/SectionHeading";
 import { movies } from "../data/movies";
 import { genreDetails } from "../data/genres";
+import SEO from "../components/common/SEO";
+import { createOrganizationSchema, createWebSiteSchema } from "../utils/schema";
 
 export default function Home() {
+  const orgSchema = createOrganizationSchema();
+  const webSiteSchema = createWebSiteSchema();
   // Curate movie slices
   const featured = movies.filter((m) => m.featured).slice(0, 4);
 
@@ -31,6 +35,12 @@ export default function Home() {
 
   return (
     <div className="space-y-16 pb-12">
+      <SEO
+        title="Discover Movies From Around The World"
+        description="Explore 228+ movies across Hindi, English, Gujarati, Tamil, Telugu, Malayalam, Kannada, Punjabi, Bengali, Marathi and world cinema with verified Where to Watch streaming options."
+        canonicalPath="/"
+        schema={[orgSchema, webSiteSchema]}
+      />
       {/* Cinematic Hero Section */}
       <section className="relative min-h-[580px] md:min-h-[640px] flex items-center justify-center overflow-hidden border-b border-white/5">
         {/* Cinematic gradient & lighting overlay */}

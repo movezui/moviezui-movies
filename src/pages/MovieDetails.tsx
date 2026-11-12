@@ -17,6 +17,8 @@ import MovieCard from "../components/movies/MovieCard";
 import SectionHeading from "../components/movies/SectionHeading";
 import WhereToWatch from "../components/movies/WhereToWatch";
 import { movies } from "../data/movies";
+import SEO from "../components/common/SEO";
+import { createMovieSchema, createBreadcrumbSchema } from "../utils/schema";
 
 export default function MovieDetails() {
   const { slug } = useParams<{ slug: string }>();
@@ -52,8 +54,23 @@ export default function MovieDetails() {
     .filter((m) => m.id !== movie.id && m.genres.some((g) => movie.genres.includes(g)))
     .slice(0, 4);
 
+  const movieSchema = createMovieSchema(movie);
+  const breadcrumbSchema = createBreadcrumbSchema([
+    { name: "Home", path: "/" },
+    { name: "Movies", path: "/movies" },
+    { name: movie.title, path: `/movie/${movie.slug}` },
+  ]);
+
   return (
     <div className="space-y-12 sm:space-y-16 pb-16">
+      <SEO
+        title={`${movie.title} (${movie.releaseYear}) – Cast, Story, Details & Where to Watch`}
+        description={`Explore ${movie.title} (${movie.releaseYear}), directed by ${movie.director}, starring ${movie.cast.slice(0, 3).join(", ")}. Discover story summary, genre, and verified streaming platforms on Moviezui.`}
+        canonicalPath={`/movie/${movie.slug}`}
+        ogImage={movie.poster}
+        ogType="video.movie"
+        schema={[movieSchema, breadcrumbSchema]}
+      />
       {/* Top Banner & Breadcrumb */}
       <div className="relative pt-6 pb-2 border-b border-white/5 bg-backgroundSecondary/30">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -78,10 +95,13 @@ export default function MovieDetails() {
                 {!imgError ? (
                   <img
                     src={movie.poster}
-                    alt={`${movie.title} Poster`}
+                    alt={`${movie.title} (${movie.releaseYear}) Official Movie Poster`}
                     onError={() => setImgError(true)}
                     className="w-full h-full object-cover"
                     loading="eager"
+                    fetchPriority="high"
+                    width={400}
+                    height={600}
                   />
                 ) : (
                   <div className="w-full h-full flex flex-col items-center justify-center p-6 text-center bg-card">

@@ -23,8 +23,10 @@ export default function MovieCard({ movie }: MovieCardProps) {
           {!imgError ? (
             <img
               src={movie.poster}
-              alt={`${movie.title} Poster`}
+              alt={`${movie.title} (${movie.releaseYear}) Poster`}
               loading="lazy"
+              width={300}
+              height={450}
               onError={() => setImgError(true)}
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
             />

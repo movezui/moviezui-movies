@@ -4,6 +4,8 @@ import { ArrowRight, Compass, Filter } from "lucide-react";
 import MovieGrid from "../components/movies/MovieGrid";
 import { movies } from "../data/movies";
 import { genreDetails, genres } from "../data/genres";
+import SEO from "../components/common/SEO";
+import { createBreadcrumbSchema } from "../utils/schema";
 
 export default function Genres() {
   const [searchParams, setSearchParams] = useSearchParams();
@@ -21,8 +23,23 @@ export default function Genres() {
     ? movies.filter((m) => m.genres.includes(activeGenre))
     : [];
 
+  const breadcrumbSchema = createBreadcrumbSchema([
+    { name: "Home", path: "/" },
+    { name: "Genres", path: "/genres" },
+  ]);
+
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-10">
+      <SEO
+        title={activeGenre ? `${activeGenre} Movies – Discover Top ${activeGenre} Cinema` : "Browse Movies by Genre – Drama, Action, Comedy & More"}
+        description={
+          activeGenre
+            ? `Discover verified ${activeGenre} movies across languages and industries. Find plot summaries, cast lists, and Where to Watch streaming options.`
+            : "Explore 17+ film genres on Moviezui. Find movies in Drama, Comedy, Action, Thriller, Sci-Fi, Romance, Crime, and regional storytelling traditions."
+        }
+        canonicalPath="/genres"
+        schema={breadcrumbSchema}
+      />
       {/* Header */}
       <div className="border-b border-white/5 pb-6">
         <div className="flex items-center space-x-2">

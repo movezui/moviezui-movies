@@ -18,8 +18,10 @@ export default function FeaturedMovie({ movie }: FeaturedMovieProps) {
         {!imgError ? (
           <img
             src={movie.poster}
-            alt={movie.title}
+            alt={`${movie.title} (${movie.releaseYear}) Featured Film Poster`}
             loading="lazy"
+            width={300}
+            height={450}
             onError={() => setImgError(true)}
             className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
           />

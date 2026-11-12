@@ -1,0 +1,7 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+Disallow: /movies?*
+
+# Sitemaps
+Sitemap: https://moviezui.netlify.app/sitemap.xml

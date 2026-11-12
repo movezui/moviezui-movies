@@ -413,7 +413,7 @@ async function main() {
       try {
         await delay(1200);
         const res = await fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(item.wiki)}`, {
-          headers: { 'User-Agent': 'MoviezuiApp/2.0 (contact@moviezui.com)' }
+          headers: { 'User-Agent': 'MoviezuiApp/2.0 (bestfoodvloggers@gmail.com)' }
         });
         if (res.ok) {
           const json = await res.json();
@@ -421,7 +421,7 @@ async function main() {
           if (imgUrl) {
             await delay(1200);
             const imgRes = await fetch(imgUrl, {
-              headers: { 'User-Agent': 'MoviezuiApp/2.0 (contact@moviezui.com)' }
+              headers: { 'User-Agent': 'MoviezuiApp/2.0 (bestfoodvloggers@gmail.com)' }
             });
             if (imgRes.ok) {
               const buf = Buffer.from(await imgRes.arrayBuffer());

@@ -5,6 +5,8 @@ import { Search, Filter, X, ArrowUpDown, SlidersHorizontal, Film, Globe } from "
 import MovieGrid from "../components/movies/MovieGrid";
 import { movies } from "../data/movies";
 import { genres } from "../data/genres";
+import SEO from "../components/common/SEO";
+import { createBreadcrumbSchema } from "../utils/schema";
 
 export default function Movies() {
   const [searchParams, setSearchParams] = useSearchParams();
@@ -148,8 +150,19 @@ export default function Movies() {
     searchTerm || selectedLanguage || selectedGenre || selectedYear || (sortOption && sortOption !== "newest")
   );
 
+  const breadcrumbSchema = createBreadcrumbSchema([
+    { name: "Home", path: "/" },
+    { name: "All Movies", path: "/movies" },
+  ]);
+
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-8">
+      <SEO
+        title="All Movies – Browse Complete World Cinema Catalog"
+        description="Search, filter, and discover movies across Bollywood, Hollywood, Gujarati, South Indian, and regional cinema. Find verified Where to Watch streaming options."
+        canonicalPath="/movies"
+        schema={breadcrumbSchema}
+      />
       {/* Page Header */}
       <div className="flex flex-col md:flex-row md:items-end justify-between gap-4 border-b border-white/5 pb-6">
         <div>
