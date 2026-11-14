@@ -2,7 +2,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const SITE_URL = process.env.VITE_SITE_URL || "https://moviezui.netlify.app";
+const SITE_URL = process.env.VITE_SITE_URL || "https://moviezui.in";
 const DIST_DIR = path.join(__dirname, "../dist");
 const TEMPLATE_PATH = path.join(DIST_DIR, "index.html");
 

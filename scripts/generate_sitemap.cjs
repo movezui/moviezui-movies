@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 
 // Production canonical domain
-const SITE_URL = process.env.VITE_SITE_URL || "https://moviezui.netlify.app";
+const SITE_URL = process.env.VITE_SITE_URL || "https://moviezui.in";
 const TODAY = new Date().toISOString().split("T")[0]; // YYYY-MM-DD
 
 // Load movie data from movies.ts using regex to extract slugs

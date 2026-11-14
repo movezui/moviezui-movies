@@ -4,4 +4,4 @@ Allow: /
 Disallow: /movies?*
 
 # Sitemaps
-Sitemap: https://moviezui.netlify.app/sitemap.xml
+Sitemap: https://moviezui.in/sitemap.xml

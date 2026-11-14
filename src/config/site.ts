@@ -36,8 +36,8 @@ export const SITE_CONFIG: SiteConfig = {
   tagline: "Discover Movies From Around The World",
   description:
     "Moviezui is a premier global movie discovery platform helping cinema lovers explore films across languages, industries, and genres with authentic details and verified streaming options.",
-  // Production domain: defaults to https://moviezui.netlify.app, overridable with VITE_SITE_URL
-  siteUrl: (typeof import.meta !== "undefined" && import.meta.env?.VITE_SITE_URL) || "https://moviezui.netlify.app",
+  // Production domain: defaults to https://moviezui.in, overridable with VITE_SITE_URL
+  siteUrl: (typeof import.meta !== "undefined" && import.meta.env?.VITE_SITE_URL) || "https://moviezui.in",
   contact: {
     // Configurable email endpoints for contact forms, corrections, and inquiries
     email: "bestfoodvloggers@gmail.com",

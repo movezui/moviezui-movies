@@ -82,7 +82,7 @@ console.log("\n4. Verifying public/robots.txt:");
 assert(fs.existsSync("public/robots.txt"), "public/robots.txt exists");
 const robotsContent = fs.readFileSync("public/robots.txt", "utf-8");
 assert(robotsContent.includes("User-agent: *"), "robots.txt has User-agent: *");
-assert(robotsContent.includes("Sitemap: https://moviezui.netlify.app/sitemap.xml"), "robots.txt references canonical sitemap");
+assert(robotsContent.includes("Sitemap: https://moviezui.in/sitemap.xml"), "robots.txt references canonical sitemap");
 
 // 5. Verify Movie Details URLs in sitemap
 console.log("\n5. Verifying Movie Slugs in sitemap:");
@@ -98,7 +98,7 @@ assert(uniqueSlugs.length === 228, `All 228 movies accounted for (found ${unique
 
 let missingSlugs = 0;
 for (const slug of uniqueSlugs) {
-  if (!sitemapContent.includes(`https://moviezui.netlify.app/movie/${slug}`)) {
+  if (!sitemapContent.includes(`https://moviezui.in/movie/${slug}`)) {
     missingSlugs++;
   }
 }

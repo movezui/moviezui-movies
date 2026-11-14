@@ -69,7 +69,7 @@ export default function CopyrightPolicy() {
                 <strong className="text-white">Identification of Work:</strong> A clear description of the copyrighted work claimed to have been infringed (e.g. movie title, release year, producer).
               </li>
               <li>
-                <strong className="text-white">Specific URL(s):</strong> The exact URL on Moviezui where the allegedly infringing material appears (e.g. <code className="text-primary bg-backgroundSecondary px-1.5 py-0.5 rounded">https://moviezui.netlify.app/movie/your-film-slug</code>).
+                <strong className="text-white">Specific URL(s):</strong> The exact URL on Moviezui where the allegedly infringing material appears (e.g. <code className="text-primary bg-backgroundSecondary px-1.5 py-0.5 rounded">https://moviezui.in/movie/your-film-slug</code>).
               </li>
               <li>
                 <strong className="text-white">Contact Information:</strong> Your full name, company/studio name, mailing address, telephone number, and email address.

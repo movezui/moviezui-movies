@@ -1,1429 +1,1429 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://moviezui.netlify.app/</loc>
+    <loc>https://moviezui.in/</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movies</loc>
+    <loc>https://moviezui.in/movies</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/genres</loc>
+    <loc>https://moviezui.in/genres</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/about</loc>
-    <lastmod>2026-11-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://moviezui.netlify.app/contact</loc>
+    <loc>https://moviezui.in/about</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/privacy-policy</loc>
+    <loc>https://moviezui.in/contact</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://moviezui.in/privacy-policy</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/terms</loc>
+    <loc>https://moviezui.in/terms</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/disclaimer</loc>
+    <loc>https://moviezui.in/disclaimer</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/cookie-policy</loc>
+    <loc>https://moviezui.in/cookie-policy</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/copyright-policy</loc>
+    <loc>https://moviezui.in/copyright-policy</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/hellaro</loc>
+    <loc>https://moviezui.in/movie/hellaro</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/chhello-divas</loc>
+    <loc>https://moviezui.in/movie/chhello-divas</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/bey-yaar</loc>
+    <loc>https://moviezui.in/movie/bey-yaar</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/chaal-jeevi-laiye</loc>
+    <loc>https://moviezui.in/movie/chaal-jeevi-laiye</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/reva</loc>
+    <loc>https://moviezui.in/movie/reva</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/wrong-side-raju</loc>
+    <loc>https://moviezui.in/movie/wrong-side-raju</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/love-ni-bhavai</loc>
+    <loc>https://moviezui.in/movie/love-ni-bhavai</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/kevi-rite-jaish</loc>
+    <loc>https://moviezui.in/movie/kevi-rite-jaish</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/shu-thayu</loc>
+    <loc>https://moviezui.in/movie/shu-thayu</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/gujjubhai-the-great</loc>
+    <loc>https://moviezui.in/movie/gujjubhai-the-great</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/dhh</loc>
+    <loc>https://moviezui.in/movie/dhh</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/chhello-show</loc>
+    <loc>https://moviezui.in/movie/chhello-show</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/vash</loc>
+    <loc>https://moviezui.in/movie/vash</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/kasoombo</loc>
+    <loc>https://moviezui.in/movie/kasoombo</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/jhamkudi</loc>
+    <loc>https://moviezui.in/movie/jhamkudi</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/3-ekka</loc>
+    <loc>https://moviezui.in/movie/3-ekka</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/fakt-mahilao-maate</loc>
+    <loc>https://moviezui.in/movie/fakt-mahilao-maate</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/kutch-express</loc>
+    <loc>https://moviezui.in/movie/kutch-express</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/laalo</loc>
+    <loc>https://moviezui.in/movie/laalo</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/umbarro</loc>
+    <loc>https://moviezui.in/movie/umbarro</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/3-idiots</loc>
+    <loc>https://moviezui.in/movie/3-idiots</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/dangal</loc>
+    <loc>https://moviezui.in/movie/dangal</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/lagaan</loc>
+    <loc>https://moviezui.in/movie/lagaan</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/taare-zameen-par</loc>
+    <loc>https://moviezui.in/movie/taare-zameen-par</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/sholay</loc>
+    <loc>https://moviezui.in/movie/sholay</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/ddlj</loc>
+    <loc>https://moviezui.in/movie/ddlj</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/swades</loc>
+    <loc>https://moviezui.in/movie/swades</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/gangs-of-wasseypur</loc>
+    <loc>https://moviezui.in/movie/gangs-of-wasseypur</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/queen</loc>
+    <loc>https://moviezui.in/movie/queen</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/andhadhun</loc>
+    <loc>https://moviezui.in/movie/andhadhun</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/znmd</loc>
+    <loc>https://moviezui.in/movie/znmd</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/barfi</loc>
+    <loc>https://moviezui.in/movie/barfi</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/tumbbad</loc>
+    <loc>https://moviezui.in/movie/tumbbad</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/piku</loc>
+    <loc>https://moviezui.in/movie/piku</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/bajrangi-bhaijaan</loc>
+    <loc>https://moviezui.in/movie/bajrangi-bhaijaan</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/chak-de-india</loc>
+    <loc>https://moviezui.in/movie/chak-de-india</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/pk</loc>
+    <loc>https://moviezui.in/movie/pk</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/stree</loc>
+    <loc>https://moviezui.in/movie/stree</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/12th-fail</loc>
+    <loc>https://moviezui.in/movie/12th-fail</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/drishyam-hindi</loc>
+    <loc>https://moviezui.in/movie/drishyam-hindi</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/shawshank-redemption</loc>
+    <loc>https://moviezui.in/movie/shawshank-redemption</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/godfather</loc>
+    <loc>https://moviezui.in/movie/godfather</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/the-dark-knight</loc>
+    <loc>https://moviezui.in/movie/the-dark-knight</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/inception</loc>
+    <loc>https://moviezui.in/movie/inception</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/interstellar</loc>
+    <loc>https://moviezui.in/movie/interstellar</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/pulp-fiction</loc>
+    <loc>https://moviezui.in/movie/pulp-fiction</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/forrest-gump</loc>
+    <loc>https://moviezui.in/movie/forrest-gump</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/the-matrix</loc>
+    <loc>https://moviezui.in/movie/the-matrix</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/gladiator</loc>
+    <loc>https://moviezui.in/movie/gladiator</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/titanic</loc>
+    <loc>https://moviezui.in/movie/titanic</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/oppenheimer</loc>
+    <loc>https://moviezui.in/movie/oppenheimer</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/avengers-endgame</loc>
+    <loc>https://moviezui.in/movie/avengers-endgame</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/jurassic-park</loc>
+    <loc>https://moviezui.in/movie/jurassic-park</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/fight-club</loc>
+    <loc>https://moviezui.in/movie/fight-club</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/lotr-return-of-the-king</loc>
+    <loc>https://moviezui.in/movie/lotr-return-of-the-king</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/the-prestige</loc>
+    <loc>https://moviezui.in/movie/the-prestige</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/whiplash</loc>
+    <loc>https://moviezui.in/movie/whiplash</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/dune-part-two</loc>
+    <loc>https://moviezui.in/movie/dune-part-two</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/spider-man-spider-verse</loc>
+    <loc>https://moviezui.in/movie/spider-man-spider-verse</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/casablanca</loc>
+    <loc>https://moviezui.in/movie/casablanca</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/nayakan</loc>
+    <loc>https://moviezui.in/movie/nayakan</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/anbe-sivam</loc>
+    <loc>https://moviezui.in/movie/anbe-sivam</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/vikram-vedha</loc>
+    <loc>https://moviezui.in/movie/vikram-vedha</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/super-deluxe</loc>
+    <loc>https://moviezui.in/movie/super-deluxe</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/asuran</loc>
+    <loc>https://moviezui.in/movie/asuran</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/soorarai-pottru</loc>
+    <loc>https://moviezui.in/movie/soorarai-pottru</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/jai-bhim</loc>
+    <loc>https://moviezui.in/movie/jai-bhim</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/vikram</loc>
+    <loc>https://moviezui.in/movie/vikram</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/kaithi</loc>
+    <loc>https://moviezui.in/movie/kaithi</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/96-tamil</loc>
+    <loc>https://moviezui.in/movie/96-tamil</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/ponniyin-selvan-1</loc>
+    <loc>https://moviezui.in/movie/ponniyin-selvan-1</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/leo-tamil</loc>
+    <loc>https://moviezui.in/movie/leo-tamil</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/rrr</loc>
+    <loc>https://moviezui.in/movie/rrr</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/baahubali-1</loc>
+    <loc>https://moviezui.in/movie/baahubali-1</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/baahubali-2</loc>
+    <loc>https://moviezui.in/movie/baahubali-2</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/jersey-telugu</loc>
+    <loc>https://moviezui.in/movie/jersey-telugu</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/mahanati</loc>
+    <loc>https://moviezui.in/movie/mahanati</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/c-o-kancharapalem</loc>
+    <loc>https://moviezui.in/movie/c-o-kancharapalem</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/pushpa-the-rise</loc>
+    <loc>https://moviezui.in/movie/pushpa-the-rise</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/eega</loc>
+    <loc>https://moviezui.in/movie/eega</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/sita-ramam</loc>
+    <loc>https://moviezui.in/movie/sita-ramam</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/kalki-2898-ad</loc>
+    <loc>https://moviezui.in/movie/kalki-2898-ad</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/magadheera</loc>
+    <loc>https://moviezui.in/movie/magadheera</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/arjun-reddy</loc>
+    <loc>https://moviezui.in/movie/arjun-reddy</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/drishyam-malayalam</loc>
+    <loc>https://moviezui.in/movie/drishyam-malayalam</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/kumbalangi-nights</loc>
+    <loc>https://moviezui.in/movie/kumbalangi-nights</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/premam</loc>
+    <loc>https://moviezui.in/movie/premam</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/bangalore-days</loc>
+    <loc>https://moviezui.in/movie/bangalore-days</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/manjummel-boys</loc>
+    <loc>https://moviezui.in/movie/manjummel-boys</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/aavesham</loc>
+    <loc>https://moviezui.in/movie/aavesham</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/the-great-indian-kitchen</loc>
+    <loc>https://moviezui.in/movie/the-great-indian-kitchen</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/lucifer-malayalam</loc>
+    <loc>https://moviezui.in/movie/lucifer-malayalam</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/bramayugam</loc>
+    <loc>https://moviezui.in/movie/bramayugam</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/minnal-murali</loc>
+    <loc>https://moviezui.in/movie/minnal-murali</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/ustad-hotel</loc>
+    <loc>https://moviezui.in/movie/ustad-hotel</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/joji</loc>
+    <loc>https://moviezui.in/movie/joji</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/kgf-chapter-1</loc>
+    <loc>https://moviezui.in/movie/kgf-chapter-1</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/kgf-chapter-2</loc>
+    <loc>https://moviezui.in/movie/kgf-chapter-2</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/kantara</loc>
+    <loc>https://moviezui.in/movie/kantara</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/777-charlie</loc>
+    <loc>https://moviezui.in/movie/777-charlie</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/ulidavaru-kandanthe</loc>
+    <loc>https://moviezui.in/movie/ulidavaru-kandanthe</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/lucia</loc>
+    <loc>https://moviezui.in/movie/lucia</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/kirik-party</loc>
+    <loc>https://moviezui.in/movie/kirik-party</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/gandhadagudi</loc>
+    <loc>https://moviezui.in/movie/gandhadagudi</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/carry-on-jatta</loc>
+    <loc>https://moviezui.in/movie/carry-on-jatta</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/qismat</loc>
+    <loc>https://moviezui.in/movie/qismat</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/angrej</loc>
+    <loc>https://moviezui.in/movie/angrej</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/jatt-and-juliet</loc>
+    <loc>https://moviezui.in/movie/jatt-and-juliet</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/ardaas</loc>
+    <loc>https://moviezui.in/movie/ardaas</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/chaar-sahibzaade</loc>
+    <loc>https://moviezui.in/movie/chaar-sahibzaade</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/pather-panchali</loc>
+    <loc>https://moviezui.in/movie/pather-panchali</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/charulata</loc>
+    <loc>https://moviezui.in/movie/charulata</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/baishe-srabon</loc>
+    <loc>https://moviezui.in/movie/baishe-srabon</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/bhooter-bhabishyat</loc>
+    <loc>https://moviezui.in/movie/bhooter-bhabishyat</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/belaseshe</loc>
+    <loc>https://moviezui.in/movie/belaseshe</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/nagarkirtan</loc>
+    <loc>https://moviezui.in/movie/nagarkirtan</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/sairat</loc>
+    <loc>https://moviezui.in/movie/sairat</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/court-marathi</loc>
+    <loc>https://moviezui.in/movie/court-marathi</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/natsamrat</loc>
+    <loc>https://moviezui.in/movie/natsamrat</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/killa</loc>
+    <loc>https://moviezui.in/movie/killa</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/harishchandrachi-factory</loc>
+    <loc>https://moviezui.in/movie/harishchandrachi-factory</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/baaplyok</loc>
+    <loc>https://moviezui.in/movie/baaplyok</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/sharato-lagu</loc>
+    <loc>https://moviezui.in/movie/sharato-lagu</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/golkeri</loc>
+    <loc>https://moviezui.in/movie/golkeri</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/gujjubhai-most-wanted</loc>
+    <loc>https://moviezui.in/movie/gujjubhai-most-wanted</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/duniyadari-gujarati</loc>
+    <loc>https://moviezui.in/movie/duniyadari-gujarati</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/tamburo</loc>
+    <loc>https://moviezui.in/movie/tamburo</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/chor-bani-thangaat-kare</loc>
+    <loc>https://moviezui.in/movie/chor-bani-thangaat-kare</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/oxygen-gujarati</loc>
+    <loc>https://moviezui.in/movie/oxygen-gujarati</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/ventilator-gujarati</loc>
+    <loc>https://moviezui.in/movie/ventilator-gujarati</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/montu-ni-bittu</loc>
+    <loc>https://moviezui.in/movie/montu-ni-bittu</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/lakiro</loc>
+    <loc>https://moviezui.in/movie/lakiro</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/article-15</loc>
+    <loc>https://moviezui.in/movie/article-15</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/badhaai-ho</loc>
+    <loc>https://moviezui.in/movie/badhaai-ho</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/haider</loc>
+    <loc>https://moviezui.in/movie/haider</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/kahaani</loc>
+    <loc>https://moviezui.in/movie/kahaani</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/gully-boy</loc>
+    <loc>https://moviezui.in/movie/gully-boy</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/masaan</loc>
+    <loc>https://moviezui.in/movie/masaan</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/udaan</loc>
+    <loc>https://moviezui.in/movie/udaan</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/bhaag-milkha-bhaag</loc>
+    <loc>https://moviezui.in/movie/bhaag-milkha-bhaag</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/jab-we-met</loc>
+    <loc>https://moviezui.in/movie/jab-we-met</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/rockstar</loc>
+    <loc>https://moviezui.in/movie/rockstar</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/sardar-udham</loc>
+    <loc>https://moviezui.in/movie/sardar-udham</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/special-26</loc>
+    <loc>https://moviezui.in/movie/special-26</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/a-wednesday</loc>
+    <loc>https://moviezui.in/movie/a-wednesday</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/laila-majnu</loc>
+    <loc>https://moviezui.in/movie/laila-majnu</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/the-wolf-of-wall-street</loc>
+    <loc>https://moviezui.in/movie/the-wolf-of-wall-street</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/goodfellas</loc>
+    <loc>https://moviezui.in/movie/goodfellas</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/schindlers-list</loc>
+    <loc>https://moviezui.in/movie/schindlers-list</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/spirited-away</loc>
+    <loc>https://moviezui.in/movie/spirited-away</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/the-silence-of-the-lambs</loc>
+    <loc>https://moviezui.in/movie/the-silence-of-the-lambs</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/saving-private-ryan</loc>
+    <loc>https://moviezui.in/movie/saving-private-ryan</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/se7en</loc>
+    <loc>https://moviezui.in/movie/se7en</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/spider-man-across-the-spider-verse</loc>
+    <loc>https://moviezui.in/movie/spider-man-across-the-spider-verse</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/the-grand-budapest-hotel</loc>
+    <loc>https://moviezui.in/movie/the-grand-budapest-hotel</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/la-la-land</loc>
+    <loc>https://moviezui.in/movie/la-la-land</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/no-country-for-old-men</loc>
+    <loc>https://moviezui.in/movie/no-country-for-old-men</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/mad-max-fury-road</loc>
+    <loc>https://moviezui.in/movie/mad-max-fury-road</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/coco</loc>
+    <loc>https://moviezui.in/movie/coco</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/parasite</loc>
+    <loc>https://moviezui.in/movie/parasite</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/thani-oruvan</loc>
+    <loc>https://moviezui.in/movie/thani-oruvan</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/mankatha</loc>
+    <loc>https://moviezui.in/movie/mankatha</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/vada-chennai</loc>
+    <loc>https://moviezui.in/movie/vada-chennai</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/pariyerum-perumal</loc>
+    <loc>https://moviezui.in/movie/pariyerum-perumal</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/karnan</loc>
+    <loc>https://moviezui.in/movie/karnan</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/master-tamil</loc>
+    <loc>https://moviezui.in/movie/master-tamil</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/ratsasan</loc>
+    <loc>https://moviezui.in/movie/ratsasan</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/jigarthanda</loc>
+    <loc>https://moviezui.in/movie/jigarthanda</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/gargi</loc>
+    <loc>https://moviezui.in/movie/gargi</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/viduthalai-part-1</loc>
+    <loc>https://moviezui.in/movie/viduthalai-part-1</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/rangasthalam</loc>
+    <loc>https://moviezui.in/movie/rangasthalam</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/ala-vaikunthapurramuloo</loc>
+    <loc>https://moviezui.in/movie/ala-vaikunthapurramuloo</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/vedam</loc>
+    <loc>https://moviezui.in/movie/vedam</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/agent-sai-srinivasa-athreya</loc>
+    <loc>https://moviezui.in/movie/agent-sai-srinivasa-athreya</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/brochevarevarura</loc>
+    <loc>https://moviezui.in/movie/brochevarevarura</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/mathu-vadalara</loc>
+    <loc>https://moviezui.in/movie/mathu-vadalara</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/evaru</loc>
+    <loc>https://moviezui.in/movie/evaru</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/major-telugu</loc>
+    <loc>https://moviezui.in/movie/major-telugu</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/hanu-man</loc>
+    <loc>https://moviezui.in/movie/hanu-man</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/balagam</loc>
+    <loc>https://moviezui.in/movie/balagam</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/premalu</loc>
+    <loc>https://moviezui.in/movie/premalu</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/neru</loc>
+    <loc>https://moviezui.in/movie/neru</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/kaathal-the-core</loc>
+    <loc>https://moviezui.in/movie/kaathal-the-core</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/kishkindha-kaandam</loc>
+    <loc>https://moviezui.in/movie/kishkindha-kaandam</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/thondimuthalum-driksakshiyum</loc>
+    <loc>https://moviezui.in/movie/thondimuthalum-driksakshiyum</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/maheshinte-prathikaaram</loc>
+    <loc>https://moviezui.in/movie/maheshinte-prathikaaram</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/virus-malayalam</loc>
+    <loc>https://moviezui.in/movie/virus-malayalam</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/take-off-malayalam</loc>
+    <loc>https://moviezui.in/movie/take-off-malayalam</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/iratta</loc>
+    <loc>https://moviezui.in/movie/iratta</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/romancham</loc>
+    <loc>https://moviezui.in/movie/romancham</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/sapta-saagaradaache-ello-side-a</loc>
+    <loc>https://moviezui.in/movie/sapta-saagaradaache-ello-side-a</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/sapta-saagaradaache-ello-side-b</loc>
+    <loc>https://moviezui.in/movie/sapta-saagaradaache-ello-side-b</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/garuda-gamana-vrishabha-vahana</loc>
+    <loc>https://moviezui.in/movie/garuda-gamana-vrishabha-vahana</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/tagaru</loc>
+    <loc>https://moviezui.in/movie/tagaru</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/dia-kannada</loc>
+    <loc>https://moviezui.in/movie/dia-kannada</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/kavaludaari</loc>
+    <loc>https://moviezui.in/movie/kavaludaari</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/bell-bottom-kannada</loc>
+    <loc>https://moviezui.in/movie/bell-bottom-kannada</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/daredevil-musthafa</loc>
+    <loc>https://moviezui.in/movie/daredevil-musthafa</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/sufna</loc>
+    <loc>https://moviezui.in/movie/sufna</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/kali-jotta</loc>
+    <loc>https://moviezui.in/movie/kali-jotta</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/bambukat</loc>
+    <loc>https://moviezui.in/movie/bambukat</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/rabb-da-radio</loc>
+    <loc>https://moviezui.in/movie/rabb-da-radio</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/nikka-zaildar</loc>
+    <loc>https://moviezui.in/movie/nikka-zaildar</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/warning-punjabi</loc>
+    <loc>https://moviezui.in/movie/warning-punjabi</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/jodi</loc>
+    <loc>https://moviezui.in/movie/jodi</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/chal-mera-putt</loc>
+    <loc>https://moviezui.in/movie/chal-mera-putt</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/apur-sansar</loc>
+    <loc>https://moviezui.in/movie/apur-sansar</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/aparajito</loc>
+    <loc>https://moviezui.in/movie/aparajito</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/jaatishwar</loc>
+    <loc>https://moviezui.in/movie/jaatishwar</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/chotushkone</loc>
+    <loc>https://moviezui.in/movie/chotushkone</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/ballabhpurer-roopkotha</loc>
+    <loc>https://moviezui.in/movie/ballabhpurer-roopkotha</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/dostojee</loc>
+    <loc>https://moviezui.in/movie/dostojee</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/aparajito-2022</loc>
+    <loc>https://moviezui.in/movie/aparajito-2022</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/goynar-baksho</loc>
+    <loc>https://moviezui.in/movie/goynar-baksho</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/natrang</loc>
+    <loc>https://moviezui.in/movie/natrang</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/kaksparsh</loc>
+    <loc>https://moviezui.in/movie/kaksparsh</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/fandry</loc>
+    <loc>https://moviezui.in/movie/fandry</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/elizabeth-ekadashi</loc>
+    <loc>https://moviezui.in/movie/elizabeth-ekadashi</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/katyar-kaljat-ghusali</loc>
+    <loc>https://moviezui.in/movie/katyar-kaljat-ghusali</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/anandi-gopal</loc>
+    <loc>https://moviezui.in/movie/anandi-gopal</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/jhimma</loc>
+    <loc>https://moviezui.in/movie/jhimma</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/vaalvi</loc>
+    <loc>https://moviezui.in/movie/vaalvi</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/past-lives</loc>
+    <loc>https://moviezui.in/movie/past-lives</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/anatomy-of-a-fall</loc>
+    <loc>https://moviezui.in/movie/anatomy-of-a-fall</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/drive-my-car</loc>
+    <loc>https://moviezui.in/movie/drive-my-car</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/village-rockstars</loc>
+    <loc>https://moviezui.in/movie/village-rockstars</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/daman-odia</loc>
+    <loc>https://moviezui.in/movie/daman-odia</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moviezui.netlify.app/movie/the-zone-of-interest</loc>
+    <loc>https://moviezui.in/movie/the-zone-of-interest</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
