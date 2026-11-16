@@ -1,4 +1,4 @@
-// src/data/movies.ts
+﻿// src/data/movies.ts
 import type { Movie } from "../types/movie";
 
 /**
@@ -27,7 +27,7 @@ export const movies: Movie[] = [
       "Niilam Paanchal",
       "Maulik Nayak"
     ],
-    "description": "Set in the arid salt flats of rural Kutch, Gujarat, in 1975, Hellaro captures the poignant lives of a group of village women burdened by stifling patriarchal customs and the silence of an enduring drought. Every day, they walk miles to fetch water—their only fleeting refuge from rigid domestic control. Their world changes irrevocably when they cross paths with an injured, wandering dhol player whom they nurse back to health. In gratitude, he strikes his drum, unleashing a dormant rhythm within the women that explodes into ecstatic Garba dancing under the desert sky. What begins as a secretive act of joyful defiance gradually transforms into an exhilarating journey of sisterhood, self-discovery, and communal liberation, celebrating the resilient human spirit against archaic traditions.",
+    "description": "Set in the arid salt flats of rural Kutch, Gujarat, in 1975, Hellaro captures the poignant lives of a group of village women burdened by stifling patriarchal customs and the silence of an enduring drought. Every day, they walk miles to fetch waterâ€”their only fleeting refuge from rigid domestic control. Their world changes irrevocably when they cross paths with an injured, wandering dhol player whom they nurse back to health. In gratitude, he strikes his drum, unleashing a dormant rhythm within the women that explodes into ecstatic Garba dancing under the desert sky. What begins as a secretive act of joyful defiance gradually transforms into an exhilarating journey of sisterhood, self-discovery, and communal liberation, celebrating the resilient human spirit against archaic traditions.",
     "poster": "/images/movies/hellaro.jpg",
     "imdbRating": 8.5,
     "runtime": 121,
@@ -47,7 +47,7 @@ export const movies: Movie[] = [
       }
     ],
     "tagline": "Their rhythm. Their defiance. Their liberation.",
-    "originalTitle": "હેલ્લારો",
+    "originalTitle": "àª¹à«‡àª²à«àª²àª¾àª°à«‹",
     "releaseDate": "8 November 2019",
     "writers": [
       "Abhishek Shah",
@@ -60,8 +60,8 @@ export const movies: Movie[] = [
       "Harfanmaula Films"
     ],
     "ageRating": "U",
-    "budget": "₹5 Crore",
-    "boxOffice": "₹16 Crore",
+    "budget": "â‚¹5 Crore",
+    "boxOffice": "â‚¹16 Crore",
     "awards": [
       "66th National Film Award for Best Feature Film",
       "Special Jury Award for Actresses"
@@ -104,7 +104,7 @@ export const movies: Movie[] = [
       "Kinjal Rajpriya",
       "Janki Bodiwala"
     ],
-    "description": "Chhello Divas: A New Beginning is a generational comedy landmark in modern Gujarati cinema that chronicles the vibrant, chaotic, and heartwarming escapades of eight college friends as they navigate their final semester. Centered on the inseparable trio of Vicky, Loy, and Nikhil alongside their close circle of companions, the narrative captures the pure essence of student life—from hilarious classroom misadventures, canteen arguments, and clumsy romantic pursuits to the looming dread of campus exams. As graduation approaches, the carefree banter gives way to bittersweet reflections on the inevitable transition into adulthood. With unmatched comedic timing and iconic dialogues that entered Gujarati pop culture, the film remains a beloved benchmark for youthful camaraderie and timeless nostalgia.",
+    "description": "Chhello Divas: A New Beginning is a generational comedy landmark in modern Gujarati cinema that chronicles the vibrant, chaotic, and heartwarming escapades of eight college friends as they navigate their final semester. Centered on the inseparable trio of Vicky, Loy, and Nikhil alongside their close circle of companions, the narrative captures the pure essence of student lifeâ€”from hilarious classroom misadventures, canteen arguments, and clumsy romantic pursuits to the looming dread of campus exams. As graduation approaches, the carefree banter gives way to bittersweet reflections on the inevitable transition into adulthood. With unmatched comedic timing and iconic dialogues that entered Gujarati pop culture, the film remains a beloved benchmark for youthful camaraderie and timeless nostalgia.",
     "poster": "/images/movies/chhello-divas.jpg",
     "imdbRating": 8.1,
     "runtime": 138,
@@ -124,7 +124,7 @@ export const movies: Movie[] = [
       }
     ],
     "tagline": "College ends, but friendships last forever.",
-    "originalTitle": "છેલ્લો દિવસ",
+    "originalTitle": "àª›à«‡àª²à«àª²à«‹ àª¦àª¿àªµàª¸",
     "releaseDate": "20 November 2015",
     "writers": [
       "Krishnadev Yagnik"
@@ -134,8 +134,8 @@ export const movies: Movie[] = [
       "Belvedere Films"
     ],
     "ageRating": "UA",
-    "budget": "₹2 Crore",
-    "boxOffice": "₹18 Crore",
+    "budget": "â‚¹2 Crore",
+    "boxOffice": "â‚¹18 Crore",
     "worthWatching": "The undisputed watershed comedy that revitalized modern Gujarati urban cinema and launched the careers of its entire ensemble cast.",
     "highlights": [
       "Widely credited with initiating the modern urban revival of the Gujarati film industry in 2015.",
@@ -152,7 +152,13 @@ export const movies: Movie[] = [
         "answer": "The film is certified UA in India and features clean situational campus humor suitable for young adults and families."
       }
     ],
-    "trailerYoutubeId": "p__H9sbuS8g"
+    "trailerYoutubeId": "p__H9sbuS8g",
+    "youtubeFullMovie": {
+      "videoId": "rJHsafM32Bk",
+      "channelName": "Shemaroo Gujarati Manoranjan",
+      "channelUrl": "https://www.youtube.com/@shemaroogujaratimanoranjan1",
+      "rightsEvidenceUrl": "https://pro.shemaroome.com/movies/chhello-divas-a-new-beginning"
+    }
   },
   {
     "id": "3",
@@ -217,7 +223,7 @@ export const movies: Movie[] = [
       }
     ],
     "tagline": "Pride, friendship, and the audacity to redeem what was stolen.",
-    "originalTitle": "બે યાર",
+    "originalTitle": "àª¬à«‡ àª¯àª¾àª°",
     "releaseDate": "29 August 2014",
     "writers": [
       "Bhavesh Mandalia",
@@ -228,8 +234,8 @@ export const movies: Movie[] = [
       "CineMan Productions"
     ],
     "ageRating": "U",
-    "budget": "₹2.25 Crore",
-    "boxOffice": "₹8.5 Crore",
+    "budget": "â‚¹2.25 Crore",
+    "boxOffice": "â‚¹8.5 Crore",
     "worthWatching": "A warm, witty, and masterfully paced buddy comedy-drama with extraordinary emotional heart, directed by Abhishek Jain.",
     "highlights": [
       "Screened at the prestigious New York Indian Film Festival in 2015 to critical acclaim.",
@@ -497,7 +503,10 @@ export const movies: Movie[] = [
     "featured": false,
     "addedAt": "2026-11-02T10:30:00Z",
     "sources": [
-      "https://en.wikipedia.org/wiki/Love_Ni_Bhavai"
+      "https://en.wikipedia.org/wiki/Love_Ni_Bhavai",
+      "https://www.youtube.com/watch?v=OhNuXFn9Tu0",
+      "https://www.youtube.com/@aksharcommunications/about",
+      "https://www.primevideo.com/detail/0OIWGFTQUKL4213TW3D56W69QI"
     ],
     "watchOptions": [
       {
@@ -552,7 +561,13 @@ export const movies: Movie[] = [
         "answer": "You can discover verified subscription, rental, and streaming options for Love Ni Bhavai in the Where to Watch section on Moviezui."
       }
     ],
-    "trailerYoutubeId": "OlsM8Nwb6nA"
+    "trailerYoutubeId": "OlsM8Nwb6nA",
+    "youtubeFullMovie": {
+      "videoId": "OhNuXFn9Tu0",
+      "channelName": "Akshar Communications",
+      "channelUrl": "https://www.youtube.com/@aksharcommunications",
+      "rightsEvidenceUrl": "https://www.primevideo.com/detail/0OIWGFTQUKL4213TW3D56W69QI"
+    }
   },
   {
     "id": "8",
@@ -760,7 +775,13 @@ export const movies: Movie[] = [
         "answer": "You can discover verified subscription, rental, and streaming options for Gujjubhai The Great in the Where to Watch section on Moviezui."
       }
     ],
-    "trailerYoutubeId": "2wlo37p9zkg"
+    "trailerYoutubeId": "2wlo37p9zkg",
+    "youtubeFullMovie": {
+      "videoId": "62A30pRZ1TM",
+      "channelName": "Shemaroo Gujarati Manoranjan",
+      "channelUrl": "https://www.youtube.com/@shemaroogujaratimanoranjan1",
+      "rightsEvidenceUrl": "https://pro.shemaroome.com/movies/gujjubhai-the-great"
+    }
   },
   {
     "id": "11",
@@ -1480,7 +1501,7 @@ export const movies: Movie[] = [
       "Kareena Kapoor",
       "Boman Irani"
     ],
-    "description": "3 Idiots is an iconic coming-of-age comedy-drama that skewers the hyper-competitive Indian engineering education system while celebrating genuine intellectual curiosity and unconditional friendship. The story unfolds across two timelines: in the present, Farhan and Raju embark on an urgent cross-country quest alongside their arrogant college rival Chatur to find their elusive companion Rancho, who mysteriously disappeared on graduation day. Through nostalgic flashbacks, Farhan recounts their undergraduate years at the prestigious Imperial College of Engineering under the tyrannical administration of Director Viru Sahastrabuddhe (Virus). Rancho's unorthodox philosophy—urging students to pursue excellence over rote memorization and follow their true passions—profoundly alters the destinies of his friends and inspires a generation of young thinkers.",
+    "description": "3 Idiots is an iconic coming-of-age comedy-drama that skewers the hyper-competitive Indian engineering education system while celebrating genuine intellectual curiosity and unconditional friendship. The story unfolds across two timelines: in the present, Farhan and Raju embark on an urgent cross-country quest alongside their arrogant college rival Chatur to find their elusive companion Rancho, who mysteriously disappeared on graduation day. Through nostalgic flashbacks, Farhan recounts their undergraduate years at the prestigious Imperial College of Engineering under the tyrannical administration of Director Viru Sahastrabuddhe (Virus). Rancho's unorthodox philosophyâ€”urging students to pursue excellence over rote memorization and follow their true passionsâ€”profoundly alters the destinies of his friends and inspires a generation of young thinkers.",
     "poster": "/images/movies/3-idiots.jpg",
     "imdbRating": 8.4,
     "runtime": 170,
@@ -1502,15 +1523,15 @@ export const movies: Movie[] = [
       "Vinod Chopra Films"
     ],
     "ageRating": "UA",
-    "budget": "₹55 Crore",
-    "boxOffice": "₹460 Crore",
+    "budget": "â‚¹55 Crore",
+    "boxOffice": "â‚¹460 Crore",
     "awards": [
       "Three National Film Awards including Best Popular Film",
       "Six Filmfare Awards"
     ],
     "worthWatching": "A cultural touchstone of modern global cinema that blends riotous comedy with an urgent, deeply moving social critique of educational dogma.",
     "highlights": [
-      "The first Indian film to gross over ₹200 crore net domestically and a colossal cultural phenomenon across East Asia, particularly China and Japan.",
+      "The first Indian film to gross over â‚¹200 crore net domestically and a colossal cultural phenomenon across East Asia, particularly China and Japan.",
       "Loosely adapted from Chetan Bhagat's bestselling novel 'Five Point Someone'.",
       "Features the iconic climactic sequence shot at Pangong Lake in Ladakh, which became an international tourist destination."
     ],
@@ -1590,7 +1611,7 @@ export const movies: Movie[] = [
       }
     ],
     "tagline": "Medals don't grow on trees; you have to cultivate them with love, dedication, and passion.",
-    "originalTitle": "दंगल",
+    "originalTitle": "à¤¦à¤‚à¤—à¤²",
     "releaseDate": "23 December 2016",
     "writers": [
       "Nitesh Tiwari",
@@ -1604,8 +1625,8 @@ export const movies: Movie[] = [
       "UTV Motion Pictures"
     ],
     "ageRating": "U",
-    "budget": "₹70 Crore",
-    "boxOffice": "₹2,024 Crore",
+    "budget": "â‚¹70 Crore",
+    "boxOffice": "â‚¹2,024 Crore",
     "awards": [
       "64th National Film Award for Best Supporting Actress (Zaira Wasim)",
       "Four Filmfare Awards including Best Film and Best Director"
@@ -2958,8 +2979,8 @@ export const movies: Movie[] = [
       "Zee Studios"
     ],
     "ageRating": "U",
-    "budget": "₹20 Crore",
-    "boxOffice": "₹69 Crore",
+    "budget": "â‚¹20 Crore",
+    "boxOffice": "â‚¹69 Crore",
     "awards": [
       "Five Filmfare Awards including Best Film, Best Director, and Best Actor (Critics)"
     ],
@@ -3272,7 +3293,7 @@ export const movies: Movie[] = [
       "Michael Caine",
       "Gary Oldman"
     ],
-    "description": "The Dark Knight elevates the superhero genre into a towering philosophical crime epic examining justice, morality, and civil order. One year after dismantling Gotham's organized mob networks, Bruce Wayne continues his crusade as Batman alongside newly appointed District Attorney Harvey Dent and Lieutenant Jim Gordon. Together, they form an unshakeable triumvirate aiming to purge Gotham of corruption once and for all. However, their orderly progress is violently shattered by the emergence of the Joker—a sadistic, nihilistic criminal mastermind who seeks not wealth or power, but absolute ideological anarchy. As the Joker forces Gotham's citizens and leaders into harrowing ethical traps, Batman is pushed to his absolute physical and psychological limits, forcing him to choose between saving the city's soul and preserving his own heroic code.",
+    "description": "The Dark Knight elevates the superhero genre into a towering philosophical crime epic examining justice, morality, and civil order. One year after dismantling Gotham's organized mob networks, Bruce Wayne continues his crusade as Batman alongside newly appointed District Attorney Harvey Dent and Lieutenant Jim Gordon. Together, they form an unshakeable triumvirate aiming to purge Gotham of corruption once and for all. However, their orderly progress is violently shattered by the emergence of the Jokerâ€”a sadistic, nihilistic criminal mastermind who seeks not wealth or power, but absolute ideological anarchy. As the Joker forces Gotham's citizens and leaders into harrowing ethical traps, Batman is pushed to his absolute physical and psychological limits, forcing him to choose between saving the city's soul and preserving his own heroic code.",
     "poster": "/images/movies/the-dark-knight.jpg",
     "imdbRating": 9,
     "runtime": 152,
@@ -3382,7 +3403,7 @@ export const movies: Movie[] = [
       "Tom Hardy",
       "Ken Watanabe"
     ],
-    "description": "Inception is a mind-bending sci-fi heist thriller that explores the architecture of the subconscious mind. Dom Cobb is an elite 'extractor'—a master corporate thief who infiltrates the target's dream state to steal valuable secrets from their deepest subconscious during Vulnerable REM sleep. However, Cobb's rare talent has made him an international fugitive, permanently severed from his young children. A lucrative opportunity for redemption arrives when powerful industrialist Saito offers to wipe Cobb's criminal record clean in exchange for performing 'inception'—the nearly impossible feat of planting an idea inside a rival heir's mind rather than stealing one. Cobb assembles a crack team of specialists: an architect, a point man, an identity forger, and a chemist. But as they descend through multiple nested dream levels, Cobb's unresolved guilt and the vengeful projection of his deceased wife Mal threaten to trap them all in endless limbo.",
+    "description": "Inception is a mind-bending sci-fi heist thriller that explores the architecture of the subconscious mind. Dom Cobb is an elite 'extractor'â€”a master corporate thief who infiltrates the target's dream state to steal valuable secrets from their deepest subconscious during Vulnerable REM sleep. However, Cobb's rare talent has made him an international fugitive, permanently severed from his young children. A lucrative opportunity for redemption arrives when powerful industrialist Saito offers to wipe Cobb's criminal record clean in exchange for performing 'inception'â€”the nearly impossible feat of planting an idea inside a rival heir's mind rather than stealing one. Cobb assembles a crack team of specialists: an architect, a point man, an identity forger, and a chemist. But as they descend through multiple nested dream levels, Cobb's unresolved guilt and the vengeful projection of his deceased wife Mal threaten to trap them all in endless limbo.",
     "poster": "/images/movies/inception.jpg",
     "imdbRating": 8.8,
     "runtime": 148,
@@ -3463,7 +3484,7 @@ export const movies: Movie[] = [
     "highlights": [
       "The famous hotel hallway fight sequence was filmed using a massive, custom-built 100-foot rotating centrifuge set.",
       "Won four Academy Awards including Best Cinematography, Best Sound Editing, Best Sound Mixing, and Best Visual Effects.",
-      "Hans Zimmer's score famously manipulated and slowed down Édith Piaf's 'Non, je ne regrette rien' as the thematic brass motif."
+      "Hans Zimmer's score famously manipulated and slowed down Ã‰dith Piaf's 'Non, je ne regrette rien' as the thematic brass motif."
     ],
     "faq": [
       {
@@ -3496,7 +3517,7 @@ export const movies: Movie[] = [
       "Jessica Chastain",
       "Michael Caine"
     ],
-    "description": "In a dystopian mid-21st century where catastrophic crop blight and relentless dust storms slowly suffocate Earth's agricultural ecosystems, humanity stands on the brink of extinction. Cooper, a widowed former NASA test pilot turned reluctant farmer, uncovers mysterious gravitational anomalies that lead him to a subterranean secret installation helmed by Professor John Brand. There, Cooper is recruited for the Endurance mission—a perilous voyage through a newly manifested wormhole near Saturn to explore distant star systems and evaluate three prospective habitable planets. Forced to leave behind his beloved daughter Murphy and son Tom with no guarantee of return, Cooper and his scientific crew voyage across the cosmic abyss. Balancing relativistic time dilation against dwindling planetary timelines, the journey tests the limits of scientific ingenuity, fatherly devotion, and the unyielding will to survive.",
+    "description": "In a dystopian mid-21st century where catastrophic crop blight and relentless dust storms slowly suffocate Earth's agricultural ecosystems, humanity stands on the brink of extinction. Cooper, a widowed former NASA test pilot turned reluctant farmer, uncovers mysterious gravitational anomalies that lead him to a subterranean secret installation helmed by Professor John Brand. There, Cooper is recruited for the Endurance missionâ€”a perilous voyage through a newly manifested wormhole near Saturn to explore distant star systems and evaluate three prospective habitable planets. Forced to leave behind his beloved daughter Murphy and son Tom with no guarantee of return, Cooper and his scientific crew voyage across the cosmic abyss. Balancing relativistic time dilation against dwindling planetary timelines, the journey tests the limits of scientific ingenuity, fatherly devotion, and the unyielding will to survive.",
     "poster": "/images/movies/interstellar.jpg",
     "imdbRating": 8.7,
     "runtime": 169,
@@ -4671,13 +4692,13 @@ export const movies: Movie[] = [
     ],
     "director": "Denis Villeneuve",
     "cast": [
-      "Timothée Chalamet",
+      "TimothÃ©e Chalamet",
       "Zendaya",
       "Rebecca Ferguson",
       "Javier Bardem",
       "Austin Butler"
     ],
-    "description": "Dune: Part Two is an acclaimed English Action and Adventure and Sci-Fi film helmed by visionary director Denis Villeneuve. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Timothée Chalamet, Zendaya, Rebecca Ferguson, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
+    "description": "Dune: Part Two is an acclaimed English Action and Adventure and Sci-Fi film helmed by visionary director Denis Villeneuve. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by TimothÃ©e Chalamet, Zendaya, Rebecca Ferguson, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "poster": "/images/movies/dune-part-two.jpg",
     "imdbRating": 8.6,
     "runtime": 166,
@@ -4727,16 +4748,16 @@ export const movies: Movie[] = [
       "Universal Pictures"
     ],
     "ageRating": "UA",
-    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Timothée Chalamet and Zendaya, and evocative direction that captures the genuine spirit of English cinema.",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by TimothÃ©e Chalamet and Zendaya, and evocative direction that captures the genuine spirit of English cinema.",
     "highlights": [
       "Directed by renowned filmmaker Denis Villeneuve with an acclaimed ensemble cast.",
-      "Features celebrated performances by Timothée Chalamet, Zendaya, Rebecca Ferguson.",
+      "Features celebrated performances by TimothÃ©e Chalamet, Zendaya, Rebecca Ferguson.",
       "Recognized as a landmark Action title within the Hollywood film canon."
     ],
     "faq": [
       {
         "question": "Who directed the movie Dune: Part Two?",
-        "answer": "Dune: Part Two was directed by Denis Villeneuve and features prominent performances by Timothée Chalamet, Zendaya, Rebecca Ferguson."
+        "answer": "Dune: Part Two was directed by Denis Villeneuve and features prominent performances by TimothÃ©e Chalamet, Zendaya, Rebecca Ferguson."
       },
       {
         "question": "What genres does Dune: Part Two belong to?",
@@ -5114,14 +5135,14 @@ export const movies: Movie[] = [
       "Crime",
       "Drama"
     ],
-    "director": "Pushkar–Gayathri",
+    "director": "Pushkarâ€“Gayathri",
     "cast": [
       "Madhavan",
       "Vijay Sethupathi",
       "Shraddha Srinath",
       "Varalaxmi Sarathkumar"
     ],
-    "description": "Vikram Vedha is an acclaimed Tamil Action and Crime and Drama film helmed by visionary director Pushkar–Gayathri. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Madhavan, Vijay Sethupathi, Shraddha Srinath, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
+    "description": "Vikram Vedha is an acclaimed Tamil Action and Crime and Drama film helmed by visionary director Pushkarâ€“Gayathri. Set against the distinctive cultural backdrop of Kollywood, the story centers on compelling characters played with nuance by Madhavan, Vijay Sethupathi, Shraddha Srinath, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Tamil cinema.",
     "poster": "/images/movies/vikram-vedha.jpg",
     "imdbRating": 8.2,
     "runtime": 147,
@@ -5172,7 +5193,7 @@ export const movies: Movie[] = [
         "lastVerified": "2026-11-12"
       }
     ],
-    "tagline": "Experience the acclaimed Action masterpiece from Pushkar–Gayathri.",
+    "tagline": "Experience the acclaimed Action masterpiece from Pushkarâ€“Gayathri.",
     "productionCountry": "India",
     "productionCompanies": [
       "Lyca Productions",
@@ -5181,14 +5202,14 @@ export const movies: Movie[] = [
     "ageRating": "A",
     "worthWatching": "Celebrated for its compelling storytelling, standout performances by Madhavan and Vijay Sethupathi, and evocative direction that captures the genuine spirit of Tamil cinema.",
     "highlights": [
-      "Directed by renowned filmmaker Pushkar–Gayathri with an acclaimed ensemble cast.",
+      "Directed by renowned filmmaker Pushkarâ€“Gayathri with an acclaimed ensemble cast.",
       "Features celebrated performances by Madhavan, Vijay Sethupathi, Shraddha Srinath.",
       "Recognized as a landmark Action title within the Kollywood film canon."
     ],
     "faq": [
       {
         "question": "Who directed the movie Vikram Vedha?",
-        "answer": "Vikram Vedha was directed by Pushkar–Gayathri and features prominent performances by Madhavan, Vijay Sethupathi, Shraddha Srinath."
+        "answer": "Vikram Vedha was directed by Pushkarâ€“Gayathri and features prominent performances by Madhavan, Vijay Sethupathi, Shraddha Srinath."
       },
       {
         "question": "What genres does Vikram Vedha belong to?",
@@ -6011,7 +6032,7 @@ export const movies: Movie[] = [
       }
     ],
     "tagline": "Rise, Roar, Revolt.",
-    "originalTitle": "రౌద్రం రణం రుధిరం",
+    "originalTitle": "à°°à±Œà°¦à±à°°à°‚ à°°à°£à°‚ à°°à±à°§à°¿à°°à°‚",
     "releaseDate": "25 March 2022",
     "writers": [
       "V. Vijayendra Prasad",
@@ -6022,8 +6043,8 @@ export const movies: Movie[] = [
       "DVV Entertainment"
     ],
     "ageRating": "UA",
-    "budget": "₹550 Crore",
-    "boxOffice": "₹1,387 Crore",
+    "budget": "â‚¹550 Crore",
+    "boxOffice": "â‚¹1,387 Crore",
     "awards": [
       "Academy Award for Best Original Song ('Naatu Naatu')",
       "Golden Globe for Best Original Song",
@@ -9007,7 +9028,13 @@ export const movies: Movie[] = [
         "answer": "You can discover verified subscription, rental, and streaming options for Pather Panchali in the Where to Watch section on Moviezui."
       }
     ],
-    "trailerYoutubeId": "sZNlRMdMdoI"
+    "trailerYoutubeId": "sZNlRMdMdoI",
+    "youtubeFullMovie": {
+      "videoId": "7s67L5HGw3I",
+      "channelName": "Bengali Movies- Angel Digital",
+      "channelUrl": "https://www.youtube.com/channel/UCiCnPY--pbn5S8JkJdV2PbQ",
+      "rightsEvidenceUrl": "https://angeldigitalweb.wordpress.com/2015/03/31/timeline-of-pather-panchali-%E0%A6%AA%E0%A6%A5%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%80/"
+    }
   },
   {
     "id": "112",
@@ -11040,8 +11067,17 @@ export const movies: Movie[] = [
     "featured": false,
     "addedAt": "2026-11-12T10:00:00Z",
     "sources": [
-      "https://en.wikipedia.org/wiki/Jab_We_Met"
+      "https://en.wikipedia.org/wiki/Jab_We_Met",
+      "https://www.youtube.com/watch?v=kSAkvxad8IA",
+      "https://www.shemaroome.com/bollywood/movies/jab-we-met"
     ],
+    "youtubeFullMovie": {
+      "videoId": "FHZlfXM15So",
+      "channelName": "Shemaroo Movies",
+      "channelUrl": "https://www.youtube.com/@shemaroomovies",
+      "rightsEvidenceUrl": "https://www.shemaroome.com/bollywood/movies/jab-we-met",
+      "audioLanguage": "Hindi"
+    },
     "watchOptions": [
       {
         "platform": "Amazon Prime Video",
@@ -12605,11 +12641,11 @@ export const movies: Movie[] = [
     "director": "Lee Unkrich",
     "cast": [
       "Anthony Gonzalez",
-      "Gael García Bernal",
+      "Gael GarcÃ­a Bernal",
       "Benjamin Bratt",
       "Alanna Ubach"
     ],
-    "description": "Coco is an acclaimed English Animation and Adventure and Family and Music film helmed by visionary director Lee Unkrich. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
+    "description": "Coco is an acclaimed English Animation and Adventure and Family and Music film helmed by visionary director Lee Unkrich. Set against the distinctive cultural backdrop of Hollywood, the story centers on compelling characters played with nuance by Anthony Gonzalez, Gael GarcÃ­a Bernal, Benjamin Bratt, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern English cinema.",
     "runtime": 105,
     "imdbRating": 8.4,
     "poster": "/images/movies/coco.jpg",
@@ -12643,16 +12679,16 @@ export const movies: Movie[] = [
       "Universal Pictures"
     ],
     "ageRating": "U",
-    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Anthony Gonzalez and Gael García Bernal, and evocative direction that captures the genuine spirit of English cinema.",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Anthony Gonzalez and Gael GarcÃ­a Bernal, and evocative direction that captures the genuine spirit of English cinema.",
     "highlights": [
       "Directed by renowned filmmaker Lee Unkrich with an acclaimed ensemble cast.",
-      "Features celebrated performances by Anthony Gonzalez, Gael García Bernal, Benjamin Bratt.",
+      "Features celebrated performances by Anthony Gonzalez, Gael GarcÃ­a Bernal, Benjamin Bratt.",
       "Recognized as a landmark Animation title within the Hollywood film canon."
     ],
     "faq": [
       {
         "question": "Who directed the movie Coco?",
-        "answer": "Coco was directed by Lee Unkrich and features prominent performances by Anthony Gonzalez, Gael García Bernal, Benjamin Bratt."
+        "answer": "Coco was directed by Lee Unkrich and features prominent performances by Anthony Gonzalez, Gael GarcÃ­a Bernal, Benjamin Bratt."
       },
       {
         "question": "What genres does Coco belong to?",
@@ -14483,7 +14519,7 @@ export const movies: Movie[] = [
   {
     "id": "183",
     "slug": "kaathal-the-core",
-    "title": "Kaathal – The Core",
+    "title": "Kaathal â€“ The Core",
     "releaseYear": 2023,
     "language": "Malayalam",
     "industry": "Mollywood",
@@ -14498,7 +14534,7 @@ export const movies: Movie[] = [
       "Joji John",
       "Muthumani"
     ],
-    "description": "Kaathal – The Core is an acclaimed Malayalam Drama film helmed by visionary director Jeo Baby. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Mammootty, Jyothika, Sudhi Kozhikode, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
+    "description": "Kaathal â€“ The Core is an acclaimed Malayalam Drama film helmed by visionary director Jeo Baby. Set against the distinctive cultural backdrop of Mollywood, the story centers on compelling characters played with nuance by Mammootty, Jyothika, Sudhi Kozhikode, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Malayalam cinema.",
     "runtime": 114,
     "imdbRating": 8.2,
     "poster": "/images/movies/kaathal-the-core.jpg",
@@ -14532,16 +14568,16 @@ export const movies: Movie[] = [
     ],
     "faq": [
       {
-        "question": "Who directed the movie Kaathal – The Core?",
-        "answer": "Kaathal – The Core was directed by Jeo Baby and features prominent performances by Mammootty, Jyothika, Sudhi Kozhikode."
+        "question": "Who directed the movie Kaathal â€“ The Core?",
+        "answer": "Kaathal â€“ The Core was directed by Jeo Baby and features prominent performances by Mammootty, Jyothika, Sudhi Kozhikode."
       },
       {
-        "question": "What genres does Kaathal – The Core belong to?",
-        "answer": "Kaathal – The Core is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
+        "question": "What genres does Kaathal â€“ The Core belong to?",
+        "answer": "Kaathal â€“ The Core is classified under Drama, combining elements of authentic regional storytelling and emotional drama."
       },
       {
-        "question": "Where can I watch Kaathal – The Core?",
-        "answer": "You can discover verified subscription, rental, and streaming options for Kaathal – The Core in the Where to Watch section on Moviezui."
+        "question": "Where can I watch Kaathal â€“ The Core?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Kaathal â€“ The Core in the Where to Watch section on Moviezui."
       }
     ],
     "trailerYoutubeId": "uc0kllY_Rgo"
@@ -15090,7 +15126,7 @@ export const movies: Movie[] = [
   {
     "id": "191",
     "slug": "sapta-saagaradaache-ello-side-a",
-    "title": "Sapta Saagaradaache Ello – Side A",
+    "title": "Sapta Saagaradaache Ello â€“ Side A",
     "releaseYear": 2023,
     "language": "Kannada",
     "industry": "Sandalwood",
@@ -15105,7 +15141,7 @@ export const movies: Movie[] = [
       "Achyuth Kumar",
       "Pavitra Lokesh"
     ],
-    "description": "Sapta Saagaradaache Ello – Side A is an acclaimed Kannada Drama and Romance film helmed by visionary director Hemanth M. Rao. Set against the distinctive cultural backdrop of Sandalwood, the story centers on compelling characters played with nuance by Rakshit Shetty, Rukmini Vasanth, Achyuth Kumar, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Kannada cinema.",
+    "description": "Sapta Saagaradaache Ello â€“ Side A is an acclaimed Kannada Drama and Romance film helmed by visionary director Hemanth M. Rao. Set against the distinctive cultural backdrop of Sandalwood, the story centers on compelling characters played with nuance by Rakshit Shetty, Rukmini Vasanth, Achyuth Kumar, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Kannada cinema.",
     "runtime": 142,
     "imdbRating": 8.3,
     "poster": "/images/movies/sapta-saagaradaache-ello-side-a.jpg",
@@ -15147,16 +15183,16 @@ export const movies: Movie[] = [
     ],
     "faq": [
       {
-        "question": "Who directed the movie Sapta Saagaradaache Ello – Side A?",
-        "answer": "Sapta Saagaradaache Ello – Side A was directed by Hemanth M. Rao and features prominent performances by Rakshit Shetty, Rukmini Vasanth, Achyuth Kumar."
+        "question": "Who directed the movie Sapta Saagaradaache Ello â€“ Side A?",
+        "answer": "Sapta Saagaradaache Ello â€“ Side A was directed by Hemanth M. Rao and features prominent performances by Rakshit Shetty, Rukmini Vasanth, Achyuth Kumar."
       },
       {
-        "question": "What genres does Sapta Saagaradaache Ello – Side A belong to?",
-        "answer": "Sapta Saagaradaache Ello – Side A is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+        "question": "What genres does Sapta Saagaradaache Ello â€“ Side A belong to?",
+        "answer": "Sapta Saagaradaache Ello â€“ Side A is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
       },
       {
-        "question": "Where can I watch Sapta Saagaradaache Ello – Side A?",
-        "answer": "You can discover verified subscription, rental, and streaming options for Sapta Saagaradaache Ello – Side A in the Where to Watch section on Moviezui."
+        "question": "Where can I watch Sapta Saagaradaache Ello â€“ Side A?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Sapta Saagaradaache Ello â€“ Side A in the Where to Watch section on Moviezui."
       }
     ],
     "trailerYoutubeId": "hcJ1ZHHahMA"
@@ -15164,7 +15200,7 @@ export const movies: Movie[] = [
   {
     "id": "192",
     "slug": "sapta-saagaradaache-ello-side-b",
-    "title": "Sapta Saagaradaache Ello – Side B",
+    "title": "Sapta Saagaradaache Ello â€“ Side B",
     "releaseYear": 2023,
     "language": "Kannada",
     "industry": "Sandalwood",
@@ -15179,7 +15215,7 @@ export const movies: Movie[] = [
       "Chaithra J. Achar",
       "Gopalkrishna Deshpande"
     ],
-    "description": "Sapta Saagaradaache Ello – Side B is an acclaimed Kannada Drama and Romance film helmed by visionary director Hemanth M. Rao. Set against the distinctive cultural backdrop of Sandalwood, the story centers on compelling characters played with nuance by Rakshit Shetty, Rukmini Vasanth, Chaithra J. Achar, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Kannada cinema.",
+    "description": "Sapta Saagaradaache Ello â€“ Side B is an acclaimed Kannada Drama and Romance film helmed by visionary director Hemanth M. Rao. Set against the distinctive cultural backdrop of Sandalwood, the story centers on compelling characters played with nuance by Rakshit Shetty, Rukmini Vasanth, Chaithra J. Achar, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern Kannada cinema.",
     "runtime": 147,
     "imdbRating": 7.9,
     "poster": "/images/movies/sapta-saagaradaache-ello-side-b.jpg",
@@ -15221,16 +15257,16 @@ export const movies: Movie[] = [
     ],
     "faq": [
       {
-        "question": "Who directed the movie Sapta Saagaradaache Ello – Side B?",
-        "answer": "Sapta Saagaradaache Ello – Side B was directed by Hemanth M. Rao and features prominent performances by Rakshit Shetty, Rukmini Vasanth, Chaithra J. Achar."
+        "question": "Who directed the movie Sapta Saagaradaache Ello â€“ Side B?",
+        "answer": "Sapta Saagaradaache Ello â€“ Side B was directed by Hemanth M. Rao and features prominent performances by Rakshit Shetty, Rukmini Vasanth, Chaithra J. Achar."
       },
       {
-        "question": "What genres does Sapta Saagaradaache Ello – Side B belong to?",
-        "answer": "Sapta Saagaradaache Ello – Side B is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
+        "question": "What genres does Sapta Saagaradaache Ello â€“ Side B belong to?",
+        "answer": "Sapta Saagaradaache Ello â€“ Side B is classified under Drama, Romance, combining elements of authentic regional storytelling and emotional drama."
       },
       {
-        "question": "Where can I watch Sapta Saagaradaache Ello – Side B?",
-        "answer": "You can discover verified subscription, rental, and streaming options for Sapta Saagaradaache Ello – Side B in the Where to Watch section on Moviezui."
+        "question": "Where can I watch Sapta Saagaradaache Ello â€“ Side B?",
+        "answer": "You can discover verified subscription, rental, and streaming options for Sapta Saagaradaache Ello â€“ Side B in the Where to Watch section on Moviezui."
       }
     ],
     "trailerYoutubeId": "llKjFW1gv0M"
@@ -17416,12 +17452,12 @@ export const movies: Movie[] = [
     ],
     "director": "Justine Triet",
     "cast": [
-      "Sandra Hüller",
+      "Sandra HÃ¼ller",
       "Swann Arlaud",
       "Milo Machado-Graner",
       "Antoine Reinartz"
     ],
-    "description": "Anatomy of a Fall is an acclaimed French Crime and Drama and Mystery and Thriller film helmed by visionary director Justine Triet. Set against the distinctive cultural backdrop of International Cinema, the story centers on compelling characters played with nuance by Sandra Hüller, Swann Arlaud, Milo Machado-Graner, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern French cinema.",
+    "description": "Anatomy of a Fall is an acclaimed French Crime and Drama and Mystery and Thriller film helmed by visionary director Justine Triet. Set against the distinctive cultural backdrop of International Cinema, the story centers on compelling characters played with nuance by Sandra HÃ¼ller, Swann Arlaud, Milo Machado-Graner, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern French cinema.",
     "runtime": 151,
     "imdbRating": 7.7,
     "poster": "/images/movies/anatomy-of-a-fall.jpg",
@@ -17454,16 +17490,16 @@ export const movies: Movie[] = [
       "Independent Cinema Studios"
     ],
     "ageRating": "A",
-    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Sandra Hüller and Swann Arlaud, and evocative direction that captures the genuine spirit of French cinema.",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Sandra HÃ¼ller and Swann Arlaud, and evocative direction that captures the genuine spirit of French cinema.",
     "highlights": [
       "Directed by renowned filmmaker Justine Triet with an acclaimed ensemble cast.",
-      "Features celebrated performances by Sandra Hüller, Swann Arlaud, Milo Machado-Graner.",
+      "Features celebrated performances by Sandra HÃ¼ller, Swann Arlaud, Milo Machado-Graner.",
       "Recognized as a landmark Crime title within the International Cinema film canon."
     ],
     "faq": [
       {
         "question": "Who directed the movie Anatomy of a Fall?",
-        "answer": "Anatomy of a Fall was directed by Justine Triet and features prominent performances by Sandra Hüller, Swann Arlaud, Milo Machado-Graner."
+        "answer": "Anatomy of a Fall was directed by Justine Triet and features prominent performances by Sandra HÃ¼ller, Swann Arlaud, Milo Machado-Graner."
       },
       {
         "question": "What genres does Anatomy of a Fall belong to?",
@@ -17681,11 +17717,11 @@ export const movies: Movie[] = [
     "director": "Jonathan Glazer",
     "cast": [
       "Christian Friedel",
-      "Sandra Hüller",
+      "Sandra HÃ¼ller",
       "Johann Karthaus",
       "Luis Noah Witte"
     ],
-    "description": "The Zone of Interest is an acclaimed German Drama and History and War film helmed by visionary director Jonathan Glazer. Set against the distinctive cultural backdrop of International Cinema, the story centers on compelling characters played with nuance by Christian Friedel, Sandra Hüller, Johann Karthaus, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern German cinema.",
+    "description": "The Zone of Interest is an acclaimed German Drama and History and War film helmed by visionary director Jonathan Glazer. Set against the distinctive cultural backdrop of International Cinema, the story centers on compelling characters played with nuance by Christian Friedel, Sandra HÃ¼ller, Johann Karthaus, who find themselves confronting unexpected life challenges and deep moral dilemmas. As personal relationships and outside pressures intensify, the protagonists must navigate high-stakes conflicts, societal conventions, and deeply emotional turning points that test their resilience and integrity. Blending atmospheric cinematography, sharp character writing, and authentic regional storytelling, the film explores universal themes of human aspiration, loyalty, and redemption, leaving audiences with a memorable and thought-provoking cinematic experience that stands out in modern German cinema.",
     "runtime": 105,
     "imdbRating": 7.5,
     "poster": "/images/movies/the-zone-of-interest.jpg",
@@ -17718,16 +17754,16 @@ export const movies: Movie[] = [
       "Independent Cinema Studios"
     ],
     "ageRating": "UA",
-    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Christian Friedel and Sandra Hüller, and evocative direction that captures the genuine spirit of German cinema.",
+    "worthWatching": "Celebrated for its compelling storytelling, standout performances by Christian Friedel and Sandra HÃ¼ller, and evocative direction that captures the genuine spirit of German cinema.",
     "highlights": [
       "Directed by renowned filmmaker Jonathan Glazer with an acclaimed ensemble cast.",
-      "Features celebrated performances by Christian Friedel, Sandra Hüller, Johann Karthaus.",
+      "Features celebrated performances by Christian Friedel, Sandra HÃ¼ller, Johann Karthaus.",
       "Recognized as a landmark Drama title within the International Cinema film canon."
     ],
     "faq": [
       {
         "question": "Who directed the movie The Zone of Interest?",
-        "answer": "The Zone of Interest was directed by Jonathan Glazer and features prominent performances by Christian Friedel, Sandra Hüller, Johann Karthaus."
+        "answer": "The Zone of Interest was directed by Jonathan Glazer and features prominent performances by Christian Friedel, Sandra HÃ¼ller, Johann Karthaus."
       },
       {
         "question": "What genres does The Zone of Interest belong to?",
@@ -17739,5 +17775,281 @@ export const movies: Movie[] = [
       }
     ],
     "trailerYoutubeId": "r-vfg3KkV54"
+  },
+  {
+    "id": "229",
+    "slug": "guide-1965",
+    "title": "Guide",
+    "releaseYear": 1965,
+    "language": "Hindi",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Romance"],
+    "director": "Vijay Anand",
+    "writers": ["Vijay Anand", "R. K. Narayan", "Pearl S. Buck", "Tad Danielewski"],
+    "cast": ["Dev Anand", "Waheeda Rehman", "Kishore Sahu", "Leela Chitnis", "Anwar Hussain"],
+    "description": "Raju, a quick-witted tourist guide, meets Rosie, a gifted dancer trapped in an unhappy marriage to an archaeologist. He encourages her to pursue dance, and she becomes a celebrated performer. As her success grows, Raju's ambition and possessiveness lead him into a fraud conviction and prison. Years later, mistaken for a holy man in a drought-stricken village, he is pressed into a fast that the villagers believe will bring rain. Adapted from R. K. Narayan's novel, Guide follows Raju's rise, collapse, and uneasy path toward self-understanding.",
+    "poster": "https://img.youtube.com/vi/lQ-OEq0k75c/hqdefault.jpg",
+    "imdbRating": null,
+    "runtime": 167,
+    "featured": false,
+    "addedAt": "2026-11-16T00:00:00Z",
+    "sources": [
+      "https://www.youtube.com/watch?v=lQ-OEq0k75c",
+      "https://catalog.afi.com/Film/23154-THE-GUIDE?cxt=filmography",
+      "https://www.shemaroome.com/movies/guide"
+    ],
+    "productionCountry": "India",
+    "productionCompanies": ["Navketan International"],
+    "youtubeFullMovie": {
+      "videoId": "lQ-OEq0k75c",
+      "channelName": "Shemaroo Movies",
+      "channelUrl": "https://www.youtube.com/@shemaroomovies",
+      "rightsEvidenceUrl": "https://www.shemaroome.com/movies/guide"
+    }
+  },
+  {
+    "id": "230",
+    "slug": "madhumati-1958",
+    "title": "Madhumati",
+    "releaseYear": 1958,
+    "language": "Hindi",
+    "industry": "Bollywood",
+    "genres": ["Drama", "Romance", "Mystery"],
+    "director": "Bimal Roy",
+    "writers": ["Ritwik Ghatak", "Rajinder Singh Bedi"],
+    "cast": ["Dilip Kumar", "Vyjayanthimala", "Johnny Walker", "Pran", "Jayant", "Tiwari", "Tarun Bose"],
+    "description": "During a storm, Devendra's journey to meet his wife and newborn child is halted by a landslide. He and a companion take shelter in a familiar mansion, where a portrait and the house's surroundings awaken memories of another life. Devendra recalls being Anand, an estate manager who loved the hill woman Madhumati. Their relationship was destroyed by the powerful Raja Ugranarayan, and a woman who resembles Madhumati helps reveal what happened. The remembered story reshapes Devendra's understanding of his present life. Bimal Roy's romantic mystery is known for its reincarnation narrative and Salil Chowdhury's music.",
+    "poster": "https://img.youtube.com/vi/kDiDP4l6u70/hqdefault.jpg",
+    "imdbRating": null,
+    "runtime": 164,
+    "featured": false,
+    "addedAt": "2026-11-16T00:00:00Z",
+    "sources": [
+      "https://www.youtube.com/watch?v=kDiDP4l6u70",
+      "https://www.shemaroome.com/movies/madhumati",
+      "https://artsandculture.google.com/asset/madhumati-1958/BwGpO9K5Jqe2XA",
+      "https://www.dff.nic.in/images/Documents/108_6thNfacatalogue.pdf"
+    ],
+    "productionCountry": "India",
+    "productionCompanies": ["Bimal Roy Productions"],
+    "youtubeFullMovie": {
+      "videoId": "kDiDP4l6u70",
+      "channelName": "Shemaroo Movies",
+      "channelUrl": "https://www.youtube.com/@shemaroomovies",
+      "rightsEvidenceUrl": "https://www.shemaroome.com/movies/madhumati"
+    }
+  },
+  {
+    "id": "231",
+    "slug": "ramayya-vasthavayya",
+    "title": "Ramayya Vasthavayya",
+    "releaseYear": 2013,
+    "language": "Telugu",
+    "industry": "Telugu Cinema",
+    "genres": ["Action", "Comedy", "Drama"],
+    "director": "Harish Shankar",
+    "cast": ["N. T. Rama Rao Jr.", "Samantha Ruth Prabhu", "Shruti Haasan", "Mukesh Rishi"],
+    "description": "College student Nandu falls in love with Akarsha and accompanies her to her hometown for her sister's wedding. There, he encounters Akarsha's father and a violent history connected to Ammulu and a powerful politician. The revelations force Nandu to confront the past behind his seemingly carefree life. This Telugu action comedy drama stars N. T. Rama Rao Jr., Samantha Ruth Prabhu, and Shruti Haasan.",
+    "poster": "https://img.youtube.com/vi/gTLhFllz8OA/hqdefault.jpg",
+    "imdbRating": null,
+    "runtime": 160,
+    "featured": false,
+    "addedAt": "2026-11-16T00:00:00Z",
+    "sources": [
+      "https://www.youtube.com/watch?v=gTLhFllz8OA",
+      "https://www.bbfc.co.uk/release/ramayya-vasthavayya-q29sbgvjdglvbjpwwc0znjkzmzk",
+      "https://tv.apple.com/in/movie/ramayya-vasthavayya/umc.cmc.2im00uhxmmrxkrqq677covlji"
+    ],
+    "productionCountry": "India",
+    "productionCompanies": ["Sri Venkateswara Creations"],
+    "youtubeFullMovie": {
+      "videoId": "gTLhFllz8OA",
+      "channelName": "Aditya Movies",
+      "channelUrl": "https://www.youtube.com/@adityamovies",
+      "rightsEvidenceUrl": "https://www.youtube.com/watch?v=gTLhFllz8OA"
+    }
+  },
+  {
+    "id": "232",
+    "slug": "sarrainodu",
+    "title": "Sarrainodu",
+    "originalTitle": "à°¸à°°à±ˆà°¨à±‹à°¡à±",
+    "releaseYear": 2016,
+    "language": "Telugu",
+    "industry": "Telugu Cinema",
+    "genres": ["Action", "Drama"],
+    "director": "Boyapati Srinu",
+    "cast": ["Allu Arjun", "Rakul Preet Singh", "Catherine Tresa", "Srikanth", "Aadhi Pinisetty"],
+    "description": "Gana, an ex-military man who takes a forceful approach to confronting injustice, becomes involved in protecting Maha Lakshmi from a powerful political family. His actions bring him into conflict with Dhanush, whose influence threatens Gana and those around him. Directed by Boyapati Srinu, Sarrainodu is a Telugu action drama starring Allu Arjun, Rakul Preet Singh, Catherine Tresa, Srikanth, and Aadhi Pinisetty. Goldmines also publishes a Hindi-dubbed full-movie version on its official YouTube channel.",
+    "poster": "https://img.youtube.com/vi/B6h-kQLQqec/hqdefault.jpg",
+    "imdbRating": null,
+    "runtime": 159,
+    "featured": false,
+    "addedAt": "2026-11-16T00:00:00Z",
+    "sources": [
+      "https://www.youtube.com/watch?v=B6h-kQLQqec",
+      "https://www.ibtimes.co.in/allu-arjuns-sarrainodu-becomes-1st-indian-film-cross-300-million-views-youtube-824636",
+      "https://www.sunnxt.com/telugu-movie-sarrainodu-2016/detail/7751"
+    ],
+    "productionCountry": "India",
+    "productionCompanies": ["Geetha Arts"],
+    "youtubeFullMovie": {
+      "videoId": "B6h-kQLQqec",
+      "channelName": "Goldmines",
+      "channelUrl": "https://www.youtube.com/@goldminestelefilms",
+      "rightsEvidenceUrl": "https://www.ibtimes.co.in/allu-arjuns-sarrainodu-becomes-1st-indian-film-cross-300-million-views-youtube-824636",
+      "audioLanguage": "Hindi (dubbed)"
+    }
+  },
+  {
+    "id": "233",
+    "slug": "dj-duvvada-jagannadham",
+    "title": "DJ: Duvvada Jagannadham",
+    "originalTitle": "à°¦à±à°µà±à°µà°¾à°¡ à°œà°—à°¨à±à°¨à°¾à°¥à°®à±",
+    "releaseYear": 2017,
+    "language": "Telugu",
+    "industry": "Telugu Cinema",
+    "genres": ["Action", "Comedy"],
+    "director": "Harish Shankar",
+    "cast": ["Allu Arjun", "Pooja Hegde", "Rao Ramesh", "Murali Sharma", "Vennela Kishore"],
+    "description": "Duvvada Jagannadham, known as DJ, is a caterer who secretly fights crime. After a police officer recognizes his courage, DJ is drawn into a case involving a powerful criminal network and a corrupt politician. His investigation puts him on a collision course with the politician's family and brings him closer to Pooja. This Telugu action comedy is directed by Harish Shankar and stars Allu Arjun and Pooja Hegde. Goldmines distributes the Hindi-dubbed version and publishes the full movie on its official YouTube channel.",
+    "poster": "https://img.youtube.com/vi/GzYBZJVzgyY/hqdefault.jpg",
+    "imdbRating": null,
+    "runtime": 160,
+    "featured": false,
+    "addedAt": "2026-11-16T00:00:00Z",
+    "sources": [
+      "https://www.youtube.com/watch?v=GzYBZJVzgyY",
+      "https://supremetoday.ai/doc/judgement/INDBOM00000116692",
+      "https://www.ibtimes.co.in/dj-aka-duvvada-jagannatham-hindi-version-gets-100-million-views-youtube-allu-arjun-thanks-fans-758801"
+    ],
+    "productionCountry": "India",
+    "productionCompanies": ["Sri Venkateswara Creations"],
+    "youtubeFullMovie": {
+      "videoId": "GzYBZJVzgyY",
+      "channelName": "Goldmines",
+      "channelUrl": "https://www.youtube.com/@goldminestelefilms",
+      "rightsEvidenceUrl": "https://supremetoday.ai/doc/judgement/INDBOM00000116692",
+      "audioLanguage": "Hindi (dubbed)"
+    }
+  },
+  {
+    "id": "234",
+    "slug": "theeran-adhigaaram-ondru",
+    "title": "Theeran Adhigaaram Ondru",
+    "originalTitle": "à®¤à¯€à®°à®©à¯ à®…à®¤à®¿à®•à®¾à®°à®®à¯ à®’à®©à¯à®±à¯",
+    "releaseYear": 2017,
+    "language": "Tamil",
+    "industry": "Tamil Cinema",
+    "genres": ["Action", "Crime", "Thriller"],
+    "director": "H. Vinoth",
+    "cast": ["Karthi", "Rakul Preet Singh", "Abhimanyu Singh", "Bose Venkat"],
+    "description": "Police officer Theeran investigates a series of violent crimes linked by a repeating pattern. As he and his team examine the evidence, the case leads them across regions and into a difficult pursuit of the people responsible. Based on incidents handled by police in the 2000s, this Tamil action crime thriller is directed by H. Vinoth and stars Karthi and Rakul Preet Singh. Goldmines distributes a Hindi-dubbed full-movie version through its official YouTube channel.",
+    "poster": "https://img.youtube.com/vi/xE_yyR0Zjsg/hqdefault.jpg",
+    "imdbRating": null,
+    "runtime": 157,
+    "featured": false,
+    "addedAt": "2026-11-16T00:00:00Z",
+    "sources": [
+      "https://www.youtube.com/watch?v=xE_yyR0Zjsg",
+      "https://supremetoday.ai/doc/judgement/INDBOM00000116692",
+      "https://www.rottentomatoes.com/m/theeran_adhigaaram_ondru"
+    ],
+    "productionCountry": "India",
+    "productionCompanies": ["Dream Warrior Pictures"],
+    "youtubeFullMovie": {
+      "videoId": "xE_yyR0Zjsg",
+      "channelName": "Goldmines",
+      "channelUrl": "https://www.youtube.com/@goldminestelefilms",
+      "rightsEvidenceUrl": "https://supremetoday.ai/doc/judgement/INDBOM00000116692",
+      "audioLanguage": "Hindi (dubbed)"
+    }
+  },
+  {
+    "id": "235", "slug": "chalti-ka-naam-gaadi", "title": "Chalti Ka Naam Gaadi", "releaseYear": 1958, "language": "Hindi", "industry": "Bollywood", "genres": ["Comedy", "Romance"], "director": "Satyen Bose", "cast": ["Kishore Kumar", "Madhubala", "Ashok Kumar", "Anup Kumar"], "description": "Three brothers run a garage and live by a rule that keeps them away from women. Their routine changes when a stranded woman asks them for help, setting off a series of comic complications and romances. The musical comedy stars Kishore Kumar, Madhubala and Ashok Kumar.", "poster": "https://img.youtube.com/vi/g6g_mLaJZs8/hqdefault.jpg", "imdbRating": null, "runtime": 164, "productionCountry": "India", "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=g6g_mLaJZs8", "https://www.shemaroome.com/movies/chalti-ka-naam-gaadi"], "youtubeFullMovie": {"videoId": "g6g_mLaJZs8", "channelName": "Shemaroo Movies", "channelUrl": "https://www.youtube.com/@shemaroomovies", "rightsEvidenceUrl": "https://www.shemaroome.com/movies/chalti-ka-naam-gaadi", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "236", "slug": "baiju-bawra", "title": "Baiju Bawra", "releaseYear": 1952, "language": "Hindi", "industry": "Bollywood", "genres": ["Drama", "Musical", "Romance"], "director": "Vijay Bhatt", "cast": ["Bharat Bhushan", "Meena Kumari", "Surendra", "Bipin Gupta"], "description": "A young singer dedicates himself to mastering music after a personal tragedy and challenges the celebrated court musician Tansen. Vijay Bhatt's period musical drama stars Bharat Bhushan and Meena Kumari, with a score by Naushad.", "poster": "https://img.youtube.com/vi/CF35-vCIKfY/hqdefault.jpg", "imdbRating": null, "runtime": 155, "productionCountry": "India", "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=CF35-vCIKfY", "https://www.shemaroome.com/channels/blast-from-the-past"], "youtubeFullMovie": {"videoId": "CF35-vCIKfY", "channelName": "Shemaroo Movies", "channelUrl": "https://www.youtube.com/@shemaroomovies", "rightsEvidenceUrl": "https://www.shemaroome.com/channels/blast-from-the-past", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "237", "slug": "mera-gaon-mera-desh", "title": "Mera Gaon Mera Desh", "releaseYear": 1971, "language": "Hindi", "industry": "Bollywood", "genres": ["Action", "Drama"], "director": "Raj Khosla", "cast": ["Dharmendra", "Asha Parekh", "Vinod Khanna", "Jayant"], "description": "A reformed criminal settles in a village and is drawn into protecting its residents from a ruthless bandit. The confrontation tests his resolve and forces the villagers to decide whether to resist or submit. The film stars Dharmendra, Asha Parekh and Vinod Khanna.", "poster": "https://img.youtube.com/vi/x3jFi8Kn9BY/hqdefault.jpg", "imdbRating": null, "runtime": 147, "productionCountry": "India", "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=x3jFi8Kn9BY", "https://www.shemaroome.com/movies/mera-gaon-mera-desh"], "youtubeFullMovie": {"videoId": "x3jFi8Kn9BY", "channelName": "Shemaroo Movies", "channelUrl": "https://www.youtube.com/@shemaroomovies", "rightsEvidenceUrl": "https://www.shemaroome.com/movies/mera-gaon-mera-desh", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "238", "slug": "dharam-kanta", "title": "Dharam Kanta", "releaseYear": 1982, "language": "Hindi", "industry": "Bollywood", "genres": ["Action", "Drama"], "director": "Sultan Ahmed", "cast": ["Rajesh Khanna", "Reena Roy", "Jeetendra", "Dharmendra"], "description": "Separated family members are caught in a story of crime, justice and revenge. A man known as a feared dacoit becomes central to the struggle to protect the innocent and confront those responsible for a family's suffering. The film features Rajesh Khanna, Reena Roy, Jeetendra and Dharmendra.", "poster": "https://img.youtube.com/vi/U2pxQxSH-4w/hqdefault.jpg", "imdbRating": null, "runtime": 160, "productionCountry": "India", "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=U2pxQxSH-4w", "https://www.shemaroome.com/movies/dharam-kanta"], "youtubeFullMovie": {"videoId": "U2pxQxSH-4w", "channelName": "Shemaroo Movies", "channelUrl": "https://www.youtube.com/@shemaroomovies", "rightsEvidenceUrl": "https://www.shemaroome.com/movies/dharam-kanta", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "239", "slug": "phir-hera-pheri", "title": "Phir Hera Pheri", "releaseYear": 2006, "language": "Hindi", "industry": "Bollywood", "genres": ["Comedy", "Crime"], "director": "Neeraj Vora", "cast": ["Akshay Kumar", "Suniel Shetty", "Paresh Rawal", "Bipasha Basu"], "description": "After an unexpected windfall, Raju, Shyam and Baburao are drawn into a risky investment scheme and a chain of comic misunderstandings. The sequel reunites the trio as their pursuit of quick profits creates increasingly difficult trouble.", "poster": "https://img.youtube.com/vi/Us6pVG4NK8Q/hqdefault.jpg", "imdbRating": null, "runtime": 149, "productionCountry": "India", "productionCompanies": ["Base Industries Group"], "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=Us6pVG4NK8Q", "https://www.shemaroome.com/movies/phir-hera-pheri"], "youtubeFullMovie": {"videoId": "Us6pVG4NK8Q", "channelName": "Shemaroo Movies", "channelUrl": "https://www.youtube.com/@shemaroomovies", "rightsEvidenceUrl": "https://www.shemaroome.com/movies/phir-hera-pheri", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "240", "slug": "deewane-huye-paagal", "title": "Deewane Huye Paagal", "releaseYear": 2005, "language": "Hindi", "industry": "Bollywood", "genres": ["Comedy", "Romance"], "director": "Vikram Bhatt", "cast": ["Akshay Kumar", "Shahid Kapoor", "Suniel Shetty", "Paresh Rawal"], "description": "A group of men pursue a woman they believe to be the answer to their romantic hopes, but their plans collide with a dangerous criminal and a series of mistaken assumptions. The comedy stars Akshay Kumar, Shahid Kapoor, Suniel Shetty and Paresh Rawal.", "poster": "https://img.youtube.com/vi/VYNLlBqMOgo/hqdefault.jpg", "imdbRating": null, "runtime": 151, "productionCountry": "India", "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=VYNLlBqMOgo", "https://www.shemaroome.com/movies/deewane-huye-paagal"], "youtubeFullMovie": {"videoId": "VYNLlBqMOgo", "channelName": "Shemaroo", "channelUrl": "https://www.youtube.com/@shemaroo", "rightsEvidenceUrl": "https://www.shemaroome.com/movies/deewane-huye-paagal", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "242", "slug": "mother-india", "title": "Mother India", "releaseYear": 1957, "language": "Hindi", "industry": "Bollywood", "genres": ["Drama", "Musical"], "director": "Mehboob Khan", "cast": ["Nargis", "Sunil Dutt", "Rajendra Kumar", "Raaj Kumar"], "description": "A rural woman struggles to raise her sons and keep her family together through debt, hardship and social upheaval. Years later, she must choose between her maternal love and the principles she has defended. Nargis leads Mehboob Khan's landmark drama.", "poster": "https://img.youtube.com/vi/Ss7lc5kB0BY/hqdefault.jpg", "imdbRating": null, "runtime": 149, "productionCountry": "India", "productionCompanies": ["Mehboob Productions"], "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=Ss7lc5kB0BY", "https://www.shemaroome.com/movies/mother-india"], "youtubeFullMovie": {"videoId": "Ss7lc5kB0BY", "channelName": "Shemaroo Movies", "channelUrl": "https://www.youtube.com/@shemaroomovies", "rightsEvidenceUrl": "https://www.shemaroome.com/movies/mother-india", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "243", "slug": "pakeezah", "title": "Pakeezah", "releaseYear": 1972, "language": "Hindi", "industry": "Bollywood", "genres": ["Drama", "Musical", "Romance"], "director": "Kamal Amrohi", "cast": ["Meena Kumari", "Ashok Kumar", "Raaj Kumar", "Nadira"], "description": "A courtesan longs for a life beyond the constraints of her profession and dreams of love and acceptance. An admirer leaves her a note after seeing her dance, beginning a romance shaped by identity, family and social boundaries.", "poster": "https://img.youtube.com/vi/6g02XfKDyQM/hqdefault.jpg", "imdbRating": null, "runtime": 147, "productionCountry": "India", "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=6g02XfKDyQM", "https://www.shemaroome.com/movies/pakeezah"], "youtubeFullMovie": {"videoId": "6g02XfKDyQM", "channelName": "Shemaroo", "channelUrl": "https://www.youtube.com/@shemaroo", "rightsEvidenceUrl": "https://www.shemaroome.com/movies/pakeezah", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "244", "slug": "yeh-raat-phir-na-aaygi", "title": "Yeh Raat Phir Na Aaygi", "releaseYear": 1966, "language": "Hindi", "industry": "Bollywood", "genres": ["Mystery", "Thriller", "Romance"], "director": "Brij", "cast": ["Biswajeet", "Sharmila Tagore", "Prithviraj Kapoor", "Mumtaz"], "description": "A young archaeologist becomes entangled in a mystery involving a woman who resembles an ancient mummy and a series of threatening events. Romance and suspense converge as he tries to discover the truth behind her identity.", "poster": "https://img.youtube.com/vi/iIoo4a9Za9E/hqdefault.jpg", "imdbRating": null, "runtime": 139, "productionCountry": "India", "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=iIoo4a9Za9E", "https://www.shemaroome.com/channels/romantic-films"], "youtubeFullMovie": {"videoId": "iIoo4a9Za9E", "channelName": "Shemaroo Movies", "channelUrl": "https://www.youtube.com/@shemaroomovies", "rightsEvidenceUrl": "https://www.shemaroome.com/channels/romantic-films", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "245", "slug": "mujhse-shaadi-karogi", "title": "Mujhse Shaadi Karogi", "releaseYear": 2004, "language": "Hindi", "industry": "Bollywood", "genres": ["Comedy", "Romance"], "director": "David Dhawan", "cast": ["Salman Khan", "Akshay Kumar", "Priyanka Chopra"], "description": "Two men compete for the attention of a woman staying in a beach town, turning a romance into a comic rivalry filled with pranks and misunderstandings. Their escalating contest tests whether either can win her trust.", "poster": "https://img.youtube.com/vi/oPgDvLqKn3w/hqdefault.jpg", "imdbRating": null, "runtime": 150, "productionCountry": "India", "productionCompanies": ["Kaleidoscope Entertainment", "Sohail Khan Productions"], "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=oPgDvLqKn3w", "https://www.shemaroome.com/movies/mujhse-shaadi-karogi"], "youtubeFullMovie": {"videoId": "oPgDvLqKn3w", "channelName": "Shemaroo", "channelUrl": "https://www.youtube.com/@shemaroo", "rightsEvidenceUrl": "https://www.shemaroome.com/movies/mujhse-shaadi-karogi", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "246", "slug": "awara-paagal-deewana", "title": "Awara Paagal Deewana", "releaseYear": 2002, "language": "Hindi", "industry": "Bollywood", "genres": ["Action", "Comedy", "Crime"], "director": "Vikram Bhatt", "cast": ["Akshay Kumar", "Suniel Shetty", "Aftab Shivdasani", "Paresh Rawal"], "description": "A dentist becomes entangled with a criminal family after inheriting a fortune, and several people pursue the money through mistaken identities and escalating comic action. The ensemble comedy features Akshay Kumar, Suniel Shetty and Paresh Rawal.", "poster": "https://img.youtube.com/vi/sy5GB-lOSHs/hqdefault.jpg", "imdbRating": null, "runtime": 158, "productionCountry": "India", "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=sy5GB-lOSHs", "https://pro.shemaroome.com/movies/awara-paagal-deewana"], "youtubeFullMovie": {"videoId": "sy5GB-lOSHs", "channelName": "Shemaroo Movies", "channelUrl": "https://www.youtube.com/@shemaroomovies", "rightsEvidenceUrl": "https://pro.shemaroome.com/movies/awara-paagal-deewana", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "247", "slug": "devdas-1955", "title": "Devdas", "releaseYear": 1955, "language": "Hindi", "industry": "Bollywood", "genres": ["Drama", "Romance"], "director": "Bimal Roy", "cast": ["Dilip Kumar", "Suchitra Sen", "Vyjayanthimala", "Motilal"], "description": "Devdas and Parvati grow up close and fall in love, but family decisions separate them. As Devdas turns to alcohol, Chandramukhi cares for him and hopes he can move beyond his grief. Bimal Roy's adaptation stars Dilip Kumar, Suchitra Sen and Vyjayanthimala.", "poster": "https://img.youtube.com/vi/5vTH16nAXhY/hqdefault.jpg", "imdbRating": null, "runtime": 162, "productionCountry": "India", "productionCompanies": ["Bimal Roy Productions"], "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=5vTH16nAXhY", "https://www.shemaroome.com/plans/movies/devdas"], "youtubeFullMovie": {"videoId": "5vTH16nAXhY", "channelName": "Shemaroo", "channelUrl": "https://www.youtube.com/@shemaroo", "rightsEvidenceUrl": "https://www.shemaroome.com/plans/movies/devdas", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "248", "slug": "dharam-veer", "title": "Dharam Veer", "releaseYear": 1977, "language": "Hindi", "industry": "Bollywood", "genres": ["Action", "Adventure", "Drama"], "director": "Manmohan Desai", "cast": ["Dharmendra", "Jeetendra", "Zeenat Aman", "Neetu Singh"], "description": "Twin brothers are separated at birth and grow up in different circumstances without knowing their connection. Their paths cross through friendship, romance and a conflict with the man responsible for dividing their family.", "poster": "https://img.youtube.com/vi/V1AnFoTA9Ik/hqdefault.jpg", "imdbRating": null, "runtime": 156, "productionCountry": "India", "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=V1AnFoTA9Ik", "https://www.shemaroome.com/bollywood-plus-movies/movies/dharam-veer"], "youtubeFullMovie": {"videoId": "V1AnFoTA9Ik", "channelName": "Shemaroo Movies", "channelUrl": "https://www.youtube.com/@shemaroomovies", "rightsEvidenceUrl": "https://www.shemaroome.com/bollywood-plus-movies/movies/dharam-veer", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "249", "slug": "mere-huzoor", "title": "Mere Huzoor", "releaseYear": 1968, "language": "Hindi", "industry": "Bollywood", "genres": ["Drama", "Romance"], "director": "Vinod Kumar", "cast": ["Raaj Kumar", "Jeetendra", "Mala Sinha", "Johnny Walker"], "description": "Akhtar and Salim both love Sultanat, who chooses to marry Akhtar. Years later, changing circumstances and strained family ties bring Salim back into her life. The romantic drama stars Raaj Kumar, Jeetendra and Mala Sinha.", "poster": "https://img.youtube.com/vi/UjoOxeB0jWY/hqdefault.jpg", "imdbRating": null, "runtime": 160, "productionCountry": "India", "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=UjoOxeB0jWY", "https://www.shemaroome.com/movies/mere-huzoor"], "youtubeFullMovie": {"videoId": "UjoOxeB0jWY", "channelName": "Shemaroo Movies", "channelUrl": "https://www.youtube.com/@shemaroomovies", "rightsEvidenceUrl": "https://www.shemaroome.com/movies/mere-huzoor", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "250", "slug": "banjaran", "title": "Banjaran", "releaseYear": 1991, "language": "Hindi", "industry": "Bollywood", "genres": ["Drama", "Romance"], "director": "Harmesh Malhotra", "cast": ["Rishi Kapoor", "Sridevi", "Kulbhushan Kharbanda", "Gulshan Grover"], "description": "Reshma, the daughter of a nomadic community's leader, feels an unexplained bond with Kunverji, who has painted her before they meet. Their families oppose the relationship, while the two discover a connection tied to a previous life.", "poster": "https://img.youtube.com/vi/y4nYf9j04Nk/hqdefault.jpg", "imdbRating": null, "runtime": 145, "productionCountry": "India", "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=y4nYf9j04Nk", "https://www.shemaroome.com/movies/banjaran"], "youtubeFullMovie": {"videoId": "y4nYf9j04Nk", "channelName": "Shemaroo Movies", "channelUrl": "https://www.youtube.com/@shemaroomovies", "rightsEvidenceUrl": "https://www.shemaroome.com/movies/banjaran", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "251", "slug": "dil-kya-kare", "title": "Dil Kya Kare", "releaseYear": 1999, "language": "Hindi", "industry": "Bollywood", "genres": ["Drama", "Romance"], "director": "Prakash Jha", "cast": ["Ajay Devgn", "Kajol", "Mahima Chaudhry", "Chandrachur Singh"], "description": "Anand and Kavita raise their adopted daughter Neha, whose biological mother unexpectedly becomes part of their lives. The revelation reshapes the family's relationships and forces them to confront the meaning of parenthood.", "poster": "https://img.youtube.com/vi/aDoI5Z6mBbw/hqdefault.jpg", "imdbRating": null, "runtime": 153, "productionCountry": "India", "productionCompanies": ["Devgan Films"], "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=aDoI5Z6mBbw", "https://www.shemaroome.com/movies/dil-kya-kare"], "youtubeFullMovie": {"videoId": "aDoI5Z6mBbw", "channelName": "Shemaroo Movies", "channelUrl": "https://www.youtube.com/@shemaroomovies", "rightsEvidenceUrl": "https://www.shemaroome.com/movies/dil-kya-kare", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "252", "slug": "dosti-friends-forever", "title": "Dosti: Friends Forever", "releaseYear": 2005, "language": "Hindi", "industry": "Bollywood", "genres": ["Drama", "Friendship"], "director": "Suneel Darshan", "cast": ["Akshay Kumar", "Bobby Deol", "Kareena Kapoor", "Lara Dutta"], "description": "Karan, a wealthy heir who feels isolated from his family, is saved from a fatal accident by Raj, an orphan with little money. The two form a close friendship that carries them through personal hardship and changing relationships. The drama stars Akshay Kumar and Bobby Deol.", "poster": "https://img.youtube.com/vi/HscCQYIX4fg/hqdefault.jpg", "imdbRating": null, "runtime": 130, "productionCountry": "India", "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=HscCQYIX4fg", "https://www.shemaroome.com/search?q=Dosti"], "youtubeFullMovie": {"videoId": "HscCQYIX4fg", "channelName": "Shemaroo", "channelUrl": "https://www.youtube.com/@shemaroo", "rightsEvidenceUrl": "https://www.shemaroome.com/search?q=Dosti", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "253", "slug": "bhagam-bhag", "title": "Bhagam Bhag", "releaseYear": 2006, "language": "Hindi", "industry": "Bollywood", "genres": ["Comedy", "Mystery"], "director": "Priyadarshan", "cast": ["Akshay Kumar", "Govinda", "Paresh Rawal", "Lara Dutta"], "description": "Two actors in a theatre troupe set out to find a replacement performer and become entangled in a murder mystery. Their search leads to mistaken identities, frantic escapes and comic complications.", "poster": "https://img.youtube.com/vi/HSelrckeLc4/hqdefault.jpg", "imdbRating": null, "runtime": 152, "productionCountry": "India", "productionCompanies": ["Shree Ashtavinayak Cine Vision", "Popcorn Motion Pictures"], "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=HSelrckeLc4", "https://www.shemaroome.com/awesome-ajay-devgn/movies/bhagam-bhag"], "youtubeFullMovie": {"videoId": "HSelrckeLc4", "channelName": "Shemaroo Movies", "channelUrl": "https://www.youtube.com/@shemaroomovies", "rightsEvidenceUrl": "https://www.shemaroome.com/awesome-ajay-devgn/movies/bhagam-bhag", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "254", "slug": "bhoot-2003", "title": "Bhoot", "releaseYear": 2003, "language": "Hindi", "industry": "Bollywood", "genres": ["Horror", "Mystery", "Thriller"], "director": "Ram Gopal Varma", "cast": ["Ajay Devgn", "Urmila Matondkar", "Nana Patekar", "Fardeen Khan"], "description": "A married couple moves into an apartment where the previous tenant died, and unexplained events begin to affect Swati. As Vishal looks for a rational explanation, the mystery grows into a fight to protect their family.", "poster": "https://img.youtube.com/vi/YoScfjTA0qI/hqdefault.jpg", "imdbRating": null, "runtime": 106, "productionCountry": "India", "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=YoScfjTA0qI", "https://pro.shemaroome.com/movies/bhoot"], "youtubeFullMovie": {"videoId": "YoScfjTA0qI", "channelName": "Shemaroo Movies", "channelUrl": "https://www.youtube.com/@shemaroomovies", "rightsEvidenceUrl": "https://pro.shemaroome.com/movies/bhoot", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "255", "slug": "mere-baap-pehle-aap", "title": "Mere Baap Pehle Aap", "releaseYear": 2008, "language": "Hindi", "industry": "Bollywood", "genres": ["Comedy", "Drama"], "director": "Priyadarshan", "cast": ["Akshaye Khanna", "Paresh Rawal", "Om Puri", "Genelia D'Souza"], "description": "Gaurav looks after his widowed father and the family business, but his plans change when he learns his father and a guardian once shared a romance. He sets out to bring them together while navigating his own feelings and family expectations.", "poster": "https://img.youtube.com/vi/CFf6QUnlfGg/hqdefault.jpg", "imdbRating": null, "runtime": 106, "productionCountry": "India", "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=CFf6QUnlfGg", "https://www.shemaroome.com/movies/mere-baap-pehle-aap"], "youtubeFullMovie": {"videoId": "CFf6QUnlfGg", "channelName": "Shemaroo Movies", "channelUrl": "https://www.youtube.com/@shemaroomovies", "rightsEvidenceUrl": "https://www.shemaroome.com/movies/mere-baap-pehle-aap", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "256", "slug": "azaad-1955", "title": "Azaad", "releaseYear": 1955, "language": "Hindi", "industry": "Bollywood", "genres": ["Action", "Comedy", "Romance"], "director": "S. M. S. Naidu", "cast": ["Dilip Kumar", "Meena Kumari", "Pran", "Om Prakash"], "description": "A young woman is rescued from an unwanted marriage by a mysterious man who claims to be a bandit with a code of honor. His arrival unsettles the family and raises questions about the justice he serves.", "poster": "https://img.youtube.com/vi/ec2RQe8c0G4/hqdefault.jpg", "imdbRating": null, "runtime": 157, "productionCountry": "India", "productionCompanies": ["Pakshiraja Studios"], "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=ec2RQe8c0G4", "https://www.shemaroome.com/live-news/movies/azaad"], "youtubeFullMovie": {"videoId": "ec2RQe8c0G4", "channelName": "Shemaroo Movies", "channelUrl": "https://www.youtube.com/@shemaroomovies", "rightsEvidenceUrl": "https://www.shemaroome.com/live-news/movies/azaad", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "257", "slug": "shaadi-mein-zaroor-aana", "title": "Shaadi Mein Zaroor Aana", "releaseYear": 2017, "language": "Hindi", "industry": "Bollywood", "genres": ["Drama", "Romance"], "director": "Ratnaa Sinha", "cast": ["Rajkummar Rao", "Kriti Kharbanda", "K. K. Raina", "Alka Amin"], "description": "Aarti and Satyendra agree to an arranged marriage and fall in love, but a career opportunity changes Aarti's plans on their wedding day. Years later, their professional paths cross again and reopen the conflict between ambition, resentment and affection.", "poster": "https://img.youtube.com/vi/pK0dr5wZ0bk/hqdefault.jpg", "imdbRating": null, "runtime": 137, "productionCountry": "India", "productionCompanies": ["Soundrya Productions"], "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=pK0dr5wZ0bk", "https://www.ultraindia.com/details/shaadi-mein-zaroor-aana/"], "youtubeFullMovie": {"videoId": "pK0dr5wZ0bk", "channelName": "Ultra Movie Parlour", "channelUrl": "https://www.youtube.com/@ultramovieparlour", "rightsEvidenceUrl": "https://www.ultraindia.com/details/shaadi-mein-zaroor-aana/", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "258", "slug": "swarg-1990", "title": "Swarg", "releaseYear": 1990, "language": "Hindi", "industry": "Bollywood", "genres": ["Drama", "Family"], "director": "David Dhawan", "cast": ["Rajesh Khanna", "Govinda", "Juhi Chawla", "Madhavi"], "description": "Krishna is treated as a member of Sahabji's family until a business rival turns the household against its benefactor. After Krishna leaves for Bombay and builds a new life, he returns with the means to help set matters right.", "poster": "https://img.youtube.com/vi/pe0ZMxmRdUA/hqdefault.jpg", "imdbRating": null, "runtime": 160, "productionCountry": "India", "productionCompanies": ["Paras Films International"], "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=pe0ZMxmRdUA", "https://www.ultraindia.com/details/swarg/"], "youtubeFullMovie": {"videoId": "pe0ZMxmRdUA", "channelName": "Ultra Movie Parlour", "channelUrl": "https://www.youtube.com/@ultramovieparlour", "rightsEvidenceUrl": "https://www.ultraindia.com/details/swarg/", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "259", "slug": "chhupa-rustam-2001", "title": "Chhupa Rustam", "releaseYear": 2001, "language": "Hindi", "industry": "Bollywood", "genres": ["Action", "Suspense"], "director": "Aziz Sejawal", "cast": ["Sanjay Kapoor", "Mamta Kulkarni", "Manisha Koirala", "Raj Babbar"], "description": "A young man returns from London believing his father died in an accident, then encounters a witness who challenges that account. A police officer's scheme and a case of mistaken identity draw him into a dangerous struggle. The thriller stars Sanjay Kapoor, Mamta Kulkarni and Manisha Koirala.", "poster": "https://img.youtube.com/vi/TP1Px299Xaw/hqdefault.jpg", "imdbRating": null, "runtime": 127, "productionCountry": "India", "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=TP1Px299Xaw", "https://www.ultraindia.com/details/chhupa-rustama-musical-thriller/"], "youtubeFullMovie": {"videoId": "TP1Px299Xaw", "channelName": "Ultra Movie Parlour", "channelUrl": "https://www.youtube.com/@ultramovieparlour", "rightsEvidenceUrl": "https://www.ultraindia.com/details/chhupa-rustama-musical-thriller/", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "260", "slug": "golmaal-3", "title": "Golmaal 3", "releaseYear": 2010, "language": "Hindi", "industry": "Bollywood", "genres": ["Comedy", "Drama"], "director": "Rohit Shetty", "cast": ["Ajay Devgn", "Kareena Kapoor Khan", "Mithun Chakraborty", "Arshad Warsi"], "description": "A separated couple gets another chance at being together, but the children in their blended family are bitter rivals. Their feuds turn the reunion into a chain of comic battles before the family must find common ground.", "poster": "https://img.youtube.com/vi/XaXKh-s9zws/hqdefault.jpg", "imdbRating": null, "runtime": 127, "productionCountry": "India", "productionCompanies": ["Shree Ashtavinayak Cine Vision"], "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=XaXKh-s9zws", "https://www.shemaroome.com/movies/golmaal-3"], "youtubeFullMovie": {"videoId": "XaXKh-s9zws", "channelName": "Shemaroo Movies", "channelUrl": "https://www.youtube.com/@shemaroomovies", "rightsEvidenceUrl": "https://www.shemaroome.com/movies/golmaal-3", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "261", "slug": "tango-charlie", "title": "Tango Charlie", "releaseYear": 2005, "language": "Hindi", "industry": "Bollywood", "genres": ["Drama", "Action", "War"], "director": "Mani Shankar", "cast": ["Ajay Devgn", "Bobby Deol", "Sanjay Dutt", "Suniel Shetty"], "description": "Army sepoy Tarun Chauhan joins a unit led by Havaldar Mohammed Ali and encounters violence while serving in different conflict zones. His experiences test his judgment and courage as the unit is deployed through a series of dangerous assignments.", "poster": "https://img.youtube.com/vi/wL2gTESS5Cw/hqdefault.jpg", "imdbRating": null, "runtime": 141, "productionCountry": "India", "productionCompanies": ["Madhuban Films"], "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=wL2gTESS5Cw", "https://www.shemaroome.com/movies/tango-charlie"], "youtubeFullMovie": {"videoId": "wL2gTESS5Cw", "channelName": "Shemaroo Movies", "channelUrl": "https://www.youtube.com/@shemaroomovies", "rightsEvidenceUrl": "https://www.shemaroome.com/movies/tango-charlie", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "262", "slug": "golmaal-returns", "title": "Golmaal Returns", "releaseYear": 2008, "language": "Hindi", "industry": "Bollywood", "genres": ["Comedy", "Crime"], "director": "Rohit Shetty", "cast": ["Ajay Devgn", "Kareena Kapoor", "Arshad Warsi", "Tusshar Kapoor"], "description": "Ekta suspects her husband Gopal of adultery and begins investigating his explanations. Her efforts pull family members and acquaintances into a chain of misunderstandings, including a murder case for which Gopal is wrongly blamed.", "poster": "https://img.youtube.com/vi/ip7iKm0J51Y/hqdefault.jpg", "imdbRating": null, "runtime": 125, "productionCountry": "India", "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=ip7iKm0J51Y", "https://pro.shemaroome.com/movies/golmaal-returns"], "youtubeFullMovie": {"videoId": "ip7iKm0J51Y", "channelName": "Shemaroo Movies", "channelUrl": "https://www.youtube.com/@shemaroomovies", "rightsEvidenceUrl": "https://pro.shemaroome.com/movies/golmaal-returns", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "263", "slug": "dhol-2007", "title": "Dhol", "releaseYear": 2007, "language": "Hindi", "industry": "Bollywood", "genres": ["Comedy", "Crime"], "director": "Priyadarshan", "cast": ["Sharman Joshi", "Tusshar Kapoor", "Kunal Khemu", "Rajpal Yadav", "Tanushree Dutta", "Om Puri"], "description": "Four friends hope that marrying into a wealthy family will solve their money troubles, but their plans turn chaotic after they encounter a woman and a dangerous criminal. The comedy follows their escalating schemes and misunderstandings.", "poster": "https://img.youtube.com/vi/j-MxmDFVuA4/hqdefault.jpg", "imdbRating": null, "runtime": 145, "productionCountry": "India", "productionCompanies": ["Percept Picture Company"], "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=j-MxmDFVuA4", "https://www.shemaroome.com/blog/movies/dhol"], "youtubeFullMovie": {"videoId": "j-MxmDFVuA4", "channelName": "Shemaroo Movies", "channelUrl": "https://www.youtube.com/@shemaroomovies", "rightsEvidenceUrl": "https://www.shemaroome.com/blog/movies/dhol", "audioLanguage": "Hindi"}
+  },
+  {
+    "id": "264", "slug": "heyy-babyy", "title": "Heyy Babyy", "releaseYear": 2007, "language": "Hindi", "industry": "Bollywood", "genres": ["Comedy", "Drama", "Romance"], "director": "Sajid Khan", "cast": ["Akshay Kumar", "Riteish Deshmukh", "Fardeen Khan", "Vidya Balan", "Boman Irani"], "description": "Three carefree bachelors find a baby girl at their doorstep with a note claiming one of them is her father. Their search for her mother transforms their priorities and draws them into an unexpected family story.", "poster": "https://img.youtube.com/vi/F7HzQ2fTSrQ/hqdefault.jpg", "imdbRating": null, "runtime": 138, "productionCountry": "India", "productionCompanies": ["Nadiadwala Grandson Entertainment"], "featured": false, "addedAt": "2026-11-16T00:00:00Z", "sources": ["https://www.youtube.com/watch?v=F7HzQ2fTSrQ", "https://pro.shemaroome.com/movies/heyy-babyy"], "youtubeFullMovie": {"videoId": "F7HzQ2fTSrQ", "channelName": "Shemaroo Movies", "channelUrl": "https://www.youtube.com/@shemaroomovies", "rightsEvidenceUrl": "https://pro.shemaroome.com/movies/heyy-babyy", "audioLanguage": "Hindi"}
   }
 ];

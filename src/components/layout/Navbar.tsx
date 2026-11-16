@@ -1,11 +1,12 @@
 // src/components/layout/Navbar.tsx
 import { useState } from "react";
-import { Link, NavLink, useNavigate } from "react-router-dom";
+import { Link, NavLink, useLocation, useNavigate } from "react-router-dom";
 import { Search, Menu, X, Film } from "lucide-react";
 
 const navLinks = [
   { name: "Home", to: "/" },
   { name: "All Movies", to: "/movies" },
+  { name: "YouTube Movies", to: "/movies?genre=YouTube%20Movies" },
   { name: "Genres", to: "/genres" },
   { name: "About", to: "/about" },
 ];
@@ -13,7 +14,10 @@ const navLinks = [
 export default function Navbar() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
+  const location = useLocation();
   const navigate = useNavigate();
+  const isYoutubeMoviesActive = location.pathname === "/movies" &&
+    new URLSearchParams(location.search).get("genre") === "YouTube Movies";
 
   const handleSearchSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -66,13 +70,16 @@ export default function Navbar() {
               <NavLink
                 key={link.to}
                 to={link.to}
-                className={({ isActive }) =>
-                  `px-3 py-2 rounded-md text-sm font-medium transition-all duration-150 ${
-                    isActive
+                className={({ isActive }) => {
+                  const active = link.name === "YouTube Movies"
+                    ? isYoutubeMoviesActive
+                    : isActive && !(link.name === "All Movies" && isYoutubeMoviesActive);
+                  return `px-3 py-2 rounded-md text-sm font-medium transition-all duration-150 ${
+                    active
                       ? "text-primary bg-primary/10 shadow-sm"
                       : "text-secondary-text hover:text-white hover:bg-white/5"
                   }`
-                }
+                }}
               >
                 {link.name}
               </NavLink>
@@ -132,13 +139,16 @@ export default function Navbar() {
                 key={link.to}
                 to={link.to}
                 onClick={() => setMobileMenuOpen(false)}
-                className={({ isActive }) =>
-                  `px-3 py-2 rounded-md text-base font-medium transition ${
-                    isActive
+                className={({ isActive }) => {
+                  const active = link.name === "YouTube Movies"
+                    ? isYoutubeMoviesActive
+                    : isActive && !(link.name === "All Movies" && isYoutubeMoviesActive);
+                  return `px-3 py-2 rounded-md text-base font-medium transition ${
+                    active
                       ? "text-primary bg-primary/10"
                       : "text-secondary-text hover:text-white hover:bg-white/5"
                   }`
-                }
+                }}
               >
                 {link.name}
               </NavLink>

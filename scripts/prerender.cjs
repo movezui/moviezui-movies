@@ -13,6 +13,12 @@ if (!fs.existsSync(TEMPLATE_PATH)) {
 
 const template = fs.readFileSync(TEMPLATE_PATH, "utf-8");
 
+function isIsoDateTimeWithTimezone(value) {
+  return typeof value === "string" &&
+    /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?(?:Z|[+-]\d{2}:\d{2})$/.test(value) &&
+    !Number.isNaN(Date.parse(value));
+}
+
 // Load movies data
 const moviesFilePath = path.join(__dirname, "../src/data/movies.ts");
 const rawContent = fs.readFileSync(moviesFilePath, "utf-8");
@@ -214,6 +220,18 @@ for (const movie of movies) {
     };
   }
 
+  const fullMovieVideoSchema = movie.youtubeFullMovie && isIsoDateTimeWithTimezone(movie.youtubeFullMovie.publishedAt)
+    ? {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        name: `${movie.title} (Full Movie)`,
+        description: movie.description,
+        thumbnailUrl: `https://img.youtube.com/vi/${movie.youtubeFullMovie.videoId}/hqdefault.jpg`,
+        embedUrl: `https://www.youtube-nocookie.com/embed/${movie.youtubeFullMovie.videoId}`,
+        uploadDate: movie.youtubeFullMovie.publishedAt,
+      }
+    : undefined;
+
   if (typeof movie.imdbRating === "number" && movie.imdbRating > 0) {
     movieSchema.aggregateRating = {
       "@type": "AggregateRating",
@@ -237,6 +255,15 @@ for (const movie of movies) {
          </div>
          <a href="https://www.youtube.com/watch?v=${movie.trailerYoutubeId}" target="_blank" rel="noopener noreferrer" style="background: #dc2626; color: #fff; font-weight: bold; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Play Trailer</a>
        </div>`
+    : "";
+
+  const fullMovieCrawlable = movie.youtubeFullMovie
+    ? `<section style="margin: 20px 0; padding: 16px; background: #1a0808; border: 1px solid #dc2626; border-radius: 12px;">
+         <h2 style="color: #fff; font-size: 20px; margin: 0 0 12px;">Watch Full Movie</h2>
+         <img src="https://img.youtube.com/vi/${movie.youtubeFullMovie.videoId}/hqdefault.jpg" alt="${movie.title} full movie thumbnail on YouTube" width="480" style="display: block; width: 100%; max-width: 480px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px; margin-bottom: 12px;" />
+         <p style="color: #A5A7B0;">Official YouTube channel: <a href="${movie.youtubeFullMovie.channelUrl}" rel="noopener noreferrer" target="_blank" style="color: #fff;">${movie.youtubeFullMovie.channelName}</a></p>
+         <a href="https://www.youtube.com/watch?v=${movie.youtubeFullMovie.videoId}" rel="noopener noreferrer" target="_blank" style="display: inline-block; background: #dc2626; color: #fff; font-weight: bold; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Watch on YouTube</a>
+       </section>`
     : "";
 
   const crawlableContent = `
@@ -286,6 +313,7 @@ for (const movie of movies) {
               <p>${movie.genres.map(g => `<a href="${SITE_URL}/movies?genre=${encodeURIComponent(g)}" style="color: #FFD21F; text-decoration: underline; margin-right: 8px;">${g}</a>`).join("")}</p>
             </section>
             ${trailerCrawlable}
+            ${fullMovieCrawlable}
             <section style="margin-top: 24px; padding: 20px; background: #11131A; border-radius: 12px; border: 1px solid #222;">
               <h2 style="font-size: 20px; font-weight: 700; color: #fff; margin-bottom: 12px;">Where to Watch ${movie.title}</h2>
               <ul style="list-style: none; padding: 0; margin: 0;">
@@ -307,7 +335,7 @@ for (const movie of movies) {
     canonicalUrl,
     ogImage: posterUrl,
     ogType: "video.movie",
-    schema: movieSchema,
+    schema: fullMovieVideoSchema ? [movieSchema, fullMovieVideoSchema] : movieSchema,
     crawlableContent,
   });
 

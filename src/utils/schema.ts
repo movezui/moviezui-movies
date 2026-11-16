@@ -115,3 +115,28 @@ export function createMovieSchema(movie: Movie) {
 
   return schema;
 }
+
+/**
+ * Creates a Google VideoObject only when the real YouTube publication
+ * timestamp is available with an explicit timezone.
+ */
+export function createFullMovieVideoSchema(movie: Movie) {
+  const fullMovie = movie.youtubeFullMovie;
+  if (!fullMovie) return undefined;
+
+  const publishedAt = fullMovie.publishedAt;
+  const isoDateTimeWithTimezone = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?(?:Z|[+-]\d{2}:\d{2})$/;
+  if (!publishedAt || !isoDateTimeWithTimezone.test(publishedAt) || Number.isNaN(Date.parse(publishedAt))) {
+    return undefined;
+  }
+
+  return {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    name: `${movie.title} (Full Movie)`,
+    description: movie.description,
+    thumbnailUrl: `https://img.youtube.com/vi/${fullMovie.videoId}/hqdefault.jpg`,
+    embedUrl: `https://www.youtube-nocookie.com/embed/${fullMovie.videoId}`,
+    uploadDate: publishedAt,
+  };
+}

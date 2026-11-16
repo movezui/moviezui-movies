@@ -8,6 +8,8 @@ import { genres } from "../data/genres";
 import SEO from "../components/common/SEO";
 import { createBreadcrumbSchema } from "../utils/schema";
 
+const YOUTUBE_MOVIES_CATEGORY = "YouTube Movies";
+
 export default function Movies() {
   const [searchParams, setSearchParams] = useSearchParams();
 
@@ -24,8 +26,8 @@ export default function Movies() {
   const [selectedYear, setSelectedYear] = useState<number | undefined>(initialYear);
   const [sortOption, setSortOption] = useState(initialSort);
 
-  // Pagination state: initially display 15 movies
-  const PAGE_SIZE = 15;
+  // Pagination state: initially display 30 movies
+  const PAGE_SIZE = 30;
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
 
   // Reset pagination when search query, filters, or sort change
@@ -76,7 +78,9 @@ export default function Movies() {
       list = list.filter((m) => m.language.toLowerCase() === selectedLanguage.toLowerCase());
     }
 
-    if (selectedGenre) {
+    if (selectedGenre === YOUTUBE_MOVIES_CATEGORY) {
+      list = list.filter((m) => Boolean(m.youtubeFullMovie));
+    } else if (selectedGenre) {
       list = list.filter((m) => m.genres.includes(selectedGenre));
     }
 
@@ -158,8 +162,10 @@ export default function Movies() {
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-8">
       <SEO
-        title="All Movies – Browse Complete World Cinema Catalog"
-        description="Search, filter, and discover movies across Bollywood, Hollywood, Gujarati, South Indian, and regional cinema. Find verified Where to Watch streaming options."
+        title={selectedGenre === YOUTUBE_MOVIES_CATEGORY ? "YouTube Movies – Official Full Movies" : "All Movies – Browse Complete World Cinema Catalog"}
+        description={selectedGenre === YOUTUBE_MOVIES_CATEGORY
+          ? "Watch full-length movies published by verified official YouTube channels."
+          : "Search, filter, and discover movies across Bollywood, Hollywood, Gujarati, South Indian, and regional cinema. Find verified Where to Watch streaming options."}
         canonicalPath="/movies"
         schema={breadcrumbSchema}
       />
@@ -169,11 +175,13 @@ export default function Movies() {
           <div className="flex items-center space-x-2">
             <div className="w-1.5 h-6 bg-primary rounded-full" />
             <h1 className="text-3xl md:text-4xl font-extrabold font-heading text-white tracking-tight">
-              All Movies
+              {selectedGenre === YOUTUBE_MOVIES_CATEGORY ? YOUTUBE_MOVIES_CATEGORY : "All Movies"}
             </h1>
           </div>
           <p className="mt-2 text-sm text-secondary-text max-w-2xl pl-3.5">
-            Explore our curated global catalogue of cinema from across industries and languages. Filter by language, genre, release year, or search by title, cast, and director.
+            {selectedGenre === YOUTUBE_MOVIES_CATEGORY
+              ? "Browse full-length movies published by verified official YouTube channels. Filter by language, release year, or search by title, cast, and director."
+              : "Explore our curated global catalogue of cinema from across industries and languages. Filter by language, genre, release year, or search by title, cast, and director."}
           </p>
         </div>
 
@@ -236,6 +244,7 @@ export default function Movies() {
               className="w-full px-4 py-2.5 rounded-xl bg-backgroundSecondary text-white border border-white/10 text-sm focus:outline-none focus:border-primary appearance-none cursor-pointer"
             >
               <option value="">All Genres ({genres.length})</option>
+              <option value={YOUTUBE_MOVIES_CATEGORY}>YouTube Movies</option>
               {genres.map((g) => (
                 <option key={g} value={g}>
                   {g}

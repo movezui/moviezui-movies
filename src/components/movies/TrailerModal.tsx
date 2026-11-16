@@ -1,12 +1,15 @@
 // src/components/movies/TrailerModal.tsx
 import { useEffect } from "react";
-import { X, Film } from "lucide-react";
+import { X, Film, ExternalLink } from "lucide-react";
 
 interface TrailerModalProps {
   isOpen: boolean;
   onClose: () => void;
   trailerYoutubeId?: string;
   movieTitle: string;
+  videoLabel?: string;
+  channelName?: string;
+  watchUrl?: string;
 }
 
 export default function TrailerModal({
@@ -14,6 +17,9 @@ export default function TrailerModal({
   onClose,
   trailerYoutubeId,
   movieTitle,
+  videoLabel = "Official YouTube Trailer",
+  channelName,
+  watchUrl,
 }: TrailerModalProps) {
   // Listen for Escape key
   useEffect(() => {
@@ -66,7 +72,7 @@ export default function TrailerModal({
                 {movieTitle}
               </h2>
               <span className="text-[11px] text-secondary-text block -mt-0.5">
-                Official YouTube Trailer
+                {channelName ? `${videoLabel} · ${channelName}` : videoLabel}
               </span>
             </div>
           </div>
@@ -84,12 +90,26 @@ export default function TrailerModal({
         <div className="relative aspect-video w-full bg-black">
           <iframe
             src={`https://www.youtube-nocookie.com/embed/${trailerYoutubeId}?autoplay=1&rel=0&modestbranding=1`}
-            title={`${movieTitle} Official Trailer`}
+            title={videoLabel === "Official YouTube Trailer" ? `${movieTitle} Official Trailer` : `${movieTitle} ${videoLabel}`}
             className="absolute inset-0 w-full h-full border-0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowFullScreen
           />
         </div>
+        {watchUrl && (
+          <div className="flex items-center justify-between gap-3 px-4 sm:px-6 py-3 border-t border-white/10 bg-backgroundSecondary/80">
+            <p className="text-xs text-secondary-text">If the video cannot play here, open it on YouTube.</p>
+            <a
+              href={watchUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 px-3 py-2 rounded-lg bg-red-600 text-white text-xs font-bold hover:bg-red-500 transition-colors"
+            >
+              <span>Watch on YouTube</span>
+              <ExternalLink size={13} />
+            </a>
+          </div>
+        )}
       </div>
     </div>
   );

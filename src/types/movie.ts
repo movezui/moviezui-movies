@@ -48,4 +48,12 @@ export interface Movie {
   sources?: string[]; // URLs for verification
   watchOptions?: WatchOption[];
   trailerYoutubeId?: string; // official YouTube video ID, e.g. "x_7YlGv9u1g"
+  youtubeFullMovie?: {
+    videoId: string;
+    channelName: string;
+    channelUrl: string;
+    rightsEvidenceUrl?: string;
+    publishedAt?: string;
+    audioLanguage?: string;
+  };
 }

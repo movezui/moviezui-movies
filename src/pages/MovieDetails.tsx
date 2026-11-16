@@ -18,6 +18,7 @@ import {
   FileText,
   ChevronDown,
   ChevronUp,
+  ExternalLink,
 } from "lucide-react";
 import MovieCard from "../components/movies/MovieCard";
 import SectionHeading from "../components/movies/SectionHeading";
@@ -25,12 +26,14 @@ import WhereToWatch from "../components/movies/WhereToWatch";
 import TrailerModal from "../components/movies/TrailerModal";
 import { movies } from "../data/movies";
 import SEO from "../components/common/SEO";
-import { createMovieSchema, createBreadcrumbSchema } from "../utils/schema";
+import { createMovieSchema, createBreadcrumbSchema, createFullMovieVideoSchema } from "../utils/schema";
 
 export default function MovieDetails() {
   const { slug } = useParams<{ slug: string }>();
   const [imgError, setImgError] = useState(false);
+  const [failedFullMovieThumbnailId, setFailedFullMovieThumbnailId] = useState<string | null>(null);
   const [trailerOpen, setTrailerOpen] = useState(false);
+  const [fullMovieOpen, setFullMovieOpen] = useState(false);
   const [openFaqIndex, setOpenFaqIndex] = useState<number | null>(null);
 
   const movie = movies.find((m) => m.slug === slug);
@@ -64,6 +67,7 @@ export default function MovieDetails() {
     .slice(0, 4);
 
   const movieSchema = createMovieSchema(movie);
+  const fullMovieVideoSchema = createFullMovieVideoSchema(movie);
   const breadcrumbSchema = createBreadcrumbSchema([
     { name: "Home", path: "/" },
     { name: "Movies", path: "/movies" },
@@ -86,7 +90,7 @@ export default function MovieDetails() {
         canonicalPath={`/movie/${movie.slug}`}
         ogImage={movie.poster}
         ogType="video.movie"
-        schema={[movieSchema, breadcrumbSchema]}
+        schema={[movieSchema, breadcrumbSchema, ...(fullMovieVideoSchema ? [fullMovieVideoSchema] : [])]}
       />
 
       {/* Embedded YouTube Trailer Modal */}
@@ -96,6 +100,17 @@ export default function MovieDetails() {
         trailerYoutubeId={movie.trailerYoutubeId}
         movieTitle={movie.title}
       />
+      {movie.youtubeFullMovie && (
+        <TrailerModal
+          isOpen={fullMovieOpen}
+          onClose={() => setFullMovieOpen(false)}
+          trailerYoutubeId={movie.youtubeFullMovie.videoId}
+          movieTitle={movie.title}
+          videoLabel="Full Movie"
+          channelName={movie.youtubeFullMovie.channelName}
+          watchUrl={`https://www.youtube.com/watch?v=${movie.youtubeFullMovie.videoId}`}
+        />
+      )}
 
       {/* Top Banner & Breadcrumb */}
       <div className="relative pt-6 pb-2 border-b border-white/5 bg-backgroundSecondary/30">
@@ -413,7 +428,73 @@ export default function MovieDetails() {
               </div>
             )}
 
-            {/* 1. PLAY TRAILER SECTION (Prominently placed immediately BEFORE Where to Watch) */}
+            {movie.youtubeFullMovie && (
+              <section className="space-y-4 p-4 sm:p-5 rounded-2xl bg-gradient-to-r from-red-600/10 via-card to-card border border-red-500/25 shadow-lg shadow-black/30">
+                <div className="flex items-center space-x-2">
+                  <div className="w-1.5 h-5 bg-red-500 rounded-full" />
+                  <h2 className="text-xl sm:text-2xl font-bold font-heading text-white tracking-tight">
+                    Watch Full Movie
+                  </h2>
+                </div>
+                <div className="grid grid-cols-1 sm:grid-cols-[minmax(0,1.2fr)_minmax(0,1fr)] gap-4 items-center">
+                  <div className="relative aspect-video overflow-hidden rounded-xl bg-black border border-white/10">
+                    {failedFullMovieThumbnailId !== movie.youtubeFullMovie.videoId ? (
+                      <img
+                        src={`https://img.youtube.com/vi/${movie.youtubeFullMovie.videoId}/hqdefault.jpg`}
+                        alt={`${movie.title} full movie thumbnail on YouTube`}
+                        loading="lazy"
+                        onError={() => setFailedFullMovieThumbnailId(movie.youtubeFullMovie!.videoId)}
+                        className="w-full h-full object-cover"
+                      />
+                    ) : (
+                      <div
+                        role="img"
+                        aria-label={`${movie.title} full movie thumbnail unavailable`}
+                        className="absolute inset-0 flex flex-col items-center justify-center gap-2 bg-backgroundSecondary text-secondary-text"
+                      >
+                        <Film size={32} className="text-primary/50" />
+                        <span className="px-3 text-center text-sm">{movie.title}</span>
+                      </div>
+                    )}
+                    <button
+                      type="button"
+                      onClick={() => setFullMovieOpen(true)}
+                      className="absolute inset-0 flex items-center justify-center bg-black/25 hover:bg-black/10 transition-colors"
+                      aria-label={`Watch full movie ${movie.title}`}
+                    >
+                      <span className="inline-flex items-center gap-2 px-5 py-3 rounded-xl bg-red-600 hover:bg-red-500 text-white font-bold shadow-lg">
+                        <Play size={18} className="fill-white" />
+                        Watch Full Movie
+                      </span>
+                    </button>
+                  </div>
+                  <div className="space-y-3">
+                    <p className="text-sm text-secondary-text">
+                      Official YouTube channel: <a href={movie.youtubeFullMovie.channelUrl} target="_blank" rel="noopener noreferrer" className="font-semibold text-white underline underline-offset-2 hover:text-primary">{movie.youtubeFullMovie.channelName}</a>
+                    </p>
+                    {movie.youtubeFullMovie.audioLanguage && (
+                      <p className="text-sm text-secondary-text">
+                        Full movie audio: <span className="font-semibold text-white">{movie.youtubeFullMovie.audioLanguage}</span>
+                      </p>
+                    )}
+                    <p className="text-xs text-secondary-text">
+                      If playback is unavailable or embedding is disabled, watch the movie on YouTube.
+                    </p>
+                    <a
+                      href={`https://www.youtube.com/watch?v=${movie.youtubeFullMovie.videoId}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl border border-red-500/40 text-white font-semibold text-sm hover:bg-red-600/15 transition-colors"
+                    >
+                      <span>Watch on YouTube</span>
+                      <ExternalLink size={15} />
+                    </a>
+                  </div>
+                </div>
+              </section>
+            )}
+
+            {/* PLAY TRAILER SECTION */}
             <div className="space-y-3 pt-2">
               <div className="flex items-center space-x-2">
                 <div className="w-1.5 h-5 bg-red-500 rounded-full" />
