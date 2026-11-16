@@ -211,7 +211,6 @@ for (const movie of movies) {
       embedUrl: `https://www.youtube.com/embed/${movie.trailerYoutubeId}`,
       thumbnailUrl: `https://img.youtube.com/vi/${movie.trailerYoutubeId}/hqdefault.jpg`,
       description: `Watch the official trailer for ${movie.title} (${movie.releaseYear})`,
-      uploadDate: `${movie.releaseYear}-01-01`,
     };
   }
 
